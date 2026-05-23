@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-22T23:57:18+00:00",
+  "scraped_at": "2026-05-23T02:36:57+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -93,6 +93,63 @@
               "away": "Nice"
             },
             "display_name": "Lens vs Nice - Stream 1"
+          }
+        ]
+      },
+      {
+        "title": "Mexico vs Ghana",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Mexico",
+          "away": "Ghana"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-3",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://601.shadow-ran.online/tudn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "tudn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Mexico vs Ghana",
+            "matchup": {
+              "home": "Mexico",
+              "away": "Ghana"
+            },
+            "display_name": "Mexico vs Ghana - Stream 1"
+          },
+          {
+            "label": "tudn.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "tudn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Mexico vs Ghana",
+            "matchup": {
+              "home": "Mexico",
+              "away": "Ghana"
+            },
+            "display_name": "Mexico vs Ghana - tudn.m3u8"
           }
         ]
       }
@@ -821,27 +878,26 @@
         "page": "https://roxiestreams.su/nhl-streams-1",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
-            "type": "m3u8",
+            "label": "Direct Link",
+            "url": "https://dck1-ac-live.cdn.indazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-sports-live-drm-session/out/v1/814bffb9b389f652/aa28437e51de4b4ba2dbfe41ce5ec8ba/index_1017331_dynamic2.mpd?aws.sessionId=8fdd1c59-c4ab-4516-8bd1-db631aaf9bfe&start=2026-05-23T10%3A00%3A16%2B10%3A00&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzgxNGJmZmI5YjM4OWY2NTIvYWEyODQzN2U1MWRlNGI0YmEyZGJmZTQxY2U1ZWM4YmEiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMjIxIl0sImludHNpZyI6Ill1S1k5bWxrekpNWlpselZRdVdUcDFReHpjSnM4RXJybTBLYk03ZXhxdmMiLCJpYXQiOjE3Nzk0OTQ5MDIsImV4cCI6MTc3OTU4MTMwMn0.yg8CZVpIhpCkdML-jTUXsh4lqno_kJd4CZ6UUTEiZoo&ck=eyI0NTgyNzJmZTRiYzQ1ZWI2OTY4NTU2NzQzYjA2M2Y1MCI6IjYxZWJlY2NkODYwNThmYjBlNTdjYzljMDM5ZWQxYTc0In0%3D",
+            "type": "mpd",
             "source_page": "https://roxiestreams.su/nhl-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nhl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nhl-streams-1",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
-            "drm_keys": null,
+            "drm_keys": {
+              "458272fe4bc45eb6968556743b063f50": "61ebeccd86058fb0e57cc9c039ed1a74"
+            },
             "sport": "nhl",
             "event_title": "Vegas Golden Knights vs Colorado Avalanche",
             "matchup": {
               "home": "Vegas Golden Knights",
               "away": "Colorado Avalanche"
             },
-            "display_name": "Vegas Golden Knights vs Colorado Avalanche - Stream 1"
+            "display_name": "Vegas Golden Knights vs Colorado Avalanche"
           },
           {
             "label": "Stream 2",
@@ -865,6 +921,29 @@
               "away": "Colorado Avalanche"
             },
             "display_name": "Vegas Golden Knights vs Colorado Avalanche - Stream 2"
+          },
+          {
+            "label": "nhl.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nhl-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nhl.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nhl-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Vegas Golden Knights vs Colorado Avalanche",
+            "matchup": {
+              "home": "Vegas Golden Knights",
+              "away": "Colorado Avalanche"
+            },
+            "display_name": "Vegas Golden Knights vs Colorado Avalanche - nhl.m3u8"
           }
         ]
       }
@@ -881,29 +960,6 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "ppv.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ppv-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "fighting",
-            "event_title": "Jones vs Gualtieri",
-            "matchup": {
-              "home": "Jones",
-              "away": "Gualtieri"
-            },
-            "display_name": "Jones vs Gualtieri - Stream 1"
-          },
-          {
-            "label": "Stream 2",
             "url": "https://601.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ppv-streams-1",
@@ -923,7 +979,30 @@
               "home": "Jones",
               "away": "Gualtieri"
             },
-            "display_name": "Jones vs Gualtieri - Stream 2"
+            "display_name": "Jones vs Gualtieri - Stream 1"
+          },
+          {
+            "label": "ppv.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ppv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "Jones vs Gualtieri",
+            "matchup": {
+              "home": "Jones",
+              "away": "Gualtieri"
+            },
+            "display_name": "Jones vs Gualtieri - ppv.m3u8"
           }
         ]
       },
@@ -2824,6 +2903,7 @@
         "Stream Request (Discord)",
         "Stream 1",
         "Stream 2",
+        "PC ONLY (DIRECT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2961,7 +3041,6 @@
         "Motorsports",
         "Stream Request (Discord)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3386,6 +3465,52 @@
             "away": "Nice"
           },
           "display_name": "Lens vs Nice - Stream 1"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://601.shadow-ran.online/tudn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "tudn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Mexico vs Ghana",
+          "matchup": {
+            "home": "Mexico",
+            "away": "Ghana"
+          },
+          "display_name": "Mexico vs Ghana - Stream 1"
+        },
+        {
+          "label": "tudn.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "tudn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Mexico vs Ghana",
+          "matchup": {
+            "home": "Mexico",
+            "away": "Ghana"
+          },
+          "display_name": "Mexico vs Ghana - tudn.m3u8"
         }
       ]
     },
@@ -3957,27 +4082,26 @@
       ],
       "streams": [
         {
-          "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
-          "type": "m3u8",
+          "label": "Direct Link",
+          "url": "https://dck1-ac-live.cdn.indazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-sports-live-drm-session/out/v1/814bffb9b389f652/aa28437e51de4b4ba2dbfe41ce5ec8ba/index_1017331_dynamic2.mpd?aws.sessionId=8fdd1c59-c4ab-4516-8bd1-db631aaf9bfe&start=2026-05-23T10%3A00%3A16%2B10%3A00&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzgxNGJmZmI5YjM4OWY2NTIvYWEyODQzN2U1MWRlNGI0YmEyZGJmZTQxY2U1ZWM4YmEiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMjIxIl0sImludHNpZyI6Ill1S1k5bWxrekpNWlpselZRdVdUcDFReHpjSnM4RXJybTBLYk03ZXhxdmMiLCJpYXQiOjE3Nzk0OTQ5MDIsImV4cCI6MTc3OTU4MTMwMn0.yg8CZVpIhpCkdML-jTUXsh4lqno_kJd4CZ6UUTEiZoo&ck=eyI0NTgyNzJmZTRiYzQ1ZWI2OTY4NTU2NzQzYjA2M2Y1MCI6IjYxZWJlY2NkODYwNThmYjBlNTdjYzljMDM5ZWQxYTc0In0%3D",
+          "type": "mpd",
           "source_page": "https://roxiestreams.su/nhl-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nhl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nhl-streams-1",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
-          "drm_keys": null,
+          "drm_keys": {
+            "458272fe4bc45eb6968556743b063f50": "61ebeccd86058fb0e57cc9c039ed1a74"
+          },
           "sport": "nhl",
           "event_title": "Vegas Golden Knights vs Colorado Avalanche",
           "matchup": {
             "home": "Vegas Golden Knights",
             "away": "Colorado Avalanche"
           },
-          "display_name": "Vegas Golden Knights vs Colorado Avalanche - Stream 1"
+          "display_name": "Vegas Golden Knights vs Colorado Avalanche"
         },
         {
           "label": "Stream 2",
@@ -4001,6 +4125,29 @@
             "away": "Colorado Avalanche"
           },
           "display_name": "Vegas Golden Knights vs Colorado Avalanche - Stream 2"
+        },
+        {
+          "label": "nhl.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nhl-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nhl.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nhl-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Vegas Golden Knights vs Colorado Avalanche",
+          "matchup": {
+            "home": "Vegas Golden Knights",
+            "away": "Colorado Avalanche"
+          },
+          "display_name": "Vegas Golden Knights vs Colorado Avalanche - nhl.m3u8"
         }
       ]
     },
@@ -4014,29 +4161,6 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "ppv.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ppv-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "fighting",
-          "event_title": "Jones vs Gualtieri",
-          "matchup": {
-            "home": "Jones",
-            "away": "Gualtieri"
-          },
-          "display_name": "Jones vs Gualtieri - Stream 1"
-        },
-        {
-          "label": "Stream 2",
           "url": "https://601.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ppv-streams-1",
@@ -4056,7 +4180,30 @@
             "home": "Jones",
             "away": "Gualtieri"
           },
-          "display_name": "Jones vs Gualtieri - Stream 2"
+          "display_name": "Jones vs Gualtieri - Stream 1"
+        },
+        {
+          "label": "ppv.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ppv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "Jones vs Gualtieri",
+          "matchup": {
+            "home": "Jones",
+            "away": "Gualtieri"
+          },
+          "display_name": "Jones vs Gualtieri - ppv.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4285,7 +4432,7 @@
       ]
     }
   },
-  "stream_count": 41,
+  "stream_count": 44,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
