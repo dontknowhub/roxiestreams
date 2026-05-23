@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-23T22:11:55+00:00",
+  "scraped_at": "2026-05-23T23:15:41+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -28,6 +28,11 @@
     {
       "name": "NHL East Finals",
       "page": "https://roxiestreams.su/nhl-streams-1",
+      "start_time": "May 23, 2026 5:00 PM"
+    },
+    {
+      "name": "WWE Saturdays Main Event",
+      "page": "https://roxiestreams.su/wwe-streams",
       "start_time": "May 23, 2026 5:00 PM"
     },
     {
@@ -1547,7 +1552,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://dck1-ac-live.cdn.indazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-sports-live-drm-session/out/v1/814bffb9b389f652/aa28437e51de4b4ba2dbfe41ce5ec8ba/index_1017331_dynamic2.mpd?aws.sessionId=8fdd1c59-c4ab-4516-8bd1-db631aaf9bfe&start=2026-05-23T10%3A00%3A16%2B10%3A00&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzgxNGJmZmI5YjM4OWY2NTIvYWEyODQzN2U1MWRlNGI0YmEyZGJmZTQxY2U1ZWM4YmEiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMjIxIl0sImludHNpZyI6Ill1S1k5bWxrekpNWlpselZRdVdUcDFReHpjSnM4RXJybTBLYk03ZXhxdmMiLCJpYXQiOjE3Nzk0OTQ5MDIsImV4cCI6MTc3OTU4MTMwMn0.yg8CZVpIhpCkdML-jTUXsh4lqno_kJd4CZ6UUTEiZoo&ck=eyI0NTgyNzJmZTRiYzQ1ZWI2OTY4NTU2NzQzYjA2M2Y1MCI6IjYxZWJlY2NkODYwNThmYjBlNTdjYzljMDM5ZWQxYTc0In0%3D",
+            "url": "https://dck1-ac-live.cdn.indazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-sports-live-drm-session/out/v1/814bffb9b389f652/aa28437e51de4b4ba2dbfe41ce5ec8ba/index.mpd?aws.sessionId=f2080ae6-9ca1-421a-b680-3d3deda56aff&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzgxNGJmZmI5YjM4OWY2NTIvYWEyODQzN2U1MWRlNGI0YmEyZGJmZTQxY2U1ZWM4YmEiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzQwOTAiXSwiaW50c2lnIjoiYVVHREdOM0tGTXFsaVRvdElZQXpCSC10bjY0c3FEU2pTZUc1cVRnVWprayIsImlhdCI6MTc3OTE3MTM4NCwiZXhwIjoxNzc5MjU3Nzg0fQ.crhqFUrnExwvS4PWovOyr7qm_5pX1EVCuV8Fi2L1r-w&ck=eyI0NTgyNzJmZTRiYzQ1ZWI2OTY4NTU2NzQzYjA2M2Y1MCI6IjYxZWJlY2NkODYwNThmYjBlNTdjYzljMDM5ZWQxYTc0In0%3D",
             "type": "mpd",
             "source_page": "https://roxiestreams.su/nhl-streams-1",
             "headers": {
@@ -1910,6 +1915,56 @@
             "event_title": "Formula 1",
             "matchup": null,
             "display_name": "Formula 1 - Stream 3 (IT)"
+          }
+        ]
+      }
+    ],
+    "wwe": [
+      {
+        "title": "WWE Saturday Main Event",
+        "sport": "wwe",
+        "matchup": null,
+        "page": "https://roxiestreams.su/wwe-streams",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "wwe",
+            "event_title": "WWE Saturday Main Event",
+            "matchup": null,
+            "display_name": "WWE Saturday Main Event - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://601.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "wwe",
+            "event_title": "WWE Saturday Main Event",
+            "matchup": null,
+            "display_name": "WWE Saturday Main Event - Stream 2"
           }
         ]
       }
@@ -6156,7 +6211,7 @@
       "streams": [
         {
           "label": "Direct Link",
-          "url": "https://dck1-ac-live.cdn.indazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-sports-live-drm-session/out/v1/814bffb9b389f652/aa28437e51de4b4ba2dbfe41ce5ec8ba/index_1017331_dynamic2.mpd?aws.sessionId=8fdd1c59-c4ab-4516-8bd1-db631aaf9bfe&start=2026-05-23T10%3A00%3A16%2B10%3A00&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzgxNGJmZmI5YjM4OWY2NTIvYWEyODQzN2U1MWRlNGI0YmEyZGJmZTQxY2U1ZWM4YmEiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMjIxIl0sImludHNpZyI6Ill1S1k5bWxrekpNWlpselZRdVdUcDFReHpjSnM4RXJybTBLYk03ZXhxdmMiLCJpYXQiOjE3Nzk0OTQ5MDIsImV4cCI6MTc3OTU4MTMwMn0.yg8CZVpIhpCkdML-jTUXsh4lqno_kJd4CZ6UUTEiZoo&ck=eyI0NTgyNzJmZTRiYzQ1ZWI2OTY4NTU2NzQzYjA2M2Y1MCI6IjYxZWJlY2NkODYwNThmYjBlNTdjYzljMDM5ZWQxYTc0In0%3D",
+          "url": "https://dck1-ac-live.cdn.indazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-sports-live-drm-session/out/v1/814bffb9b389f652/aa28437e51de4b4ba2dbfe41ce5ec8ba/index.mpd?aws.sessionId=f2080ae6-9ca1-421a-b680-3d3deda56aff&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzgxNGJmZmI5YjM4OWY2NTIvYWEyODQzN2U1MWRlNGI0YmEyZGJmZTQxY2U1ZWM4YmEiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzQwOTAiXSwiaW50c2lnIjoiYVVHREdOM0tGTXFsaVRvdElZQXpCSC10bjY0c3FEU2pTZUc1cVRnVWprayIsImlhdCI6MTc3OTE3MTM4NCwiZXhwIjoxNzc5MjU3Nzg0fQ.crhqFUrnExwvS4PWovOyr7qm_5pX1EVCuV8Fi2L1r-w&ck=eyI0NTgyNzJmZTRiYzQ1ZWI2OTY4NTU2NzQzYjA2M2Y1MCI6IjYxZWJlY2NkODYwNThmYjBlNTdjYzljMDM5ZWQxYTc0In0%3D",
           "type": "mpd",
           "source_page": "https://roxiestreams.su/nhl-streams-1",
           "headers": {
@@ -6492,9 +6547,56 @@
           "display_name": "Formula 1 - Stream 3 (IT)"
         }
       ]
+    },
+    "wwe": {
+      "pages": [
+        "https://roxiestreams.su/wwe-streams"
+      ],
+      "streams": [
+        {
+          "label": "Stream 1",
+          "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "wwe",
+          "event_title": "WWE Saturday Main Event",
+          "matchup": null,
+          "display_name": "WWE Saturday Main Event - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://601.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "wwe",
+          "event_title": "WWE Saturday Main Event",
+          "matchup": null,
+          "display_name": "WWE Saturday Main Event - Stream 2"
+        }
+      ]
     }
   },
-  "stream_count": 66,
+  "stream_count": 68,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
