@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-24T21:28:59+00:00",
+  "scraped_at": "2026-05-24T22:29:32+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -698,12 +698,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
+            "url": "https://601.shadow-ran.online/canal5.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-22",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "tudn.m3u8",
+            "subdomain": "601",
+            "path": "canal5.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-22",
               "Origin": "https://roxiestreams.su",
@@ -718,6 +718,29 @@
               "away": "Cruz Azul"
             },
             "display_name": "Pumas vs Cruz Azul - Stream 1"
+          },
+          {
+            "label": "canal5.m3u8",
+            "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-22",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "canal5.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-22",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Pumas vs Cruz Azul",
+            "matchup": {
+              "home": "Pumas",
+              "away": "Cruz Azul"
+            },
+            "display_name": "Pumas vs Cruz Azul - canal5.m3u8"
           }
         ]
       },
@@ -6093,12 +6116,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
+          "url": "https://601.shadow-ran.online/canal5.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-22",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "tudn.m3u8",
+          "subdomain": "601",
+          "path": "canal5.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-22",
             "Origin": "https://roxiestreams.su",
@@ -6113,6 +6136,29 @@
             "away": "Cruz Azul"
           },
           "display_name": "Pumas vs Cruz Azul - Stream 1"
+        },
+        {
+          "label": "canal5.m3u8",
+          "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-22",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "canal5.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-22",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Pumas vs Cruz Azul",
+          "matchup": {
+            "home": "Pumas",
+            "away": "Cruz Azul"
+          },
+          "display_name": "Pumas vs Cruz Azul - canal5.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7342,7 +7388,7 @@
       ]
     }
   },
-  "stream_count": 77,
+  "stream_count": 78,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
