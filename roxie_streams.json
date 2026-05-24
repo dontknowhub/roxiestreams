@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-23T23:15:41+00:00",
+  "scraped_at": "2026-05-24T01:27:20+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -430,12 +430,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/tsn2.m3u8",
+            "url": "https://601.shadow-ran.online/mls.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "tsn2.m3u8",
+            "subdomain": "601",
+            "path": "mls.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-15",
               "Origin": "https://roxiestreams.su",
@@ -450,6 +450,29 @@
               "away": "Houston Dynamo"
             },
             "display_name": "LA Galaxy vs Houston Dynamo - Stream 1"
+          },
+          {
+            "label": "mls.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-15",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "mls.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-15",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "LA Galaxy vs Houston Dynamo",
+            "matchup": {
+              "home": "LA Galaxy",
+              "away": "Houston Dynamo"
+            },
+            "display_name": "LA Galaxy vs Houston Dynamo - mls.m3u8"
           }
         ]
       },
@@ -1720,7 +1743,26 @@
         "page": "https://roxiestreams.su/wwe-streams",
         "streams": [
           {
-            "label": "Stream 1",
+            "label": "Direct Link",
+            "url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021679-723537-491336fa411)/master_2hr.mpd?c3.ri=6a1240f9_Q1ZYMDc_1_RkFTVExZ_ad65ca814d83&aws.sessionId=29752015-7604-4ed6-b138-e56a8d98b382&ck=eyIwMDIyNDI4YWQxYmIyNjJmZDg4MzRmOTZkNWUyOTg4NyI6Ijc1OTBhMjYxNjhjY2Q2YWQzNmNlZjlkM2VmYTc5MTc4In0%3D",
+            "type": "mpd",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": {
+              "0022428ad1bb262fd8834f96d5e29887": "7590a26168ccd6ad36cef9d3efa79178"
+            },
+            "sport": "fighting",
+            "event_title": "WWE Saturday Main Event",
+            "matchup": null,
+            "display_name": "WWE Saturday Main Event"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
@@ -1737,10 +1779,10 @@
             "sport": "fighting",
             "event_title": "WWE Saturday Main Event",
             "matchup": null,
-            "display_name": "WWE Saturday Main Event - Stream 1"
+            "display_name": "WWE Saturday Main Event - Stream 2"
           },
           {
-            "label": "Stream 2",
+            "label": "wwe.m3u8",
             "url": "https://601.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
@@ -1757,7 +1799,7 @@
             "sport": "fighting",
             "event_title": "WWE Saturday Main Event",
             "matchup": null,
-            "display_name": "WWE Saturday Main Event - Stream 2"
+            "display_name": "WWE Saturday Main Event - wwe.m3u8"
           }
         ]
       }
@@ -1927,7 +1969,26 @@
         "page": "https://roxiestreams.su/wwe-streams",
         "streams": [
           {
-            "label": "Stream 1",
+            "label": "Direct Link",
+            "url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021679-723537-491336fa411)/master_2hr.mpd?c3.ri=6a1240f9_Q1ZYMDc_1_RkFTVExZ_ad65ca814d83&aws.sessionId=29752015-7604-4ed6-b138-e56a8d98b382&ck=eyIwMDIyNDI4YWQxYmIyNjJmZDg4MzRmOTZkNWUyOTg4NyI6Ijc1OTBhMjYxNjhjY2Q2YWQzNmNlZjlkM2VmYTc5MTc4In0%3D",
+            "type": "mpd",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": {
+              "0022428ad1bb262fd8834f96d5e29887": "7590a26168ccd6ad36cef9d3efa79178"
+            },
+            "sport": "wwe",
+            "event_title": "WWE Saturday Main Event",
+            "matchup": null,
+            "display_name": "WWE Saturday Main Event"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
@@ -1944,10 +2005,10 @@
             "sport": "wwe",
             "event_title": "WWE Saturday Main Event",
             "matchup": null,
-            "display_name": "WWE Saturday Main Event - Stream 1"
+            "display_name": "WWE Saturday Main Event - Stream 2"
           },
           {
-            "label": "Stream 2",
+            "label": "wwe.m3u8",
             "url": "https://601.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
@@ -1964,7 +2025,7 @@
             "sport": "wwe",
             "event_title": "WWE Saturday Main Event",
             "matchup": null,
-            "display_name": "WWE Saturday Main Event - Stream 2"
+            "display_name": "WWE Saturday Main Event - wwe.m3u8"
           }
         ]
       }
@@ -4753,6 +4814,7 @@
         "Stream Request (Discord)",
         "Stream 1",
         "Stream 2",
+        "PC US ONLY (DIRECT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5322,12 +5384,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/tsn2.m3u8",
+          "url": "https://601.shadow-ran.online/mls.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "tsn2.m3u8",
+          "subdomain": "601",
+          "path": "mls.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-15",
             "Origin": "https://roxiestreams.su",
@@ -5342,6 +5404,29 @@
             "away": "Houston Dynamo"
           },
           "display_name": "LA Galaxy vs Houston Dynamo - Stream 1"
+        },
+        {
+          "label": "mls.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-15",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "mls.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-15",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "LA Galaxy vs Houston Dynamo",
+          "matchup": {
+            "home": "LA Galaxy",
+            "away": "Houston Dynamo"
+          },
+          "display_name": "LA Galaxy vs Houston Dynamo - mls.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6357,7 +6442,26 @@
           "display_name": "ARCE VS COGOLLO - Stream 1"
         },
         {
-          "label": "Stream 1",
+          "label": "Direct Link",
+          "url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021679-723537-491336fa411)/master_2hr.mpd?c3.ri=6a1240f9_Q1ZYMDc_1_RkFTVExZ_ad65ca814d83&aws.sessionId=29752015-7604-4ed6-b138-e56a8d98b382&ck=eyIwMDIyNDI4YWQxYmIyNjJmZDg4MzRmOTZkNWUyOTg4NyI6Ijc1OTBhMjYxNjhjY2Q2YWQzNmNlZjlkM2VmYTc5MTc4In0%3D",
+          "type": "mpd",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": {
+            "0022428ad1bb262fd8834f96d5e29887": "7590a26168ccd6ad36cef9d3efa79178"
+          },
+          "sport": "fighting",
+          "event_title": "WWE Saturday Main Event",
+          "matchup": null,
+          "display_name": "WWE Saturday Main Event"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
@@ -6374,10 +6478,10 @@
           "sport": "fighting",
           "event_title": "WWE Saturday Main Event",
           "matchup": null,
-          "display_name": "WWE Saturday Main Event - Stream 1"
+          "display_name": "WWE Saturday Main Event - Stream 2"
         },
         {
-          "label": "Stream 2",
+          "label": "wwe.m3u8",
           "url": "https://601.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
@@ -6394,7 +6498,7 @@
           "sport": "fighting",
           "event_title": "WWE Saturday Main Event",
           "matchup": null,
-          "display_name": "WWE Saturday Main Event - Stream 2"
+          "display_name": "WWE Saturday Main Event - wwe.m3u8"
         }
       ]
     },
@@ -6554,7 +6658,26 @@
       ],
       "streams": [
         {
-          "label": "Stream 1",
+          "label": "Direct Link",
+          "url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021679-723537-491336fa411)/master_2hr.mpd?c3.ri=6a1240f9_Q1ZYMDc_1_RkFTVExZ_ad65ca814d83&aws.sessionId=29752015-7604-4ed6-b138-e56a8d98b382&ck=eyIwMDIyNDI4YWQxYmIyNjJmZDg4MzRmOTZkNWUyOTg4NyI6Ijc1OTBhMjYxNjhjY2Q2YWQzNmNlZjlkM2VmYTc5MTc4In0%3D",
+          "type": "mpd",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": {
+            "0022428ad1bb262fd8834f96d5e29887": "7590a26168ccd6ad36cef9d3efa79178"
+          },
+          "sport": "wwe",
+          "event_title": "WWE Saturday Main Event",
+          "matchup": null,
+          "display_name": "WWE Saturday Main Event"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
@@ -6571,10 +6694,10 @@
           "sport": "wwe",
           "event_title": "WWE Saturday Main Event",
           "matchup": null,
-          "display_name": "WWE Saturday Main Event - Stream 1"
+          "display_name": "WWE Saturday Main Event - Stream 2"
         },
         {
-          "label": "Stream 2",
+          "label": "wwe.m3u8",
           "url": "https://601.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
@@ -6591,12 +6714,12 @@
           "sport": "wwe",
           "event_title": "WWE Saturday Main Event",
           "matchup": null,
-          "display_name": "WWE Saturday Main Event - Stream 2"
+          "display_name": "WWE Saturday Main Event - wwe.m3u8"
         }
       ]
     }
   },
-  "stream_count": 68,
+  "stream_count": 71,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
