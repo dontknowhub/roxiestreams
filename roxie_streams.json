@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-25T23:55:18+00:00",
+  "scraped_at": "2026-05-26T02:08:26+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -153,12 +153,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/fana.m3u8",
+            "url": "https://601.shadow-ran.online/fana8.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "601",
-            "path": "fana.m3u8",
+            "path": "fana8.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -175,13 +175,13 @@
             "display_name": "Coritiba vs Bahia - Stream 1"
           },
           {
-            "label": "fana.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+            "label": "Stream 2 (NAT)",
+            "url": "https://601.shadow-ran.online/fana8nat.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fana.m3u8",
+            "subdomain": "601",
+            "path": "fana8nat.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -195,7 +195,30 @@
               "home": "Coritiba",
               "away": "Bahia"
             },
-            "display_name": "Coritiba vs Bahia - fana.m3u8"
+            "display_name": "Coritiba vs Bahia - Stream 2 (NAT)"
+          },
+          {
+            "label": "fana8.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana8.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana8.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Coritiba vs Bahia",
+            "matchup": {
+              "home": "Coritiba",
+              "away": "Bahia"
+            },
+            "display_name": "Coritiba vs Bahia - fana8.m3u8"
           }
         ]
       }
@@ -1361,6 +1384,7 @@
         "Motorsports",
         "Stream Request (Discord)",
         "Stream 1",
+        "Stream 2 (NAT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3134,12 +3158,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/fana.m3u8",
+          "url": "https://601.shadow-ran.online/fana8.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "601",
-          "path": "fana.m3u8",
+          "path": "fana8.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -3156,13 +3180,13 @@
           "display_name": "Coritiba vs Bahia - Stream 1"
         },
         {
-          "label": "fana.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+          "label": "Stream 2 (NAT)",
+          "url": "https://601.shadow-ran.online/fana8nat.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fana.m3u8",
+          "subdomain": "601",
+          "path": "fana8nat.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -3176,7 +3200,30 @@
             "home": "Coritiba",
             "away": "Bahia"
           },
-          "display_name": "Coritiba vs Bahia - fana.m3u8"
+          "display_name": "Coritiba vs Bahia - Stream 2 (NAT)"
+        },
+        {
+          "label": "fana8.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana8.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana8.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Coritiba vs Bahia",
+          "matchup": {
+            "home": "Coritiba",
+            "away": "Bahia"
+          },
+          "display_name": "Coritiba vs Bahia - fana8.m3u8"
         }
       ]
     },
@@ -3966,7 +4013,7 @@
       ]
     }
   },
-  "stream_count": 40,
+  "stream_count": 41,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
