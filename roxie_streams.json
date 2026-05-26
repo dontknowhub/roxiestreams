@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-26T19:31:41+00:00",
+  "scraped_at": "2026-05-26T21:27:45+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -39,12 +39,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
+            "url": "https://daffodil.shadow-ran.online/gremio.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "golazo.m3u8",
+            "path": "gremio.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -141,12 +141,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/epl3.m3u8",
+            "url": "https://601.shadow-ran.online/bein4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "601",
-            "path": "epl3.m3u8",
+            "path": "bein4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
@@ -163,13 +163,13 @@
             "display_name": "Flamengo vs Cusco - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://daffodil.shadow-ran.online/epl3.m3u8",
+            "label": "bein4.m3u8",
+            "url": "https://daffodil.shadow-ran.online/bein4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "epl3.m3u8",
+            "path": "bein4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
@@ -183,7 +183,7 @@
               "home": "Flamengo",
               "away": "Cusco"
             },
-            "display_name": "Flamengo vs Cusco - Stream 2"
+            "display_name": "Flamengo vs Cusco - bein4.m3u8"
           }
         ]
       },
@@ -198,12 +198,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/epl4.m3u8",
+            "url": "https://daffodil.shadow-ran.online/dgo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-5",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "epl4.m3u8",
+            "subdomain": "daffodil",
+            "path": "dgo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-5",
               "Origin": "https://roxiestreams.su",
@@ -218,29 +218,6 @@
               "away": "Deportivo Cuenca"
             },
             "display_name": "Santos vs Deportivo Cuenca - Stream 1"
-          },
-          {
-            "label": "epl4.m3u8",
-            "url": "https://daffodil.shadow-ran.online/epl4.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "epl4.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-5",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Santos vs Deportivo Cuenca",
-            "matchup": {
-              "home": "Santos",
-              "away": "Deportivo Cuenca"
-            },
-            "display_name": "Santos vs Deportivo Cuenca - epl4.m3u8"
           }
         ]
       }
@@ -863,13 +840,13 @@
             "display_name": "San Antonio Spurs vs Oklahoma City Thunder"
           },
           {
-            "label": "nbasat.m3u8",
-            "url": "https://601.shadow-ran.online/nbasat.m3u8",
+            "label": "nba.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "nbasat.m3u8",
+            "subdomain": "daffodil",
+            "path": "nba.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -883,7 +860,7 @@
               "home": "San Antonio Spurs",
               "away": "Oklahoma City Thunder"
             },
-            "display_name": "San Antonio Spurs vs Oklahoma City Thunder - nbasat.m3u8"
+            "display_name": "San Antonio Spurs vs Oklahoma City Thunder - nba.m3u8"
           }
         ]
       }
@@ -992,6 +969,29 @@
           },
           {
             "label": "Stream 2",
+            "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nhl-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nhl.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nhl-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Colorado Avalanche vs Vegas Golden Knights",
+            "matchup": {
+              "home": "Colorado Avalanche",
+              "away": "Vegas Golden Knights"
+            },
+            "display_name": "Colorado Avalanche vs Vegas Golden Knights - Stream 2"
+          },
+          {
+            "label": "nhl.m3u8",
             "url": "https://601.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-1",
@@ -1011,30 +1011,7 @@
               "home": "Colorado Avalanche",
               "away": "Vegas Golden Knights"
             },
-            "display_name": "Colorado Avalanche vs Vegas Golden Knights - Stream 2"
-          },
-          {
-            "label": "tnt.m3u8",
-            "url": "https://601.shadow-ran.online/tnt.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nhl-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "tnt.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nhl-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Colorado Avalanche vs Vegas Golden Knights",
-            "matchup": {
-              "home": "Colorado Avalanche",
-              "away": "Vegas Golden Knights"
-            },
-            "display_name": "Colorado Avalanche vs Vegas Golden Knights - tnt.m3u8"
+            "display_name": "Colorado Avalanche vs Vegas Golden Knights - nhl.m3u8"
           }
         ]
       }
@@ -1543,7 +1520,6 @@
         "Motorsports",
         "Stream Request (Discord)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3419,12 +3395,12 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
+          "url": "https://daffodil.shadow-ran.online/gremio.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "golazo.m3u8",
+          "path": "gremio.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -3488,12 +3464,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/epl3.m3u8",
+          "url": "https://601.shadow-ran.online/bein4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "601",
-          "path": "epl3.m3u8",
+          "path": "bein4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
@@ -3510,13 +3486,13 @@
           "display_name": "Flamengo vs Cusco - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://daffodil.shadow-ran.online/epl3.m3u8",
+          "label": "bein4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/bein4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "epl3.m3u8",
+          "path": "bein4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
@@ -3530,16 +3506,16 @@
             "home": "Flamengo",
             "away": "Cusco"
           },
-          "display_name": "Flamengo vs Cusco - Stream 2"
+          "display_name": "Flamengo vs Cusco - bein4.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/epl4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/dgo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-5",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "epl4.m3u8",
+          "subdomain": "daffodil",
+          "path": "dgo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-5",
             "Origin": "https://roxiestreams.su",
@@ -3554,29 +3530,6 @@
             "away": "Deportivo Cuenca"
           },
           "display_name": "Santos vs Deportivo Cuenca - Stream 1"
-        },
-        {
-          "label": "epl4.m3u8",
-          "url": "https://daffodil.shadow-ran.online/epl4.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "epl4.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-5",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Santos vs Deportivo Cuenca",
-          "matchup": {
-            "home": "Santos",
-            "away": "Deportivo Cuenca"
-          },
-          "display_name": "Santos vs Deportivo Cuenca - epl4.m3u8"
         }
       ]
     },
@@ -4049,13 +4002,13 @@
           "display_name": "San Antonio Spurs vs Oklahoma City Thunder"
         },
         {
-          "label": "nbasat.m3u8",
-          "url": "https://601.shadow-ran.online/nbasat.m3u8",
+          "label": "nba.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "nbasat.m3u8",
+          "subdomain": "daffodil",
+          "path": "nba.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -4069,7 +4022,7 @@
             "home": "San Antonio Spurs",
             "away": "Oklahoma City Thunder"
           },
-          "display_name": "San Antonio Spurs vs Oklahoma City Thunder - nbasat.m3u8"
+          "display_name": "San Antonio Spurs vs Oklahoma City Thunder - nba.m3u8"
         }
       ]
     },
@@ -4171,6 +4124,29 @@
         },
         {
           "label": "Stream 2",
+          "url": "https://daffodil.shadow-ran.online/nhl.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nhl-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nhl.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nhl-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Colorado Avalanche vs Vegas Golden Knights",
+          "matchup": {
+            "home": "Colorado Avalanche",
+            "away": "Vegas Golden Knights"
+          },
+          "display_name": "Colorado Avalanche vs Vegas Golden Knights - Stream 2"
+        },
+        {
+          "label": "nhl.m3u8",
           "url": "https://601.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-1",
@@ -4190,30 +4166,7 @@
             "home": "Colorado Avalanche",
             "away": "Vegas Golden Knights"
           },
-          "display_name": "Colorado Avalanche vs Vegas Golden Knights - Stream 2"
-        },
-        {
-          "label": "tnt.m3u8",
-          "url": "https://601.shadow-ran.online/tnt.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nhl-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "tnt.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nhl-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Colorado Avalanche vs Vegas Golden Knights",
-          "matchup": {
-            "home": "Colorado Avalanche",
-            "away": "Vegas Golden Knights"
-          },
-          "display_name": "Colorado Avalanche vs Vegas Golden Knights - tnt.m3u8"
+          "display_name": "Colorado Avalanche vs Vegas Golden Knights - nhl.m3u8"
         }
       ]
     },
@@ -4408,7 +4361,7 @@
       ]
     }
   },
-  "stream_count": 43,
+  "stream_count": 42,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
