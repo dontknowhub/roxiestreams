@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-28T19:52:04+00:00",
+  "scraped_at": "2026-05-28T21:49:35+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -107,12 +107,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/beies.m3u8",
+            "url": "https://daffodil.shadow-ran.online/xtra.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "beies.m3u8",
+            "path": "xtra.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -127,29 +127,6 @@
               "away": "Sporting Cristal"
             },
             "display_name": "Cerro Porteño vs Sporting Cristal - Stream 1"
-          },
-          {
-            "label": "beines.m3u8",
-            "url": "https://daffodil.shadow-ran.online/beines.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-3",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "beines.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-3",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Cerro Porteño vs Sporting Cristal",
-            "matchup": {
-              "home": "Cerro Porteño",
-              "away": "Sporting Cristal"
-            },
-            "display_name": "Cerro Porteño vs Sporting Cristal - beines.m3u8"
           }
         ]
       },
@@ -164,12 +141,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/vasco.m3u8",
+            "url": "https://daffodil.shadow-ran.online/beines.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "vasco.m3u8",
+            "subdomain": "daffodil",
+            "path": "beines.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
@@ -184,29 +161,6 @@
               "away": "Catolica"
             },
             "display_name": "Boca Juniors vs Catolica - Stream 1"
-          },
-          {
-            "label": "vasco.m3u8",
-            "url": "https://daffodil.shadow-ran.online/vasco.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "vasco.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-4",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Boca Juniors vs Catolica",
-            "matchup": {
-              "home": "Boca Juniors",
-              "away": "Catolica"
-            },
-            "display_name": "Boca Juniors vs Catolica - vasco.m3u8"
           }
         ]
       },
@@ -221,12 +175,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/bein7.m3u8",
+            "url": "https://601.shadow-ran.online/bein.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-5",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "bein7.m3u8",
+            "subdomain": "601",
+            "path": "bein.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-5",
               "Origin": "https://roxiestreams.su",
@@ -241,6 +195,29 @@
               "away": "Barcelona SC"
             },
             "display_name": "Cruzeiro vs Barcelona SC - Stream 1"
+          },
+          {
+            "label": "bein.m3u8",
+            "url": "https://daffodil.shadow-ran.online/bein.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "bein.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Cruzeiro vs Barcelona SC",
+            "matchup": {
+              "home": "Cruzeiro",
+              "away": "Barcelona SC"
+            },
+            "display_name": "Cruzeiro vs Barcelona SC - bein.m3u8"
           }
         ]
       }
@@ -2662,12 +2639,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/beies.m3u8",
+          "url": "https://daffodil.shadow-ran.online/xtra.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "beies.m3u8",
+          "path": "xtra.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -2684,36 +2661,13 @@
           "display_name": "Cerro Porteño vs Sporting Cristal - Stream 1"
         },
         {
-          "label": "beines.m3u8",
-          "url": "https://daffodil.shadow-ran.online/beines.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-3",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "beines.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-3",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Cerro Porteño vs Sporting Cristal",
-          "matchup": {
-            "home": "Cerro Porteño",
-            "away": "Sporting Cristal"
-          },
-          "display_name": "Cerro Porteño vs Sporting Cristal - beines.m3u8"
-        },
-        {
           "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/vasco.m3u8",
+          "url": "https://daffodil.shadow-ran.online/beines.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "vasco.m3u8",
+          "subdomain": "daffodil",
+          "path": "beines.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
@@ -2730,36 +2684,13 @@
           "display_name": "Boca Juniors vs Catolica - Stream 1"
         },
         {
-          "label": "vasco.m3u8",
-          "url": "https://daffodil.shadow-ran.online/vasco.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "vasco.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-4",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Boca Juniors vs Catolica",
-          "matchup": {
-            "home": "Boca Juniors",
-            "away": "Catolica"
-          },
-          "display_name": "Boca Juniors vs Catolica - vasco.m3u8"
-        },
-        {
           "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/bein7.m3u8",
+          "url": "https://601.shadow-ran.online/bein.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-5",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "bein7.m3u8",
+          "subdomain": "601",
+          "path": "bein.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-5",
             "Origin": "https://roxiestreams.su",
@@ -2774,6 +2705,29 @@
             "away": "Barcelona SC"
           },
           "display_name": "Cruzeiro vs Barcelona SC - Stream 1"
+        },
+        {
+          "label": "bein.m3u8",
+          "url": "https://daffodil.shadow-ran.online/bein.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "bein.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Cruzeiro vs Barcelona SC",
+          "matchup": {
+            "home": "Cruzeiro",
+            "away": "Barcelona SC"
+          },
+          "display_name": "Cruzeiro vs Barcelona SC - bein.m3u8"
         }
       ]
     },
@@ -3416,7 +3370,7 @@
       ]
     }
   },
-  "stream_count": 34,
+  "stream_count": 33,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
