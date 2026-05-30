@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-30T21:30:13+00:00",
+  "scraped_at": "2026-05-30T22:46:30+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -384,12 +384,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://701.shadow-ran.online/fana3.m3u8",
+            "url": "https://701.shadow-ran.online/fana6.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "701",
-            "path": "fana3.m3u8",
+            "path": "fana6.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -406,13 +406,13 @@
             "display_name": "Santos vs Vitoria - Stream 1"
           },
           {
-            "label": "fana3.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+            "label": "Stream 2 (ENGLISH)",
+            "url": "https://701.shadow-ran.online/fana6en.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fana3.m3u8",
+            "subdomain": "701",
+            "path": "fana6en.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -426,7 +426,30 @@
               "home": "Santos",
               "away": "Vitoria"
             },
-            "display_name": "Santos vs Vitoria - fana3.m3u8"
+            "display_name": "Santos vs Vitoria - Stream 2 (ENGLISH)"
+          },
+          {
+            "label": "fana6.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana6.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana6.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Santos vs Vitoria",
+            "matchup": {
+              "home": "Santos",
+              "away": "Vitoria"
+            },
+            "display_name": "Santos vs Vitoria - fana6.m3u8"
           }
         ]
       },
@@ -475,12 +498,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://701.shadow-ran.online/main.m3u8",
+            "url": "https://701.shadow-ran.online/byu.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "701",
-            "path": "main.m3u8",
+            "path": "byu.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-9",
               "Origin": "https://roxiestreams.su",
@@ -497,36 +520,13 @@
             "display_name": "Korea vs Trinidad & Tobago - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://701.shadow-ran.online/epl8.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "701",
-            "path": "epl8.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-9",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Korea vs Trinidad & Tobago",
-            "matchup": {
-              "home": "Korea",
-              "away": "Trinidad & Tobago"
-            },
-            "display_name": "Korea vs Trinidad & Tobago - Stream 2"
-          },
-          {
-            "label": "main.m3u8",
-            "url": "https://daffodil.shadow-ran.online/main.m3u8",
+            "label": "byu.m3u8",
+            "url": "https://daffodil.shadow-ran.online/byu.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "main.m3u8",
+            "path": "byu.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-9",
               "Origin": "https://roxiestreams.su",
@@ -540,7 +540,7 @@
               "home": "Korea",
               "away": "Trinidad & Tobago"
             },
-            "display_name": "Korea vs Trinidad & Tobago - main.m3u8"
+            "display_name": "Korea vs Trinidad & Tobago - byu.m3u8"
           }
         ]
       }
@@ -2429,6 +2429,7 @@
         "Motorsports",
         "Stream Request (Discord)",
         "Stream 1",
+        "Stream 2 (ENGLISH)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2612,7 +2613,6 @@
         "Motorsports",
         "Stream Request (Discord)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5140,12 +5140,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://701.shadow-ran.online/fana3.m3u8",
+          "url": "https://701.shadow-ran.online/fana6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "701",
-          "path": "fana3.m3u8",
+          "path": "fana6.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -5162,13 +5162,13 @@
           "display_name": "Santos vs Vitoria - Stream 1"
         },
         {
-          "label": "fana3.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+          "label": "Stream 2 (ENGLISH)",
+          "url": "https://701.shadow-ran.online/fana6en.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fana3.m3u8",
+          "subdomain": "701",
+          "path": "fana6en.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -5182,7 +5182,30 @@
             "home": "Santos",
             "away": "Vitoria"
           },
-          "display_name": "Santos vs Vitoria - fana3.m3u8"
+          "display_name": "Santos vs Vitoria - Stream 2 (ENGLISH)"
+        },
+        {
+          "label": "fana6.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana6.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana6.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-6",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Santos vs Vitoria",
+          "matchup": {
+            "home": "Santos",
+            "away": "Vitoria"
+          },
+          "display_name": "Santos vs Vitoria - fana6.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5209,12 +5232,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://701.shadow-ran.online/main.m3u8",
+          "url": "https://701.shadow-ran.online/byu.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "701",
-          "path": "main.m3u8",
+          "path": "byu.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-9",
             "Origin": "https://roxiestreams.su",
@@ -5231,36 +5254,13 @@
           "display_name": "Korea vs Trinidad & Tobago - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://701.shadow-ran.online/epl8.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "701",
-          "path": "epl8.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-9",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Korea vs Trinidad & Tobago",
-          "matchup": {
-            "home": "Korea",
-            "away": "Trinidad & Tobago"
-          },
-          "display_name": "Korea vs Trinidad & Tobago - Stream 2"
-        },
-        {
-          "label": "main.m3u8",
-          "url": "https://daffodil.shadow-ran.online/main.m3u8",
+          "label": "byu.m3u8",
+          "url": "https://daffodil.shadow-ran.online/byu.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "main.m3u8",
+          "path": "byu.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-9",
             "Origin": "https://roxiestreams.su",
@@ -5274,7 +5274,7 @@
             "home": "Korea",
             "away": "Trinidad & Tobago"
           },
-          "display_name": "Korea vs Trinidad & Tobago - main.m3u8"
+          "display_name": "Korea vs Trinidad & Tobago - byu.m3u8"
         }
       ]
     },
