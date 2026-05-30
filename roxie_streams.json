@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-30T22:46:30+00:00",
+  "scraped_at": "2026-05-30T23:51:47+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -464,12 +464,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/river.m3u8",
+            "url": "https://701.shadow-ran.online/ecdf.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "river.m3u8",
+            "subdomain": "701",
+            "path": "ecdf.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-7",
               "Origin": "https://roxiestreams.su",
@@ -484,6 +484,29 @@
               "away": "Saudi Arabia"
             },
             "display_name": "Ecuador vs Saudi Arabia - Stream 1"
+          },
+          {
+            "label": "ecdf.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ecdf.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-7",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ecdf.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-7",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Ecuador vs Saudi Arabia",
+            "matchup": {
+              "home": "Ecuador",
+              "away": "Saudi Arabia"
+            },
+            "display_name": "Ecuador vs Saudi Arabia - ecdf.m3u8"
           }
         ]
       },
@@ -5209,12 +5232,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/river.m3u8",
+          "url": "https://701.shadow-ran.online/ecdf.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "river.m3u8",
+          "subdomain": "701",
+          "path": "ecdf.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-7",
             "Origin": "https://roxiestreams.su",
@@ -5229,6 +5252,29 @@
             "away": "Saudi Arabia"
           },
           "display_name": "Ecuador vs Saudi Arabia - Stream 1"
+        },
+        {
+          "label": "ecdf.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ecdf.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-7",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ecdf.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-7",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Ecuador vs Saudi Arabia",
+          "matchup": {
+            "home": "Ecuador",
+            "away": "Saudi Arabia"
+          },
+          "display_name": "Ecuador vs Saudi Arabia - ecdf.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6490,7 +6536,7 @@
       ]
     }
   },
-  "stream_count": 70,
+  "stream_count": 71,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
