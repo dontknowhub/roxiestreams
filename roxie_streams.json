@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-04T00:10:44+00:00",
+  "scraped_at": "2026-06-04T05:17:23+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -809,26 +809,27 @@
         "page": "https://roxiestreams.su/nba-streams-1",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://dck1-fs-live.dtcdn.dazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-sports-live-drm-session/out/v1/761f422bb93edb7b/f694c60809004f6fb71d4ed7c1fcfbf8/index.mpd?aws.sessionId=17ea184b-2425-4a7e-963a-fbba5f0ee1b9&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzc2MWY0MjJiYjkzZWRiN2IvZjY5NGM2MDgwOTAwNGY2ZmI3MWQ0ZWQ3YzFmY2ZiZjgiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNzQ3NyJdLCJpbnRzaWciOiJodS1EUWtmMUQwR0tpOTFvNVB4RG5rUC1tQ0JzYkR2X2NfbnpYazhkSnZnIiwiaWF0IjoxNzc5MTc0NDc0LCJleHAiOjE3NzkyNjA4NzR9.404xkRlnUmcF_vxpagZBhpcX2ItiF1niY-NJxjTwHPU&ck=eyI0NWQ0YjA2Y2YzMzQ1MjE5YTQxODQxMzVhYmJlZmMxOCI6IjFkMjhjMTY3YjY0ZjYyOGMyM2E4OWE4NGNlNGEzYjA5In0%3D",
-            "type": "mpd",
+            "label": "Stream 1",
+            "url": "https://daffodil.shadow-ran.online/nba.m3u8",
+            "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nba.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-1",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
-            "drm_keys": {
-              "45d4b06cf3345219a4184135abbefc18": "1d28c167b64f628c23a89a84ce4a3b09"
-            },
+            "drm_keys": null,
             "sport": "nba",
             "event_title": "New York Knicks vs TBD",
             "matchup": {
               "home": "New York Knicks",
               "away": "TBD"
             },
-            "display_name": "New York Knicks vs TBD"
+            "display_name": "New York Knicks vs TBD - Stream 1"
           },
           {
             "label": "Stream 2",
@@ -852,29 +853,6 @@
               "away": "TBD"
             },
             "display_name": "New York Knicks vs TBD - Stream 2"
-          },
-          {
-            "label": "nbasat.m3u8",
-            "url": "https://601.shadow-ran.online/nbasat.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nba-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "nbasat.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nba-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "New York Knicks vs TBD",
-            "matchup": {
-              "home": "New York Knicks",
-              "away": "TBD"
-            },
-            "display_name": "New York Knicks vs TBD - nbasat.m3u8"
           }
         ]
       }
@@ -2791,7 +2769,6 @@
         "Stream Request (Discord)",
         "Stream 1",
         "Stream 2",
-        "PC ONLY (DIRECT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3930,26 +3907,27 @@
       ],
       "streams": [
         {
-          "label": "Direct Link",
-          "url": "https://dck1-fs-live.dtcdn.dazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-sports-live-drm-session/out/v1/761f422bb93edb7b/f694c60809004f6fb71d4ed7c1fcfbf8/index.mpd?aws.sessionId=17ea184b-2425-4a7e-963a-fbba5f0ee1b9&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzc2MWY0MjJiYjkzZWRiN2IvZjY5NGM2MDgwOTAwNGY2ZmI3MWQ0ZWQ3YzFmY2ZiZjgiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNzQ3NyJdLCJpbnRzaWciOiJodS1EUWtmMUQwR0tpOTFvNVB4RG5rUC1tQ0JzYkR2X2NfbnpYazhkSnZnIiwiaWF0IjoxNzc5MTc0NDc0LCJleHAiOjE3NzkyNjA4NzR9.404xkRlnUmcF_vxpagZBhpcX2ItiF1niY-NJxjTwHPU&ck=eyI0NWQ0YjA2Y2YzMzQ1MjE5YTQxODQxMzVhYmJlZmMxOCI6IjFkMjhjMTY3YjY0ZjYyOGMyM2E4OWE4NGNlNGEzYjA5In0%3D",
-          "type": "mpd",
+          "label": "Stream 1",
+          "url": "https://daffodil.shadow-ran.online/nba.m3u8",
+          "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nba.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-1",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
-          "drm_keys": {
-            "45d4b06cf3345219a4184135abbefc18": "1d28c167b64f628c23a89a84ce4a3b09"
-          },
+          "drm_keys": null,
           "sport": "nba",
           "event_title": "New York Knicks vs TBD",
           "matchup": {
             "home": "New York Knicks",
             "away": "TBD"
           },
-          "display_name": "New York Knicks vs TBD"
+          "display_name": "New York Knicks vs TBD - Stream 1"
         },
         {
           "label": "Stream 2",
@@ -3973,29 +3951,6 @@
             "away": "TBD"
           },
           "display_name": "New York Knicks vs TBD - Stream 2"
-        },
-        {
-          "label": "nbasat.m3u8",
-          "url": "https://601.shadow-ran.online/nbasat.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nba-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "nbasat.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nba-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "New York Knicks vs TBD",
-          "matchup": {
-            "home": "New York Knicks",
-            "away": "TBD"
-          },
-          "display_name": "New York Knicks vs TBD - nbasat.m3u8"
         }
       ]
     },
@@ -4309,7 +4264,7 @@
       ]
     }
   },
-  "stream_count": 41,
+  "stream_count": 40,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
