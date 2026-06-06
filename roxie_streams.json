@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-06T20:53:30+00:00",
+  "scraped_at": "2026-06-06T21:55:30+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -21,14 +21,14 @@
       "start_time": "June 6, 2026 10:00 AM"
     },
     {
-      "name": "Friendlies",
-      "page": "https://roxiestreams.su/soccer",
-      "start_time": "June 6, 2026 10:45 AM"
-    },
-    {
       "name": "East vs West XXIV",
       "page": "https://roxiestreams.su/ppv-streams-4",
       "start_time": "June 6, 2026 10:00 AM"
+    },
+    {
+      "name": "Friendlies",
+      "page": "https://roxiestreams.su/soccer",
+      "start_time": "June 6, 2026 10:45 AM"
     },
     {
       "name": "UFC Vegas: Muhammad vs Bonfim",
@@ -544,12 +544,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/byu.m3u8",
+            "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "byu.m3u8",
+            "subdomain": "daffodil",
+            "path": "sportv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-9",
               "Origin": "https://roxiestreams.su",
@@ -564,29 +564,6 @@
               "away": "Egypt"
             },
             "display_name": "Brazil vs Egypt - Stream 1"
-          },
-          {
-            "label": "byu.m3u8",
-            "url": "https://daffodil.shadow-ran.online/byu.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "byu.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-9",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Brazil vs Egypt",
-            "matchup": {
-              "home": "Brazil",
-              "away": "Egypt"
-            },
-            "display_name": "Brazil vs Egypt - byu.m3u8"
           }
         ]
       }
@@ -2093,26 +2070,27 @@
         "page": "https://roxiestreams.su/ufc",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-            "type": "mpd",
+            "label": "Stream 1 (PARA)",
+            "url": "https://601.shadow-ran.online/simplyataide.m3u8",
+            "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "simplyataide.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
-            "drm_keys": {
-              "294b5761cefc22d0c6312939e13d8278": "52148f1042d238849f0a7813f1da8a7b"
-            },
+            "drm_keys": null,
             "sport": "ufc",
             "event_title": "UFC Vegas: Muhammad vs Bonfim",
             "matchup": {
               "home": "UFC Vegas: Muhammad",
               "away": "Bonfim"
             },
-            "display_name": "UFC Vegas: Muhammad vs Bonfim"
+            "display_name": "UFC Vegas: Muhammad vs Bonfim - Stream 1 (PARA)"
           },
           {
             "label": "Stream 2 (SN)",
@@ -2162,11 +2140,11 @@
           },
           {
             "label": "simplyataide.m3u8",
-            "url": "https://601.shadow-ran.online/simplyataide.m3u8",
+            "url": "https://daffodil.shadow-ran.online/simplyataide.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
+            "subdomain": "daffodil",
             "path": "simplyataide.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
@@ -2929,6 +2907,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5200,10 +5179,10 @@
         "Fighting",
         "Motorsports",
         "Stream Request (Discord)",
-        "Stream 1",
+        "MultiView (NEW)",
+        "Stream 1 (PARA)",
         "Stream 2 (SN)",
         "Stream 3 (TNT)",
-        "PC ONLY (DIRECT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5243,6 +5222,10 @@
         {
           "label": "Stream Request (Discord)",
           "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
         },
         {
           "label": "Stream Request (Discord)",
@@ -5660,12 +5643,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/byu.m3u8",
+          "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "byu.m3u8",
+          "subdomain": "daffodil",
+          "path": "sportv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-9",
             "Origin": "https://roxiestreams.su",
@@ -5680,29 +5663,6 @@
             "away": "Egypt"
           },
           "display_name": "Brazil vs Egypt - Stream 1"
-        },
-        {
-          "label": "byu.m3u8",
-          "url": "https://daffodil.shadow-ran.online/byu.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "byu.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-9",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Brazil vs Egypt",
-          "matchup": {
-            "home": "Brazil",
-            "away": "Egypt"
-          },
-          "display_name": "Brazil vs Egypt - byu.m3u8"
         }
       ]
     },
@@ -6993,26 +6953,27 @@
       ],
       "streams": [
         {
-          "label": "Direct Link",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-          "type": "mpd",
+          "label": "Stream 1 (PARA)",
+          "url": "https://601.shadow-ran.online/simplyataide.m3u8",
+          "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "simplyataide.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
-          "drm_keys": {
-            "294b5761cefc22d0c6312939e13d8278": "52148f1042d238849f0a7813f1da8a7b"
-          },
+          "drm_keys": null,
           "sport": "ufc",
           "event_title": "UFC Vegas: Muhammad vs Bonfim",
           "matchup": {
             "home": "UFC Vegas: Muhammad",
             "away": "Bonfim"
           },
-          "display_name": "UFC Vegas: Muhammad vs Bonfim"
+          "display_name": "UFC Vegas: Muhammad vs Bonfim - Stream 1 (PARA)"
         },
         {
           "label": "Stream 2 (SN)",
@@ -7062,11 +7023,11 @@
         },
         {
           "label": "simplyataide.m3u8",
-          "url": "https://601.shadow-ran.online/simplyataide.m3u8",
+          "url": "https://daffodil.shadow-ran.online/simplyataide.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
+          "subdomain": "daffodil",
           "path": "simplyataide.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
@@ -7086,7 +7047,7 @@
       ]
     }
   },
-  "stream_count": 81,
+  "stream_count": 80,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
