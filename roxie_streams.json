@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-06T04:33:03+00:00",
+  "scraped_at": "2026-06-06T07:40:06+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -39,12 +39,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/cyrus.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fubo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "cyrus.m3u8",
+            "subdomain": "daffodil",
+            "path": "fubo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -59,29 +59,6 @@
               "away": "Tunisia"
             },
             "display_name": "Belgium vs Tunisia - Stream 1"
-          },
-          {
-            "label": "cyrus.m3u8",
-            "url": "https://daffodil.shadow-ran.online/cyrus.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "cyrus.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Belgium vs Tunisia",
-            "matchup": {
-              "home": "Belgium",
-              "away": "Tunisia"
-            },
-            "display_name": "Belgium vs Tunisia - cyrus.m3u8"
           }
         ]
       },
@@ -153,12 +130,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/fubo.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fubo.m3u8",
+            "path": "fsp.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -186,7 +163,30 @@
         "page": "https://roxiestreams.su/soccer-streams-3",
         "streams": [
           {
-            "label": "Stream 1",
+            "label": "Stream 2 (CL)",
+            "url": "https://601.shadow-ran.online/chile.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "chile.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Portugal vs Chile",
+            "matchup": {
+              "home": "Portugal",
+              "away": "Chile"
+            },
+            "display_name": "Portugal vs Chile - Stream 2 (CL)"
+          },
+          {
+            "label": "bulg.m3u8",
             "url": "https://daffodil.shadow-ran.online/bulg.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
@@ -206,7 +206,7 @@
               "home": "Portugal",
               "away": "Chile"
             },
-            "display_name": "Portugal vs Chile - Stream 1"
+            "display_name": "Portugal vs Chile - bulg.m3u8"
           }
         ]
       },
@@ -221,12 +221,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
+            "url": "https://daffodil.shadow-ran.online/s4c.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fsp.m3u8",
+            "path": "s4c.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
@@ -2196,7 +2196,8 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1",
+        "Stream 1 (EN)",
+        "Stream 2 (CL)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4806,12 +4807,12 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/cyrus.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fubo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "cyrus.m3u8",
+          "subdomain": "daffodil",
+          "path": "fubo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -4826,29 +4827,6 @@
             "away": "Tunisia"
           },
           "display_name": "Belgium vs Tunisia - Stream 1"
-        },
-        {
-          "label": "cyrus.m3u8",
-          "url": "https://daffodil.shadow-ran.online/cyrus.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "cyrus.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Belgium vs Tunisia",
-          "matchup": {
-            "home": "Belgium",
-            "away": "Tunisia"
-          },
-          "display_name": "Belgium vs Tunisia - cyrus.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4898,12 +4876,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/fubo.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fubo.m3u8",
+          "path": "fsp.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -4920,7 +4898,30 @@
           "display_name": "Venezuela vs Turkey - Stream 1"
         },
         {
-          "label": "Stream 1",
+          "label": "Stream 2 (CL)",
+          "url": "https://601.shadow-ran.online/chile.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "chile.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Portugal vs Chile",
+          "matchup": {
+            "home": "Portugal",
+            "away": "Chile"
+          },
+          "display_name": "Portugal vs Chile - Stream 2 (CL)"
+        },
+        {
+          "label": "bulg.m3u8",
           "url": "https://daffodil.shadow-ran.online/bulg.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
@@ -4940,16 +4941,16 @@
             "home": "Portugal",
             "away": "Chile"
           },
-          "display_name": "Portugal vs Chile - Stream 1"
+          "display_name": "Portugal vs Chile - bulg.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
+          "url": "https://daffodil.shadow-ran.online/s4c.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fsp.m3u8",
+          "path": "s4c.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
