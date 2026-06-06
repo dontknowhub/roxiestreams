@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-06T19:51:14+00:00",
+  "scraped_at": "2026-06-06T20:53:30+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -464,12 +464,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/fana3.m3u8",
+            "url": "https://601.shadow-ran.online/espn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "601",
-            "path": "fana3.m3u8",
+            "path": "espn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-8",
               "Origin": "https://roxiestreams.su",
@@ -486,13 +486,13 @@
             "display_name": "Bolivia vs Scotland - Stream 1"
           },
           {
-            "label": "fana3.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+            "label": "Stream 2",
+            "url": "https://daffodil.shadow-ran.online/deportes.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana3.m3u8",
+            "path": "deportes.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-8",
               "Origin": "https://roxiestreams.su",
@@ -506,7 +506,30 @@
               "home": "Bolivia",
               "away": "Scotland"
             },
-            "display_name": "Bolivia vs Scotland - fana3.m3u8"
+            "display_name": "Bolivia vs Scotland - Stream 2"
+          },
+          {
+            "label": "espn.m3u8",
+            "url": "https://daffodil.shadow-ran.online/espn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "espn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-8",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Bolivia vs Scotland",
+            "matchup": {
+              "home": "Bolivia",
+              "away": "Scotland"
+            },
+            "display_name": "Bolivia vs Scotland - espn.m3u8"
           }
         ]
       },
@@ -1998,24 +2021,23 @@
         "page": "https://roxiestreams.su/supercross",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/sx.m3u8",
-            "type": "m3u8",
+            "label": "Direct Link",
+            "url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021893-723751-49140310667)/master_2hr.mpd?c3.ri=6a2481dc_Q1ZYMDc_0_RkFTVExZ_6f6dd4fc5588%3A0&aws.sessionId=ab5736f3-654b-4133-b13a-e991d539323f&ck=eyIwMDIyNjA3MTQzY2E3OGE4NTUwNTZjZmViZGZlYjQxYiI6IjI1MmI1OGYwYzhjNTdlNzhlYzY5MTVhMDMxZWRmZmY3In0%3D",
+            "type": "mpd",
             "source_page": "https://roxiestreams.su/supercross",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "sx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/supercross",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
-            "drm_keys": null,
+            "drm_keys": {
+              "0022607143ca78a855056cfebdfeb41b": "252b58f0c8c57e78ec6915a031edfff7"
+            },
             "sport": "supercross",
             "event_title": "AMA Motocross (10/1PM)",
             "matchup": null,
-            "display_name": "AMA Motocross (10/1PM) - Stream 1"
+            "display_name": "AMA Motocross (10/1PM)"
           },
           {
             "label": "Stream 2",
@@ -2039,11 +2061,11 @@
           },
           {
             "label": "sx.m3u8",
-            "url": "https://daffodil.shadow-ran.online/sx.m3u8",
+            "url": "https://601.shadow-ran.online/sx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/supercross",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
+            "subdomain": "601",
             "path": "sx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/supercross",
@@ -2071,13 +2093,35 @@
         "page": "https://roxiestreams.su/ufc",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/ataide.m3u8",
+            "label": "Direct Link",
+            "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+            "type": "mpd",
+            "source_page": "https://roxiestreams.su/ufc",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ufc",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": {
+              "294b5761cefc22d0c6312939e13d8278": "52148f1042d238849f0a7813f1da8a7b"
+            },
+            "sport": "ufc",
+            "event_title": "UFC Vegas: Muhammad vs Bonfim",
+            "matchup": {
+              "home": "UFC Vegas: Muhammad",
+              "away": "Bonfim"
+            },
+            "display_name": "UFC Vegas: Muhammad vs Bonfim"
+          },
+          {
+            "label": "Stream 2 (SN)",
+            "url": "https://601.shadow-ran.online/sn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "601",
-            "path": "ataide.m3u8",
+            "path": "sn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
               "Origin": "https://roxiestreams.su",
@@ -2091,16 +2135,16 @@
               "home": "UFC Vegas: Muhammad",
               "away": "Bonfim"
             },
-            "display_name": "UFC Vegas: Muhammad vs Bonfim - Stream 1"
+            "display_name": "UFC Vegas: Muhammad vs Bonfim - Stream 2 (SN)"
           },
           {
-            "label": "Stream 2",
-            "url": "https://daffodil.shadow-ran.online/ataide.m3u8",
+            "label": "Stream 3 (TNT)",
+            "url": "https://daffodil.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "ataide.m3u8",
+            "path": "tnt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
               "Origin": "https://roxiestreams.su",
@@ -2114,7 +2158,30 @@
               "home": "UFC Vegas: Muhammad",
               "away": "Bonfim"
             },
-            "display_name": "UFC Vegas: Muhammad vs Bonfim - Stream 2"
+            "display_name": "UFC Vegas: Muhammad vs Bonfim - Stream 3 (TNT)"
+          },
+          {
+            "label": "simplyataide.m3u8",
+            "url": "https://601.shadow-ran.online/simplyataide.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "simplyataide.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ufc",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC Vegas: Muhammad vs Bonfim",
+            "matchup": {
+              "home": "UFC Vegas: Muhammad",
+              "away": "Bonfim"
+            },
+            "display_name": "UFC Vegas: Muhammad vs Bonfim - simplyataide.m3u8"
           }
         ]
       }
@@ -2795,6 +2862,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5069,9 +5137,9 @@
         "Fighting",
         "Motorsports",
         "Stream Request (Discord)",
-        "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
+        "PC ONLY US (DIRECT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5111,10 +5179,6 @@
         {
           "label": "Stream Request (Discord)",
           "url": "https://discord.gg/JhkVmejRmn"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.su/multiview"
         },
         {
           "label": "Stream Request (Discord)",
@@ -5136,9 +5200,10 @@
         "Fighting",
         "Motorsports",
         "Stream Request (Discord)",
-        "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
+        "Stream 2 (SN)",
+        "Stream 3 (TNT)",
+        "PC ONLY (DIRECT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5178,10 +5243,6 @@
         {
           "label": "Stream Request (Discord)",
           "url": "https://discord.gg/JhkVmejRmn"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.su/multiview"
         },
         {
           "label": "Stream Request (Discord)",
@@ -5530,12 +5591,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/fana3.m3u8",
+          "url": "https://601.shadow-ran.online/espn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "601",
-          "path": "fana3.m3u8",
+          "path": "espn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-8",
             "Origin": "https://roxiestreams.su",
@@ -5552,13 +5613,13 @@
           "display_name": "Bolivia vs Scotland - Stream 1"
         },
         {
-          "label": "fana3.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+          "label": "Stream 2",
+          "url": "https://daffodil.shadow-ran.online/deportes.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana3.m3u8",
+          "path": "deportes.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-8",
             "Origin": "https://roxiestreams.su",
@@ -5572,7 +5633,30 @@
             "home": "Bolivia",
             "away": "Scotland"
           },
-          "display_name": "Bolivia vs Scotland - fana3.m3u8"
+          "display_name": "Bolivia vs Scotland - Stream 2"
+        },
+        {
+          "label": "espn.m3u8",
+          "url": "https://daffodil.shadow-ran.online/espn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "espn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-8",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Bolivia vs Scotland",
+          "matchup": {
+            "home": "Bolivia",
+            "away": "Scotland"
+          },
+          "display_name": "Bolivia vs Scotland - espn.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6843,24 +6927,23 @@
       ],
       "streams": [
         {
-          "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/sx.m3u8",
-          "type": "m3u8",
+          "label": "Direct Link",
+          "url": "https://g003-sle-us-cmaf-prd-fy.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021893-723751-49140310667)/master_2hr.mpd?c3.ri=6a2481dc_Q1ZYMDc_0_RkFTVExZ_6f6dd4fc5588%3A0&aws.sessionId=ab5736f3-654b-4133-b13a-e991d539323f&ck=eyIwMDIyNjA3MTQzY2E3OGE4NTUwNTZjZmViZGZlYjQxYiI6IjI1MmI1OGYwYzhjNTdlNzhlYzY5MTVhMDMxZWRmZmY3In0%3D",
+          "type": "mpd",
           "source_page": "https://roxiestreams.su/supercross",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "sx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/supercross",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
-          "drm_keys": null,
+          "drm_keys": {
+            "0022607143ca78a855056cfebdfeb41b": "252b58f0c8c57e78ec6915a031edfff7"
+          },
           "sport": "supercross",
           "event_title": "AMA Motocross (10/1PM)",
           "matchup": null,
-          "display_name": "AMA Motocross (10/1PM) - Stream 1"
+          "display_name": "AMA Motocross (10/1PM)"
         },
         {
           "label": "Stream 2",
@@ -6884,11 +6967,11 @@
         },
         {
           "label": "sx.m3u8",
-          "url": "https://daffodil.shadow-ran.online/sx.m3u8",
+          "url": "https://601.shadow-ran.online/sx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/supercross",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
+          "subdomain": "601",
           "path": "sx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/supercross",
@@ -6910,13 +6993,35 @@
       ],
       "streams": [
         {
-          "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/ataide.m3u8",
+          "label": "Direct Link",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "type": "mpd",
+          "source_page": "https://roxiestreams.su/ufc",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ufc",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": {
+            "294b5761cefc22d0c6312939e13d8278": "52148f1042d238849f0a7813f1da8a7b"
+          },
+          "sport": "ufc",
+          "event_title": "UFC Vegas: Muhammad vs Bonfim",
+          "matchup": {
+            "home": "UFC Vegas: Muhammad",
+            "away": "Bonfim"
+          },
+          "display_name": "UFC Vegas: Muhammad vs Bonfim"
+        },
+        {
+          "label": "Stream 2 (SN)",
+          "url": "https://601.shadow-ran.online/sn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "601",
-          "path": "ataide.m3u8",
+          "path": "sn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
             "Origin": "https://roxiestreams.su",
@@ -6930,16 +7035,16 @@
             "home": "UFC Vegas: Muhammad",
             "away": "Bonfim"
           },
-          "display_name": "UFC Vegas: Muhammad vs Bonfim - Stream 1"
+          "display_name": "UFC Vegas: Muhammad vs Bonfim - Stream 2 (SN)"
         },
         {
-          "label": "Stream 2",
-          "url": "https://daffodil.shadow-ran.online/ataide.m3u8",
+          "label": "Stream 3 (TNT)",
+          "url": "https://daffodil.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "ataide.m3u8",
+          "path": "tnt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
             "Origin": "https://roxiestreams.su",
@@ -6953,12 +7058,35 @@
             "home": "UFC Vegas: Muhammad",
             "away": "Bonfim"
           },
-          "display_name": "UFC Vegas: Muhammad vs Bonfim - Stream 2"
+          "display_name": "UFC Vegas: Muhammad vs Bonfim - Stream 3 (TNT)"
+        },
+        {
+          "label": "simplyataide.m3u8",
+          "url": "https://601.shadow-ran.online/simplyataide.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "simplyataide.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ufc",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC Vegas: Muhammad vs Bonfim",
+          "matchup": {
+            "home": "UFC Vegas: Muhammad",
+            "away": "Bonfim"
+          },
+          "display_name": "UFC Vegas: Muhammad vs Bonfim - simplyataide.m3u8"
         }
       ]
     }
   },
-  "stream_count": 78,
+  "stream_count": 81,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
