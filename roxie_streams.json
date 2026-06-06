@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-06T21:55:30+00:00",
+  "scraped_at": "2026-06-06T22:55:33+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -88,12 +88,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/epl9.m3u8",
+            "url": "https://601.shadow-ran.online/espn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "601",
-            "path": "epl9.m3u8",
+            "path": "espn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -110,13 +110,13 @@
             "display_name": "Argentina vs Honduras - Stream 1"
           },
           {
-            "label": "epl9.m3u8",
-            "url": "https://daffodil.shadow-ran.online/epl9.m3u8",
+            "label": "Stream 2",
+            "url": "https://daffodil.shadow-ran.online/tyc.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "epl9.m3u8",
+            "path": "tyc.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -130,7 +130,30 @@
               "home": "Argentina",
               "away": "Honduras"
             },
-            "display_name": "Argentina vs Honduras - epl9.m3u8"
+            "display_name": "Argentina vs Honduras - Stream 2"
+          },
+          {
+            "label": "espn.m3u8",
+            "url": "https://daffodil.shadow-ran.online/espn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-10",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "espn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-10",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Argentina vs Honduras",
+            "matchup": {
+              "home": "Argentina",
+              "away": "Honduras"
+            },
+            "display_name": "Argentina vs Honduras - espn.m3u8"
           }
         ]
       },
@@ -463,29 +486,6 @@
         "page": "https://roxiestreams.su/soccer-streams-8",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/espn.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-8",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "espn.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-8",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Bolivia vs Scotland",
-            "matchup": {
-              "home": "Bolivia",
-              "away": "Scotland"
-            },
-            "display_name": "Bolivia vs Scotland - Stream 1"
-          },
-          {
             "label": "Stream 2",
             "url": "https://daffodil.shadow-ran.online/deportes.m3u8",
             "type": "m3u8",
@@ -507,29 +507,6 @@
               "away": "Scotland"
             },
             "display_name": "Bolivia vs Scotland - Stream 2"
-          },
-          {
-            "label": "espn.m3u8",
-            "url": "https://daffodil.shadow-ran.online/espn.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-8",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "espn.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-8",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Bolivia vs Scotland",
-            "matchup": {
-              "home": "Bolivia",
-              "away": "Scotland"
-            },
-            "display_name": "Bolivia vs Scotland - espn.m3u8"
           }
         ]
       },
@@ -2374,6 +2351,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2907,7 +2885,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
+        "Stream 2 (TYC)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5275,12 +5253,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/epl9.m3u8",
+          "url": "https://601.shadow-ran.online/espn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "601",
-          "path": "epl9.m3u8",
+          "path": "espn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -5297,13 +5275,13 @@
           "display_name": "Argentina vs Honduras - Stream 1"
         },
         {
-          "label": "epl9.m3u8",
-          "url": "https://daffodil.shadow-ran.online/epl9.m3u8",
+          "label": "Stream 2",
+          "url": "https://daffodil.shadow-ran.online/tyc.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "epl9.m3u8",
+          "path": "tyc.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -5317,7 +5295,30 @@
             "home": "Argentina",
             "away": "Honduras"
           },
-          "display_name": "Argentina vs Honduras - epl9.m3u8"
+          "display_name": "Argentina vs Honduras - Stream 2"
+        },
+        {
+          "label": "espn.m3u8",
+          "url": "https://daffodil.shadow-ran.online/espn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-10",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "espn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-10",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Argentina vs Honduras",
+          "matchup": {
+            "home": "Argentina",
+            "away": "Honduras"
+          },
+          "display_name": "Argentina vs Honduras - espn.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5573,29 +5574,6 @@
           "display_name": "England vs New Zealand - england.m3u8"
         },
         {
-          "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/espn.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-8",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "espn.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-8",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Bolivia vs Scotland",
-          "matchup": {
-            "home": "Bolivia",
-            "away": "Scotland"
-          },
-          "display_name": "Bolivia vs Scotland - Stream 1"
-        },
-        {
           "label": "Stream 2",
           "url": "https://daffodil.shadow-ran.online/deportes.m3u8",
           "type": "m3u8",
@@ -5617,29 +5595,6 @@
             "away": "Scotland"
           },
           "display_name": "Bolivia vs Scotland - Stream 2"
-        },
-        {
-          "label": "espn.m3u8",
-          "url": "https://daffodil.shadow-ran.online/espn.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-8",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "espn.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-8",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Bolivia vs Scotland",
-          "matchup": {
-            "home": "Bolivia",
-            "away": "Scotland"
-          },
-          "display_name": "Bolivia vs Scotland - espn.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7047,7 +7002,7 @@
       ]
     }
   },
-  "stream_count": 80,
+  "stream_count": 79,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
