@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-07T20:42:20+00:00",
+  "scraped_at": "2026-06-07T21:57:46+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -300,13 +300,13 @@
         "page": "https://roxiestreams.su/soccer-streams-6",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://601.shadow-ran.online/sky2.m3u8",
+            "label": "Stream 2",
+            "url": "https://601.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "601",
-            "path": "sky2.m3u8",
+            "path": "dep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -320,30 +320,7 @@
               "home": "Colombia",
               "away": "Jordan"
             },
-            "display_name": "Colombia vs Jordan - Stream 1"
-          },
-          {
-            "label": "sky2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/sky2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-6",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "sky2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-6",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Colombia vs Jordan",
-            "matchup": {
-              "home": "Colombia",
-              "away": "Jordan"
-            },
-            "display_name": "Colombia vs Jordan - sky2.m3u8"
+            "display_name": "Colombia vs Jordan - Stream 2"
           }
         ]
       }
@@ -2026,6 +2003,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4336,13 +4314,13 @@
           "display_name": "Ecuador vs Guatemala - ecdf.m3u8"
         },
         {
-          "label": "Stream 1",
-          "url": "https://601.shadow-ran.online/sky2.m3u8",
+          "label": "Stream 2",
+          "url": "https://601.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "601",
-          "path": "sky2.m3u8",
+          "path": "dep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -4356,30 +4334,7 @@
             "home": "Colombia",
             "away": "Jordan"
           },
-          "display_name": "Colombia vs Jordan - Stream 1"
-        },
-        {
-          "label": "sky2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/sky2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-6",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "sky2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-6",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Colombia vs Jordan",
-          "matchup": {
-            "home": "Colombia",
-            "away": "Jordan"
-          },
-          "display_name": "Colombia vs Jordan - sky2.m3u8"
+          "display_name": "Colombia vs Jordan - Stream 2"
         }
       ]
     },
@@ -5436,7 +5391,7 @@
       ]
     }
   },
-  "stream_count": 59,
+  "stream_count": 58,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
