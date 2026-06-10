@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-10T21:22:35+00:00",
+  "scraped_at": "2026-06-10T23:03:23+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -768,29 +768,7 @@
         "page": "https://roxiestreams.su/nba-streams-1",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-            "type": "mpd",
-            "source_page": "https://roxiestreams.su/nba-streams-1",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nba-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": {
-              "e51aa21f2a0fef9aabc120dfb655b52f": "a12a987fe725a40b6be95cd84b15f689"
-            },
-            "sport": "nba",
-            "event_title": "San Antonio Spurs vs New York Knicks",
-            "matchup": {
-              "home": "San Antonio Spurs",
-              "away": "New York Knicks"
-            },
-            "display_name": "San Antonio Spurs vs New York Knicks"
-          },
-          {
-            "label": "Stream 2",
+            "label": "Stream 1",
             "url": "https://daffodil.shadow-ran.online/nba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-1",
@@ -810,10 +788,10 @@
               "home": "San Antonio Spurs",
               "away": "New York Knicks"
             },
-            "display_name": "San Antonio Spurs vs New York Knicks - Stream 2"
+            "display_name": "San Antonio Spurs vs New York Knicks - Stream 1"
           },
           {
-            "label": "nba.m3u8",
+            "label": "Stream 2",
             "url": "https://601.shadow-ran.online/nba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-1",
@@ -833,7 +811,7 @@
               "home": "San Antonio Spurs",
               "away": "New York Knicks"
             },
-            "display_name": "San Antonio Spurs vs New York Knicks - nba.m3u8"
+            "display_name": "San Antonio Spurs vs New York Knicks - Stream 2"
           }
         ]
       }
@@ -2644,9 +2622,9 @@
         "Fighting",
         "Motorsports",
         "Stream Request (Discord)",
+        "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
-        "PC ONLY US (DIRECT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2686,6 +2664,10 @@
         {
           "label": "Stream Request (Discord)",
           "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
         },
         {
           "label": "Stream Request (Discord)",
@@ -3824,29 +3806,7 @@
       ],
       "streams": [
         {
-          "label": "Direct Link",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "type": "mpd",
-          "source_page": "https://roxiestreams.su/nba-streams-1",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nba-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": {
-            "e51aa21f2a0fef9aabc120dfb655b52f": "a12a987fe725a40b6be95cd84b15f689"
-          },
-          "sport": "nba",
-          "event_title": "San Antonio Spurs vs New York Knicks",
-          "matchup": {
-            "home": "San Antonio Spurs",
-            "away": "New York Knicks"
-          },
-          "display_name": "San Antonio Spurs vs New York Knicks"
-        },
-        {
-          "label": "Stream 2",
+          "label": "Stream 1",
           "url": "https://daffodil.shadow-ran.online/nba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-1",
@@ -3866,10 +3826,10 @@
             "home": "San Antonio Spurs",
             "away": "New York Knicks"
           },
-          "display_name": "San Antonio Spurs vs New York Knicks - Stream 2"
+          "display_name": "San Antonio Spurs vs New York Knicks - Stream 1"
         },
         {
-          "label": "nba.m3u8",
+          "label": "Stream 2",
           "url": "https://601.shadow-ran.online/nba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-1",
@@ -3889,7 +3849,7 @@
             "home": "San Antonio Spurs",
             "away": "New York Knicks"
           },
-          "display_name": "San Antonio Spurs vs New York Knicks - nba.m3u8"
+          "display_name": "San Antonio Spurs vs New York Knicks - Stream 2"
         }
       ]
     },
@@ -4271,7 +4231,7 @@
       ]
     }
   },
-  "stream_count": 46,
+  "stream_count": 45,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
