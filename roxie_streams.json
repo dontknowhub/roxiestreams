@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-12T10:45:40+00:00",
+  "scraped_at": "2026-06-12T13:57:24+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -56,6 +56,29 @@
             "display_name": "Canada vs Bosnia & Herzegovina - TSN"
           },
           {
+            "label": "FOX",
+            "url": "https://daffodil.shadow-ran.online/fox.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fox.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Canada vs Bosnia & Herzegovina",
+            "matchup": {
+              "home": "Canada",
+              "away": "Bosnia & Herzegovina"
+            },
+            "display_name": "Canada vs Bosnia & Herzegovina - FOX"
+          },
+          {
             "label": "TELEMUNDO",
             "url": "https://daffodil.shadow-ran.online/tele.m3u8",
             "type": "m3u8",
@@ -77,29 +100,6 @@
               "away": "Bosnia & Herzegovina"
             },
             "display_name": "Canada vs Bosnia & Herzegovina - TELEMUNDO"
-          },
-          {
-            "label": "FS1",
-            "url": "https://601.shadow-ran.online/fox.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "601",
-            "path": "fox.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Canada vs Bosnia & Herzegovina",
-            "matchup": {
-              "home": "Canada",
-              "away": "Bosnia & Herzegovina"
-            },
-            "display_name": "Canada vs Bosnia & Herzegovina - FS1"
           }
         ]
       },
@@ -1384,10 +1384,10 @@
         "Motorsports",
         "Stream Request (Discord)",
         "TSN",
+        "FOX",
         "TELEMUNDO",
-        "FS1",
-        "PC ONLY US (DIRECT)",
-        "Tele (Peacock)",
+        "PC ONLY (DIRECT)",
+        "Telemundo (PC)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3421,6 +3421,29 @@
           "display_name": "Canada vs Bosnia & Herzegovina - TSN"
         },
         {
+          "label": "FOX",
+          "url": "https://daffodil.shadow-ran.online/fox.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fox.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Canada vs Bosnia & Herzegovina",
+          "matchup": {
+            "home": "Canada",
+            "away": "Bosnia & Herzegovina"
+          },
+          "display_name": "Canada vs Bosnia & Herzegovina - FOX"
+        },
+        {
           "label": "TELEMUNDO",
           "url": "https://daffodil.shadow-ran.online/tele.m3u8",
           "type": "m3u8",
@@ -3442,29 +3465,6 @@
             "away": "Bosnia & Herzegovina"
           },
           "display_name": "Canada vs Bosnia & Herzegovina - TELEMUNDO"
-        },
-        {
-          "label": "FS1",
-          "url": "https://601.shadow-ran.online/fox.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "601",
-          "path": "fox.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Canada vs Bosnia & Herzegovina",
-          "matchup": {
-            "home": "Canada",
-            "away": "Bosnia & Herzegovina"
-          },
-          "display_name": "Canada vs Bosnia & Herzegovina - FS1"
         },
         {
           "label": "Direct Link",
