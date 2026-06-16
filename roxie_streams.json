@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-16T15:48:22+00:00",
+  "scraped_at": "2026-06-16T19:27:19+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -118,6 +118,29 @@
               "away": "Algeria"
             },
             "display_name": "Argentina vs Algeria - TELEMUNDO"
+          },
+          {
+            "label": "ARABIC",
+            "url": "https://601.shadow-ran.online/bein.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "601",
+            "path": "bein.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Argentina vs Algeria",
+            "matchup": {
+              "home": "Argentina",
+              "away": "Algeria"
+            },
+            "display_name": "Argentina vs Algeria - ARABIC"
           },
           {
             "label": "fox.m3u8",
@@ -1374,6 +1397,7 @@
         "TELEMUNDO",
         "PC ONLY (DIRECT)",
         "Tele (Peacock)",
+        "ARABIC",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3409,6 +3433,29 @@
           "display_name": "Argentina vs Algeria - TELEMUNDO"
         },
         {
+          "label": "ARABIC",
+          "url": "https://601.shadow-ran.online/bein.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "601",
+          "path": "bein.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Argentina vs Algeria",
+          "matchup": {
+            "home": "Argentina",
+            "away": "Algeria"
+          },
+          "display_name": "Argentina vs Algeria - ARABIC"
+        },
+        {
           "label": "fox.m3u8",
           "url": "https://601.shadow-ran.online/fox.m3u8",
           "type": "m3u8",
@@ -4361,7 +4408,7 @@
       ]
     }
   },
-  "stream_count": 48,
+  "stream_count": 49,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
