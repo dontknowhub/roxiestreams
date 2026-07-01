@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-01T18:21:06+00:00",
+  "scraped_at": "2026-07-01T20:20:51+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -153,6 +153,29 @@
         },
         "page": "https://roxiestreams.su/soccer-streams-2",
         "streams": [
+          {
+            "label": "FS1",
+            "url": "https://602.shadow-ran.online/fs1.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "602",
+            "path": "fs1.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Belgium vs Senegal",
+            "matchup": {
+              "home": "Belgium",
+              "away": "Senegal"
+            },
+            "display_name": "Belgium vs Senegal - FS1"
+          },
           {
             "label": "العربية",
             "url": "https://ataide0.shadow-ran.online/bein2.m3u8",
@@ -2902,6 +2925,29 @@
           "display_name": "USA vs Bosnia - العربية"
         },
         {
+          "label": "FS1",
+          "url": "https://602.shadow-ran.online/fs1.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "602",
+          "path": "fs1.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Belgium vs Senegal",
+          "matchup": {
+            "home": "Belgium",
+            "away": "Senegal"
+          },
+          "display_name": "Belgium vs Senegal - FS1"
+        },
+        {
           "label": "العربية",
           "url": "https://ataide0.shadow-ran.online/bein2.m3u8",
           "type": "m3u8",
@@ -3473,7 +3519,7 @@
       "streams": []
     }
   },
-  "stream_count": 29,
+  "stream_count": 30,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
