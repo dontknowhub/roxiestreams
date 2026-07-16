@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T00:54:02+00:00",
+  "scraped_at": "2026-07-16T03:54:38+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -38,13 +38,13 @@
         "page": "https://roxiestreams.su/soccer-streams-1",
         "streams": [
           {
-            "label": "TSN",
-            "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "tsn.m3u8",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -58,16 +58,16 @@
               "home": "Botafogo",
               "away": "Santos"
             },
-            "display_name": "Botafogo vs Santos - TSN"
+            "display_name": "Botafogo vs Santos - Stream 1"
           },
           {
-            "label": "FOX",
-            "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "foxalt.m3u8",
+            "subdomain": "daffodil",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -81,76 +81,7 @@
               "home": "Botafogo",
               "away": "Santos"
             },
-            "display_name": "Botafogo vs Santos - FOX"
-          },
-          {
-            "label": "FOX (ALT)",
-            "url": "https://tedesco.shadow-ran.online/fox.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "fox.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Botafogo vs Santos",
-            "matchup": {
-              "home": "Botafogo",
-              "away": "Santos"
-            },
-            "display_name": "Botafogo vs Santos - FOX (ALT)"
-          },
-          {
-            "label": "TELEMUNDO",
-            "url": "https://admin2.shadow-ran.online/tele.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "tele.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Botafogo vs Santos",
-            "matchup": {
-              "home": "Botafogo",
-              "away": "Santos"
-            },
-            "display_name": "Botafogo vs Santos - TELEMUNDO"
-          },
-          {
-            "label": "العربية",
-            "url": "https://admin2.shadow-ran.online/bein1.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "bein1.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Botafogo vs Santos",
-            "matchup": {
-              "home": "Botafogo",
-              "away": "Santos"
-            },
-            "display_name": "Botafogo vs Santos - العربية"
+            "display_name": "Botafogo vs Santos - fana.m3u8"
           }
         ]
       },
@@ -165,12 +96,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/sportv2.m3u8",
+            "url": "https://admin2.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "sportv2.m3u8",
+            "subdomain": "admin2",
+            "path": "fana2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -187,13 +118,13 @@
             "display_name": "Vitória vs Vasco Gama - Stream 1"
           },
           {
-            "label": "sportv2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/sportv2.m3u8",
+            "label": "fana2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "sportv2.m3u8",
+            "path": "fana2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -207,7 +138,7 @@
               "home": "Vitória",
               "away": "Vasco Gama"
             },
-            "display_name": "Vitória vs Vasco Gama - sportv2.m3u8"
+            "display_name": "Vitória vs Vasco Gama - fana2.m3u8"
           }
         ]
       },
@@ -222,12 +153,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/sportv.m3u8",
+            "url": "https://admin2.shadow-ran.online/tyc.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "sportv.m3u8",
+            "subdomain": "admin2",
+            "path": "tyc.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -244,13 +175,13 @@
             "display_name": "Sarmiento vs Boca Juniors - Stream 1"
           },
           {
-            "label": "sportv.m3u8",
-            "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
+            "label": "tyc.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tyc.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "sportv.m3u8",
+            "path": "tyc.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -264,7 +195,7 @@
               "home": "Sarmiento",
               "away": "Boca Juniors"
             },
-            "display_name": "Sarmiento vs Boca Juniors - sportv.m3u8"
+            "display_name": "Sarmiento vs Boca Juniors - tyc.m3u8"
           }
         ]
       },
@@ -278,13 +209,13 @@
         "page": "https://roxiestreams.su/soccer-streams-4",
         "streams": [
           {
-            "label": "TSN",
-            "url": "https://ataide0.shadow-ran.online/tsn.m3u8",
+            "label": "FOX MX",
+            "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "ataide0",
-            "path": "tsn.m3u8",
+            "subdomain": "admin2",
+            "path": "foxmx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
@@ -298,30 +229,7 @@
               "home": "Necaxa",
               "away": "Atlante"
             },
-            "display_name": "Necaxa vs Atlante - TSN"
-          },
-          {
-            "label": "TELEMUNDO",
-            "url": "https://tedesco.shadow-ran.online/tele.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "tele.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-4",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Necaxa vs Atlante",
-            "matchup": {
-              "home": "Necaxa",
-              "away": "Atlante"
-            },
-            "display_name": "Necaxa vs Atlante - TELEMUNDO"
+            "display_name": "Necaxa vs Atlante - FOX MX"
           }
         ]
       }
@@ -1149,14 +1057,7 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "TSN",
-        "FOX",
-        "FOX (ALT)",
-        "TELEMUNDO",
-        "PC ONLY (DIRECT)",
-        "Tele (Peacock)",
-        "العربية",
-        "TSN PC DIRECT VPN",
+        "Stream 1",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1354,11 +1255,8 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "TSN",
-        "FOX",
-        "TELEMUNDO",
-        "PC ONLY (DIRECT)",
-        "Tele (Peacock)",
+        "FOX MX",
+        "MX VPN PC ONLY",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1424,11 +1322,8 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "TSN",
-        "FS1",
-        "TELEMUNDO",
-        "PC ONLY (DIRECT)",
-        "Tele (Peacock)",
+        "FOX MX",
+        "MX VPN PC ONLY",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2746,13 +2641,13 @@
       ],
       "streams": [
         {
-          "label": "TSN",
-          "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "tsn.m3u8",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -2766,16 +2661,16 @@
             "home": "Botafogo",
             "away": "Santos"
           },
-          "display_name": "Botafogo vs Santos - TSN"
+          "display_name": "Botafogo vs Santos - Stream 1"
         },
         {
-          "label": "FOX",
-          "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "foxalt.m3u8",
+          "subdomain": "daffodil",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -2789,85 +2684,16 @@
             "home": "Botafogo",
             "away": "Santos"
           },
-          "display_name": "Botafogo vs Santos - FOX"
-        },
-        {
-          "label": "FOX (ALT)",
-          "url": "https://tedesco.shadow-ran.online/fox.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "fox.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Botafogo vs Santos",
-          "matchup": {
-            "home": "Botafogo",
-            "away": "Santos"
-          },
-          "display_name": "Botafogo vs Santos - FOX (ALT)"
-        },
-        {
-          "label": "TELEMUNDO",
-          "url": "https://admin2.shadow-ran.online/tele.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "tele.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Botafogo vs Santos",
-          "matchup": {
-            "home": "Botafogo",
-            "away": "Santos"
-          },
-          "display_name": "Botafogo vs Santos - TELEMUNDO"
-        },
-        {
-          "label": "العربية",
-          "url": "https://admin2.shadow-ran.online/bein1.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "bein1.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Botafogo vs Santos",
-          "matchup": {
-            "home": "Botafogo",
-            "away": "Santos"
-          },
-          "display_name": "Botafogo vs Santos - العربية"
+          "display_name": "Botafogo vs Santos - fana.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/sportv2.m3u8",
+          "url": "https://admin2.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "sportv2.m3u8",
+          "subdomain": "admin2",
+          "path": "fana2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -2884,13 +2710,13 @@
           "display_name": "Vitória vs Vasco Gama - Stream 1"
         },
         {
-          "label": "sportv2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/sportv2.m3u8",
+          "label": "fana2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "sportv2.m3u8",
+          "path": "fana2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -2904,16 +2730,16 @@
             "home": "Vitória",
             "away": "Vasco Gama"
           },
-          "display_name": "Vitória vs Vasco Gama - sportv2.m3u8"
+          "display_name": "Vitória vs Vasco Gama - fana2.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/sportv.m3u8",
+          "url": "https://admin2.shadow-ran.online/tyc.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "sportv.m3u8",
+          "subdomain": "admin2",
+          "path": "tyc.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -2930,13 +2756,13 @@
           "display_name": "Sarmiento vs Boca Juniors - Stream 1"
         },
         {
-          "label": "sportv.m3u8",
-          "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
+          "label": "tyc.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tyc.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "sportv.m3u8",
+          "path": "tyc.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -2950,16 +2776,16 @@
             "home": "Sarmiento",
             "away": "Boca Juniors"
           },
-          "display_name": "Sarmiento vs Boca Juniors - sportv.m3u8"
+          "display_name": "Sarmiento vs Boca Juniors - tyc.m3u8"
         },
         {
-          "label": "TSN",
-          "url": "https://ataide0.shadow-ran.online/tsn.m3u8",
+          "label": "FOX MX",
+          "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "ataide0",
-          "path": "tsn.m3u8",
+          "subdomain": "admin2",
+          "path": "foxmx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
@@ -2973,30 +2799,7 @@
             "home": "Necaxa",
             "away": "Atlante"
           },
-          "display_name": "Necaxa vs Atlante - TSN"
-        },
-        {
-          "label": "TELEMUNDO",
-          "url": "https://tedesco.shadow-ran.online/tele.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "tele.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-4",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Necaxa vs Atlante",
-          "matchup": {
-            "home": "Necaxa",
-            "away": "Atlante"
-          },
-          "display_name": "Necaxa vs Atlante - TELEMUNDO"
+          "display_name": "Necaxa vs Atlante - FOX MX"
         }
       ]
     },
@@ -3648,7 +3451,7 @@
       ]
     }
   },
-  "stream_count": 37,
+  "stream_count": 33,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
