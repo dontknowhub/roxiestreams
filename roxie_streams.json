@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-20T23:45:57+00:00",
+  "scraped_at": "2026-07-21T01:28:30+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -19,22 +19,22 @@
   "events_by_sport": {
     "soccer": [
       {
-        "title": "Sporting CP vs Strasbourg",
+        "title": "Nacional vs Tigre",
         "sport": "soccer",
         "matchup": {
-          "home": "Sporting CP",
-          "away": "Strasbourg"
+          "home": "Nacional",
+          "away": "Tigre"
         },
         "page": "https://roxiestreams.su/soccer-streams-1",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/sporting.m3u8",
+            "url": "https://admin2.shadow-ran.online/bein.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "sporting.m3u8",
+            "subdomain": "admin2",
+            "path": "bein.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -43,21 +43,21 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Sporting CP vs Strasbourg",
+            "event_title": "Nacional vs Tigre",
             "matchup": {
-              "home": "Sporting CP",
-              "away": "Strasbourg"
+              "home": "Nacional",
+              "away": "Tigre"
             },
-            "display_name": "Sporting CP vs Strasbourg - Stream 1"
+            "display_name": "Nacional vs Tigre - Stream 1"
           },
           {
-            "label": "sporting.m3u8",
-            "url": "https://daffodil.shadow-ran.online/sporting.m3u8",
+            "label": "bein.m3u8",
+            "url": "https://daffodil.shadow-ran.online/bein.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "sporting.m3u8",
+            "path": "bein.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -66,12 +66,218 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Sporting CP vs Strasbourg",
+            "event_title": "Nacional vs Tigre",
             "matchup": {
-              "home": "Sporting CP",
-              "away": "Strasbourg"
+              "home": "Nacional",
+              "away": "Tigre"
             },
-            "display_name": "Sporting CP vs Strasbourg - sporting.m3u8"
+            "display_name": "Nacional vs Tigre - bein.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Atlético Mineiro vs Bahia",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Atlético Mineiro",
+          "away": "Bahia"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-2",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/l1max.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "l1max.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Atlético Mineiro vs Bahia",
+            "matchup": {
+              "home": "Atlético Mineiro",
+              "away": "Bahia"
+            },
+            "display_name": "Atlético Mineiro vs Bahia - Stream 1"
+          },
+          {
+            "label": "l1max.m3u8",
+            "url": "https://daffodil.shadow-ran.online/l1max.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "l1max.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Atlético Mineiro vs Bahia",
+            "matchup": {
+              "home": "Atlético Mineiro",
+              "away": "Bahia"
+            },
+            "display_name": "Atlético Mineiro vs Bahia - l1max.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Toluca vs Pumas UNAM",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Toluca",
+          "away": "Pumas UNAM"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-5",
+        "streams": [
+          {
+            "label": "TSN",
+            "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "tsn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Toluca vs Pumas UNAM",
+            "matchup": {
+              "home": "Toluca",
+              "away": "Pumas UNAM"
+            },
+            "display_name": "Toluca vs Pumas UNAM - TSN"
+          },
+          {
+            "label": "FOX",
+            "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "foxalt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Toluca vs Pumas UNAM",
+            "matchup": {
+              "home": "Toluca",
+              "away": "Pumas UNAM"
+            },
+            "display_name": "Toluca vs Pumas UNAM - FOX"
+          },
+          {
+            "label": "FOX (ALT)",
+            "url": "https://tedesco.shadow-ran.online/fox.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "fox.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Toluca vs Pumas UNAM",
+            "matchup": {
+              "home": "Toluca",
+              "away": "Pumas UNAM"
+            },
+            "display_name": "Toluca vs Pumas UNAM - FOX (ALT)"
+          },
+          {
+            "label": "TELEMUNDO",
+            "url": "https://admin2.shadow-ran.online/tele.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "tele.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Toluca vs Pumas UNAM",
+            "matchup": {
+              "home": "Toluca",
+              "away": "Pumas UNAM"
+            },
+            "display_name": "Toluca vs Pumas UNAM - TELEMUNDO"
+          },
+          {
+            "label": "العربية",
+            "url": "https://admin2.shadow-ran.online/bein1.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "bein1.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Toluca vs Pumas UNAM",
+            "matchup": {
+              "home": "Toluca",
+              "away": "Pumas UNAM"
+            },
+            "display_name": "Toluca vs Pumas UNAM - العربية"
+          },
+          {
+            "label": "AZTECA 7",
+            "url": "https://admin2.shadow-ran.online/azteca7.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "azteca7.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Toluca vs Pumas UNAM",
+            "matchup": {
+              "home": "Toluca",
+              "away": "Pumas UNAM"
+            },
+            "display_name": "Toluca vs Pumas UNAM - AZTECA 7"
           }
         ]
       }
@@ -1190,7 +1396,11 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Sporting CP vs Strasbourg",
+        "Nacional vs Tigre",
+        "Atlético Mineiro vs Bahia",
+        "UCV vs Santos",
+        "Cruz Azul vs Puebla",
+        "Toluca vs Pumas UNAM",
         "Stream Request (Discord)"
       ],
       "links": [
@@ -1235,8 +1445,24 @@
           "url": "https://roxiestreams.su/multiview"
         },
         {
-          "label": "Sporting CP vs Strasbourg",
+          "label": "Nacional vs Tigre",
           "url": "https://roxiestreams.su/soccer-streams-1"
+        },
+        {
+          "label": "Atlético Mineiro vs Bahia",
+          "url": "https://roxiestreams.su/soccer-streams-2"
+        },
+        {
+          "label": "UCV vs Santos",
+          "url": "https://roxiestreams.su/soccer-streams-3"
+        },
+        {
+          "label": "Cruz Azul vs Puebla",
+          "url": "https://roxiestreams.su/soccer-streams-4"
+        },
+        {
+          "label": "Toluca vs Pumas UNAM",
+          "url": "https://roxiestreams.su/soccer-streams-5"
         },
         {
           "label": "Stream Request (Discord)",
@@ -1260,6 +1486,278 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer (WC 2026)",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.su/soccer-streams-2": {
+      "url": "https://roxiestreams.su/soccer-streams-2",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer (WC 2026)",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer (WC 2026)",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.su/soccer-streams-3": {
+      "url": "https://roxiestreams.su/soccer-streams-3",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer (WC 2026)",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer (WC 2026)",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.su/soccer-streams-4": {
+      "url": "https://roxiestreams.su/soccer-streams-4",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer (WC 2026)",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer (WC 2026)",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/JhkVmejRmn"
+        }
+      ]
+    },
+    "https://roxiestreams.su/soccer-streams-5": {
+      "url": "https://roxiestreams.su/soccer-streams-5",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer (WC 2026)",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "TSN",
+        "FOX",
+        "FOX (ALT)",
+        "TELEMUNDO",
+        "PC ONLY (DIRECT)",
+        "Tele (Peacock)",
+        "العربية",
+        "TSN PC DIRECT VPN",
+        "AZTECA 7",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3405,17 +3903,21 @@
     "soccer": {
       "pages": [
         "https://roxiestreams.su/soccer",
-        "https://roxiestreams.su/soccer-streams-1"
+        "https://roxiestreams.su/soccer-streams-1",
+        "https://roxiestreams.su/soccer-streams-2",
+        "https://roxiestreams.su/soccer-streams-3",
+        "https://roxiestreams.su/soccer-streams-4",
+        "https://roxiestreams.su/soccer-streams-5"
       ],
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/sporting.m3u8",
+          "url": "https://admin2.shadow-ran.online/bein.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "sporting.m3u8",
+          "subdomain": "admin2",
+          "path": "bein.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -3424,21 +3926,21 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Sporting CP vs Strasbourg",
+          "event_title": "Nacional vs Tigre",
           "matchup": {
-            "home": "Sporting CP",
-            "away": "Strasbourg"
+            "home": "Nacional",
+            "away": "Tigre"
           },
-          "display_name": "Sporting CP vs Strasbourg - Stream 1"
+          "display_name": "Nacional vs Tigre - Stream 1"
         },
         {
-          "label": "sporting.m3u8",
-          "url": "https://daffodil.shadow-ran.online/sporting.m3u8",
+          "label": "bein.m3u8",
+          "url": "https://daffodil.shadow-ran.online/bein.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "sporting.m3u8",
+          "path": "bein.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -3447,12 +3949,196 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Sporting CP vs Strasbourg",
+          "event_title": "Nacional vs Tigre",
           "matchup": {
-            "home": "Sporting CP",
-            "away": "Strasbourg"
+            "home": "Nacional",
+            "away": "Tigre"
           },
-          "display_name": "Sporting CP vs Strasbourg - sporting.m3u8"
+          "display_name": "Nacional vs Tigre - bein.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/l1max.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "l1max.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Atlético Mineiro vs Bahia",
+          "matchup": {
+            "home": "Atlético Mineiro",
+            "away": "Bahia"
+          },
+          "display_name": "Atlético Mineiro vs Bahia - Stream 1"
+        },
+        {
+          "label": "l1max.m3u8",
+          "url": "https://daffodil.shadow-ran.online/l1max.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "l1max.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Atlético Mineiro vs Bahia",
+          "matchup": {
+            "home": "Atlético Mineiro",
+            "away": "Bahia"
+          },
+          "display_name": "Atlético Mineiro vs Bahia - l1max.m3u8"
+        },
+        {
+          "label": "TSN",
+          "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "tsn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Toluca vs Pumas UNAM",
+          "matchup": {
+            "home": "Toluca",
+            "away": "Pumas UNAM"
+          },
+          "display_name": "Toluca vs Pumas UNAM - TSN"
+        },
+        {
+          "label": "FOX",
+          "url": "https://admin2.shadow-ran.online/foxalt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "foxalt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Toluca vs Pumas UNAM",
+          "matchup": {
+            "home": "Toluca",
+            "away": "Pumas UNAM"
+          },
+          "display_name": "Toluca vs Pumas UNAM - FOX"
+        },
+        {
+          "label": "FOX (ALT)",
+          "url": "https://tedesco.shadow-ran.online/fox.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "fox.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Toluca vs Pumas UNAM",
+          "matchup": {
+            "home": "Toluca",
+            "away": "Pumas UNAM"
+          },
+          "display_name": "Toluca vs Pumas UNAM - FOX (ALT)"
+        },
+        {
+          "label": "TELEMUNDO",
+          "url": "https://admin2.shadow-ran.online/tele.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "tele.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Toluca vs Pumas UNAM",
+          "matchup": {
+            "home": "Toluca",
+            "away": "Pumas UNAM"
+          },
+          "display_name": "Toluca vs Pumas UNAM - TELEMUNDO"
+        },
+        {
+          "label": "العربية",
+          "url": "https://admin2.shadow-ran.online/bein1.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "bein1.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Toluca vs Pumas UNAM",
+          "matchup": {
+            "home": "Toluca",
+            "away": "Pumas UNAM"
+          },
+          "display_name": "Toluca vs Pumas UNAM - العربية"
+        },
+        {
+          "label": "AZTECA 7",
+          "url": "https://admin2.shadow-ran.online/azteca7.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "azteca7.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Toluca vs Pumas UNAM",
+          "matchup": {
+            "home": "Toluca",
+            "away": "Pumas UNAM"
+          },
+          "display_name": "Toluca vs Pumas UNAM - AZTECA 7"
         }
       ]
     },
@@ -4361,7 +5047,7 @@
       ]
     }
   },
-  "stream_count": 41,
+  "stream_count": 49,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
