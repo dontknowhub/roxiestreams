@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T22:16:14+00:00",
+  "scraped_at": "2026-07-25T23:26:09+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -100,13 +100,13 @@
         "page": "https://roxiestreams.su/soccer-streams-10",
         "streams": [
           {
-            "label": "AYM SPORTS",
-            "url": "https://temp.shadow-ran.online/aymsportsmx.m3u8",
+            "label": "Stream 1",
+            "url": "https://temp.shadow-ran.online/mlb5.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "temp",
-            "path": "aymsportsmx.m3u8",
+            "path": "mlb5.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -120,7 +120,30 @@
               "home": "Columbus Crew",
               "away": "Cincinnati"
             },
-            "display_name": "Columbus Crew vs Cincinnati - AYM SPORTS"
+            "display_name": "Columbus Crew vs Cincinnati - Stream 1"
+          },
+          {
+            "label": "mlb5.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mlb5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-10",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "mlb5.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-10",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Columbus Crew vs Cincinnati",
+            "matchup": {
+              "home": "Columbus Crew",
+              "away": "Cincinnati"
+            },
+            "display_name": "Columbus Crew vs Cincinnati - mlb5.m3u8"
           }
         ]
       },
@@ -135,11 +158,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/mls.m3u8",
+            "url": "https://tedesco.shadow-ran.online/mls.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
+            "subdomain": "tedesco",
             "path": "mls.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-11",
@@ -192,12 +215,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/napoli.m3u8",
+            "url": "https://temp.shadow-ran.online/fana4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "temp",
-            "path": "napoli.m3u8",
+            "path": "fana4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-12",
               "Origin": "https://roxiestreams.su",
@@ -214,13 +237,13 @@
             "display_name": "Vasco Gama vs Mirassol - Stream 1"
           },
           {
-            "label": "napoli.m3u8",
-            "url": "https://daffodil.shadow-ran.online/napoli.m3u8",
+            "label": "fana4.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "napoli.m3u8",
+            "path": "fana4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-12",
               "Origin": "https://roxiestreams.su",
@@ -234,7 +257,7 @@
               "home": "Vasco Gama",
               "away": "Mirassol"
             },
-            "display_name": "Vasco Gama vs Mirassol - napoli.m3u8"
+            "display_name": "Vasco Gama vs Mirassol - fana4.m3u8"
           }
         ]
       },
@@ -249,12 +272,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/fana.m3u8",
+            "url": "https://temp.shadow-ran.online/wrexham.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "temp",
-            "path": "fana.m3u8",
+            "path": "wrexham.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-13",
               "Origin": "https://roxiestreams.su",
@@ -271,13 +294,13 @@
             "display_name": "Wrexham vs Leeds United - Stream 1"
           },
           {
-            "label": "Stream 2 (ENGLISH)",
-            "url": "https://temp.shadow-ran.online/fanaen.m3u8",
+            "label": "wrexham.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wrexham.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
-            "path": "fanaen.m3u8",
+            "subdomain": "daffodil",
+            "path": "wrexham.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-13",
               "Origin": "https://roxiestreams.su",
@@ -291,87 +314,7 @@
               "home": "Wrexham",
               "away": "Leeds United"
             },
-            "display_name": "Wrexham vs Leeds United - Stream 2 (ENGLISH)"
-          },
-          {
-            "label": "fana.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-13",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fana.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-13",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Wrexham vs Leeds United",
-            "matchup": {
-              "home": "Wrexham",
-              "away": "Leeds United"
-            },
-            "display_name": "Wrexham vs Leeds United - fana.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "San Diego vs Dallas",
-        "sport": "soccer",
-        "matchup": {
-          "home": "San Diego",
-          "away": "Dallas"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-14",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/bein.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-14",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "bein.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-14",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "San Diego vs Dallas",
-            "matchup": {
-              "home": "San Diego",
-              "away": "Dallas"
-            },
-            "display_name": "San Diego vs Dallas - Stream 1"
-          },
-          {
-            "label": "bein.m3u8",
-            "url": "https://daffodil.shadow-ran.online/bein.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-14",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "bein.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-14",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "San Diego vs Dallas",
-            "matchup": {
-              "home": "San Diego",
-              "away": "Dallas"
-            },
-            "display_name": "San Diego vs Dallas - bein.m3u8"
+            "display_name": "Wrexham vs Leeds United - wrexham.m3u8"
           }
         ]
       },
@@ -442,13 +385,13 @@
         "page": "https://roxiestreams.su/soccer-streams-16",
         "streams": [
           {
-            "label": "AZTECA 7",
-            "url": "https://temp.shadow-ran.online/azteca7.m3u8",
+            "label": "TELEMUNDO",
+            "url": "https://temp.shadow-ran.online/telemundo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-16",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "temp",
-            "path": "azteca7.m3u8",
+            "path": "telemundo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-16",
               "Origin": "https://roxiestreams.su",
@@ -462,53 +405,7 @@
               "home": "Tigres UANL",
               "away": "San Luis"
             },
-            "display_name": "Tigres UANL vs San Luis - AZTECA 7"
-          },
-          {
-            "label": "FOX ONE MX",
-            "url": "https://temp.shadow-ran.online/foxonemx.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-16",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
-            "path": "foxonemx.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-16",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Tigres UANL vs San Luis",
-            "matchup": {
-              "home": "Tigres UANL",
-              "away": "San Luis"
-            },
-            "display_name": "Tigres UANL vs San Luis - FOX ONE MX"
-          },
-          {
-            "label": "azteca7mx.m3u8",
-            "url": "https://temp.shadow-ran.online/azteca7mx.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-16",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
-            "path": "azteca7mx.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-16",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Tigres UANL vs San Luis",
-            "matchup": {
-              "home": "Tigres UANL",
-              "away": "San Luis"
-            },
-            "display_name": "Tigres UANL vs San Luis - azteca7mx.m3u8"
+            "display_name": "Tigres UANL vs San Luis - TELEMUNDO"
           }
         ]
       },
@@ -625,6 +522,29 @@
             "display_name": "Toluca vs Cruz Azul - Stream 1"
           },
           {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-18",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "tudn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-18",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Toluca vs Cruz Azul",
+            "matchup": {
+              "home": "Toluca",
+              "away": "Cruz Azul"
+            },
+            "display_name": "Toluca vs Cruz Azul - Stream 2"
+          },
+          {
             "label": "canal5mx.m3u8",
             "url": "https://daffodil.shadow-ran.online/canal5mx.m3u8",
             "type": "m3u8",
@@ -703,6 +623,63 @@
               "away": "Milan"
             },
             "display_name": "Celtic vs Milan - sportv2.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Athletico-PR vs Internacional",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Athletico-PR",
+          "away": "Internacional"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-5",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://temp.shadow-ran.online/fana.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "temp",
+            "path": "fana.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Athletico-PR vs Internacional",
+            "matchup": {
+              "home": "Athletico-PR",
+              "away": "Internacional"
+            },
+            "display_name": "Athletico-PR vs Internacional - Stream 1"
+          },
+          {
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Athletico-PR vs Internacional",
+            "matchup": {
+              "home": "Athletico-PR",
+              "away": "Internacional"
+            },
+            "display_name": "Athletico-PR vs Internacional - fana.m3u8"
           }
         ]
       },
@@ -876,6 +853,29 @@
             "display_name": "River Plate vs Barracas - Stream 1"
           },
           {
+            "label": "Stream 2 (ENGLISH)",
+            "url": "https://temp.shadow-ran.online/fana3en.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "temp",
+            "path": "fana3en.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-8",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "River Plate vs Barracas",
+            "matchup": {
+              "home": "River Plate",
+              "away": "Barracas"
+            },
+            "display_name": "River Plate vs Barracas - Stream 2 (ENGLISH)"
+          },
+          {
             "label": "fana3.m3u8",
             "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
             "type": "m3u8",
@@ -897,40 +897,6 @@
               "away": "Barracas"
             },
             "display_name": "River Plate vs Barracas - fana3.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Chivas vs Juarez",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Chivas",
-          "away": "Juarez"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-9",
-        "streams": [
-          {
-            "label": "TELEMUNDO",
-            "url": "https://temp.shadow-ran.online/telemundo.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
-            "path": "telemundo.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-9",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Chivas vs Juarez",
-            "matchup": {
-              "home": "Chivas",
-              "away": "Juarez"
-            },
-            "display_name": "Chivas vs Juarez - TELEMUNDO"
           }
         ]
       }
@@ -2293,8 +2259,7 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "AYM SPORTS",
-        "MX VPN PC ONLY",
+        "Stream 1",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2493,7 +2458,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (ENGLISH)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2691,10 +2655,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "AZTECA 7",
-        "AZTECA 7 MX VPN PC ONLY",
-        "MX VPN PC ONLY",
-        "FOX ONE MX",
+        "TELEMUNDO",
+        "TELEMUNDO US VPN PC ONLY",
+        "PEACOCK US VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2828,6 +2791,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3291,6 +3255,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (ENGLISH)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5607,13 +5572,13 @@
           "display_name": "Porto vs Aston Villa - bein2.m3u8"
         },
         {
-          "label": "AYM SPORTS",
-          "url": "https://temp.shadow-ran.online/aymsportsmx.m3u8",
+          "label": "Stream 1",
+          "url": "https://temp.shadow-ran.online/mlb5.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "temp",
-          "path": "aymsportsmx.m3u8",
+          "path": "mlb5.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -5627,15 +5592,38 @@
             "home": "Columbus Crew",
             "away": "Cincinnati"
           },
-          "display_name": "Columbus Crew vs Cincinnati - AYM SPORTS"
+          "display_name": "Columbus Crew vs Cincinnati - Stream 1"
+        },
+        {
+          "label": "mlb5.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mlb5.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-10",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "mlb5.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-10",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Columbus Crew vs Cincinnati",
+          "matchup": {
+            "home": "Columbus Crew",
+            "away": "Cincinnati"
+          },
+          "display_name": "Columbus Crew vs Cincinnati - mlb5.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/mls.m3u8",
+          "url": "https://tedesco.shadow-ran.online/mls.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
+          "subdomain": "tedesco",
           "path": "mls.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-11",
@@ -5677,12 +5665,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/napoli.m3u8",
+          "url": "https://temp.shadow-ran.online/fana4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "temp",
-          "path": "napoli.m3u8",
+          "path": "fana4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-12",
             "Origin": "https://roxiestreams.su",
@@ -5699,13 +5687,13 @@
           "display_name": "Vasco Gama vs Mirassol - Stream 1"
         },
         {
-          "label": "napoli.m3u8",
-          "url": "https://daffodil.shadow-ran.online/napoli.m3u8",
+          "label": "fana4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "napoli.m3u8",
+          "path": "fana4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-12",
             "Origin": "https://roxiestreams.su",
@@ -5719,16 +5707,16 @@
             "home": "Vasco Gama",
             "away": "Mirassol"
           },
-          "display_name": "Vasco Gama vs Mirassol - napoli.m3u8"
+          "display_name": "Vasco Gama vs Mirassol - fana4.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/fana.m3u8",
+          "url": "https://temp.shadow-ran.online/wrexham.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "temp",
-          "path": "fana.m3u8",
+          "path": "wrexham.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-13",
             "Origin": "https://roxiestreams.su",
@@ -5745,13 +5733,13 @@
           "display_name": "Wrexham vs Leeds United - Stream 1"
         },
         {
-          "label": "Stream 2 (ENGLISH)",
-          "url": "https://temp.shadow-ran.online/fanaen.m3u8",
+          "label": "wrexham.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wrexham.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
-          "path": "fanaen.m3u8",
+          "subdomain": "daffodil",
+          "path": "wrexham.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-13",
             "Origin": "https://roxiestreams.su",
@@ -5765,76 +5753,7 @@
             "home": "Wrexham",
             "away": "Leeds United"
           },
-          "display_name": "Wrexham vs Leeds United - Stream 2 (ENGLISH)"
-        },
-        {
-          "label": "fana.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-13",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fana.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-13",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Wrexham vs Leeds United",
-          "matchup": {
-            "home": "Wrexham",
-            "away": "Leeds United"
-          },
-          "display_name": "Wrexham vs Leeds United - fana.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/bein.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-14",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "bein.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-14",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "San Diego vs Dallas",
-          "matchup": {
-            "home": "San Diego",
-            "away": "Dallas"
-          },
-          "display_name": "San Diego vs Dallas - Stream 1"
-        },
-        {
-          "label": "bein.m3u8",
-          "url": "https://daffodil.shadow-ran.online/bein.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-14",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "bein.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-14",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "San Diego vs Dallas",
-          "matchup": {
-            "home": "San Diego",
-            "away": "Dallas"
-          },
-          "display_name": "San Diego vs Dallas - bein.m3u8"
+          "display_name": "Wrexham vs Leeds United - wrexham.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5883,13 +5802,13 @@
           "display_name": "Auckland vs Tottenham - juve.m3u8"
         },
         {
-          "label": "AZTECA 7",
-          "url": "https://temp.shadow-ran.online/azteca7.m3u8",
+          "label": "TELEMUNDO",
+          "url": "https://temp.shadow-ran.online/telemundo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-16",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "temp",
-          "path": "azteca7.m3u8",
+          "path": "telemundo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-16",
             "Origin": "https://roxiestreams.su",
@@ -5903,53 +5822,7 @@
             "home": "Tigres UANL",
             "away": "San Luis"
           },
-          "display_name": "Tigres UANL vs San Luis - AZTECA 7"
-        },
-        {
-          "label": "FOX ONE MX",
-          "url": "https://temp.shadow-ran.online/foxonemx.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-16",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
-          "path": "foxonemx.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-16",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Tigres UANL vs San Luis",
-          "matchup": {
-            "home": "Tigres UANL",
-            "away": "San Luis"
-          },
-          "display_name": "Tigres UANL vs San Luis - FOX ONE MX"
-        },
-        {
-          "label": "azteca7mx.m3u8",
-          "url": "https://temp.shadow-ran.online/azteca7mx.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-16",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
-          "path": "azteca7mx.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-16",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Tigres UANL vs San Luis",
-          "matchup": {
-            "home": "Tigres UANL",
-            "away": "San Luis"
-          },
-          "display_name": "Tigres UANL vs San Luis - azteca7mx.m3u8"
+          "display_name": "Tigres UANL vs San Luis - TELEMUNDO"
         },
         {
           "label": "ESPN MX",
@@ -6044,6 +5917,29 @@
           "display_name": "Toluca vs Cruz Azul - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-18",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "tudn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-18",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Toluca vs Cruz Azul",
+          "matchup": {
+            "home": "Toluca",
+            "away": "Cruz Azul"
+          },
+          "display_name": "Toluca vs Cruz Azul - Stream 2"
+        },
+        {
           "label": "canal5mx.m3u8",
           "url": "https://daffodil.shadow-ran.online/canal5mx.m3u8",
           "type": "m3u8",
@@ -6111,6 +6007,52 @@
             "away": "Milan"
           },
           "display_name": "Celtic vs Milan - sportv2.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://temp.shadow-ran.online/fana.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "temp",
+          "path": "fana.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Athletico-PR vs Internacional",
+          "matchup": {
+            "home": "Athletico-PR",
+            "away": "Internacional"
+          },
+          "display_name": "Athletico-PR vs Internacional - Stream 1"
+        },
+        {
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Athletico-PR vs Internacional",
+          "matchup": {
+            "home": "Athletico-PR",
+            "away": "Internacional"
+          },
+          "display_name": "Athletico-PR vs Internacional - fana.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6251,6 +6193,29 @@
           "display_name": "River Plate vs Barracas - Stream 1"
         },
         {
+          "label": "Stream 2 (ENGLISH)",
+          "url": "https://temp.shadow-ran.online/fana3en.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "temp",
+          "path": "fana3en.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-8",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "River Plate vs Barracas",
+          "matchup": {
+            "home": "River Plate",
+            "away": "Barracas"
+          },
+          "display_name": "River Plate vs Barracas - Stream 2 (ENGLISH)"
+        },
+        {
           "label": "fana3.m3u8",
           "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
           "type": "m3u8",
@@ -6272,29 +6237,6 @@
             "away": "Barracas"
           },
           "display_name": "River Plate vs Barracas - fana3.m3u8"
-        },
-        {
-          "label": "TELEMUNDO",
-          "url": "https://temp.shadow-ran.online/telemundo.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
-          "path": "telemundo.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-9",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Chivas vs Juarez",
-          "matchup": {
-            "home": "Chivas",
-            "away": "Juarez"
-          },
-          "display_name": "Chivas vs Juarez - TELEMUNDO"
         }
       ]
     },
@@ -7227,7 +7169,7 @@
       ]
     }
   },
-  "stream_count": 71,
+  "stream_count": 70,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
