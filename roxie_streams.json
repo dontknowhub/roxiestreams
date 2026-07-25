@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T21:13:56+00:00",
+  "scraped_at": "2026-07-25T22:16:14+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -739,6 +739,29 @@
             "display_name": "Santos vs Chapecoense - Stream 1"
           },
           {
+            "label": "Stream 2 (ENGLISH)",
+            "url": "https://temp.shadow-ran.online/fana2en.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "temp",
+            "path": "fana2en.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Santos vs Chapecoense",
+            "matchup": {
+              "home": "Santos",
+              "away": "Chapecoense"
+            },
+            "display_name": "Santos vs Chapecoense - Stream 2 (ENGLISH)"
+          },
+          {
             "label": "fana2.m3u8",
             "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
@@ -760,6 +783,63 @@
               "away": "Chapecoense"
             },
             "display_name": "Santos vs Chapecoense - fana2.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Liverpool vs Sunderland",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Liverpool",
+          "away": "Sunderland"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-7",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://temp.shadow-ran.online/lfc.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-7",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "temp",
+            "path": "lfc.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-7",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Liverpool vs Sunderland",
+            "matchup": {
+              "home": "Liverpool",
+              "away": "Sunderland"
+            },
+            "display_name": "Liverpool vs Sunderland - Stream 1"
+          },
+          {
+            "label": "lfc.m3u8",
+            "url": "https://daffodil.shadow-ran.online/lfc.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-7",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "lfc.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-7",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Liverpool vs Sunderland",
+            "matchup": {
+              "home": "Liverpool",
+              "away": "Sunderland"
+            },
+            "display_name": "Liverpool vs Sunderland - lfc.m3u8"
           }
         ]
       },
@@ -1598,11 +1678,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/ppv.m3u8",
+            "url": "https://temp2.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ppv-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
+            "subdomain": "temp2",
             "path": "ppv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ppv-streams-1",
@@ -1790,11 +1870,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/ppv.m3u8",
+            "url": "https://temp2.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ppv-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
+            "subdomain": "temp2",
             "path": "ppv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ppv-streams-1",
@@ -3078,6 +3158,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (ENGLISH)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3143,9 +3224,7 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "FOX ONE MX",
-        "MX VPN PC ONLY",
-        "VIX US",
+        "Stream 1",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6057,6 +6136,29 @@
           "display_name": "Santos vs Chapecoense - Stream 1"
         },
         {
+          "label": "Stream 2 (ENGLISH)",
+          "url": "https://temp.shadow-ran.online/fana2en.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "temp",
+          "path": "fana2en.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-6",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Santos vs Chapecoense",
+          "matchup": {
+            "home": "Santos",
+            "away": "Chapecoense"
+          },
+          "display_name": "Santos vs Chapecoense - Stream 2 (ENGLISH)"
+        },
+        {
           "label": "fana2.m3u8",
           "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
@@ -6078,6 +6180,52 @@
             "away": "Chapecoense"
           },
           "display_name": "Santos vs Chapecoense - fana2.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://temp.shadow-ran.online/lfc.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-7",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "temp",
+          "path": "lfc.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-7",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Liverpool vs Sunderland",
+          "matchup": {
+            "home": "Liverpool",
+            "away": "Sunderland"
+          },
+          "display_name": "Liverpool vs Sunderland - Stream 1"
+        },
+        {
+          "label": "lfc.m3u8",
+          "url": "https://daffodil.shadow-ran.online/lfc.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-7",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "lfc.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-7",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Liverpool vs Sunderland",
+          "matchup": {
+            "home": "Liverpool",
+            "away": "Sunderland"
+          },
+          "display_name": "Liverpool vs Sunderland - lfc.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6727,11 +6875,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/ppv.m3u8",
+          "url": "https://temp2.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ppv-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
+          "subdomain": "temp2",
           "path": "ppv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ppv-streams-1",
@@ -6909,11 +7057,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/ppv.m3u8",
+          "url": "https://temp2.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ppv-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
+          "subdomain": "temp2",
           "path": "ppv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ppv-streams-1",
@@ -7079,7 +7227,7 @@
       ]
     }
   },
-  "stream_count": 68,
+  "stream_count": 71,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
