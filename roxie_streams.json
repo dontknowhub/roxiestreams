@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-29T23:28:50+00:00",
+  "scraped_at": "2026-07-30T00:53:58+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -170,29 +170,6 @@
             "display_name": "Vitória vs Palmeiras - Stream 1"
           },
           {
-            "label": "Sportdigital FUSSBALL",
-            "url": "https://temp.shadow-ran.online/sportdigital.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-10",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
-            "path": "sportdigital.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-10",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Vitória vs Palmeiras",
-            "matchup": {
-              "home": "Vitória",
-              "away": "Palmeiras"
-            },
-            "display_name": "Vitória vs Palmeiras - Sportdigital FUSSBALL"
-          },
-          {
             "label": "fana7.m3u8",
             "url": "https://daffodil.shadow-ran.online/fana7.m3u8",
             "type": "m3u8",
@@ -271,63 +248,6 @@
               "away": "Platense"
             },
             "display_name": "Instituto vs Platense - fana8.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Cienciano vs Lanús",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Cienciano",
-          "away": "Lanús"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-12",
-        "streams": [
-          {
-            "label": "FOX ONE MX",
-            "url": "https://temp.shadow-ran.online/foxonemx.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-12",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
-            "path": "foxonemx.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-12",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Cienciano vs Lanús",
-            "matchup": {
-              "home": "Cienciano",
-              "away": "Lanús"
-            },
-            "display_name": "Cienciano vs Lanús - FOX ONE MX"
-          },
-          {
-            "label": "TUDN US",
-            "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-12",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "tudn.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-12",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Cienciano vs Lanús",
-            "matchup": {
-              "home": "Cienciano",
-              "away": "Lanús"
-            },
-            "display_name": "Cienciano vs Lanús - TUDN US"
           }
         ]
       },
@@ -627,11 +547,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/beines.m3u8",
+            "url": "https://tedesco.shadow-ran.online/beines.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
+            "subdomain": "tedesco",
             "path": "beines.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
@@ -1843,7 +1763,6 @@
         "Fluminense vs Bahia",
         "Vitória vs Palmeiras",
         "Instituto vs Platense",
-        "Cienciano vs Lanús",
         "RB Bragantino vs Sporting Cristal",
         "Stream Request (Discord)"
       ],
@@ -1947,10 +1866,6 @@
         {
           "label": "Instituto vs Platense",
           "url": "https://roxiestreams.su/soccer-streams-11"
-        },
-        {
-          "label": "Cienciano vs Lanús",
-          "url": "https://roxiestreams.su/soccer-streams-12"
         },
         {
           "label": "RB Bragantino vs Sporting Cristal",
@@ -2110,7 +2025,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Sportdigital FUSSBALL",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2177,74 +2091,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer (WC 2026)",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/JhkVmejRmn"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/JhkVmejRmn"
-        }
-      ]
-    },
-    "https://roxiestreams.su/soccer-streams-12": {
-      "url": "https://roxiestreams.su/soccer-streams-12",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer (WC 2026)",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "FOX ONE MX",
-        "FOX ONE MX VPN",
-        "TUDN US",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4919,7 +4765,6 @@
         "https://roxiestreams.su/soccer-streams-8",
         "https://roxiestreams.su/soccer-streams-10",
         "https://roxiestreams.su/soccer-streams-11",
-        "https://roxiestreams.su/soccer-streams-12",
         "https://roxiestreams.su/soccer-streams-13",
         "https://roxiestreams.su/soccer-streams-14",
         "https://roxiestreams.su/soccer-streams-15",
@@ -5049,29 +4894,6 @@
           "display_name": "Vitória vs Palmeiras - Stream 1"
         },
         {
-          "label": "Sportdigital FUSSBALL",
-          "url": "https://temp.shadow-ran.online/sportdigital.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-10",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
-          "path": "sportdigital.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-10",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Vitória vs Palmeiras",
-          "matchup": {
-            "home": "Vitória",
-            "away": "Palmeiras"
-          },
-          "display_name": "Vitória vs Palmeiras - Sportdigital FUSSBALL"
-        },
-        {
           "label": "fana7.m3u8",
           "url": "https://daffodil.shadow-ran.online/fana7.m3u8",
           "type": "m3u8",
@@ -5139,52 +4961,6 @@
             "away": "Platense"
           },
           "display_name": "Instituto vs Platense - fana8.m3u8"
-        },
-        {
-          "label": "FOX ONE MX",
-          "url": "https://temp.shadow-ran.online/foxonemx.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-12",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
-          "path": "foxonemx.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-12",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Cienciano vs Lanús",
-          "matchup": {
-            "home": "Cienciano",
-            "away": "Lanús"
-          },
-          "display_name": "Cienciano vs Lanús - FOX ONE MX"
-        },
-        {
-          "label": "TUDN US",
-          "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-12",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "tudn.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-12",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Cienciano vs Lanús",
-          "matchup": {
-            "home": "Cienciano",
-            "away": "Lanús"
-          },
-          "display_name": "Cienciano vs Lanús - TUDN US"
         },
         {
           "label": "Stream 1",
@@ -5418,11 +5194,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/beines.m3u8",
+          "url": "https://tedesco.shadow-ran.online/beines.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
+          "subdomain": "tedesco",
           "path": "beines.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
@@ -6396,7 +6172,7 @@
       "streams": []
     }
   },
-  "stream_count": 63,
+  "stream_count": 60,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
