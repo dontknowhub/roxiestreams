@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-31T08:13:10+00:00",
+  "scraped_at": "2026-07-31T11:02:52+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -29,11 +29,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/bein.m3u8",
+            "url": "https://admin2.shadow-ran.online/bein.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "bein.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -348,12 +348,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/liverpool.m3u8",
+            "url": "https://tedesco.shadow-ran.online/juve.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "tedesco",
-            "path": "liverpool.m3u8",
+            "path": "juve.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-7",
               "Origin": "https://roxiestreams.su",
@@ -370,36 +370,13 @@
             "display_name": "Juventus vs Nice - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/lfc.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-7",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "lfc.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-7",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Juventus vs Nice",
-            "matchup": {
-              "home": "Juventus",
-              "away": "Nice"
-            },
-            "display_name": "Juventus vs Nice - Stream 2"
-          },
-          {
-            "label": "liverpool.m3u8",
-            "url": "https://daffodil.shadow-ran.online/liverpool.m3u8",
+            "label": "juve.m3u8",
+            "url": "https://daffodil.shadow-ran.online/juve.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "liverpool.m3u8",
+            "path": "juve.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-7",
               "Origin": "https://roxiestreams.su",
@@ -413,7 +390,7 @@
               "home": "Juventus",
               "away": "Nice"
             },
-            "display_name": "Juventus vs Nice - liverpool.m3u8"
+            "display_name": "Juventus vs Nice - juve.m3u8"
           }
         ]
       },
@@ -428,12 +405,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/mls.m3u8",
+            "url": "https://tedesco.shadow-ran.online/ziggo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "tedesco",
-            "path": "mls.m3u8",
+            "path": "ziggo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-8",
               "Origin": "https://roxiestreams.su",
@@ -448,6 +425,29 @@
               "away": "Barcelona"
             },
             "display_name": "Birmingham City vs Barcelona - Stream 1"
+          },
+          {
+            "label": "ziggo.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ziggo.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ziggo.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-8",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Birmingham City vs Barcelona",
+            "matchup": {
+              "home": "Birmingham City",
+              "away": "Barcelona"
+            },
+            "display_name": "Birmingham City vs Barcelona - ziggo.m3u8"
           }
         ]
       },
@@ -462,12 +462,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana6.m3u8",
+            "url": "https://admin2.shadow-ran.online/main.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana6.m3u8",
+            "path": "main.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-9",
               "Origin": "https://roxiestreams.su",
@@ -484,13 +484,13 @@
             "display_name": "Dundee United vs Rangers - Stream 1"
           },
           {
-            "label": "fana6.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana6.m3u8",
+            "label": "main.m3u8",
+            "url": "https://daffodil.shadow-ran.online/main.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana6.m3u8",
+            "path": "main.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-9",
               "Origin": "https://roxiestreams.su",
@@ -504,7 +504,7 @@
               "home": "Dundee United",
               "away": "Rangers"
             },
-            "display_name": "Dundee United vs Rangers - fana6.m3u8"
+            "display_name": "Dundee United vs Rangers - main.m3u8"
           }
         ]
       }
@@ -2086,7 +2086,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2153,7 +2152,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4308,11 +4306,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/bein.m3u8",
+          "url": "https://admin2.shadow-ran.online/bein.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "bein.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
@@ -4561,12 +4559,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/liverpool.m3u8",
+          "url": "https://tedesco.shadow-ran.online/juve.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "tedesco",
-          "path": "liverpool.m3u8",
+          "path": "juve.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-7",
             "Origin": "https://roxiestreams.su",
@@ -4583,36 +4581,13 @@
           "display_name": "Juventus vs Nice - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/lfc.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-7",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "lfc.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-7",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Juventus vs Nice",
-          "matchup": {
-            "home": "Juventus",
-            "away": "Nice"
-          },
-          "display_name": "Juventus vs Nice - Stream 2"
-        },
-        {
-          "label": "liverpool.m3u8",
-          "url": "https://daffodil.shadow-ran.online/liverpool.m3u8",
+          "label": "juve.m3u8",
+          "url": "https://daffodil.shadow-ran.online/juve.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "liverpool.m3u8",
+          "path": "juve.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-7",
             "Origin": "https://roxiestreams.su",
@@ -4626,16 +4601,16 @@
             "home": "Juventus",
             "away": "Nice"
           },
-          "display_name": "Juventus vs Nice - liverpool.m3u8"
+          "display_name": "Juventus vs Nice - juve.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/mls.m3u8",
+          "url": "https://tedesco.shadow-ran.online/ziggo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "tedesco",
-          "path": "mls.m3u8",
+          "path": "ziggo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-8",
             "Origin": "https://roxiestreams.su",
@@ -4652,13 +4627,36 @@
           "display_name": "Birmingham City vs Barcelona - Stream 1"
         },
         {
+          "label": "ziggo.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ziggo.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ziggo.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-8",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Birmingham City vs Barcelona",
+          "matchup": {
+            "home": "Birmingham City",
+            "away": "Barcelona"
+          },
+          "display_name": "Birmingham City vs Barcelona - ziggo.m3u8"
+        },
+        {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana6.m3u8",
+          "url": "https://admin2.shadow-ran.online/main.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana6.m3u8",
+          "path": "main.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-9",
             "Origin": "https://roxiestreams.su",
@@ -4675,13 +4673,13 @@
           "display_name": "Dundee United vs Rangers - Stream 1"
         },
         {
-          "label": "fana6.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana6.m3u8",
+          "label": "main.m3u8",
+          "url": "https://daffodil.shadow-ran.online/main.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana6.m3u8",
+          "path": "main.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-9",
             "Origin": "https://roxiestreams.su",
@@ -4695,7 +4693,7 @@
             "home": "Dundee United",
             "away": "Rangers"
           },
-          "display_name": "Dundee United vs Rangers - fana6.m3u8"
+          "display_name": "Dundee United vs Rangers - main.m3u8"
         }
       ]
     },
