@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-01T11:09:33+00:00",
+  "scraped_at": "2026-08-01T12:32:14+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -163,12 +163,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/juve.m3u8",
+            "url": "https://admin2.shadow-ran.online/foxd.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "juve.m3u8",
+            "subdomain": "admin2",
+            "path": "foxd.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-7",
               "Origin": "https://roxiestreams.su",
@@ -185,13 +185,13 @@
             "display_name": "Real Madrid vs Fiorentina - Stream 1"
           },
           {
-            "label": "juve.m3u8",
-            "url": "https://daffodil.shadow-ran.online/juve.m3u8",
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/madrid.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "juve.m3u8",
+            "subdomain": "tedesco",
+            "path": "madrid.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-7",
               "Origin": "https://roxiestreams.su",
@@ -205,7 +205,30 @@
               "home": "Real Madrid",
               "away": "Fiorentina"
             },
-            "display_name": "Real Madrid vs Fiorentina - juve.m3u8"
+            "display_name": "Real Madrid vs Fiorentina - Stream 2"
+          },
+          {
+            "label": "foxd.m3u8",
+            "url": "https://daffodil.shadow-ran.online/foxd.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-7",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "foxd.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-7",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Real Madrid vs Fiorentina",
+            "matchup": {
+              "home": "Real Madrid",
+              "away": "Fiorentina"
+            },
+            "display_name": "Real Madrid vs Fiorentina - foxd.m3u8"
           }
         ]
       },
@@ -723,86 +746,6 @@
         ]
       },
       {
-        "title": "Aberdeen vs Hearts",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Aberdeen",
-          "away": "Hearts"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-5",
-        "streams": [
-          {
-            "label": "ESPN MX",
-            "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "espnmx.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-5",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Aberdeen vs Hearts",
-            "matchup": {
-              "home": "Aberdeen",
-              "away": "Hearts"
-            },
-            "display_name": "Aberdeen vs Hearts - ESPN MX"
-          },
-          {
-            "label": "VIX US",
-            "url": "https://admin2.shadow-ran.online/vix5.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "vix5.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-5",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Aberdeen vs Hearts",
-            "matchup": {
-              "home": "Aberdeen",
-              "away": "Hearts"
-            },
-            "display_name": "Aberdeen vs Hearts - VIX US"
-          },
-          {
-            "label": "espnmx.m3u8",
-            "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "espnmx.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-5",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Aberdeen vs Hearts",
-            "matchup": {
-              "home": "Aberdeen",
-              "away": "Hearts"
-            },
-            "display_name": "Aberdeen vs Hearts - espnmx.m3u8"
-          }
-        ]
-      },
-      {
         "title": "Hamburger SV vs Everton",
         "sport": "soccer",
         "matchup": {
@@ -812,13 +755,13 @@
         "page": "https://roxiestreams.su/soccer-streams-6",
         "streams": [
           {
-            "label": "AZTECA DEPORTES",
-            "url": "https://admin2.shadow-ran.online/azteca7mx.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/everton.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "azteca7mx.m3u8",
+            "path": "everton.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -832,7 +775,30 @@
               "home": "Hamburger SV",
               "away": "Everton"
             },
-            "display_name": "Hamburger SV vs Everton - AZTECA DEPORTES"
+            "display_name": "Hamburger SV vs Everton - Stream 1"
+          },
+          {
+            "label": "everton.m3u8",
+            "url": "https://daffodil.shadow-ran.online/everton.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "everton.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Hamburger SV vs Everton",
+            "matchup": {
+              "home": "Hamburger SV",
+              "away": "Everton"
+            },
+            "display_name": "Hamburger SV vs Everton - everton.m3u8"
           }
         ]
       },
@@ -867,86 +833,6 @@
               "away": "Al Nassr"
             },
             "display_name": "Estrela vs Al Nassr - Stream 2"
-          }
-        ]
-      },
-      {
-        "title": "Girona vs Arsenal",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Girona",
-          "away": "Arsenal"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-9",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/main.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "main.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-9",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Girona vs Arsenal",
-            "matchup": {
-              "home": "Girona",
-              "away": "Arsenal"
-            },
-            "display_name": "Girona vs Arsenal - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/mainalt.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "mainalt.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-9",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Girona vs Arsenal",
-            "matchup": {
-              "home": "Girona",
-              "away": "Arsenal"
-            },
-            "display_name": "Girona vs Arsenal - Stream 2"
-          },
-          {
-            "label": "main.m3u8",
-            "url": "https://daffodil.shadow-ran.online/main.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "main.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-9",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Girona vs Arsenal",
-            "matchup": {
-              "home": "Girona",
-              "away": "Arsenal"
-            },
-            "display_name": "Girona vs Arsenal - main.m3u8"
           }
         ]
       }
@@ -2121,11 +2007,11 @@
           },
           {
             "label": "Stream 2 (TNT)",
-            "url": "https://tedesco.shadow-ran.online/tnt.m3u8",
+            "url": "https://admin2.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "tnt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
@@ -2623,6 +2509,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3351,8 +3238,7 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "ESPN MX",
-        "VIX US",
+        "Stream 1",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3418,11 +3304,7 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "AZTECA DEPORTES",
-        "AZTECA 7 MX VPN",
-        "FOX ONE MX VPN",
-        "FOX ONE MX",
-        "UNIVERSO US VPN",
+        "Stream 1",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3556,7 +3438,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5966,12 +5847,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/juve.m3u8",
+          "url": "https://admin2.shadow-ran.online/foxd.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "juve.m3u8",
+          "subdomain": "admin2",
+          "path": "foxd.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-7",
             "Origin": "https://roxiestreams.su",
@@ -5988,13 +5869,13 @@
           "display_name": "Real Madrid vs Fiorentina - Stream 1"
         },
         {
-          "label": "juve.m3u8",
-          "url": "https://daffodil.shadow-ran.online/juve.m3u8",
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/madrid.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "juve.m3u8",
+          "subdomain": "tedesco",
+          "path": "madrid.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-7",
             "Origin": "https://roxiestreams.su",
@@ -6008,7 +5889,30 @@
             "home": "Real Madrid",
             "away": "Fiorentina"
           },
-          "display_name": "Real Madrid vs Fiorentina - juve.m3u8"
+          "display_name": "Real Madrid vs Fiorentina - Stream 2"
+        },
+        {
+          "label": "foxd.m3u8",
+          "url": "https://daffodil.shadow-ran.online/foxd.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-7",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "foxd.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-7",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Real Madrid vs Fiorentina",
+          "matchup": {
+            "home": "Real Madrid",
+            "away": "Fiorentina"
+          },
+          "display_name": "Real Madrid vs Fiorentina - foxd.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6425,82 +6329,13 @@
           "display_name": "Man United vs Atletico Madrid - mutv.m3u8"
         },
         {
-          "label": "ESPN MX",
-          "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "espnmx.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-5",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Aberdeen vs Hearts",
-          "matchup": {
-            "home": "Aberdeen",
-            "away": "Hearts"
-          },
-          "display_name": "Aberdeen vs Hearts - ESPN MX"
-        },
-        {
-          "label": "VIX US",
-          "url": "https://admin2.shadow-ran.online/vix5.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "vix5.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-5",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Aberdeen vs Hearts",
-          "matchup": {
-            "home": "Aberdeen",
-            "away": "Hearts"
-          },
-          "display_name": "Aberdeen vs Hearts - VIX US"
-        },
-        {
-          "label": "espnmx.m3u8",
-          "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "espnmx.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-5",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Aberdeen vs Hearts",
-          "matchup": {
-            "home": "Aberdeen",
-            "away": "Hearts"
-          },
-          "display_name": "Aberdeen vs Hearts - espnmx.m3u8"
-        },
-        {
-          "label": "AZTECA DEPORTES",
-          "url": "https://admin2.shadow-ran.online/azteca7mx.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/everton.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "azteca7mx.m3u8",
+          "path": "everton.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -6514,7 +6349,30 @@
             "home": "Hamburger SV",
             "away": "Everton"
           },
-          "display_name": "Hamburger SV vs Everton - AZTECA DEPORTES"
+          "display_name": "Hamburger SV vs Everton - Stream 1"
+        },
+        {
+          "label": "everton.m3u8",
+          "url": "https://daffodil.shadow-ran.online/everton.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "everton.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-6",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Hamburger SV vs Everton",
+          "matchup": {
+            "home": "Hamburger SV",
+            "away": "Everton"
+          },
+          "display_name": "Hamburger SV vs Everton - everton.m3u8"
         },
         {
           "label": "Stream 2",
@@ -6538,75 +6396,6 @@
             "away": "Al Nassr"
           },
           "display_name": "Estrela vs Al Nassr - Stream 2"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/main.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "main.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-9",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Girona vs Arsenal",
-          "matchup": {
-            "home": "Girona",
-            "away": "Arsenal"
-          },
-          "display_name": "Girona vs Arsenal - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/mainalt.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "mainalt.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-9",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Girona vs Arsenal",
-          "matchup": {
-            "home": "Girona",
-            "away": "Arsenal"
-          },
-          "display_name": "Girona vs Arsenal - Stream 2"
-        },
-        {
-          "label": "main.m3u8",
-          "url": "https://daffodil.shadow-ran.online/main.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "main.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-9",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Girona vs Arsenal",
-          "matchup": {
-            "home": "Girona",
-            "away": "Arsenal"
-          },
-          "display_name": "Girona vs Arsenal - main.m3u8"
         }
       ]
     },
@@ -7570,11 +7359,11 @@
         },
         {
           "label": "Stream 2 (TNT)",
-          "url": "https://tedesco.shadow-ran.online/tnt.m3u8",
+          "url": "https://admin2.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "tnt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
@@ -7737,7 +7526,7 @@
       ]
     }
   },
-  "stream_count": 80,
+  "stream_count": 76,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
