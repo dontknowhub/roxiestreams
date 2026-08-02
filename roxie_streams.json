@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-01T23:25:16+00:00",
+  "scraped_at": "2026-08-02T01:02:48+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -413,13 +413,13 @@
         "page": "https://roxiestreams.su/soccer-streams-13",
         "streams": [
           {
-            "label": "FOX ONE",
-            "url": "https://admin2.shadow-ran.online/foxonemx.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/canal5.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "foxonemx.m3u8",
+            "path": "canal5.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-13",
               "Origin": "https://roxiestreams.su",
@@ -433,7 +433,30 @@
               "home": "Cruz Azul",
               "away": "Atlante"
             },
-            "display_name": "Cruz Azul vs Atlante - FOX ONE"
+            "display_name": "Cruz Azul vs Atlante - Stream 1"
+          },
+          {
+            "label": "canal5.m3u8",
+            "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-13",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "canal5.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-13",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Cruz Azul vs Atlante",
+            "matchup": {
+              "home": "Cruz Azul",
+              "away": "Atlante"
+            },
+            "display_name": "Cruz Azul vs Atlante - canal5.m3u8"
           }
         ]
       },
@@ -525,6 +548,29 @@
               "away": "Seattle Sounders"
             },
             "display_name": "Portland Timbers vs Seattle Sounders - Stream 1"
+          },
+          {
+            "label": "Stream 2 (ES)",
+            "url": "https://admin2.shadow-ran.online/mls2es.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-15",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "mls2es.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-15",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Portland Timbers vs Seattle Sounders",
+            "matchup": {
+              "home": "Portland Timbers",
+              "away": "Seattle Sounders"
+            },
+            "display_name": "Portland Timbers vs Seattle Sounders - Stream 2 (ES)"
           },
           {
             "label": "mls2.m3u8",
@@ -2773,8 +2819,7 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "FOX ONE",
-        "FOX ONE MX VPN",
+        "Stream 1",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2907,6 +2952,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6051,13 +6097,13 @@
           "display_name": "Santos vs Remo - sportv.m3u8"
         },
         {
-          "label": "FOX ONE",
-          "url": "https://admin2.shadow-ran.online/foxonemx.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/canal5.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "foxonemx.m3u8",
+          "path": "canal5.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-13",
             "Origin": "https://roxiestreams.su",
@@ -6071,7 +6117,30 @@
             "home": "Cruz Azul",
             "away": "Atlante"
           },
-          "display_name": "Cruz Azul vs Atlante - FOX ONE"
+          "display_name": "Cruz Azul vs Atlante - Stream 1"
+        },
+        {
+          "label": "canal5.m3u8",
+          "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-13",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "canal5.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-13",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Cruz Azul vs Atlante",
+          "matchup": {
+            "home": "Cruz Azul",
+            "away": "Atlante"
+          },
+          "display_name": "Cruz Azul vs Atlante - canal5.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6141,6 +6210,29 @@
             "away": "Seattle Sounders"
           },
           "display_name": "Portland Timbers vs Seattle Sounders - Stream 1"
+        },
+        {
+          "label": "Stream 2 (ES)",
+          "url": "https://admin2.shadow-ran.online/mls2es.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-15",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "mls2es.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-15",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Portland Timbers vs Seattle Sounders",
+          "matchup": {
+            "home": "Portland Timbers",
+            "away": "Seattle Sounders"
+          },
+          "display_name": "Portland Timbers vs Seattle Sounders - Stream 2 (ES)"
         },
         {
           "label": "mls2.m3u8",
@@ -7524,7 +7616,7 @@
       ]
     }
   },
-  "stream_count": 76,
+  "stream_count": 78,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
