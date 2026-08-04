@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-04T20:47:49+00:00",
+  "scraped_at": "2026-08-04T22:02:20+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -86,12 +86,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/canal5.m3u8",
+            "url": "https://admin2.shadow-ran.online/fs1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "canal5.m3u8",
+            "path": "fs1.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -108,13 +108,13 @@
             "display_name": "Tigres vs Real Salt Lake - Stream 1"
           },
           {
-            "label": "canal5.m3u8",
-            "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+            "label": "Stream 2 (ES)",
+            "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "canal5.m3u8",
+            "subdomain": "tedesco",
+            "path": "tudn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -128,7 +128,30 @@
               "home": "Tigres",
               "away": "Real Salt Lake"
             },
-            "display_name": "Tigres vs Real Salt Lake - canal5.m3u8"
+            "display_name": "Tigres vs Real Salt Lake - Stream 2 (ES)"
+          },
+          {
+            "label": "fs1.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fs1.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-10",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fs1.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-10",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Tigres vs Real Salt Lake",
+            "matchup": {
+              "home": "Tigres",
+              "away": "Real Salt Lake"
+            },
+            "display_name": "Tigres vs Real Salt Lake - fs1.m3u8"
           }
         ]
       },
@@ -357,86 +380,6 @@
               "away": "Atlas"
             },
             "display_name": "Columbus Crew vs Atlas - fana2.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Cincinnati vs Pachuca",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Cincinnati",
-          "away": "Pachuca"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-6",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-6",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "fana.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-6",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Cincinnati vs Pachuca",
-            "matchup": {
-              "home": "Cincinnati",
-              "away": "Pachuca"
-            },
-            "display_name": "Cincinnati vs Pachuca - Stream 1"
-          },
-          {
-            "label": "Stream 2 (ENGLISH)",
-            "url": "https://admin2.shadow-ran.online/fanaen.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-6",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "fanaen.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-6",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Cincinnati vs Pachuca",
-            "matchup": {
-              "home": "Cincinnati",
-              "away": "Pachuca"
-            },
-            "display_name": "Cincinnati vs Pachuca - Stream 2 (ENGLISH)"
-          },
-          {
-            "label": "fana.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-6",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fana.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-6",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Cincinnati vs Pachuca",
-            "matchup": {
-              "home": "Cincinnati",
-              "away": "Pachuca"
-            },
-            "display_name": "Cincinnati vs Pachuca - fana.m3u8"
           }
         ]
       },
@@ -1774,6 +1717,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2170,7 +2114,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (ENGLISH)",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4379,12 +4323,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/canal5.m3u8",
+          "url": "https://admin2.shadow-ran.online/fs1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "canal5.m3u8",
+          "path": "fs1.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -4401,13 +4345,13 @@
           "display_name": "Tigres vs Real Salt Lake - Stream 1"
         },
         {
-          "label": "canal5.m3u8",
-          "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+          "label": "Stream 2 (ES)",
+          "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "canal5.m3u8",
+          "subdomain": "tedesco",
+          "path": "tudn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -4421,7 +4365,30 @@
             "home": "Tigres",
             "away": "Real Salt Lake"
           },
-          "display_name": "Tigres vs Real Salt Lake - canal5.m3u8"
+          "display_name": "Tigres vs Real Salt Lake - Stream 2 (ES)"
+        },
+        {
+          "label": "fs1.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fs1.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-10",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fs1.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-10",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Tigres vs Real Salt Lake",
+          "matchup": {
+            "home": "Tigres",
+            "away": "Real Salt Lake"
+          },
+          "display_name": "Tigres vs Real Salt Lake - fs1.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4606,75 +4573,6 @@
             "away": "Atlas"
           },
           "display_name": "Columbus Crew vs Atlas - fana2.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-6",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "fana.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-6",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Cincinnati vs Pachuca",
-          "matchup": {
-            "home": "Cincinnati",
-            "away": "Pachuca"
-          },
-          "display_name": "Cincinnati vs Pachuca - Stream 1"
-        },
-        {
-          "label": "Stream 2 (ENGLISH)",
-          "url": "https://admin2.shadow-ran.online/fanaen.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-6",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "fanaen.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-6",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Cincinnati vs Pachuca",
-          "matchup": {
-            "home": "Cincinnati",
-            "away": "Pachuca"
-          },
-          "display_name": "Cincinnati vs Pachuca - Stream 2 (ENGLISH)"
-        },
-        {
-          "label": "fana.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-6",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fana.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-6",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Cincinnati vs Pachuca",
-          "matchup": {
-            "home": "Cincinnati",
-            "away": "Pachuca"
-          },
-          "display_name": "Cincinnati vs Pachuca - fana.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5606,7 +5504,7 @@
       ]
     }
   },
-  "stream_count": 55,
+  "stream_count": 53,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
