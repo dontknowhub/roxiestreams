@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-05T21:40:45+00:00",
+  "scraped_at": "2026-08-05T22:47:27+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -684,12 +684,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana.m3u8",
+            "url": "https://admin2.shadow-ran.online/fanaes.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana.m3u8",
+            "path": "fanaes.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -729,13 +729,13 @@
             "display_name": "Boca Juniors vs Estudiantes - Stream 2 (EN)"
           },
           {
-            "label": "fana.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+            "label": "SPORTDIGITAL FUSSBALL",
+            "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fana.m3u8",
+            "subdomain": "admin2",
+            "path": "sportdigital.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -749,7 +749,30 @@
               "home": "Boca Juniors",
               "away": "Estudiantes"
             },
-            "display_name": "Boca Juniors vs Estudiantes - fana.m3u8"
+            "display_name": "Boca Juniors vs Estudiantes - SPORTDIGITAL FUSSBALL"
+          },
+          {
+            "label": "fanaes.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fanaes.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fanaes.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Boca Juniors vs Estudiantes",
+            "matchup": {
+              "home": "Boca Juniors",
+              "away": "Estudiantes"
+            },
+            "display_name": "Boca Juniors vs Estudiantes - fanaes.m3u8"
           }
         ]
       },
@@ -2732,6 +2755,7 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2 (EN)",
+        "SPORTDIGITAL FUSSBALL",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5559,12 +5583,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana.m3u8",
+          "url": "https://admin2.shadow-ran.online/fanaes.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana.m3u8",
+          "path": "fanaes.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -5604,13 +5628,13 @@
           "display_name": "Boca Juniors vs Estudiantes - Stream 2 (EN)"
         },
         {
-          "label": "fana.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+          "label": "SPORTDIGITAL FUSSBALL",
+          "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fana.m3u8",
+          "subdomain": "admin2",
+          "path": "sportdigital.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -5624,7 +5648,30 @@
             "home": "Boca Juniors",
             "away": "Estudiantes"
           },
-          "display_name": "Boca Juniors vs Estudiantes - fana.m3u8"
+          "display_name": "Boca Juniors vs Estudiantes - SPORTDIGITAL FUSSBALL"
+        },
+        {
+          "label": "fanaes.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fanaes.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fanaes.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-6",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Boca Juniors vs Estudiantes",
+          "matchup": {
+            "home": "Boca Juniors",
+            "away": "Estudiantes"
+          },
+          "display_name": "Boca Juniors vs Estudiantes - fanaes.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6453,7 +6500,7 @@
       "streams": []
     }
   },
-  "stream_count": 61,
+  "stream_count": 62,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
