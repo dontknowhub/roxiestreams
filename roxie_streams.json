@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-09T22:55:59+00:00",
+  "scraped_at": "2026-08-09T23:21:44+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -201,6 +201,29 @@
               "away": "Mexico U20"
             },
             "display_name": "United States U20 vs Mexico U20 - ESPN MX"
+          },
+          {
+            "label": "VIX",
+            "url": "https://admin2.shadow-ran.online/vix1.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-20",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "vix1.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-20",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "United States U20 vs Mexico U20",
+            "matchup": {
+              "home": "United States U20",
+              "away": "Mexico U20"
+            },
+            "display_name": "United States U20 vs Mexico U20 - VIX"
           },
           {
             "label": "espn1mx.m3u8",
@@ -546,12 +569,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana4.m3u8",
+            "url": "https://admin2.shadow-ran.online/mls2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana4.m3u8",
+            "path": "mls2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-15",
               "Origin": "https://roxiestreams.su",
@@ -568,13 +591,13 @@
             "display_name": "Philadelphia Union vs Necaxa - Stream 1"
           },
           {
-            "label": "fana4.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana4.m3u8",
+            "label": "mls2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mls2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana4.m3u8",
+            "path": "mls2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-15",
               "Origin": "https://roxiestreams.su",
@@ -588,7 +611,7 @@
               "home": "Philadelphia Union",
               "away": "Necaxa"
             },
-            "display_name": "Philadelphia Union vs Necaxa - fana4.m3u8"
+            "display_name": "Philadelphia Union vs Necaxa - mls2.m3u8"
           }
         ]
       },
@@ -703,63 +726,6 @@
               "away": "San Luis"
             },
             "display_name": "Nashville SC vs San Luis - fana5.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Austin vs Puebla",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Austin",
-          "away": "Puebla"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-18",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/mls2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-18",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "mls2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-18",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Austin vs Puebla",
-            "matchup": {
-              "home": "Austin",
-              "away": "Puebla"
-            },
-            "display_name": "Austin vs Puebla - Stream 1"
-          },
-          {
-            "label": "mls2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/mls2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-18",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "mls2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-18",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Austin vs Puebla",
-            "matchup": {
-              "home": "Austin",
-              "away": "Puebla"
-            },
-            "display_name": "Austin vs Puebla - mls2.m3u8"
           }
         ]
       },
@@ -3001,6 +2967,7 @@
         "MultiView (NEW)",
         "ESPN MX",
         "ESPN MX VPN",
+        "VIX",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6874,6 +6841,29 @@
           "display_name": "United States U20 vs Mexico U20 - ESPN MX"
         },
         {
+          "label": "VIX",
+          "url": "https://admin2.shadow-ran.online/vix1.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-20",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "vix1.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-20",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "United States U20 vs Mexico U20",
+          "matchup": {
+            "home": "United States U20",
+            "away": "Mexico U20"
+          },
+          "display_name": "United States U20 vs Mexico U20 - VIX"
+        },
+        {
           "label": "espn1mx.m3u8",
           "url": "https://daffodil.shadow-ran.online/espn1mx.m3u8",
           "type": "m3u8",
@@ -7151,12 +7141,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana4.m3u8",
+          "url": "https://admin2.shadow-ran.online/mls2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana4.m3u8",
+          "path": "mls2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-15",
             "Origin": "https://roxiestreams.su",
@@ -7173,13 +7163,13 @@
           "display_name": "Philadelphia Union vs Necaxa - Stream 1"
         },
         {
-          "label": "fana4.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana4.m3u8",
+          "label": "mls2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mls2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana4.m3u8",
+          "path": "mls2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-15",
             "Origin": "https://roxiestreams.su",
@@ -7193,7 +7183,7 @@
             "home": "Philadelphia Union",
             "away": "Necaxa"
           },
-          "display_name": "Philadelphia Union vs Necaxa - fana4.m3u8"
+          "display_name": "Philadelphia Union vs Necaxa - mls2.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7286,52 +7276,6 @@
             "away": "San Luis"
           },
           "display_name": "Nashville SC vs San Luis - fana5.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/mls2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-18",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "mls2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-18",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Austin vs Puebla",
-          "matchup": {
-            "home": "Austin",
-            "away": "Puebla"
-          },
-          "display_name": "Austin vs Puebla - Stream 1"
-        },
-        {
-          "label": "mls2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/mls2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-18",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "mls2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-18",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Austin vs Puebla",
-          "matchup": {
-            "home": "Austin",
-            "away": "Puebla"
-          },
-          "display_name": "Austin vs Puebla - mls2.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8892,7 +8836,7 @@
       ]
     }
   },
-  "stream_count": 93,
+  "stream_count": 92,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
