@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T17:11:18+00:00",
+  "scraped_at": "2026-08-15T17:41:09+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -1556,11 +1556,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/mlb.m3u8",
+            "url": "https://admin2.shadow-ran.online/mlb.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "admin2",
             "path": "mlb.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -2784,6 +2784,23 @@
           {
             "label": "Direct Link",
             "url": "https://admin2.formaturamaxi.com.br/sx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/supercross",
+            "headers": {
+              "Referer": "https://roxiestreams.su/supercross",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "supercross",
+            "event_title": "AMA Motocross (7/10AM)",
+            "matchup": null,
+            "display_name": "AMA Motocross (7/10AM)"
+          },
+          {
+            "label": "Direct Link",
+            "url": "https://admin2.formaturamaxi.com.br/sxalt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/supercross",
             "headers": {
@@ -7594,6 +7611,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -9055,11 +9073,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/mlb.m3u8",
+          "url": "https://admin2.shadow-ran.online/mlb.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "admin2",
           "path": "mlb.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -10049,6 +10067,23 @@
           "event_title": "AMA Motocross (7/10AM)",
           "matchup": null,
           "display_name": "AMA Motocross (7/10AM)"
+        },
+        {
+          "label": "Direct Link",
+          "url": "https://admin2.formaturamaxi.com.br/sxalt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/supercross",
+          "headers": {
+            "Referer": "https://roxiestreams.su/supercross",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "supercross",
+          "event_title": "AMA Motocross (7/10AM)",
+          "matchup": null,
+          "display_name": "AMA Motocross (7/10AM)"
         }
       ]
     },
@@ -10199,7 +10234,7 @@
       ]
     }
   },
-  "stream_count": 102,
+  "stream_count": 103,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
