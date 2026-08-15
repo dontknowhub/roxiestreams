@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T19:13:19+00:00",
+  "scraped_at": "2026-08-15T19:41:24+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -835,13 +835,13 @@
         "page": "https://roxiestreams.su/soccer-streams-21",
         "streams": [
           {
-            "label": "Stream 2 (ENGLISH)",
-            "url": "https://admin2.shadow-ran.online/fana2en.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/mls.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-21",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana2en.m3u8",
+            "path": "mls.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-21",
               "Origin": "https://roxiestreams.su",
@@ -855,7 +855,30 @@
               "home": "CF Montreal",
               "away": "DC United"
             },
-            "display_name": "CF Montreal vs DC United - Stream 2 (ENGLISH)"
+            "display_name": "CF Montreal vs DC United - Stream 1"
+          },
+          {
+            "label": "mls.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-21",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "mls.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-21",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "CF Montreal vs DC United",
+            "matchup": {
+              "home": "CF Montreal",
+              "away": "DC United"
+            },
+            "display_name": "CF Montreal vs DC United - mls.m3u8"
           }
         ]
       },
@@ -984,12 +1007,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana6es.m3u8",
+            "url": "https://admin2.shadow-ran.online/mls2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-24",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana6es.m3u8",
+            "path": "mls2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-24",
               "Origin": "https://roxiestreams.su",
@@ -1006,13 +1029,13 @@
             "display_name": "Nashville SC vs Inter Miami - Stream 1"
           },
           {
-            "label": "fana6es.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana6es.m3u8",
+            "label": "mls2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mls2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-24",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana6es.m3u8",
+            "path": "mls2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-24",
               "Origin": "https://roxiestreams.su",
@@ -1026,7 +1049,7 @@
               "home": "Nashville SC",
               "away": "Inter Miami"
             },
-            "display_name": "Nashville SC vs Inter Miami - fana6es.m3u8"
+            "display_name": "Nashville SC vs Inter Miami - mls2.m3u8"
           }
         ]
       },
@@ -2553,6 +2576,29 @@
               "away": "Baltimore Ravens"
             },
             "display_name": "Philadelphia Eagles vs Baltimore Ravens - Stream 2"
+          },
+          {
+            "label": "nfl6.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nfl6.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nfl-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nfl6.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nfl-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Philadelphia Eagles vs Baltimore Ravens",
+            "matchup": {
+              "home": "Philadelphia Eagles",
+              "away": "Baltimore Ravens"
+            },
+            "display_name": "Philadelphia Eagles vs Baltimore Ravens - nfl6.m3u8"
           }
         ]
       }
@@ -4065,7 +4111,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (ENGLISH)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -8481,13 +8526,13 @@
           "display_name": "Atlante vs Toluca - azteca7mx.m3u8"
         },
         {
-          "label": "Stream 2 (ENGLISH)",
-          "url": "https://admin2.shadow-ran.online/fana2en.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/mls.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-21",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana2en.m3u8",
+          "path": "mls.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-21",
             "Origin": "https://roxiestreams.su",
@@ -8501,7 +8546,30 @@
             "home": "CF Montreal",
             "away": "DC United"
           },
-          "display_name": "CF Montreal vs DC United - Stream 2 (ENGLISH)"
+          "display_name": "CF Montreal vs DC United - Stream 1"
+        },
+        {
+          "label": "mls.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-21",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "mls.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-21",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "CF Montreal vs DC United",
+          "matchup": {
+            "home": "CF Montreal",
+            "away": "DC United"
+          },
+          "display_name": "CF Montreal vs DC United - mls.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8597,12 +8665,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana6es.m3u8",
+          "url": "https://admin2.shadow-ran.online/mls2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-24",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana6es.m3u8",
+          "path": "mls2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-24",
             "Origin": "https://roxiestreams.su",
@@ -8619,13 +8687,13 @@
           "display_name": "Nashville SC vs Inter Miami - Stream 1"
         },
         {
-          "label": "fana6es.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana6es.m3u8",
+          "label": "mls2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mls2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-24",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana6es.m3u8",
+          "path": "mls2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-24",
             "Origin": "https://roxiestreams.su",
@@ -8639,7 +8707,7 @@
             "home": "Nashville SC",
             "away": "Inter Miami"
           },
-          "display_name": "Nashville SC vs Inter Miami - fana6es.m3u8"
+          "display_name": "Nashville SC vs Inter Miami - mls2.m3u8"
         },
         {
           "label": "Stream 1",
@@ -9847,6 +9915,29 @@
             "away": "Baltimore Ravens"
           },
           "display_name": "Philadelphia Eagles vs Baltimore Ravens - Stream 2"
+        },
+        {
+          "label": "nfl6.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nfl6.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nfl-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nfl6.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nfl-streams-6",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Philadelphia Eagles vs Baltimore Ravens",
+          "matchup": {
+            "home": "Philadelphia Eagles",
+            "away": "Baltimore Ravens"
+          },
+          "display_name": "Philadelphia Eagles vs Baltimore Ravens - nfl6.m3u8"
         }
       ]
     },
@@ -10240,7 +10331,7 @@
       ]
     }
   },
-  "stream_count": 103,
+  "stream_count": 105,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
