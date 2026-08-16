@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T13:06:15+00:00",
+  "scraped_at": "2026-08-16T13:49:35+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -39,12 +39,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/golazo.m3u8",
+            "url": "https://admin2.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "golazo.m3u8",
+            "path": "tnt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -62,12 +62,12 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/ncaa7.m3u8",
+            "url": "https://daffodil.shadow-ran.online/sn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "ncaa7.m3u8",
+            "subdomain": "daffodil",
+            "path": "sn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -84,13 +84,13 @@
             "display_name": "Arsenal vs Manchester City - Stream 2"
           },
           {
-            "label": "golazo.m3u8",
-            "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
+            "label": "Stream 3",
+            "url": "https://daffodil.shadow-ran.online/wnba2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "golazo.m3u8",
+            "path": "wnba2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -104,7 +104,30 @@
               "home": "Arsenal",
               "away": "Manchester City"
             },
-            "display_name": "Arsenal vs Manchester City - golazo.m3u8"
+            "display_name": "Arsenal vs Manchester City - Stream 3"
+          },
+          {
+            "label": "tnt.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tnt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "tnt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Arsenal vs Manchester City",
+            "matchup": {
+              "home": "Arsenal",
+              "away": "Manchester City"
+            },
+            "display_name": "Arsenal vs Manchester City - tnt.m3u8"
           }
         ]
       },
@@ -769,12 +792,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/cbssn.m3u8",
+            "url": "https://admin2.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "cbssn.m3u8",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -791,13 +814,13 @@
             "display_name": "Chapecoense vs Bahia - Stream 1"
           },
           {
-            "label": "cbssn.m3u8",
-            "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "cbssn.m3u8",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -811,7 +834,7 @@
               "home": "Chapecoense",
               "away": "Bahia"
             },
-            "display_name": "Chapecoense vs Bahia - cbssn.m3u8"
+            "display_name": "Chapecoense vs Bahia - fana.m3u8"
           }
         ]
       },
@@ -826,11 +849,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
+            "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-20",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "daffodil",
             "path": "golazo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-20",
@@ -940,12 +963,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana5es.m3u8",
+            "url": "https://admin2.shadow-ran.online/tv3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-22",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana5es.m3u8",
+            "path": "tv3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-22",
               "Origin": "https://roxiestreams.su",
@@ -962,13 +985,13 @@
             "display_name": "Barcelona vs Basel - Stream 1"
           },
           {
-            "label": "fana5es.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana5es.m3u8",
+            "label": "Stream 2",
+            "url": "https://daffodil.shadow-ran.online/tv3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-22",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana5es.m3u8",
+            "path": "tv3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-22",
               "Origin": "https://roxiestreams.su",
@@ -982,7 +1005,7 @@
               "home": "Barcelona",
               "away": "Basel"
             },
-            "display_name": "Barcelona vs Basel - fana5es.m3u8"
+            "display_name": "Barcelona vs Basel - Stream 2"
           }
         ]
       },
@@ -3035,6 +3058,7 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
+        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4029,6 +4053,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7524,12 +7549,12 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/golazo.m3u8",
+          "url": "https://admin2.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "golazo.m3u8",
+          "path": "tnt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -7547,12 +7572,12 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/ncaa7.m3u8",
+          "url": "https://daffodil.shadow-ran.online/sn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "ncaa7.m3u8",
+          "subdomain": "daffodil",
+          "path": "sn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -7569,13 +7594,13 @@
           "display_name": "Arsenal vs Manchester City - Stream 2"
         },
         {
-          "label": "golazo.m3u8",
-          "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
+          "label": "Stream 3",
+          "url": "https://daffodil.shadow-ran.online/wnba2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "golazo.m3u8",
+          "path": "wnba2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -7589,7 +7614,30 @@
             "home": "Arsenal",
             "away": "Manchester City"
           },
-          "display_name": "Arsenal vs Manchester City - golazo.m3u8"
+          "display_name": "Arsenal vs Manchester City - Stream 3"
+        },
+        {
+          "label": "tnt.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tnt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "tnt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Arsenal vs Manchester City",
+          "matchup": {
+            "home": "Arsenal",
+            "away": "Manchester City"
+          },
+          "display_name": "Arsenal vs Manchester City - tnt.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8122,12 +8170,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/cbssn.m3u8",
+          "url": "https://admin2.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "cbssn.m3u8",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -8144,13 +8192,13 @@
           "display_name": "Chapecoense vs Bahia - Stream 1"
         },
         {
-          "label": "cbssn.m3u8",
-          "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "cbssn.m3u8",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -8164,15 +8212,15 @@
             "home": "Chapecoense",
             "away": "Bahia"
           },
-          "display_name": "Chapecoense vs Bahia - cbssn.m3u8"
+          "display_name": "Chapecoense vs Bahia - fana.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
+          "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-20",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "daffodil",
           "path": "golazo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-20",
@@ -8260,12 +8308,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana5es.m3u8",
+          "url": "https://admin2.shadow-ran.online/tv3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-22",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana5es.m3u8",
+          "path": "tv3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-22",
             "Origin": "https://roxiestreams.su",
@@ -8282,13 +8330,13 @@
           "display_name": "Barcelona vs Basel - Stream 1"
         },
         {
-          "label": "fana5es.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana5es.m3u8",
+          "label": "Stream 2",
+          "url": "https://daffodil.shadow-ran.online/tv3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-22",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana5es.m3u8",
+          "path": "tv3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-22",
             "Origin": "https://roxiestreams.su",
@@ -8302,7 +8350,7 @@
             "home": "Barcelona",
             "away": "Basel"
           },
-          "display_name": "Barcelona vs Basel - fana5es.m3u8"
+          "display_name": "Barcelona vs Basel - Stream 2"
         },
         {
           "label": "Stream 1",
@@ -9783,7 +9831,7 @@
       ]
     }
   },
-  "stream_count": 97,
+  "stream_count": 98,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
