@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-20T21:49:38+00:00",
+  "scraped_at": "2026-08-20T22:15:03+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -339,6 +339,29 @@
               "away": "Cienciano"
             },
             "display_name": "Botafogo vs Cienciano - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/alt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "alt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Botafogo vs Cienciano",
+            "matchup": {
+              "home": "Botafogo",
+              "away": "Cienciano"
+            },
+            "display_name": "Botafogo vs Cienciano - Stream 2"
           },
           {
             "label": "beines.m3u8",
@@ -1797,6 +1820,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3918,6 +3942,29 @@
           "display_name": "Botafogo vs Cienciano - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/alt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "alt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-6",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Botafogo vs Cienciano",
+          "matchup": {
+            "home": "Botafogo",
+            "away": "Cienciano"
+          },
+          "display_name": "Botafogo vs Cienciano - Stream 2"
+        },
+        {
           "label": "beines.m3u8",
           "url": "https://daffodil.shadow-ran.online/beines.m3u8",
           "type": "m3u8",
@@ -4755,7 +4802,7 @@
       "streams": []
     }
   },
-  "stream_count": 46,
+  "stream_count": 47,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
