@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-21T19:44:07+00:00",
+  "scraped_at": "2026-08-21T20:13:07+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -101,29 +101,6 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-8",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "wwe.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-8",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Arsenal vs Coventry City",
-            "matchup": {
-              "home": "Arsenal",
-              "away": "Coventry City"
-            },
-            "display_name": "Arsenal vs Coventry City - Stream 1"
-          },
-          {
-            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/arsenal.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-8",
@@ -143,15 +120,15 @@
               "home": "Arsenal",
               "away": "Coventry City"
             },
-            "display_name": "Arsenal vs Coventry City - Stream 2"
+            "display_name": "Arsenal vs Coventry City - Stream 1"
           },
           {
-            "label": "wwe.m3u8",
-            "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
+            "subdomain": "admin2",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-8",
@@ -166,7 +143,30 @@
               "home": "Arsenal",
               "away": "Coventry City"
             },
-            "display_name": "Arsenal vs Coventry City - wwe.m3u8"
+            "display_name": "Arsenal vs Coventry City - Stream 2"
+          },
+          {
+            "label": "arsenal.m3u8",
+            "url": "https://daffodil.shadow-ran.online/arsenal.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "arsenal.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-8",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Arsenal vs Coventry City",
+            "matchup": {
+              "home": "Arsenal",
+              "away": "Coventry City"
+            },
+            "display_name": "Arsenal vs Coventry City - arsenal.m3u8"
           }
         ]
       },
@@ -238,12 +238,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/xtra.m3u8",
+            "url": "https://admin2.shadow-ran.online/l1max.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "xtra.m3u8",
+            "subdomain": "admin2",
+            "path": "l1max.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -260,13 +260,13 @@
             "display_name": "Alianza Atlético vs Sporting Cristal - Stream 1"
           },
           {
-            "label": "xtra.m3u8",
-            "url": "https://daffodil.shadow-ran.online/xtra.m3u8",
+            "label": "l1max.m3u8",
+            "url": "https://daffodil.shadow-ran.online/l1max.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "xtra.m3u8",
+            "path": "l1max.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -280,7 +280,7 @@
               "home": "Alianza Atlético",
               "away": "Sporting Cristal"
             },
-            "display_name": "Alianza Atlético vs Sporting Cristal - xtra.m3u8"
+            "display_name": "Alianza Atlético vs Sporting Cristal - l1max.m3u8"
           }
         ]
       },
@@ -589,63 +589,6 @@
               "away": "América"
             },
             "display_name": "Juárez vs América - inter.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "FC Cajamarca vs Atlético Grau",
-        "sport": "soccer",
-        "matchup": {
-          "home": "FC Cajamarca",
-          "away": "Atlético Grau"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-2",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/l1max.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "l1max.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "FC Cajamarca vs Atlético Grau",
-            "matchup": {
-              "home": "FC Cajamarca",
-              "away": "Atlético Grau"
-            },
-            "display_name": "FC Cajamarca vs Atlético Grau - Stream 1"
-          },
-          {
-            "label": "l1max.m3u8",
-            "url": "https://daffodil.shadow-ran.online/l1max.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "l1max.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "FC Cajamarca vs Atlético Grau",
-            "matchup": {
-              "home": "FC Cajamarca",
-              "away": "Atlético Grau"
-            },
-            "display_name": "FC Cajamarca vs Atlético Grau - l1max.m3u8"
           }
         ]
       },
@@ -1560,63 +1503,6 @@
               "away": "Chicago Sky"
             },
             "display_name": "Golden State Valkyries vs Chicago Sky - wnba2.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Portland Fire vs Toronto Tempo",
-        "sport": "nba",
-        "matchup": {
-          "home": "Portland Fire",
-          "away": "Toronto Tempo"
-        },
-        "page": "https://roxiestreams.su/wnba-streams-3",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/wnba3.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wnba-streams-3",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "wnba3.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/wnba-streams-3",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Portland Fire vs Toronto Tempo",
-            "matchup": {
-              "home": "Portland Fire",
-              "away": "Toronto Tempo"
-            },
-            "display_name": "Portland Fire vs Toronto Tempo - Stream 1"
-          },
-          {
-            "label": "wnba3.m3u8",
-            "url": "https://daffodil.shadow-ran.online/wnba3.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wnba-streams-3",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "wnba3.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/wnba-streams-3",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Portland Fire vs Toronto Tempo",
-            "matchup": {
-              "home": "Portland Fire",
-              "away": "Toronto Tempo"
-            },
-            "display_name": "Portland Fire vs Toronto Tempo - wnba3.m3u8"
           }
         ]
       }
@@ -5693,29 +5579,6 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-8",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "wwe.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-8",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Arsenal vs Coventry City",
-          "matchup": {
-            "home": "Arsenal",
-            "away": "Coventry City"
-          },
-          "display_name": "Arsenal vs Coventry City - Stream 1"
-        },
-        {
-          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/arsenal.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-8",
@@ -5735,15 +5598,15 @@
             "home": "Arsenal",
             "away": "Coventry City"
           },
-          "display_name": "Arsenal vs Coventry City - Stream 2"
+          "display_name": "Arsenal vs Coventry City - Stream 1"
         },
         {
-          "label": "wwe.m3u8",
-          "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
+          "subdomain": "admin2",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-8",
@@ -5758,7 +5621,30 @@
             "home": "Arsenal",
             "away": "Coventry City"
           },
-          "display_name": "Arsenal vs Coventry City - wwe.m3u8"
+          "display_name": "Arsenal vs Coventry City - Stream 2"
+        },
+        {
+          "label": "arsenal.m3u8",
+          "url": "https://daffodil.shadow-ran.online/arsenal.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "arsenal.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-8",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Arsenal vs Coventry City",
+          "matchup": {
+            "home": "Arsenal",
+            "away": "Coventry City"
+          },
+          "display_name": "Arsenal vs Coventry City - arsenal.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5808,12 +5694,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/xtra.m3u8",
+          "url": "https://admin2.shadow-ran.online/l1max.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "xtra.m3u8",
+          "subdomain": "admin2",
+          "path": "l1max.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -5830,13 +5716,13 @@
           "display_name": "Alianza Atlético vs Sporting Cristal - Stream 1"
         },
         {
-          "label": "xtra.m3u8",
-          "url": "https://daffodil.shadow-ran.online/xtra.m3u8",
+          "label": "l1max.m3u8",
+          "url": "https://daffodil.shadow-ran.online/l1max.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "xtra.m3u8",
+          "path": "l1max.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -5850,7 +5736,7 @@
             "home": "Alianza Atlético",
             "away": "Sporting Cristal"
           },
-          "display_name": "Alianza Atlético vs Sporting Cristal - xtra.m3u8"
+          "display_name": "Alianza Atlético vs Sporting Cristal - l1max.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6104,52 +5990,6 @@
             "away": "América"
           },
           "display_name": "Juárez vs América - inter.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/l1max.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "l1max.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "FC Cajamarca vs Atlético Grau",
-          "matchup": {
-            "home": "FC Cajamarca",
-            "away": "Atlético Grau"
-          },
-          "display_name": "FC Cajamarca vs Atlético Grau - Stream 1"
-        },
-        {
-          "label": "l1max.m3u8",
-          "url": "https://daffodil.shadow-ran.online/l1max.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "l1max.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "FC Cajamarca vs Atlético Grau",
-          "matchup": {
-            "home": "FC Cajamarca",
-            "away": "Atlético Grau"
-          },
-          "display_name": "FC Cajamarca vs Atlético Grau - l1max.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6857,52 +6697,6 @@
             "away": "Chicago Sky"
           },
           "display_name": "Golden State Valkyries vs Chicago Sky - wnba2.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/wnba3.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wnba-streams-3",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "wnba3.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/wnba-streams-3",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Portland Fire vs Toronto Tempo",
-          "matchup": {
-            "home": "Portland Fire",
-            "away": "Toronto Tempo"
-          },
-          "display_name": "Portland Fire vs Toronto Tempo - Stream 1"
-        },
-        {
-          "label": "wnba3.m3u8",
-          "url": "https://daffodil.shadow-ran.online/wnba3.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wnba-streams-3",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "wnba3.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/wnba-streams-3",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Portland Fire vs Toronto Tempo",
-          "matchup": {
-            "home": "Portland Fire",
-            "away": "Toronto Tempo"
-          },
-          "display_name": "Portland Fire vs Toronto Tempo - wnba3.m3u8"
         }
       ]
     },
@@ -7430,7 +7224,7 @@
       ]
     }
   },
-  "stream_count": 77,
+  "stream_count": 73,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
