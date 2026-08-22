@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T20:10:39+00:00",
+  "scraped_at": "2026-08-22T20:44:58+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -805,13 +805,13 @@
         "page": "https://roxiestreams.su/soccer-streams-20",
         "streams": [
           {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/sky.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/mls.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-20",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "sky.m3u8",
+            "path": "mls.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-20",
               "Origin": "https://roxiestreams.su",
@@ -825,7 +825,30 @@
               "home": "Inter Miami",
               "away": "Toronto"
             },
-            "display_name": "Inter Miami vs Toronto - Stream 2"
+            "display_name": "Inter Miami vs Toronto - Stream 1"
+          },
+          {
+            "label": "mls.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-20",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "mls.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-20",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Inter Miami vs Toronto",
+            "matchup": {
+              "home": "Inter Miami",
+              "away": "Toronto"
+            },
+            "display_name": "Inter Miami vs Toronto - mls.m3u8"
           }
         ]
       },
@@ -897,12 +920,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/tv3.m3u8",
+            "url": "https://admin2.shadow-ran.online/santos.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-22",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "tv3.m3u8",
+            "path": "santos.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-22",
               "Origin": "https://roxiestreams.su",
@@ -919,36 +942,13 @@
             "display_name": "Puebla vs Santos - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/tv3.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-22",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "tv3.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-22",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Puebla vs Santos",
-            "matchup": {
-              "home": "Puebla",
-              "away": "Santos"
-            },
-            "display_name": "Puebla vs Santos - Stream 2"
-          },
-          {
-            "label": "tv3.m3u8",
-            "url": "https://daffodil.shadow-ran.online/tv3.m3u8",
+            "label": "santos.m3u8",
+            "url": "https://daffodil.shadow-ran.online/santos.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-22",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "tv3.m3u8",
+            "path": "santos.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-22",
               "Origin": "https://roxiestreams.su",
@@ -962,7 +962,7 @@
               "home": "Puebla",
               "away": "Santos"
             },
-            "display_name": "Puebla vs Santos - tv3.m3u8"
+            "display_name": "Puebla vs Santos - santos.m3u8"
           }
         ]
       },
@@ -977,12 +977,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/cbssn.m3u8",
+            "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-23",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "cbssn.m3u8",
+            "subdomain": "tedesco",
+            "path": "tudn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-23",
               "Origin": "https://roxiestreams.su",
@@ -999,36 +999,13 @@
             "display_name": "Cruz Azul vs Atlas - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/sky.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-23",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "sky.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-23",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Cruz Azul vs Atlas",
-            "matchup": {
-              "home": "Cruz Azul",
-              "away": "Atlas"
-            },
-            "display_name": "Cruz Azul vs Atlas - Stream 2"
-          },
-          {
-            "label": "cbssn.m3u8",
-            "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+            "label": "tudn.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-23",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "cbssn.m3u8",
+            "path": "tudn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-23",
               "Origin": "https://roxiestreams.su",
@@ -1042,7 +1019,7 @@
               "home": "Cruz Azul",
               "away": "Atlas"
             },
-            "display_name": "Cruz Azul vs Atlas - cbssn.m3u8"
+            "display_name": "Cruz Azul vs Atlas - tudn.m3u8"
           }
         ]
       },
@@ -1464,6 +1441,29 @@
               "away": "Cagliari"
             },
             "display_name": "Parma vs Cagliari - Stream 1"
+          },
+          {
+            "label": "cbssn.m3u8",
+            "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "cbssn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-8",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Parma vs Cagliari",
+            "matchup": {
+              "home": "Parma",
+              "away": "Cagliari"
+            },
+            "display_name": "Parma vs Cagliari - cbssn.m3u8"
           }
         ]
       }
@@ -2384,6 +2384,63 @@
         ]
       },
       {
+        "title": "Buffalo Bills vs Cleveland Browns",
+        "sport": "nfl",
+        "matchup": {
+          "home": "Buffalo Bills",
+          "away": "Cleveland Browns"
+        },
+        "page": "https://roxiestreams.su/nfl-streams-2",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/bills.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nfl-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "bills.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nfl-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Buffalo Bills vs Cleveland Browns",
+            "matchup": {
+              "home": "Buffalo Bills",
+              "away": "Cleveland Browns"
+            },
+            "display_name": "Buffalo Bills vs Cleveland Browns - Stream 1"
+          },
+          {
+            "label": "bills.m3u8",
+            "url": "https://daffodil.shadow-ran.online/bills.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nfl-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "bills.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nfl-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Buffalo Bills vs Cleveland Browns",
+            "matchup": {
+              "home": "Buffalo Bills",
+              "away": "Cleveland Browns"
+            },
+            "display_name": "Buffalo Bills vs Cleveland Browns - bills.m3u8"
+          }
+        ]
+      },
+      {
         "title": "Atlanta Falcons vs Indianapolis Colts",
         "sport": "nfl",
         "matchup": {
@@ -3226,11 +3283,11 @@
           },
           {
             "label": "Stream 2 (TNT)",
-            "url": "https://admin2.shadow-ran.online/tnt.m3u8",
+            "url": "https://tedesco.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "tnt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
@@ -3248,36 +3305,13 @@
             "display_name": "UFC FN: Hernandez vs. Rodrigues - Stream 2 (TNT)"
           },
           {
-            "label": "Stream 3 (Euro) Stream 4",
-            "url": "https://tedesco.shadow-ran.online/hub.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ufc",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "hub.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ufc",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ufc",
-            "event_title": "UFC FN: Hernandez vs. Rodrigues",
-            "matchup": {
-              "home": "UFC FN: Hernandez",
-              "away": "Rodrigues"
-            },
-            "display_name": "UFC FN: Hernandez vs. Rodrigues - Stream 3 (Euro) Stream 4"
-          },
-          {
-            "label": "Stream 4",
-            "url": "https://admin2.shadow-ran.online/stw.m3u8",
+            "label": "Stream 3 (SN)",
+            "url": "https://admin2.shadow-ran.online/sn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "stw.m3u8",
+            "path": "sn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
               "Origin": "https://roxiestreams.su",
@@ -3291,7 +3325,7 @@
               "home": "UFC FN: Hernandez",
               "away": "Rodrigues"
             },
-            "display_name": "UFC FN: Hernandez vs. Rodrigues - Stream 4"
+            "display_name": "UFC FN: Hernandez vs. Rodrigues - Stream 3 (SN)"
           },
           {
             "label": "abbiecadabrii.m3u8",
@@ -4503,7 +4537,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4636,7 +4669,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4703,7 +4735,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7290,6 +7321,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7554,7 +7586,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -8688,8 +8720,7 @@
         "MultiView (NEW)",
         "Stream 1 (Para)",
         "Stream 2 (TNT)",
-        "Stream 3 (Euro) Stream 4",
-        "Stream 4",
+        "Stream 3 (SN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -9397,13 +9428,13 @@
           "display_name": "Genoa vs Napoli - golazo.m3u8"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/sky.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/mls.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-20",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "sky.m3u8",
+          "path": "mls.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-20",
             "Origin": "https://roxiestreams.su",
@@ -9417,7 +9448,30 @@
             "home": "Inter Miami",
             "away": "Toronto"
           },
-          "display_name": "Inter Miami vs Toronto - Stream 2"
+          "display_name": "Inter Miami vs Toronto - Stream 1"
+        },
+        {
+          "label": "mls.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-20",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "mls.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-20",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Inter Miami vs Toronto",
+          "matchup": {
+            "home": "Inter Miami",
+            "away": "Toronto"
+          },
+          "display_name": "Inter Miami vs Toronto - mls.m3u8"
         },
         {
           "label": "Stream 1",
@@ -9467,12 +9521,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/tv3.m3u8",
+          "url": "https://admin2.shadow-ran.online/santos.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-22",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "tv3.m3u8",
+          "path": "santos.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-22",
             "Origin": "https://roxiestreams.su",
@@ -9489,36 +9543,13 @@
           "display_name": "Puebla vs Santos - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/tv3.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-22",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "tv3.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-22",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Puebla vs Santos",
-          "matchup": {
-            "home": "Puebla",
-            "away": "Santos"
-          },
-          "display_name": "Puebla vs Santos - Stream 2"
-        },
-        {
-          "label": "tv3.m3u8",
-          "url": "https://daffodil.shadow-ran.online/tv3.m3u8",
+          "label": "santos.m3u8",
+          "url": "https://daffodil.shadow-ran.online/santos.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-22",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "tv3.m3u8",
+          "path": "santos.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-22",
             "Origin": "https://roxiestreams.su",
@@ -9532,16 +9563,16 @@
             "home": "Puebla",
             "away": "Santos"
           },
-          "display_name": "Puebla vs Santos - tv3.m3u8"
+          "display_name": "Puebla vs Santos - santos.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/cbssn.m3u8",
+          "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-23",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "cbssn.m3u8",
+          "subdomain": "tedesco",
+          "path": "tudn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-23",
             "Origin": "https://roxiestreams.su",
@@ -9558,36 +9589,13 @@
           "display_name": "Cruz Azul vs Atlas - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/sky.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-23",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "sky.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-23",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Cruz Azul vs Atlas",
-          "matchup": {
-            "home": "Cruz Azul",
-            "away": "Atlas"
-          },
-          "display_name": "Cruz Azul vs Atlas - Stream 2"
-        },
-        {
-          "label": "cbssn.m3u8",
-          "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+          "label": "tudn.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-23",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "cbssn.m3u8",
+          "path": "tudn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-23",
             "Origin": "https://roxiestreams.su",
@@ -9601,7 +9609,7 @@
             "home": "Cruz Azul",
             "away": "Atlas"
           },
-          "display_name": "Cruz Azul vs Atlas - cbssn.m3u8"
+          "display_name": "Cruz Azul vs Atlas - tudn.m3u8"
         },
         {
           "label": "Stream 1",
@@ -9924,6 +9932,29 @@
             "away": "Cagliari"
           },
           "display_name": "Parma vs Cagliari - Stream 1"
+        },
+        {
+          "label": "cbssn.m3u8",
+          "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "cbssn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-8",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Parma vs Cagliari",
+          "matchup": {
+            "home": "Parma",
+            "away": "Cagliari"
+          },
+          "display_name": "Parma vs Cagliari - cbssn.m3u8"
         }
       ]
     },
@@ -10648,6 +10679,52 @@
             "away": "Arizona Cardinals"
           },
           "display_name": "Dallas Cowboys vs Arizona Cardinals - nfl2.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/bills.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nfl-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "bills.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nfl-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Buffalo Bills vs Cleveland Browns",
+          "matchup": {
+            "home": "Buffalo Bills",
+            "away": "Cleveland Browns"
+          },
+          "display_name": "Buffalo Bills vs Cleveland Browns - Stream 1"
+        },
+        {
+          "label": "bills.m3u8",
+          "url": "https://daffodil.shadow-ran.online/bills.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nfl-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "bills.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nfl-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Buffalo Bills vs Cleveland Browns",
+          "matchup": {
+            "home": "Buffalo Bills",
+            "away": "Cleveland Browns"
+          },
+          "display_name": "Buffalo Bills vs Cleveland Browns - bills.m3u8"
         },
         {
           "label": "Stream 1",
@@ -11381,11 +11458,11 @@
         },
         {
           "label": "Stream 2 (TNT)",
-          "url": "https://admin2.shadow-ran.online/tnt.m3u8",
+          "url": "https://tedesco.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "tnt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
@@ -11403,36 +11480,13 @@
           "display_name": "UFC FN: Hernandez vs. Rodrigues - Stream 2 (TNT)"
         },
         {
-          "label": "Stream 3 (Euro) Stream 4",
-          "url": "https://tedesco.shadow-ran.online/hub.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ufc",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "hub.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ufc",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ufc",
-          "event_title": "UFC FN: Hernandez vs. Rodrigues",
-          "matchup": {
-            "home": "UFC FN: Hernandez",
-            "away": "Rodrigues"
-          },
-          "display_name": "UFC FN: Hernandez vs. Rodrigues - Stream 3 (Euro) Stream 4"
-        },
-        {
-          "label": "Stream 4",
-          "url": "https://admin2.shadow-ran.online/stw.m3u8",
+          "label": "Stream 3 (SN)",
+          "url": "https://admin2.shadow-ran.online/sn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "stw.m3u8",
+          "path": "sn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
             "Origin": "https://roxiestreams.su",
@@ -11446,7 +11500,7 @@
             "home": "UFC FN: Hernandez",
             "away": "Rodrigues"
           },
-          "display_name": "UFC FN: Hernandez vs. Rodrigues - Stream 4"
+          "display_name": "UFC FN: Hernandez vs. Rodrigues - Stream 3 (SN)"
         },
         {
           "label": "abbiecadabrii.m3u8",
@@ -11574,7 +11628,7 @@
       ]
     }
   },
-  "stream_count": 120,
+  "stream_count": 121,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
