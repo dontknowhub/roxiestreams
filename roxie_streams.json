@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T17:10:42+00:00",
+  "scraped_at": "2026-08-22T17:42:01+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -2224,6 +2224,63 @@
         ]
       },
       {
+        "title": "Buffalo Bills vs Cleveland Browns",
+        "sport": "nfl",
+        "matchup": {
+          "home": "Buffalo Bills",
+          "away": "Cleveland Browns"
+        },
+        "page": "https://roxiestreams.su/nfl-streams-2",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/nfl4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nfl-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "nfl4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nfl-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Buffalo Bills vs Cleveland Browns",
+            "matchup": {
+              "home": "Buffalo Bills",
+              "away": "Cleveland Browns"
+            },
+            "display_name": "Buffalo Bills vs Cleveland Browns - Stream 1"
+          },
+          {
+            "label": "nfl4.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nfl4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nfl-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nfl4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nfl-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Buffalo Bills vs Cleveland Browns",
+            "matchup": {
+              "home": "Buffalo Bills",
+              "away": "Cleveland Browns"
+            },
+            "display_name": "Buffalo Bills vs Cleveland Browns - nfl4.m3u8"
+          }
+        ]
+      },
+      {
         "title": "Atlanta Falcons vs Indianapolis Colts",
         "sport": "nfl",
         "matchup": {
@@ -2531,26 +2588,6 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/ppvsat.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "ppvsat.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ppv-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "fighting",
-            "event_title": "Dana White's Contender Series",
-            "matchup": null,
-            "display_name": "Dana White's Contender Series - Stream 1"
-          },
-          {
-            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ppv-streams-1",
@@ -2567,36 +2604,16 @@
             "sport": "fighting",
             "event_title": "Dana White's Contender Series",
             "matchup": null,
-            "display_name": "Dana White's Contender Series - Stream 2"
+            "display_name": "Dana White's Contender Series - Stream 1"
           },
           {
-            "label": "Stream 3",
-            "url": "https://admin2.shadow-ran.online/ppvalt.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ppv-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "ppvalt.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ppv-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "fighting",
-            "event_title": "Dana White's Contender Series",
-            "matchup": null,
-            "display_name": "Dana White's Contender Series - Stream 3"
-          },
-          {
-            "label": "ppvsat.m3u8",
-            "url": "https://daffodil.shadow-ran.online/ppvsat.m3u8",
+            "label": "ppv.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ppv-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "ppvsat.m3u8",
+            "path": "ppv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ppv-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -2607,7 +2624,7 @@
             "sport": "fighting",
             "event_title": "Dana White's Contender Series",
             "matchup": null,
-            "display_name": "Dana White's Contender Series - ppvsat.m3u8"
+            "display_name": "Dana White's Contender Series - ppv.m3u8"
           }
         ]
       },
@@ -2923,6 +2940,23 @@
           {
             "label": "Direct Link",
             "url": "https://admin2.formaturamaxi.com.br/sx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/supercross",
+            "headers": {
+              "Referer": "https://roxiestreams.su/supercross",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "supercross",
+            "event_title": "AMA Motocross - Budds Creek",
+            "matchup": null,
+            "display_name": "AMA Motocross - Budds Creek"
+          },
+          {
+            "label": "Direct Link",
+            "url": "https://admin2.formaturamaxi.com.br/sxalt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/supercross",
             "headers": {
@@ -7801,8 +7835,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
-        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -8370,6 +8402,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -10262,6 +10295,52 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/nfl4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nfl-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "nfl4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nfl-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Buffalo Bills vs Cleveland Browns",
+          "matchup": {
+            "home": "Buffalo Bills",
+            "away": "Cleveland Browns"
+          },
+          "display_name": "Buffalo Bills vs Cleveland Browns - Stream 1"
+        },
+        {
+          "label": "nfl4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nfl4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nfl-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nfl4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nfl-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Buffalo Bills vs Cleveland Browns",
+          "matchup": {
+            "home": "Buffalo Bills",
+            "away": "Cleveland Browns"
+          },
+          "display_name": "Buffalo Bills vs Cleveland Browns - nfl4.m3u8"
+        },
+        {
+          "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/mlb10.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-3",
@@ -10525,26 +10604,6 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/ppvsat.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "ppvsat.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ppv-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "fighting",
-          "event_title": "Dana White's Contender Series",
-          "matchup": null,
-          "display_name": "Dana White's Contender Series - Stream 1"
-        },
-        {
-          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ppv-streams-1",
@@ -10561,36 +10620,16 @@
           "sport": "fighting",
           "event_title": "Dana White's Contender Series",
           "matchup": null,
-          "display_name": "Dana White's Contender Series - Stream 2"
+          "display_name": "Dana White's Contender Series - Stream 1"
         },
         {
-          "label": "Stream 3",
-          "url": "https://admin2.shadow-ran.online/ppvalt.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ppv-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "ppvalt.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ppv-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "fighting",
-          "event_title": "Dana White's Contender Series",
-          "matchup": null,
-          "display_name": "Dana White's Contender Series - Stream 3"
-        },
-        {
-          "label": "ppvsat.m3u8",
-          "url": "https://daffodil.shadow-ran.online/ppvsat.m3u8",
+          "label": "ppv.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ppv-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "ppvsat.m3u8",
+          "path": "ppv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ppv-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -10601,7 +10640,7 @@
           "sport": "fighting",
           "event_title": "Dana White's Contender Series",
           "matchup": null,
-          "display_name": "Dana White's Contender Series - ppvsat.m3u8"
+          "display_name": "Dana White's Contender Series - ppv.m3u8"
         },
         {
           "label": "Stream 1",
@@ -10890,6 +10929,23 @@
           "event_title": "AMA Motocross - Budds Creek",
           "matchup": null,
           "display_name": "AMA Motocross - Budds Creek"
+        },
+        {
+          "label": "Direct Link",
+          "url": "https://admin2.formaturamaxi.com.br/sxalt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/supercross",
+          "headers": {
+            "Referer": "https://roxiestreams.su/supercross",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "supercross",
+          "event_title": "AMA Motocross - Budds Creek",
+          "matchup": null,
+          "display_name": "AMA Motocross - Budds Creek"
         }
       ]
     },
@@ -11116,7 +11172,7 @@
       ]
     }
   },
-  "stream_count": 111,
+  "stream_count": 112,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
