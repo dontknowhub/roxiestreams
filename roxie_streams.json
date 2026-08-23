@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T23:41:14+00:00",
+  "scraped_at": "2026-08-23T00:38:19+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -919,13 +919,13 @@
         "page": "https://roxiestreams.su/soccer-streams-22",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/santos.m3u8",
+            "label": "ESPN",
+            "url": "https://admin2.shadow-ran.online/espn1mxhd.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-22",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "santos.m3u8",
+            "path": "espn1mxhd.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-22",
               "Origin": "https://roxiestreams.su",
@@ -939,16 +939,39 @@
               "home": "Puebla",
               "away": "Santos"
             },
-            "display_name": "Puebla vs Santos - Stream 1"
+            "display_name": "Puebla vs Santos - ESPN"
           },
           {
-            "label": "santos.m3u8",
-            "url": "https://daffodil.shadow-ran.online/santos.m3u8",
+            "label": "AZTECA DEPORTES",
+            "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-22",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "aztecadeportes.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-22",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Puebla vs Santos",
+            "matchup": {
+              "home": "Puebla",
+              "away": "Santos"
+            },
+            "display_name": "Puebla vs Santos - AZTECA DEPORTES"
+          },
+          {
+            "label": "espn1mxhd.m3u8",
+            "url": "https://daffodil.shadow-ran.online/espn1mxhd.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-22",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "santos.m3u8",
+            "path": "espn1mxhd.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-22",
               "Origin": "https://roxiestreams.su",
@@ -962,7 +985,7 @@
               "home": "Puebla",
               "away": "Santos"
             },
-            "display_name": "Puebla vs Santos - santos.m3u8"
+            "display_name": "Puebla vs Santos - espn1mxhd.m3u8"
           }
         ]
       },
@@ -4713,7 +4736,10 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1",
+        "ESPN",
+        "ESPN MX VPN",
+        "AZTECA DEPORTES",
+        "AZTECA DEPORTES MX VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -9566,13 +9592,13 @@
           "display_name": "SJ Earthquakes vs Minnesota Utd - tsn.m3u8"
         },
         {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/santos.m3u8",
+          "label": "ESPN",
+          "url": "https://admin2.shadow-ran.online/espn1mxhd.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-22",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "santos.m3u8",
+          "path": "espn1mxhd.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-22",
             "Origin": "https://roxiestreams.su",
@@ -9586,16 +9612,39 @@
             "home": "Puebla",
             "away": "Santos"
           },
-          "display_name": "Puebla vs Santos - Stream 1"
+          "display_name": "Puebla vs Santos - ESPN"
         },
         {
-          "label": "santos.m3u8",
-          "url": "https://daffodil.shadow-ran.online/santos.m3u8",
+          "label": "AZTECA DEPORTES",
+          "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-22",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "aztecadeportes.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-22",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Puebla vs Santos",
+          "matchup": {
+            "home": "Puebla",
+            "away": "Santos"
+          },
+          "display_name": "Puebla vs Santos - AZTECA DEPORTES"
+        },
+        {
+          "label": "espn1mxhd.m3u8",
+          "url": "https://daffodil.shadow-ran.online/espn1mxhd.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-22",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "santos.m3u8",
+          "path": "espn1mxhd.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-22",
             "Origin": "https://roxiestreams.su",
@@ -9609,7 +9658,7 @@
             "home": "Puebla",
             "away": "Santos"
           },
-          "display_name": "Puebla vs Santos - santos.m3u8"
+          "display_name": "Puebla vs Santos - espn1mxhd.m3u8"
         },
         {
           "label": "Stream 1",
@@ -11720,7 +11769,7 @@
       ]
     }
   },
-  "stream_count": 123,
+  "stream_count": 124,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
