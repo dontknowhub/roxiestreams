@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T16:12:26+00:00",
+  "scraped_at": "2026-08-23T16:48:01+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -74,29 +74,6 @@
               "away": "Sassuolo"
             },
             "display_name": "Atalanta vs Sassuolo - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/main.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "main.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Atalanta vs Sassuolo",
-            "matchup": {
-              "home": "Atalanta",
-              "away": "Sassuolo"
-            },
-            "display_name": "Atalanta vs Sassuolo - Stream 2"
           },
           {
             "label": "golazo.m3u8",
@@ -782,6 +759,29 @@
         },
         "page": "https://roxiestreams.su/soccer-streams-3",
         "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/main.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "main.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Manchester City vs Bournemouth",
+            "matchup": {
+              "home": "Manchester City",
+              "away": "Bournemouth"
+            },
+            "display_name": "Manchester City vs Bournemouth - Stream 1"
+          },
           {
             "label": "Stream 2",
             "url": "https://tedesco.shadow-ran.online/main.m3u8",
@@ -2398,12 +2398,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/indy.m3u8",
+            "url": "https://admin2.shadow-ran.online/indycar.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/indycar",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "indy.m3u8",
+            "path": "indycar.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/indycar",
               "Origin": "https://roxiestreams.su",
@@ -2437,33 +2437,13 @@
             "display_name": "INDYCAR - Freedom 250 GP - Stream 2"
           },
           {
-            "label": "Stream 3 (FS1)",
-            "url": "https://admin2.shadow-ran.online/arca.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/indycar",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "arca.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/indycar",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "indycar",
-            "event_title": "INDYCAR - Freedom 250 GP",
-            "matchup": null,
-            "display_name": "INDYCAR - Freedom 250 GP - Stream 3 (FS1)"
-          },
-          {
-            "label": "indy.m3u8",
-            "url": "https://daffodil.shadow-ran.online/indy.m3u8",
+            "label": "indycar.m3u8",
+            "url": "https://daffodil.shadow-ran.online/indycar.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/indycar",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "indy.m3u8",
+            "path": "indycar.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/indycar",
               "Origin": "https://roxiestreams.su",
@@ -2474,7 +2454,7 @@
             "sport": "indycar",
             "event_title": "INDYCAR - Freedom 250 GP",
             "matchup": null,
-            "display_name": "INDYCAR - Freedom 250 GP - indy.m3u8"
+            "display_name": "INDYCAR - Freedom 250 GP - indycar.m3u8"
           }
         ]
       }
@@ -2742,7 +2722,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6561,7 +6540,6 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
-        "Stream 3 (FS1)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6660,29 +6638,6 @@
             "away": "Sassuolo"
           },
           "display_name": "Atalanta vs Sassuolo - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/main.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "main.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Atalanta vs Sassuolo",
-          "matchup": {
-            "home": "Atalanta",
-            "away": "Sassuolo"
-          },
-          "display_name": "Atalanta vs Sassuolo - Stream 2"
         },
         {
           "label": "golazo.m3u8",
@@ -7235,6 +7190,29 @@
             "away": "Aston Villa"
           },
           "display_name": "Brighton vs Aston Villa - Stream 2"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/main.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "main.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Manchester City vs Bournemouth",
+          "matchup": {
+            "home": "Manchester City",
+            "away": "Bournemouth"
+          },
+          "display_name": "Manchester City vs Bournemouth - Stream 1"
         },
         {
           "label": "Stream 2",
@@ -8575,12 +8553,12 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/indy.m3u8",
+          "url": "https://admin2.shadow-ran.online/indycar.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/indycar",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "indy.m3u8",
+          "path": "indycar.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/indycar",
             "Origin": "https://roxiestreams.su",
@@ -8614,33 +8592,13 @@
           "display_name": "INDYCAR - Freedom 250 GP - Stream 2"
         },
         {
-          "label": "Stream 3 (FS1)",
-          "url": "https://admin2.shadow-ran.online/arca.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/indycar",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "arca.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/indycar",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "indycar",
-          "event_title": "INDYCAR - Freedom 250 GP",
-          "matchup": null,
-          "display_name": "INDYCAR - Freedom 250 GP - Stream 3 (FS1)"
-        },
-        {
-          "label": "indy.m3u8",
-          "url": "https://daffodil.shadow-ran.online/indy.m3u8",
+          "label": "indycar.m3u8",
+          "url": "https://daffodil.shadow-ran.online/indycar.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/indycar",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "indy.m3u8",
+          "path": "indycar.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/indycar",
             "Origin": "https://roxiestreams.su",
@@ -8651,7 +8609,7 @@
           "sport": "indycar",
           "event_title": "INDYCAR - Freedom 250 GP",
           "matchup": null,
-          "display_name": "INDYCAR - Freedom 250 GP - indy.m3u8"
+          "display_name": "INDYCAR - Freedom 250 GP - indycar.m3u8"
         }
       ]
     },
@@ -8709,7 +8667,7 @@
       ]
     }
   },
-  "stream_count": 89,
+  "stream_count": 88,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
