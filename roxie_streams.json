@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T21:10:51+00:00",
+  "scraped_at": "2026-08-23T21:41:31+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -1812,11 +1812,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/wnba.m3u8",
+            "url": "https://tedesco.shadow-ran.online/wnba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wnba-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "wnba.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wnba-streams-1",
@@ -1869,12 +1869,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/wnba2.m3u8",
+            "url": "https://admin2.shadow-ran.online/mlb10.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wnba-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "wnba2.m3u8",
+            "subdomain": "admin2",
+            "path": "mlb10.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wnba-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -1891,13 +1891,13 @@
             "display_name": "Indiana Fever vs Chicago Sky - Stream 1"
           },
           {
-            "label": "wnba2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/wnba2.m3u8",
+            "label": "mlb10.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mlb10.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wnba-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "wnba2.m3u8",
+            "path": "mlb10.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wnba-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -1911,7 +1911,7 @@
               "home": "Indiana Fever",
               "away": "Chicago Sky"
             },
-            "display_name": "Indiana Fever vs Chicago Sky - wnba2.m3u8"
+            "display_name": "Indiana Fever vs Chicago Sky - mlb10.m3u8"
           }
         ]
       },
@@ -1969,6 +1969,63 @@
               "away": "Portland Fire"
             },
             "display_name": "Washington Mystics vs Portland Fire - wnba3.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Las Vegas Aces vs Toronto Tempo",
+        "sport": "nba",
+        "matchup": {
+          "home": "Las Vegas Aces",
+          "away": "Toronto Tempo"
+        },
+        "page": "https://roxiestreams.su/wnba-streams-4",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://tedesco.shadow-ran.online/wnba2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wnba-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "wnba2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wnba-streams-4",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Las Vegas Aces vs Toronto Tempo",
+            "matchup": {
+              "home": "Las Vegas Aces",
+              "away": "Toronto Tempo"
+            },
+            "display_name": "Las Vegas Aces vs Toronto Tempo - Stream 1"
+          },
+          {
+            "label": "wnba2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wnba2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wnba-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wnba2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wnba-streams-4",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Las Vegas Aces vs Toronto Tempo",
+            "matchup": {
+              "home": "Las Vegas Aces",
+              "away": "Toronto Tempo"
+            },
+            "display_name": "Las Vegas Aces vs Toronto Tempo - wnba2.m3u8"
           }
         ]
       }
@@ -7770,11 +7827,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/wnba.m3u8",
+          "url": "https://tedesco.shadow-ran.online/wnba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wnba-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "wnba.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wnba-streams-1",
@@ -7816,12 +7873,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/wnba2.m3u8",
+          "url": "https://admin2.shadow-ran.online/mlb10.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wnba-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "wnba2.m3u8",
+          "subdomain": "admin2",
+          "path": "mlb10.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wnba-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -7838,13 +7895,13 @@
           "display_name": "Indiana Fever vs Chicago Sky - Stream 1"
         },
         {
-          "label": "wnba2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/wnba2.m3u8",
+          "label": "mlb10.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mlb10.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wnba-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "wnba2.m3u8",
+          "path": "mlb10.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wnba-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -7858,7 +7915,7 @@
             "home": "Indiana Fever",
             "away": "Chicago Sky"
           },
-          "display_name": "Indiana Fever vs Chicago Sky - wnba2.m3u8"
+          "display_name": "Indiana Fever vs Chicago Sky - mlb10.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7905,6 +7962,52 @@
             "away": "Portland Fire"
           },
           "display_name": "Washington Mystics vs Portland Fire - wnba3.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://tedesco.shadow-ran.online/wnba2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wnba-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "wnba2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wnba-streams-4",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Las Vegas Aces vs Toronto Tempo",
+          "matchup": {
+            "home": "Las Vegas Aces",
+            "away": "Toronto Tempo"
+          },
+          "display_name": "Las Vegas Aces vs Toronto Tempo - Stream 1"
+        },
+        {
+          "label": "wnba2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wnba2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wnba-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wnba2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wnba-streams-4",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Las Vegas Aces vs Toronto Tempo",
+          "matchup": {
+            "home": "Las Vegas Aces",
+            "away": "Toronto Tempo"
+          },
+          "display_name": "Las Vegas Aces vs Toronto Tempo - wnba2.m3u8"
         }
       ]
     },
@@ -8343,7 +8446,7 @@
       ]
     }
   },
-  "stream_count": 85,
+  "stream_count": 87,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
