@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-29T18:58:59+00:00",
+  "scraped_at": "2026-08-29T21:30:54+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -493,12 +493,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/sportv.m3u8",
+            "url": "https://admin2.shadow-ran.online/fanapt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "sportv.m3u8",
+            "path": "fanapt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-15",
               "Origin": "https://roxiestreams.su",
@@ -515,13 +515,13 @@
             "display_name": "Atlético Mineiro vs Vitória - Stream 1"
           },
           {
-            "label": "sportv.m3u8",
-            "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
+            "label": "Stream 2 (DE)",
+            "url": "https://admin2.shadow-ran.online/sportdigitalfuss.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "sportv.m3u8",
+            "subdomain": "admin2",
+            "path": "sportdigitalfuss.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-15",
               "Origin": "https://roxiestreams.su",
@@ -535,7 +535,30 @@
               "home": "Atlético Mineiro",
               "away": "Vitória"
             },
-            "display_name": "Atlético Mineiro vs Vitória - sportv.m3u8"
+            "display_name": "Atlético Mineiro vs Vitória - Stream 2 (DE)"
+          },
+          {
+            "label": "fanapt.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fanapt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-15",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fanapt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-15",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Atlético Mineiro vs Vitória",
+            "matchup": {
+              "home": "Atlético Mineiro",
+              "away": "Vitória"
+            },
+            "display_name": "Atlético Mineiro vs Vitória - fanapt.m3u8"
           }
         ]
       },
@@ -3733,6 +3756,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (DE)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -8097,12 +8121,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/sportv.m3u8",
+          "url": "https://admin2.shadow-ran.online/fanapt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "sportv.m3u8",
+          "path": "fanapt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-15",
             "Origin": "https://roxiestreams.su",
@@ -8119,13 +8143,13 @@
           "display_name": "Atlético Mineiro vs Vitória - Stream 1"
         },
         {
-          "label": "sportv.m3u8",
-          "url": "https://daffodil.shadow-ran.online/sportv.m3u8",
+          "label": "Stream 2 (DE)",
+          "url": "https://admin2.shadow-ran.online/sportdigitalfuss.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "sportv.m3u8",
+          "subdomain": "admin2",
+          "path": "sportdigitalfuss.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-15",
             "Origin": "https://roxiestreams.su",
@@ -8139,7 +8163,30 @@
             "home": "Atlético Mineiro",
             "away": "Vitória"
           },
-          "display_name": "Atlético Mineiro vs Vitória - sportv.m3u8"
+          "display_name": "Atlético Mineiro vs Vitória - Stream 2 (DE)"
+        },
+        {
+          "label": "fanapt.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fanapt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-15",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fanapt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-15",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Atlético Mineiro vs Vitória",
+          "matchup": {
+            "home": "Atlético Mineiro",
+            "away": "Vitória"
+          },
+          "display_name": "Atlético Mineiro vs Vitória - fanapt.m3u8"
         },
         {
           "label": "Stream 1",
@@ -10242,7 +10289,7 @@
       ]
     }
   },
-  "stream_count": 108,
+  "stream_count": 109,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
