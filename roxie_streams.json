@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-29T11:13:44+00:00",
+  "scraped_at": "2026-08-29T15:40:47+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -159,6 +159,29 @@
               "away": "Atletico Madrid"
             },
             "display_name": "Sevilla vs Atletico Madrid - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/skymx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-10",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "skymx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-10",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Sevilla vs Atletico Madrid",
+            "matchup": {
+              "home": "Sevilla",
+              "away": "Atletico Madrid"
+            },
+            "display_name": "Sevilla vs Atletico Madrid - Stream 2"
           },
           {
             "label": "dep.m3u8",
@@ -376,6 +399,29 @@
               "away": "Newcastle"
             },
             "display_name": "Tottenham vs Newcastle - Stream 2"
+          },
+          {
+            "label": "ncaa2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ncaa2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-13",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ncaa2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-13",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Tottenham vs Newcastle",
+            "matchup": {
+              "home": "Tottenham",
+              "away": "Newcastle"
+            },
+            "display_name": "Tottenham vs Newcastle - ncaa2.m3u8"
           }
         ]
       },
@@ -1074,12 +1120,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/l1max.m3u8",
+            "url": "https://admin2.shadow-ran.online/south.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "l1max.m3u8",
+            "path": "south.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-8",
               "Origin": "https://roxiestreams.su",
@@ -1096,13 +1142,13 @@
             "display_name": "Southampton vs Millwall - Stream 1"
           },
           {
-            "label": "l1max.m3u8",
-            "url": "https://daffodil.shadow-ran.online/l1max.m3u8",
+            "label": "south.m3u8",
+            "url": "https://daffodil.shadow-ran.online/south.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "l1max.m3u8",
+            "path": "south.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-8",
               "Origin": "https://roxiestreams.su",
@@ -1116,7 +1162,7 @@
               "home": "Southampton",
               "away": "Millwall"
             },
-            "display_name": "Southampton vs Millwall - l1max.m3u8"
+            "display_name": "Southampton vs Millwall - south.m3u8"
           }
         ]
       },
@@ -1131,12 +1177,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fanaes1.m3u8",
+            "url": "https://admin2.shadow-ran.online/north.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fanaes1.m3u8",
+            "path": "north.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-9",
               "Origin": "https://roxiestreams.su",
@@ -1153,13 +1199,13 @@
             "display_name": "Gillingham vs Northampton - Stream 1"
           },
           {
-            "label": "fanaes1.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fanaes1.m3u8",
+            "label": "north.m3u8",
+            "url": "https://daffodil.shadow-ran.online/north.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-9",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fanaes1.m3u8",
+            "path": "north.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-9",
               "Origin": "https://roxiestreams.su",
@@ -1173,7 +1219,7 @@
               "home": "Gillingham",
               "away": "Northampton"
             },
-            "display_name": "Gillingham vs Northampton - fanaes1.m3u8"
+            "display_name": "Gillingham vs Northampton - north.m3u8"
           }
         ]
       }
@@ -3388,6 +3434,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4382,6 +4429,7 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2 (Dortmund)",
+        "MBC ACTION",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7806,6 +7854,29 @@
           "display_name": "Sevilla vs Atletico Madrid - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/skymx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-10",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "skymx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-10",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Sevilla vs Atletico Madrid",
+          "matchup": {
+            "home": "Sevilla",
+            "away": "Atletico Madrid"
+          },
+          "display_name": "Sevilla vs Atletico Madrid - Stream 2"
+        },
+        {
           "label": "dep.m3u8",
           "url": "https://daffodil.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
@@ -7988,6 +8059,29 @@
             "away": "Newcastle"
           },
           "display_name": "Tottenham vs Newcastle - Stream 2"
+        },
+        {
+          "label": "ncaa2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ncaa2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-13",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ncaa2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-13",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Tottenham vs Newcastle",
+          "matchup": {
+            "home": "Tottenham",
+            "away": "Newcastle"
+          },
+          "display_name": "Tottenham vs Newcastle - ncaa2.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8543,12 +8637,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/l1max.m3u8",
+          "url": "https://admin2.shadow-ran.online/south.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "l1max.m3u8",
+          "path": "south.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-8",
             "Origin": "https://roxiestreams.su",
@@ -8565,13 +8659,13 @@
           "display_name": "Southampton vs Millwall - Stream 1"
         },
         {
-          "label": "l1max.m3u8",
-          "url": "https://daffodil.shadow-ran.online/l1max.m3u8",
+          "label": "south.m3u8",
+          "url": "https://daffodil.shadow-ran.online/south.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "l1max.m3u8",
+          "path": "south.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-8",
             "Origin": "https://roxiestreams.su",
@@ -8585,16 +8679,16 @@
             "home": "Southampton",
             "away": "Millwall"
           },
-          "display_name": "Southampton vs Millwall - l1max.m3u8"
+          "display_name": "Southampton vs Millwall - south.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fanaes1.m3u8",
+          "url": "https://admin2.shadow-ran.online/north.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fanaes1.m3u8",
+          "path": "north.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-9",
             "Origin": "https://roxiestreams.su",
@@ -8611,13 +8705,13 @@
           "display_name": "Gillingham vs Northampton - Stream 1"
         },
         {
-          "label": "fanaes1.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fanaes1.m3u8",
+          "label": "north.m3u8",
+          "url": "https://daffodil.shadow-ran.online/north.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-9",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fanaes1.m3u8",
+          "path": "north.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-9",
             "Origin": "https://roxiestreams.su",
@@ -8631,7 +8725,7 @@
             "home": "Gillingham",
             "away": "Northampton"
           },
-          "display_name": "Gillingham vs Northampton - fanaes1.m3u8"
+          "display_name": "Gillingham vs Northampton - north.m3u8"
         }
       ]
     },
@@ -10205,7 +10299,7 @@
       ]
     }
   },
-  "stream_count": 107,
+  "stream_count": 109,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
