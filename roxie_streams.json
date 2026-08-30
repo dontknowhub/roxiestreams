@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-30T13:51:48+00:00",
+  "scraped_at": "2026-08-30T17:49:37+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -149,6 +149,52 @@
               "away": "Athletic Club"
             },
             "display_name": "Celta Vigo vs Athletic Club - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin.shadow-ran.online/skymx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "skymx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-8",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Celta Vigo vs Athletic Club",
+            "matchup": {
+              "home": "Celta Vigo",
+              "away": "Athletic Club"
+            },
+            "display_name": "Celta Vigo vs Athletic Club - Stream 2"
+          },
+          {
+            "label": "Stream 3 (EN)",
+            "url": "https://admin.shadow-ran.online/laen.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "laen.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-8",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Celta Vigo vs Athletic Club",
+            "matchup": {
+              "home": "Celta Vigo",
+              "away": "Athletic Club"
+            },
+            "display_name": "Celta Vigo vs Athletic Club - Stream 3 (EN)"
           },
           {
             "label": "dep.m3u8",
@@ -357,12 +403,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/foxd.m3u8",
+            "url": "https://admin.shadow-ran.online/lpfplay.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin",
-            "path": "foxd.m3u8",
+            "path": "lpfplay.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-13",
               "Origin": "https://roxiestreams.su",
@@ -379,13 +425,13 @@
             "display_name": "Independiente Rivadavia vs Racing Club - Stream 1"
           },
           {
-            "label": "foxd.m3u8",
-            "url": "https://daffodil.shadow-ran.online/foxd.m3u8",
+            "label": "lpfplay.m3u8",
+            "url": "https://daffodil.shadow-ran.online/lpfplay.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "foxd.m3u8",
+            "path": "lpfplay.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-13",
               "Origin": "https://roxiestreams.su",
@@ -399,7 +445,7 @@
               "home": "Independiente Rivadavia",
               "away": "Racing Club"
             },
-            "display_name": "Independiente Rivadavia vs Racing Club - foxd.m3u8"
+            "display_name": "Independiente Rivadavia vs Racing Club - lpfplay.m3u8"
           }
         ]
       },
@@ -1050,6 +1096,40 @@
               "away": "Schalke 04"
             },
             "display_name": "Augsburg vs Schalke 04 - one.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Man United vs Ipswich",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Man United",
+          "away": "Ipswich"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-9",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://tempp.shadow-ran.online/usa.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-9",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tempp",
+            "path": "usa.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-9",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Man United vs Ipswich",
+            "matchup": {
+              "home": "Man United",
+              "away": "Ipswich"
+            },
+            "display_name": "Man United vs Ipswich - Stream 1"
           }
         ]
       }
@@ -1846,11 +1926,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/wwe.m3u8",
+            "url": "https://tempp.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "tempp",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -1897,11 +1977,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/aew.m3u8",
+            "url": "https://tempp.shadow-ran.online/aew.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/aew",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "tempp",
             "path": "aew.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/aew",
@@ -1917,11 +1997,11 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://admin.shadow-ran.online/aew.m3u8",
+            "url": "https://tedesco.shadow-ran.online/aew.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/aew",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "tedesco",
             "path": "aew.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/aew",
@@ -2038,11 +2118,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/wwe.m3u8",
+            "url": "https://tempp.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "tempp",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -2375,6 +2455,8 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
+        "Stream 3 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5787,6 +5869,52 @@
           "display_name": "Celta Vigo vs Athletic Club - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://admin.shadow-ran.online/skymx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "skymx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-8",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Celta Vigo vs Athletic Club",
+          "matchup": {
+            "home": "Celta Vigo",
+            "away": "Athletic Club"
+          },
+          "display_name": "Celta Vigo vs Athletic Club - Stream 2"
+        },
+        {
+          "label": "Stream 3 (EN)",
+          "url": "https://admin.shadow-ran.online/laen.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "laen.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-8",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Celta Vigo vs Athletic Club",
+          "matchup": {
+            "home": "Celta Vigo",
+            "away": "Athletic Club"
+          },
+          "display_name": "Celta Vigo vs Athletic Club - Stream 3 (EN)"
+        },
+        {
           "label": "dep.m3u8",
           "url": "https://daffodil.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
@@ -5949,12 +6077,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/foxd.m3u8",
+          "url": "https://admin.shadow-ran.online/lpfplay.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin",
-          "path": "foxd.m3u8",
+          "path": "lpfplay.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-13",
             "Origin": "https://roxiestreams.su",
@@ -5971,13 +6099,13 @@
           "display_name": "Independiente Rivadavia vs Racing Club - Stream 1"
         },
         {
-          "label": "foxd.m3u8",
-          "url": "https://daffodil.shadow-ran.online/foxd.m3u8",
+          "label": "lpfplay.m3u8",
+          "url": "https://daffodil.shadow-ran.online/lpfplay.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "foxd.m3u8",
+          "path": "lpfplay.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-13",
             "Origin": "https://roxiestreams.su",
@@ -5991,7 +6119,7 @@
             "home": "Independiente Rivadavia",
             "away": "Racing Club"
           },
-          "display_name": "Independiente Rivadavia vs Racing Club - foxd.m3u8"
+          "display_name": "Independiente Rivadavia vs Racing Club - lpfplay.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6521,6 +6649,29 @@
             "away": "Schalke 04"
           },
           "display_name": "Augsburg vs Schalke 04 - one.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://tempp.shadow-ran.online/usa.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-9",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tempp",
+          "path": "usa.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-9",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Man United vs Ipswich",
+          "matchup": {
+            "home": "Man United",
+            "away": "Ipswich"
+          },
+          "display_name": "Man United vs Ipswich - Stream 1"
         }
       ]
     },
@@ -7154,11 +7305,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/wwe.m3u8",
+          "url": "https://tempp.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "tempp",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",
@@ -7207,11 +7358,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/aew.m3u8",
+          "url": "https://tempp.shadow-ran.online/aew.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/aew",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "tempp",
           "path": "aew.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/aew",
@@ -7227,11 +7378,11 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://admin.shadow-ran.online/aew.m3u8",
+          "url": "https://tedesco.shadow-ran.online/aew.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/aew",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "tedesco",
           "path": "aew.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/aew",
@@ -7347,11 +7498,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/wwe.m3u8",
+          "url": "https://tempp.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "tempp",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",
@@ -7388,7 +7539,7 @@
       ]
     }
   },
-  "stream_count": 73,
+  "stream_count": 76,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
