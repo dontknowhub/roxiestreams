@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-03T00:49:31+00:00",
+  "scraped_at": "2026-09-03T05:18:42+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -205,6 +205,29 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/mlses.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-13",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "mlses.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-13",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Toluca vs Leon",
+            "matchup": {
+              "home": "Toluca",
+              "away": "Leon"
+            },
+            "display_name": "Toluca vs Leon - Stream 1"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/mls.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
@@ -224,16 +247,16 @@
               "home": "Toluca",
               "away": "Leon"
             },
-            "display_name": "Toluca vs Leon - Stream 1"
+            "display_name": "Toluca vs Leon - Stream 2"
           },
           {
-            "label": "mls.m3u8",
-            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+            "label": "Stream 3 (EN)",
+            "url": "https://admin2.shadow-ran.online/mlsen.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "mls.m3u8",
+            "subdomain": "admin2",
+            "path": "mlsen.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-13",
               "Origin": "https://roxiestreams.su",
@@ -247,7 +270,30 @@
               "home": "Toluca",
               "away": "Leon"
             },
-            "display_name": "Toluca vs Leon - mls.m3u8"
+            "display_name": "Toluca vs Leon - Stream 3 (EN)"
+          },
+          {
+            "label": "mlses.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mlses.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-13",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "mlses.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-13",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Toluca vs Leon",
+            "matchup": {
+              "home": "Toluca",
+              "away": "Leon"
+            },
+            "display_name": "Toluca vs Leon - mlses.m3u8"
           }
         ]
       },
@@ -261,13 +307,13 @@
         "page": "https://roxiestreams.su/soccer-streams-14",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://admin22.shadow-ran.online/mls2.m3u8",
+            "label": "APPLE TV ES",
+            "url": "https://admin2.shadow-ran.online/mls2es.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin22",
-            "path": "mls2.m3u8",
+            "subdomain": "admin2",
+            "path": "mls2es.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-14",
               "Origin": "https://roxiestreams.su",
@@ -281,16 +327,62 @@
               "home": "América",
               "away": "Monterrey"
             },
-            "display_name": "América vs Monterrey - Stream 1"
+            "display_name": "América vs Monterrey - APPLE TV ES"
           },
           {
-            "label": "mls2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/mls2.m3u8",
+            "label": "APPLE TV EN",
+            "url": "https://admin2.shadow-ran.online/mls2en.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-14",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "mls2en.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-14",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "América vs Monterrey",
+            "matchup": {
+              "home": "América",
+              "away": "Monterrey"
+            },
+            "display_name": "América vs Monterrey - APPLE TV EN"
+          },
+          {
+            "label": "ES ALT",
+            "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-14",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "tudn.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-14",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "América vs Monterrey",
+            "matchup": {
+              "home": "América",
+              "away": "Monterrey"
+            },
+            "display_name": "América vs Monterrey - ES ALT"
+          },
+          {
+            "label": "mls2es.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mls2es.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "mls2.m3u8",
+            "path": "mls2es.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-14",
               "Origin": "https://roxiestreams.su",
@@ -304,7 +396,7 @@
               "home": "América",
               "away": "Monterrey"
             },
-            "display_name": "América vs Monterrey - mls2.m3u8"
+            "display_name": "América vs Monterrey - mls2es.m3u8"
           }
         ]
       },
@@ -2361,6 +2453,8 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
+        "Stream 3 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2426,7 +2520,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1",
+        "APPLE TV ES",
+        "APPLE TV EN",
+        "ES ALT",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5465,6 +5561,29 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/mlses.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-13",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "mlses.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-13",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Toluca vs Leon",
+          "matchup": {
+            "home": "Toluca",
+            "away": "Leon"
+          },
+          "display_name": "Toluca vs Leon - Stream 1"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/mls.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
@@ -5484,16 +5603,16 @@
             "home": "Toluca",
             "away": "Leon"
           },
-          "display_name": "Toluca vs Leon - Stream 1"
+          "display_name": "Toluca vs Leon - Stream 2"
         },
         {
-          "label": "mls.m3u8",
-          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+          "label": "Stream 3 (EN)",
+          "url": "https://admin2.shadow-ran.online/mlsen.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "mls.m3u8",
+          "subdomain": "admin2",
+          "path": "mlsen.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-13",
             "Origin": "https://roxiestreams.su",
@@ -5507,16 +5626,39 @@
             "home": "Toluca",
             "away": "Leon"
           },
-          "display_name": "Toluca vs Leon - mls.m3u8"
+          "display_name": "Toluca vs Leon - Stream 3 (EN)"
         },
         {
-          "label": "Stream 1",
-          "url": "https://admin22.shadow-ran.online/mls2.m3u8",
+          "label": "mlses.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mlses.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-13",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "mlses.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-13",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Toluca vs Leon",
+          "matchup": {
+            "home": "Toluca",
+            "away": "Leon"
+          },
+          "display_name": "Toluca vs Leon - mlses.m3u8"
+        },
+        {
+          "label": "APPLE TV ES",
+          "url": "https://admin2.shadow-ran.online/mls2es.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin22",
-          "path": "mls2.m3u8",
+          "subdomain": "admin2",
+          "path": "mls2es.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-14",
             "Origin": "https://roxiestreams.su",
@@ -5530,16 +5672,62 @@
             "home": "América",
             "away": "Monterrey"
           },
-          "display_name": "América vs Monterrey - Stream 1"
+          "display_name": "América vs Monterrey - APPLE TV ES"
         },
         {
-          "label": "mls2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/mls2.m3u8",
+          "label": "APPLE TV EN",
+          "url": "https://admin2.shadow-ran.online/mls2en.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-14",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "mls2en.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-14",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "América vs Monterrey",
+          "matchup": {
+            "home": "América",
+            "away": "Monterrey"
+          },
+          "display_name": "América vs Monterrey - APPLE TV EN"
+        },
+        {
+          "label": "ES ALT",
+          "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-14",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "tudn.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-14",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "América vs Monterrey",
+          "matchup": {
+            "home": "América",
+            "away": "Monterrey"
+          },
+          "display_name": "América vs Monterrey - ES ALT"
+        },
+        {
+          "label": "mls2es.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mls2es.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "mls2.m3u8",
+          "path": "mls2es.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-14",
             "Origin": "https://roxiestreams.su",
@@ -5553,7 +5741,7 @@
             "home": "América",
             "away": "Monterrey"
           },
-          "display_name": "América vs Monterrey - mls2.m3u8"
+          "display_name": "América vs Monterrey - mls2es.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6869,7 +7057,7 @@
       "streams": []
     }
   },
-  "stream_count": 67,
+  "stream_count": 71,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
