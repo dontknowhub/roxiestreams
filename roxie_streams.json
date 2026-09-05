@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-05T18:26:55+00:00",
+  "scraped_at": "2026-09-05T20:32:48+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -715,6 +715,29 @@
             "display_name": "Al Ittihad vs Al Nassr - Stream 1"
           },
           {
+            "label": "Stream 2 (ES)",
+            "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-19",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "foxmx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-19",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Al Ittihad vs Al Nassr",
+            "matchup": {
+              "home": "Al Ittihad",
+              "away": "Al Nassr"
+            },
+            "display_name": "Al Ittihad vs Al Nassr - Stream 2 (ES)"
+          },
+          {
             "label": "fsp.m3u8",
             "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
             "type": "m3u8",
@@ -781,12 +804,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+            "url": "https://admin2.shadow-ran.online/foot.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-21",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "tsn.m3u8",
+            "path": "foot.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-21",
               "Origin": "https://roxiestreams.su",
@@ -803,36 +826,13 @@
             "display_name": "Celtic vs St. Mirren - Stream 1"
           },
           {
-            "label": "Stream 2 (ES)",
-            "url": "https://admin2.shadow-ran.online/portlandes.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-21",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "portlandes.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-21",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Celtic vs St. Mirren",
-            "matchup": {
-              "home": "Celtic",
-              "away": "St. Mirren"
-            },
-            "display_name": "Celtic vs St. Mirren - Stream 2 (ES)"
-          },
-          {
-            "label": "tsn.m3u8",
-            "url": "https://daffodil.shadow-ran.online/tsn.m3u8",
+            "label": "foot.m3u8",
+            "url": "https://daffodil.shadow-ran.online/foot.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-21",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "tsn.m3u8",
+            "path": "foot.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-21",
               "Origin": "https://roxiestreams.su",
@@ -846,7 +846,7 @@
               "home": "Celtic",
               "away": "St. Mirren"
             },
-            "display_name": "Celtic vs St. Mirren - tsn.m3u8"
+            "display_name": "Celtic vs St. Mirren - foot.m3u8"
           }
         ]
       },
@@ -918,6 +918,52 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/fana2es.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-23",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "fana2es.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-23",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Tigres vs Necaxa",
+            "matchup": {
+              "home": "Tigres",
+              "away": "Necaxa"
+            },
+            "display_name": "Tigres vs Necaxa - Stream 1"
+          },
+          {
+            "label": "Stream 2 (EN)",
+            "url": "https://admin2.shadow-ran.online/fana2en.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-23",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "fana2en.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-23",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Tigres vs Necaxa",
+            "matchup": {
+              "home": "Tigres",
+              "away": "Necaxa"
+            },
+            "display_name": "Tigres vs Necaxa - Stream 2 (EN)"
+          },
+          {
+            "label": "ES ALT",
             "url": "https://admin2.shadow-ran.online/fana2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-23",
@@ -937,16 +983,16 @@
               "home": "Tigres",
               "away": "Necaxa"
             },
-            "display_name": "Tigres vs Necaxa - Stream 1"
+            "display_name": "Tigres vs Necaxa - ES ALT"
           },
           {
-            "label": "fana2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+            "label": "fana2es.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana2es.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-23",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana2.m3u8",
+            "path": "fana2es.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-23",
               "Origin": "https://roxiestreams.su",
@@ -960,7 +1006,41 @@
               "home": "Tigres",
               "away": "Necaxa"
             },
-            "display_name": "Tigres vs Necaxa - fana2.m3u8"
+            "display_name": "Tigres vs Necaxa - fana2es.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "São Paulo vs Atletico Mineiro",
+        "sport": "soccer",
+        "matchup": {
+          "home": "São Paulo",
+          "away": "Atletico Mineiro"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-24",
+        "streams": [
+          {
+            "label": "fana2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-24",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-24",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "São Paulo vs Atletico Mineiro",
+            "matchup": {
+              "home": "São Paulo",
+              "away": "Atletico Mineiro"
+            },
+            "display_name": "São Paulo vs Atletico Mineiro - fana2.m3u8"
           }
         ]
       },
@@ -1156,36 +1236,13 @@
         "page": "https://roxiestreams.su/soccer-streams-3",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/foot.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-3",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "foot.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-3",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Wrexhan vs Swansea",
-            "matchup": {
-              "home": "Wrexhan",
-              "away": "Swansea"
-            },
-            "display_name": "Wrexhan vs Swansea - Stream 1"
-          },
-          {
-            "label": "foot.m3u8",
-            "url": "https://daffodil.shadow-ran.online/foot.m3u8",
+            "label": "sky.m3u8",
+            "url": "https://daffodil.shadow-ran.online/sky.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "foot.m3u8",
+            "path": "sky.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -1199,7 +1256,7 @@
               "home": "Wrexhan",
               "away": "Swansea"
             },
-            "display_name": "Wrexhan vs Swansea - foot.m3u8"
+            "display_name": "Wrexhan vs Swansea - sky.m3u8"
           }
         ]
       },
@@ -1512,11 +1569,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/mlb.m3u8",
+            "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "mlb.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -3112,30 +3169,7 @@
         "page": "https://roxiestreams.su/ufc",
         "streams": [
           {
-            "label": "Stream 1 (Para)",
-            "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ufc",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "abbiecadabrii.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ufc",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ufc",
-            "event_title": "UFC FN: Hooker vs. Parnasse",
-            "matchup": {
-              "home": "UFC FN: Hooker",
-              "away": "Parnasse"
-            },
-            "display_name": "UFC FN: Hooker vs. Parnasse - Stream 1 (Para)"
-          },
-          {
-            "label": "Stream 2 (TNT)",
+            "label": "Stream 1 (TNT)",
             "url": "https://admin2.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
@@ -3155,15 +3189,15 @@
               "home": "UFC FN: Hooker",
               "away": "Parnasse"
             },
-            "display_name": "UFC FN: Hooker vs. Parnasse - Stream 2 (TNT)"
+            "display_name": "UFC FN: Hooker vs. Parnasse - Stream 1 (TNT)"
           },
           {
-            "label": "abbiecadabrii.m3u8",
-            "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+            "label": "Stream 2 (Para)",
+            "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
+            "subdomain": "admin2",
             "path": "abbiecadabrii.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
@@ -3178,7 +3212,30 @@
               "home": "UFC FN: Hooker",
               "away": "Parnasse"
             },
-            "display_name": "UFC FN: Hooker vs. Parnasse - abbiecadabrii.m3u8"
+            "display_name": "UFC FN: Hooker vs. Parnasse - Stream 2 (Para)"
+          },
+          {
+            "label": "tnt.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tnt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "tnt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ufc",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC FN: Hooker vs. Parnasse",
+            "matchup": {
+              "home": "UFC FN: Hooker",
+              "away": "Parnasse"
+            },
+            "display_name": "UFC FN: Hooker vs. Parnasse - tnt.m3u8"
           }
         ]
       }
@@ -4120,6 +4177,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4319,7 +4377,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4452,6 +4509,8 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
+        "ES ALT",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -8709,8 +8768,8 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1 (Para)",
-        "Stream 2 (TNT)",
+        "Stream 1 (TNT)",
+        "Stream 2 (Para)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -9350,6 +9409,29 @@
           "display_name": "Al Ittihad vs Al Nassr - Stream 1"
         },
         {
+          "label": "Stream 2 (ES)",
+          "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-19",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "foxmx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-19",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Al Ittihad vs Al Nassr",
+          "matchup": {
+            "home": "Al Ittihad",
+            "away": "Al Nassr"
+          },
+          "display_name": "Al Ittihad vs Al Nassr - Stream 2 (ES)"
+        },
+        {
           "label": "fsp.m3u8",
           "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
           "type": "m3u8",
@@ -9394,12 +9476,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/tsn.m3u8",
+          "url": "https://admin2.shadow-ran.online/foot.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-21",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "tsn.m3u8",
+          "path": "foot.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-21",
             "Origin": "https://roxiestreams.su",
@@ -9416,36 +9498,13 @@
           "display_name": "Celtic vs St. Mirren - Stream 1"
         },
         {
-          "label": "Stream 2 (ES)",
-          "url": "https://admin2.shadow-ran.online/portlandes.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-21",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "portlandes.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-21",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Celtic vs St. Mirren",
-          "matchup": {
-            "home": "Celtic",
-            "away": "St. Mirren"
-          },
-          "display_name": "Celtic vs St. Mirren - Stream 2 (ES)"
-        },
-        {
-          "label": "tsn.m3u8",
-          "url": "https://daffodil.shadow-ran.online/tsn.m3u8",
+          "label": "foot.m3u8",
+          "url": "https://daffodil.shadow-ran.online/foot.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-21",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "tsn.m3u8",
+          "path": "foot.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-21",
             "Origin": "https://roxiestreams.su",
@@ -9459,7 +9518,7 @@
             "home": "Celtic",
             "away": "St. Mirren"
           },
-          "display_name": "Celtic vs St. Mirren - tsn.m3u8"
+          "display_name": "Celtic vs St. Mirren - foot.m3u8"
         },
         {
           "label": "Stream 1",
@@ -9509,6 +9568,52 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/fana2es.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-23",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "fana2es.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-23",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Tigres vs Necaxa",
+          "matchup": {
+            "home": "Tigres",
+            "away": "Necaxa"
+          },
+          "display_name": "Tigres vs Necaxa - Stream 1"
+        },
+        {
+          "label": "Stream 2 (EN)",
+          "url": "https://admin2.shadow-ran.online/fana2en.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-23",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "fana2en.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-23",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Tigres vs Necaxa",
+          "matchup": {
+            "home": "Tigres",
+            "away": "Necaxa"
+          },
+          "display_name": "Tigres vs Necaxa - Stream 2 (EN)"
+        },
+        {
+          "label": "ES ALT",
           "url": "https://admin2.shadow-ran.online/fana2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-23",
@@ -9528,16 +9633,16 @@
             "home": "Tigres",
             "away": "Necaxa"
           },
-          "display_name": "Tigres vs Necaxa - Stream 1"
+          "display_name": "Tigres vs Necaxa - ES ALT"
         },
         {
-          "label": "fana2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+          "label": "fana2es.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana2es.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-23",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana2.m3u8",
+          "path": "fana2es.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-23",
             "Origin": "https://roxiestreams.su",
@@ -9551,7 +9656,30 @@
             "home": "Tigres",
             "away": "Necaxa"
           },
-          "display_name": "Tigres vs Necaxa - fana2.m3u8"
+          "display_name": "Tigres vs Necaxa - fana2es.m3u8"
+        },
+        {
+          "label": "fana2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-24",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-24",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "São Paulo vs Atletico Mineiro",
+          "matchup": {
+            "home": "São Paulo",
+            "away": "Atletico Mineiro"
+          },
+          "display_name": "São Paulo vs Atletico Mineiro - fana2.m3u8"
         },
         {
           "label": "Stream 2",
@@ -9692,36 +9820,13 @@
           "display_name": "Vancouver Whitecaps vs St. Louis City - oldham.m3u8"
         },
         {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/foot.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-3",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "foot.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-3",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Wrexhan vs Swansea",
-          "matchup": {
-            "home": "Wrexhan",
-            "away": "Swansea"
-          },
-          "display_name": "Wrexhan vs Swansea - Stream 1"
-        },
-        {
-          "label": "foot.m3u8",
-          "url": "https://daffodil.shadow-ran.online/foot.m3u8",
+          "label": "sky.m3u8",
+          "url": "https://daffodil.shadow-ran.online/sky.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "foot.m3u8",
+          "path": "sky.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -9735,7 +9840,7 @@
             "home": "Wrexhan",
             "away": "Swansea"
           },
-          "display_name": "Wrexhan vs Swansea - foot.m3u8"
+          "display_name": "Wrexhan vs Swansea - sky.m3u8"
         },
         {
           "label": "Stream 1",
@@ -9991,11 +10096,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/mlb.m3u8",
+          "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "mlb.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -11238,30 +11343,7 @@
       ],
       "streams": [
         {
-          "label": "Stream 1 (Para)",
-          "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ufc",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "abbiecadabrii.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ufc",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ufc",
-          "event_title": "UFC FN: Hooker vs. Parnasse",
-          "matchup": {
-            "home": "UFC FN: Hooker",
-            "away": "Parnasse"
-          },
-          "display_name": "UFC FN: Hooker vs. Parnasse - Stream 1 (Para)"
-        },
-        {
-          "label": "Stream 2 (TNT)",
+          "label": "Stream 1 (TNT)",
           "url": "https://admin2.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
@@ -11281,15 +11363,15 @@
             "home": "UFC FN: Hooker",
             "away": "Parnasse"
           },
-          "display_name": "UFC FN: Hooker vs. Parnasse - Stream 2 (TNT)"
+          "display_name": "UFC FN: Hooker vs. Parnasse - Stream 1 (TNT)"
         },
         {
-          "label": "abbiecadabrii.m3u8",
-          "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+          "label": "Stream 2 (Para)",
+          "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
+          "subdomain": "admin2",
           "path": "abbiecadabrii.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
@@ -11304,12 +11386,35 @@
             "home": "UFC FN: Hooker",
             "away": "Parnasse"
           },
-          "display_name": "UFC FN: Hooker vs. Parnasse - abbiecadabrii.m3u8"
+          "display_name": "UFC FN: Hooker vs. Parnasse - Stream 2 (Para)"
+        },
+        {
+          "label": "tnt.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tnt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "tnt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ufc",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC FN: Hooker vs. Parnasse",
+          "matchup": {
+            "home": "UFC FN: Hooker",
+            "away": "Parnasse"
+          },
+          "display_name": "UFC FN: Hooker vs. Parnasse - tnt.m3u8"
         }
       ]
     }
   },
-  "stream_count": 109,
+  "stream_count": 111,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
