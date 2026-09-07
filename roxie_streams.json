@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-06T22:11:05+00:00",
+  "scraped_at": "2026-09-07T00:05:40+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -34,6 +34,11 @@
       "name": "NCAAF",
       "page": "https://roxiestreams.su/nfl",
       "start_time": "September 6, 2026 1:00 PM"
+    },
+    {
+      "name": "WWE Sunday's Main Event",
+      "page": "https://roxiestreams.su/wwe-streams",
+      "start_time": "September 6, 2026 5:00 PM"
     },
     {
       "name": "Leagues Cup FINAL",
@@ -671,12 +676,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/imagen.m3u8",
+            "url": "https://admin2.shadow-ran.online/mlses.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "imagen.m3u8",
+            "path": "mlses.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-13",
               "Origin": "https://roxiestreams.su",
@@ -716,13 +721,13 @@
             "display_name": "León vs America - Stream 2"
           },
           {
-            "label": "imagen.m3u8",
-            "url": "https://daffodil.shadow-ran.online/imagen.m3u8",
+            "label": "mlses.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mlses.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "imagen.m3u8",
+            "path": "mlses.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-13",
               "Origin": "https://roxiestreams.su",
@@ -736,7 +741,7 @@
               "home": "León",
               "away": "America"
             },
-            "display_name": "León vs America - imagen.m3u8"
+            "display_name": "León vs America - mlses.m3u8"
           }
         ]
       },
@@ -771,6 +776,29 @@
               "away": "Independiente Rivadavia"
             },
             "display_name": "River Plate vs Independiente Rivadavia - Stream 1"
+          },
+          {
+            "label": "Stream 2 (EN)",
+            "url": "https://admin.shadow-ran.online/fanaen.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-14",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "fanaen.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-14",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "River Plate vs Independiente Rivadavia",
+            "matchup": {
+              "home": "River Plate",
+              "away": "Independiente Rivadavia"
+            },
+            "display_name": "River Plate vs Independiente Rivadavia - Stream 2 (EN)"
           },
           {
             "label": "fana.m3u8",
@@ -808,12 +836,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/dep.m3u8",
+            "url": "https://admin.shadow-ran.online/fana6.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-15",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "dep.m3u8",
+            "subdomain": "admin",
+            "path": "fana6.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-15",
               "Origin": "https://roxiestreams.su",
@@ -828,26 +856,49 @@
               "away": "Chapecoense"
             },
             "display_name": "Corinthians vs Chapecoense - Stream 1"
+          },
+          {
+            "label": "fana6.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana6.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-15",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana6.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-15",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Corinthians vs Chapecoense",
+            "matchup": {
+              "home": "Corinthians",
+              "away": "Chapecoense"
+            },
+            "display_name": "Corinthians vs Chapecoense - fana6.m3u8"
           }
         ]
       },
       {
-        "title": "Coritiba vs Mirassol",
+        "title": "Cruz Azul vs Santos Laguna",
         "sport": "soccer",
         "matchup": {
-          "home": "Coritiba",
-          "away": "Mirassol"
+          "home": "Cruz Azul",
+          "away": "Santos Laguna"
         },
         "page": "https://roxiestreams.su/soccer-streams-17",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana.m3u8",
+            "url": "https://admin2.shadow-ran.online/5mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fana.m3u8",
+            "path": "5mx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-17",
               "Origin": "https://roxiestreams.su",
@@ -856,12 +907,35 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Coritiba vs Mirassol",
+            "event_title": "Cruz Azul vs Santos Laguna",
             "matchup": {
-              "home": "Coritiba",
-              "away": "Mirassol"
+              "home": "Cruz Azul",
+              "away": "Santos Laguna"
             },
-            "display_name": "Coritiba vs Mirassol - Stream 1"
+            "display_name": "Cruz Azul vs Santos Laguna - Stream 1"
+          },
+          {
+            "label": "5mx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/5mx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-17",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "5mx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-17",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Cruz Azul vs Santos Laguna",
+            "matchup": {
+              "home": "Cruz Azul",
+              "away": "Santos Laguna"
+            },
+            "display_name": "Cruz Azul vs Santos Laguna - 5mx.m3u8"
           }
         ]
       },
@@ -1230,7 +1304,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/mlb2.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/mlb14.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-14",
             "headers": {
@@ -1963,11 +2037,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/ncaa2.m3u8",
+            "url": "https://tedesco.shadow-ran.online/ncaa2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ncaa-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "ncaa2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ncaa-streams-2",
@@ -2126,6 +2200,74 @@
             "event_title": "Dana White's Contender Series",
             "matchup": null,
             "display_name": "Dana White's Contender Series - ppv.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "WWE Sunday's Main Event",
+        "sport": "fighting",
+        "matchup": null,
+        "page": "https://roxiestreams.su/wwe-streams",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "WWE Sunday's Main Event",
+            "matchup": null,
+            "display_name": "WWE Sunday's Main Event - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "WWE Sunday's Main Event",
+            "matchup": null,
+            "display_name": "WWE Sunday's Main Event - Stream 2"
+          },
+          {
+            "label": "wwe.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "WWE Sunday's Main Event",
+            "matchup": null,
+            "display_name": "WWE Sunday's Main Event - wwe.m3u8"
           }
         ]
       }
@@ -2329,6 +2471,76 @@
           }
         ]
       }
+    ],
+    "wwe": [
+      {
+        "title": "WWE Sunday's Main Event",
+        "sport": "wwe",
+        "matchup": null,
+        "page": "https://roxiestreams.su/wwe-streams",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "wwe",
+            "event_title": "WWE Sunday's Main Event",
+            "matchup": null,
+            "display_name": "WWE Sunday's Main Event - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "wwe",
+            "event_title": "WWE Sunday's Main Event",
+            "matchup": null,
+            "display_name": "WWE Sunday's Main Event - Stream 2"
+          },
+          {
+            "label": "wwe.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "wwe",
+            "event_title": "WWE Sunday's Main Event",
+            "matchup": null,
+            "display_name": "WWE Sunday's Main Event - wwe.m3u8"
+          }
+        ]
+      }
     ]
   },
   "pages": {
@@ -2372,6 +2584,7 @@
         "León vs America",
         "River Plate vs Independiente Rivadavia",
         "Corinthians vs Chapecoense",
+        "Cruz Azul vs Santos Laguna",
         "Toluca vs Monterrey",
         "Stream Request (Discord)"
       ],
@@ -2507,6 +2720,10 @@
         {
           "label": "Corinthians vs Chapecoense",
           "url": "https://roxiestreams.su/soccer-streams-15"
+        },
+        {
+          "label": "Cruz Azul vs Santos Laguna",
+          "url": "https://roxiestreams.su/soccer-streams-17"
         },
         {
           "label": "Toluca vs Monterrey",
@@ -3136,6 +3353,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5516,6 +5734,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "https://discord.gg/umQC45SubZ",
+        "WWE Sunday's Main Event",
         "Dana White's Contender Series",
         "Stream Request (Discord)"
       ],
@@ -5565,6 +5784,10 @@
           "url": "https://discord.gg/umQC45SubZ"
         },
         {
+          "label": "WWE Sunday's Main Event",
+          "url": "https://roxiestreams.su/wwe-streams"
+        },
+        {
           "label": "Dana White's Contender Series",
           "url": "https://roxiestreams.su/ppv-streams-1"
         },
@@ -5590,6 +5813,73 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/umQC45SubZ"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/umQC45SubZ"
+        }
+      ]
+    },
+    "https://roxiestreams.su/wwe-streams": {
+      "url": "https://roxiestreams.su/wwe-streams",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6569,12 +6859,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/imagen.m3u8",
+          "url": "https://admin2.shadow-ran.online/mlses.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "imagen.m3u8",
+          "path": "mlses.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-13",
             "Origin": "https://roxiestreams.su",
@@ -6614,13 +6904,13 @@
           "display_name": "León vs America - Stream 2"
         },
         {
-          "label": "imagen.m3u8",
-          "url": "https://daffodil.shadow-ran.online/imagen.m3u8",
+          "label": "mlses.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mlses.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "imagen.m3u8",
+          "path": "mlses.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-13",
             "Origin": "https://roxiestreams.su",
@@ -6634,7 +6924,7 @@
             "home": "León",
             "away": "America"
           },
-          "display_name": "León vs America - imagen.m3u8"
+          "display_name": "León vs America - mlses.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6658,6 +6948,29 @@
             "away": "Independiente Rivadavia"
           },
           "display_name": "River Plate vs Independiente Rivadavia - Stream 1"
+        },
+        {
+          "label": "Stream 2 (EN)",
+          "url": "https://admin.shadow-ran.online/fanaen.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-14",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "fanaen.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-14",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "River Plate vs Independiente Rivadavia",
+          "matchup": {
+            "home": "River Plate",
+            "away": "Independiente Rivadavia"
+          },
+          "display_name": "River Plate vs Independiente Rivadavia - Stream 2 (EN)"
         },
         {
           "label": "fana.m3u8",
@@ -6684,12 +6997,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/dep.m3u8",
+          "url": "https://admin.shadow-ran.online/fana6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-15",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "dep.m3u8",
+          "subdomain": "admin",
+          "path": "fana6.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-15",
             "Origin": "https://roxiestreams.su",
@@ -6706,13 +7019,36 @@
           "display_name": "Corinthians vs Chapecoense - Stream 1"
         },
         {
+          "label": "fana6.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana6.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-15",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana6.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-15",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Corinthians vs Chapecoense",
+          "matchup": {
+            "home": "Corinthians",
+            "away": "Chapecoense"
+          },
+          "display_name": "Corinthians vs Chapecoense - fana6.m3u8"
+        },
+        {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana.m3u8",
+          "url": "https://admin2.shadow-ran.online/5mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fana.m3u8",
+          "path": "5mx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-17",
             "Origin": "https://roxiestreams.su",
@@ -6721,12 +7057,35 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Coritiba vs Mirassol",
+          "event_title": "Cruz Azul vs Santos Laguna",
           "matchup": {
-            "home": "Coritiba",
-            "away": "Mirassol"
+            "home": "Cruz Azul",
+            "away": "Santos Laguna"
           },
-          "display_name": "Coritiba vs Mirassol - Stream 1"
+          "display_name": "Cruz Azul vs Santos Laguna - Stream 1"
+        },
+        {
+          "label": "5mx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/5mx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-17",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "5mx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-17",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Cruz Azul vs Santos Laguna",
+          "matchup": {
+            "home": "Cruz Azul",
+            "away": "Santos Laguna"
+          },
+          "display_name": "Cruz Azul vs Santos Laguna - 5mx.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7016,7 +7375,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/mlb2.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/mlb14.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-14",
           "headers": {
@@ -7585,11 +7944,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/ncaa2.m3u8",
+          "url": "https://tedesco.shadow-ran.online/ncaa2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ncaa-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "ncaa2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ncaa-streams-2",
@@ -7702,7 +8061,8 @@
     "fighting": {
       "pages": [
         "https://roxiestreams.su/fighting",
-        "https://roxiestreams.su/ppv-streams-1"
+        "https://roxiestreams.su/ppv-streams-1",
+        "https://roxiestreams.su/wwe-streams"
       ],
       "streams": [
         {
@@ -7744,6 +8104,66 @@
           "event_title": "Dana White's Contender Series",
           "matchup": null,
           "display_name": "Dana White's Contender Series - ppv.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "WWE Sunday's Main Event",
+          "matchup": null,
+          "display_name": "WWE Sunday's Main Event - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "WWE Sunday's Main Event",
+          "matchup": null,
+          "display_name": "WWE Sunday's Main Event - Stream 2"
+        },
+        {
+          "label": "wwe.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "WWE Sunday's Main Event",
+          "matchup": null,
+          "display_name": "WWE Sunday's Main Event - wwe.m3u8"
         }
       ]
     },
@@ -7939,9 +8359,76 @@
           "display_name": "Indycar - Grand Prix - indy.m3u8"
         }
       ]
+    },
+    "wwe": {
+      "pages": [
+        "https://roxiestreams.su/wwe-streams"
+      ],
+      "streams": [
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "wwe",
+          "event_title": "WWE Sunday's Main Event",
+          "matchup": null,
+          "display_name": "WWE Sunday's Main Event - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "wwe",
+          "event_title": "WWE Sunday's Main Event",
+          "matchup": null,
+          "display_name": "WWE Sunday's Main Event - Stream 2"
+        },
+        {
+          "label": "wwe.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "wwe",
+          "event_title": "WWE Sunday's Main Event",
+          "matchup": null,
+          "display_name": "WWE Sunday's Main Event - wwe.m3u8"
+        }
+      ]
     }
   },
-  "stream_count": 82,
+  "stream_count": 91,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
