@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-08T22:49:52+00:00",
+  "scraped_at": "2026-09-09T00:49:34+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -1309,6 +1309,26 @@
           {
             "label": "Direct Link",
             "url": "https://admin2.formaturamaxi.com.br/mlb3.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/mlb-streams-3",
+            "headers": {
+              "Referer": "https://roxiestreams.su/mlb-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "mlb",
+            "event_title": "Houston Astros vs Philadelphia Phillies",
+            "matchup": {
+              "home": "Houston Astros",
+              "away": "Philadelphia Phillies"
+            },
+            "display_name": "Houston Astros vs Philadelphia Phillies"
+          },
+          {
+            "label": "Direct Link",
+            "url": "https://tedesco.formaturamaxi.com.br/mlb3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-3",
             "headers": {
@@ -4161,6 +4181,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6852,6 +6873,26 @@
           "display_name": "Houston Astros vs Philadelphia Phillies"
         },
         {
+          "label": "Direct Link",
+          "url": "https://tedesco.formaturamaxi.com.br/mlb3.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/mlb-streams-3",
+          "headers": {
+            "Referer": "https://roxiestreams.su/mlb-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "mlb",
+          "event_title": "Houston Astros vs Philadelphia Phillies",
+          "matchup": {
+            "home": "Houston Astros",
+            "away": "Philadelphia Phillies"
+          },
+          "display_name": "Houston Astros vs Philadelphia Phillies"
+        },
+        {
           "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/mlb4.m3u8",
           "type": "m3u8",
@@ -7703,7 +7744,7 @@
       ]
     }
   },
-  "stream_count": 83,
+  "stream_count": 84,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
