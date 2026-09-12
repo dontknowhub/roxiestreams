@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-11T23:23:53+00:00",
+  "scraped_at": "2026-09-12T01:17:04+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -260,7 +260,7 @@
             "display_name": "Boca Juniors vs Central Cordoba - Stream 1"
           },
           {
-            "label": "Stream 2",
+            "label": "Stream 2 (EN)",
             "url": "https://admin.shadow-ran.online/afaplay3en.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
@@ -280,30 +280,7 @@
               "home": "Boca Juniors",
               "away": "Central Cordoba"
             },
-            "display_name": "Boca Juniors vs Central Cordoba - Stream 2"
-          },
-          {
-            "label": "Stream 3 (DE)",
-            "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-10",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "sportdigital.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-10",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Boca Juniors vs Central Cordoba",
-            "matchup": {
-              "home": "Boca Juniors",
-              "away": "Central Cordoba"
-            },
-            "display_name": "Boca Juniors vs Central Cordoba - Stream 3 (DE)"
+            "display_name": "Boca Juniors vs Central Cordoba - Stream 2 (EN)"
           },
           {
             "label": "afaplay3es.m3u8",
@@ -957,11 +934,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fanapt.m3u8",
+            "url": "https://admin.shadow-ran.online/fanapt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-8",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "fanapt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-8",
@@ -977,6 +954,29 @@
               "away": "Athletico-PR"
             },
             "display_name": "Coritiba vs Athletico-PR - Stream 1"
+          },
+          {
+            "label": "Stream 2 (EN)",
+            "url": "https://admin.shadow-ran.online/fanaen.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "fanaen.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-8",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Coritiba vs Athletico-PR",
+            "matchup": {
+              "home": "Coritiba",
+              "away": "Athletico-PR"
+            },
+            "display_name": "Coritiba vs Athletico-PR - Stream 2 (EN)"
           },
           {
             "label": "fanapt.m3u8",
@@ -2159,9 +2159,12 @@
         ]
       },
       {
-        "title": "Gamebred FC x RCC HARD 21",
+        "title": "East vs West XXVI",
         "sport": "fighting",
-        "matchup": null,
+        "matchup": {
+          "home": "East",
+          "away": "West XXVI"
+        },
         "page": "https://roxiestreams.su/ppv-streams-2",
         "streams": [
           {
@@ -2180,9 +2183,12 @@
             },
             "drm_keys": null,
             "sport": "fighting",
-            "event_title": "Gamebred FC x RCC HARD 21",
-            "matchup": null,
-            "display_name": "Gamebred FC x RCC HARD 21 - Stream 1"
+            "event_title": "East vs West XXVI",
+            "matchup": {
+              "home": "East",
+              "away": "West XXVI"
+            },
+            "display_name": "East vs West XXVI - Stream 1"
           },
           {
             "label": "ppv2.m3u8",
@@ -2200,19 +2206,19 @@
             },
             "drm_keys": null,
             "sport": "fighting",
-            "event_title": "Gamebred FC x RCC HARD 21",
-            "matchup": null,
-            "display_name": "Gamebred FC x RCC HARD 21 - ppv2.m3u8"
+            "event_title": "East vs West XXVI",
+            "matchup": {
+              "home": "East",
+              "away": "West XXVI"
+            },
+            "display_name": "East vs West XXVI - ppv2.m3u8"
           }
         ]
       },
       {
-        "title": "Ryan Garcia vs Conor Benn (ZUFFA)",
+        "title": "Gamebred FC x RCC HARD 21",
         "sport": "fighting",
-        "matchup": {
-          "home": "Ryan Garcia",
-          "away": "Conor Benn (ZUFFA)"
-        },
+        "matchup": null,
         "page": "https://roxiestreams.su/ppv-streams-3",
         "streams": [
           {
@@ -2231,12 +2237,9 @@
             },
             "drm_keys": null,
             "sport": "fighting",
-            "event_title": "Ryan Garcia vs Conor Benn (ZUFFA)",
-            "matchup": {
-              "home": "Ryan Garcia",
-              "away": "Conor Benn (ZUFFA)"
-            },
-            "display_name": "Ryan Garcia vs Conor Benn (ZUFFA) - Stream 1"
+            "event_title": "Gamebred FC x RCC HARD 21",
+            "matchup": null,
+            "display_name": "Gamebred FC x RCC HARD 21 - Stream 1"
           },
           {
             "label": "Stream 2",
@@ -2254,12 +2257,9 @@
             },
             "drm_keys": null,
             "sport": "fighting",
-            "event_title": "Ryan Garcia vs Conor Benn (ZUFFA)",
-            "matchup": {
-              "home": "Ryan Garcia",
-              "away": "Conor Benn (ZUFFA)"
-            },
-            "display_name": "Ryan Garcia vs Conor Benn (ZUFFA) - Stream 2"
+            "event_title": "Gamebred FC x RCC HARD 21",
+            "matchup": null,
+            "display_name": "Gamebred FC x RCC HARD 21 - Stream 2"
           },
           {
             "label": "ppv3.m3u8",
@@ -2277,12 +2277,123 @@
             },
             "drm_keys": null,
             "sport": "fighting",
+            "event_title": "Gamebred FC x RCC HARD 21",
+            "matchup": null,
+            "display_name": "Gamebred FC x RCC HARD 21 - ppv3.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Misfits: McCann vs. Big Stacks",
+        "sport": "fighting",
+        "matchup": {
+          "home": "Misfits: McCann",
+          "away": "Big Stacks"
+        },
+        "page": "https://roxiestreams.su/ppv-streams-4",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/ppv4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "ppv4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-4",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "Misfits: McCann vs. Big Stacks",
+            "matchup": {
+              "home": "Misfits: McCann",
+              "away": "Big Stacks"
+            },
+            "display_name": "Misfits: McCann vs. Big Stacks - Stream 1"
+          },
+          {
+            "label": "ppv4.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ppv4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ppv4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-4",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "Misfits: McCann vs. Big Stacks",
+            "matchup": {
+              "home": "Misfits: McCann",
+              "away": "Big Stacks"
+            },
+            "display_name": "Misfits: McCann vs. Big Stacks - ppv4.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Ryan Garcia vs Conor Benn (ZUFFA)",
+        "sport": "fighting",
+        "matchup": {
+          "home": "Ryan Garcia",
+          "away": "Conor Benn (ZUFFA)"
+        },
+        "page": "https://roxiestreams.su/ppv-streams-5",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/ppv5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "ppv5.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
             "event_title": "Ryan Garcia vs Conor Benn (ZUFFA)",
             "matchup": {
               "home": "Ryan Garcia",
               "away": "Conor Benn (ZUFFA)"
             },
-            "display_name": "Ryan Garcia vs Conor Benn (ZUFFA) - ppv3.m3u8"
+            "display_name": "Ryan Garcia vs Conor Benn (ZUFFA) - Stream 1"
+          },
+          {
+            "label": "ppv5.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ppv5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ppv5.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "Ryan Garcia vs Conor Benn (ZUFFA)",
+            "matchup": {
+              "home": "Ryan Garcia",
+              "away": "Conor Benn (ZUFFA)"
+            },
+            "display_name": "Ryan Garcia vs Conor Benn (ZUFFA) - ppv5.m3u8"
           }
         ]
       },
@@ -2863,8 +2974,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
-        "Stream 3 (DE)",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3729,6 +3839,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5872,6 +5983,7 @@
         "https://roxiestreams.biz/",
         "WWE Smackdown",
         "ONE Samurai 3",
+        "East vs West XXVI",
         "Gamebred FC x RCC HARD 21",
         "UFC Noche: Silva vs. Delgado",
         "Misfits: McCann vs. Big Stacks",
@@ -5937,8 +6049,12 @@
           "url": "https://roxiestreams.su/ppv-streams-1"
         },
         {
-          "label": "Gamebred FC x RCC HARD 21",
+          "label": "East vs West XXVI",
           "url": "https://roxiestreams.su/ppv-streams-2"
+        },
+        {
+          "label": "Gamebred FC x RCC HARD 21",
+          "url": "https://roxiestreams.su/ppv-streams-3"
         },
         {
           "label": "UFC Noche: Silva vs. Delgado",
@@ -5946,11 +6062,11 @@
         },
         {
           "label": "Misfits: McCann vs. Big Stacks",
-          "url": "https://roxiestreams.su/ppv-streams-3"
+          "url": "https://roxiestreams.su/ppv-streams-4"
         },
         {
           "label": "Ryan Garcia vs Conor Benn (ZUFFA)",
-          "url": "https://roxiestreams.su/ppv-streams-3"
+          "url": "https://roxiestreams.su/ppv-streams-5"
         },
         {
           "label": "Dana White's Contender Series",
@@ -6111,6 +6227,138 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.su/ppv-streams-4": {
+      "url": "https://roxiestreams.su/ppv-streams-4",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.su/ppv-streams-5": {
+      "url": "https://roxiestreams.su/ppv-streams-5",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6693,7 +6941,7 @@
           "display_name": "Boca Juniors vs Central Cordoba - Stream 1"
         },
         {
-          "label": "Stream 2",
+          "label": "Stream 2 (EN)",
           "url": "https://admin.shadow-ran.online/afaplay3en.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
@@ -6713,30 +6961,7 @@
             "home": "Boca Juniors",
             "away": "Central Cordoba"
           },
-          "display_name": "Boca Juniors vs Central Cordoba - Stream 2"
-        },
-        {
-          "label": "Stream 3 (DE)",
-          "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-10",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "sportdigital.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-10",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Boca Juniors vs Central Cordoba",
-          "matchup": {
-            "home": "Boca Juniors",
-            "away": "Central Cordoba"
-          },
-          "display_name": "Boca Juniors vs Central Cordoba - Stream 3 (DE)"
+          "display_name": "Boca Juniors vs Central Cordoba - Stream 2 (EN)"
         },
         {
           "label": "afaplay3es.m3u8",
@@ -7269,11 +7494,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fanapt.m3u8",
+          "url": "https://admin.shadow-ran.online/fanapt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-8",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "fanapt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-8",
@@ -7289,6 +7514,29 @@
             "away": "Athletico-PR"
           },
           "display_name": "Coritiba vs Athletico-PR - Stream 1"
+        },
+        {
+          "label": "Stream 2 (EN)",
+          "url": "https://admin.shadow-ran.online/fanaen.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "fanaen.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-8",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Coritiba vs Athletico-PR",
+          "matchup": {
+            "home": "Coritiba",
+            "away": "Athletico-PR"
+          },
+          "display_name": "Coritiba vs Athletico-PR - Stream 2 (EN)"
         },
         {
           "label": "fanapt.m3u8",
@@ -8194,6 +8442,8 @@
         "https://roxiestreams.su/ppv-streams-1",
         "https://roxiestreams.su/ppv-streams-2",
         "https://roxiestreams.su/ppv-streams-3",
+        "https://roxiestreams.su/ppv-streams-4",
+        "https://roxiestreams.su/ppv-streams-5",
         "https://roxiestreams.su/wwe-streams"
       ],
       "streams": [
@@ -8253,9 +8503,12 @@
           },
           "drm_keys": null,
           "sport": "fighting",
-          "event_title": "Gamebred FC x RCC HARD 21",
-          "matchup": null,
-          "display_name": "Gamebred FC x RCC HARD 21 - Stream 1"
+          "event_title": "East vs West XXVI",
+          "matchup": {
+            "home": "East",
+            "away": "West XXVI"
+          },
+          "display_name": "East vs West XXVI - Stream 1"
         },
         {
           "label": "ppv2.m3u8",
@@ -8273,9 +8526,12 @@
           },
           "drm_keys": null,
           "sport": "fighting",
-          "event_title": "Gamebred FC x RCC HARD 21",
-          "matchup": null,
-          "display_name": "Gamebred FC x RCC HARD 21 - ppv2.m3u8"
+          "event_title": "East vs West XXVI",
+          "matchup": {
+            "home": "East",
+            "away": "West XXVI"
+          },
+          "display_name": "East vs West XXVI - ppv2.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8293,12 +8549,9 @@
           },
           "drm_keys": null,
           "sport": "fighting",
-          "event_title": "Ryan Garcia vs Conor Benn (ZUFFA)",
-          "matchup": {
-            "home": "Ryan Garcia",
-            "away": "Conor Benn (ZUFFA)"
-          },
-          "display_name": "Ryan Garcia vs Conor Benn (ZUFFA) - Stream 1"
+          "event_title": "Gamebred FC x RCC HARD 21",
+          "matchup": null,
+          "display_name": "Gamebred FC x RCC HARD 21 - Stream 1"
         },
         {
           "label": "Stream 2",
@@ -8316,12 +8569,9 @@
           },
           "drm_keys": null,
           "sport": "fighting",
-          "event_title": "Ryan Garcia vs Conor Benn (ZUFFA)",
-          "matchup": {
-            "home": "Ryan Garcia",
-            "away": "Conor Benn (ZUFFA)"
-          },
-          "display_name": "Ryan Garcia vs Conor Benn (ZUFFA) - Stream 2"
+          "event_title": "Gamebred FC x RCC HARD 21",
+          "matchup": null,
+          "display_name": "Gamebred FC x RCC HARD 21 - Stream 2"
         },
         {
           "label": "ppv3.m3u8",
@@ -8339,12 +8589,101 @@
           },
           "drm_keys": null,
           "sport": "fighting",
+          "event_title": "Gamebred FC x RCC HARD 21",
+          "matchup": null,
+          "display_name": "Gamebred FC x RCC HARD 21 - ppv3.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/ppv4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "ppv4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-4",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "Misfits: McCann vs. Big Stacks",
+          "matchup": {
+            "home": "Misfits: McCann",
+            "away": "Big Stacks"
+          },
+          "display_name": "Misfits: McCann vs. Big Stacks - Stream 1"
+        },
+        {
+          "label": "ppv4.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ppv4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ppv4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-4",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "Misfits: McCann vs. Big Stacks",
+          "matchup": {
+            "home": "Misfits: McCann",
+            "away": "Big Stacks"
+          },
+          "display_name": "Misfits: McCann vs. Big Stacks - ppv4.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/ppv5.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "ppv5.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
           "event_title": "Ryan Garcia vs Conor Benn (ZUFFA)",
           "matchup": {
             "home": "Ryan Garcia",
             "away": "Conor Benn (ZUFFA)"
           },
-          "display_name": "Ryan Garcia vs Conor Benn (ZUFFA) - ppv3.m3u8"
+          "display_name": "Ryan Garcia vs Conor Benn (ZUFFA) - Stream 1"
+        },
+        {
+          "label": "ppv5.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ppv5.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ppv5.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "Ryan Garcia vs Conor Benn (ZUFFA)",
+          "matchup": {
+            "home": "Ryan Garcia",
+            "away": "Conor Benn (ZUFFA)"
+          },
+          "display_name": "Ryan Garcia vs Conor Benn (ZUFFA) - ppv5.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8535,7 +8874,7 @@
       ]
     }
   },
-  "stream_count": 88,
+  "stream_count": 92,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
