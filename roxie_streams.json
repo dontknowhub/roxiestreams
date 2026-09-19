@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-19T19:44:04+00:00",
+  "scraped_at": "2026-09-19T21:54:08+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -195,30 +195,7 @@
         "page": "https://roxiestreams.su/soccer-streams-4",
         "streams": [
           {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/dep.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "dep.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-4",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Sevilla vs Barcelona",
-            "matchup": {
-              "home": "Sevilla",
-              "away": "Barcelona"
-            },
-            "display_name": "Sevilla vs Barcelona - Stream 1"
-          },
-          {
-            "label": "Stream 2 (EN)",
+            "label": "Stream 1 (EN)",
             "url": "https://admin2.shadow-ran.online/sevilla.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
@@ -238,15 +215,15 @@
               "home": "Sevilla",
               "away": "Barcelona"
             },
-            "display_name": "Sevilla vs Barcelona - Stream 2 (EN)"
+            "display_name": "Sevilla vs Barcelona - Stream 1 (EN)"
           },
           {
-            "label": "dep.m3u8",
-            "url": "https://daffodil.shadow-ran.online/dep.m3u8",
+            "label": "Stream 2 (ES)",
+            "url": "https://admin.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
+            "subdomain": "admin",
             "path": "dep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
@@ -261,7 +238,30 @@
               "home": "Sevilla",
               "away": "Barcelona"
             },
-            "display_name": "Sevilla vs Barcelona - dep.m3u8"
+            "display_name": "Sevilla vs Barcelona - Stream 2 (ES)"
+          },
+          {
+            "label": "sevilla.m3u8",
+            "url": "https://daffodil.shadow-ran.online/sevilla.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "sevilla.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-4",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Sevilla vs Barcelona",
+            "matchup": {
+              "home": "Sevilla",
+              "away": "Barcelona"
+            },
+            "display_name": "Sevilla vs Barcelona - sevilla.m3u8"
           }
         ]
       },
@@ -692,6 +692,29 @@
               "away": "Santos"
             },
             "display_name": "Remo vs Santos - Stream 1"
+          },
+          {
+            "label": "Stream 2 (EN)",
+            "url": "https://admin.shadow-ran.online/fana3en.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-17",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "fana3en.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-17",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Remo vs Santos",
+            "matchup": {
+              "home": "Remo",
+              "away": "Santos"
+            },
+            "display_name": "Remo vs Santos - Stream 2 (EN)"
           },
           {
             "label": "fana3.m3u8",
@@ -1973,7 +1996,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/434afeb0a795102853fbdb7c11a10bc8/manifest/video.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/mlb9.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-9",
             "headers": {
@@ -2847,11 +2870,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/ppv.m3u8",
+            "url": "https://admin2.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ppv-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "ppv.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ppv-streams-1",
@@ -3042,23 +3065,6 @@
           {
             "label": "Direct Link",
             "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/multiview",
-            "headers": {
-              "Referer": "https://roxiestreams.su/multiview",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "multiview",
-            "event_title": "MultiView (NEW)",
-            "matchup": null,
-            "display_name": "MultiView (NEW)"
-          },
-          {
-            "label": "Direct Link",
-            "url": "https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/434afeb0a795102853fbdb7c11a10bc8/manifest/video.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/multiview",
             "headers": {
@@ -3672,8 +3678,8 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1",
-        "Stream 2 (EN)",
+        "Stream 1 (EN)",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4204,6 +4210,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -8866,30 +8873,7 @@
           "display_name": "América vs Chivas - tudn.m3u8"
         },
         {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/dep.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "dep.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-4",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Sevilla vs Barcelona",
-          "matchup": {
-            "home": "Sevilla",
-            "away": "Barcelona"
-          },
-          "display_name": "Sevilla vs Barcelona - Stream 1"
-        },
-        {
-          "label": "Stream 2 (EN)",
+          "label": "Stream 1 (EN)",
           "url": "https://admin2.shadow-ran.online/sevilla.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
@@ -8909,15 +8893,15 @@
             "home": "Sevilla",
             "away": "Barcelona"
           },
-          "display_name": "Sevilla vs Barcelona - Stream 2 (EN)"
+          "display_name": "Sevilla vs Barcelona - Stream 1 (EN)"
         },
         {
-          "label": "dep.m3u8",
-          "url": "https://daffodil.shadow-ran.online/dep.m3u8",
+          "label": "Stream 2 (ES)",
+          "url": "https://admin.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
+          "subdomain": "admin",
           "path": "dep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
@@ -8932,7 +8916,30 @@
             "home": "Sevilla",
             "away": "Barcelona"
           },
-          "display_name": "Sevilla vs Barcelona - dep.m3u8"
+          "display_name": "Sevilla vs Barcelona - Stream 2 (ES)"
+        },
+        {
+          "label": "sevilla.m3u8",
+          "url": "https://daffodil.shadow-ran.online/sevilla.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "sevilla.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-4",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Sevilla vs Barcelona",
+          "matchup": {
+            "home": "Sevilla",
+            "away": "Barcelona"
+          },
+          "display_name": "Sevilla vs Barcelona - sevilla.m3u8"
         },
         {
           "label": "Stream 1",
@@ -9275,6 +9282,29 @@
             "away": "Santos"
           },
           "display_name": "Remo vs Santos - Stream 1"
+        },
+        {
+          "label": "Stream 2 (EN)",
+          "url": "https://admin.shadow-ran.online/fana3en.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-17",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "fana3en.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-17",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Remo vs Santos",
+          "matchup": {
+            "home": "Remo",
+            "away": "Santos"
+          },
+          "display_name": "Remo vs Santos - Stream 2 (EN)"
         },
         {
           "label": "fana3.m3u8",
@@ -10279,7 +10309,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/434afeb0a795102853fbdb7c11a10bc8/manifest/video.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/mlb9.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-9",
           "headers": {
@@ -10965,11 +10995,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/ppv.m3u8",
+          "url": "https://admin2.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ppv-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "ppv.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ppv-streams-1",
@@ -11132,23 +11162,6 @@
         {
           "label": "Direct Link",
           "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/multiview",
-          "headers": {
-            "Referer": "https://roxiestreams.su/multiview",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "multiview",
-          "event_title": "MultiView (NEW)",
-          "matchup": null,
-          "display_name": "MultiView (NEW)"
-        },
-        {
-          "label": "Direct Link",
-          "url": "https://customer-b85rs0kp4mxlfevz.cloudflarestream.com/434afeb0a795102853fbdb7c11a10bc8/manifest/video.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/multiview",
           "headers": {
