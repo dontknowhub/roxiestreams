@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-19T17:34:21+00:00",
+  "scraped_at": "2026-09-19T19:44:04+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -216,6 +216,29 @@
               "away": "Barcelona"
             },
             "display_name": "Sevilla vs Barcelona - Stream 1"
+          },
+          {
+            "label": "Stream 2 (EN)",
+            "url": "https://admin2.shadow-ran.online/sevilla.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "sevilla.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-4",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Sevilla vs Barcelona",
+            "matchup": {
+              "home": "Sevilla",
+              "away": "Barcelona"
+            },
+            "display_name": "Sevilla vs Barcelona - Stream 2 (EN)"
           },
           {
             "label": "dep.m3u8",
@@ -3171,7 +3194,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nas.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/bayern.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nascar",
             "headers": {
@@ -3650,6 +3673,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -8865,6 +8889,29 @@
           "display_name": "Sevilla vs Barcelona - Stream 1"
         },
         {
+          "label": "Stream 2 (EN)",
+          "url": "https://admin2.shadow-ran.online/sevilla.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "sevilla.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-4",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Sevilla vs Barcelona",
+          "matchup": {
+            "home": "Sevilla",
+            "away": "Barcelona"
+          },
+          "display_name": "Sevilla vs Barcelona - Stream 2 (EN)"
+        },
+        {
           "label": "dep.m3u8",
           "url": "https://daffodil.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
@@ -11225,7 +11272,7 @@
       "streams": [
         {
           "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nas.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/bayern.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nascar",
           "headers": {
@@ -11296,7 +11343,7 @@
       ]
     }
   },
-  "stream_count": 112,
+  "stream_count": 113,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
