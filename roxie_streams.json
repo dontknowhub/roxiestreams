@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-26T20:19:32+00:00",
+  "scraped_at": "2026-09-26T23:00:44+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -196,12 +196,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/vix.m3u8",
+            "url": "https://admin2.shadow-ran.online/canal5.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "vix.m3u8",
+            "subdomain": "admin2",
+            "path": "canal5.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-11",
               "Origin": "https://roxiestreams.su",
@@ -218,13 +218,13 @@
             "display_name": "Tigres vs Puebla - Stream 1"
           },
           {
-            "label": "vix.m3u8",
-            "url": "https://daffodil.shadow-ran.online/vix.m3u8",
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/tudn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "vix.m3u8",
+            "subdomain": "admin2",
+            "path": "tudn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-11",
               "Origin": "https://roxiestreams.su",
@@ -238,7 +238,30 @@
               "home": "Tigres",
               "away": "Puebla"
             },
-            "display_name": "Tigres vs Puebla - vix.m3u8"
+            "display_name": "Tigres vs Puebla - Stream 2"
+          },
+          {
+            "label": "canal5.m3u8",
+            "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "canal5.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-11",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Tigres vs Puebla",
+            "matchup": {
+              "home": "Tigres",
+              "away": "Puebla"
+            },
+            "display_name": "Tigres vs Puebla - canal5.m3u8"
           }
         ]
       },
@@ -253,12 +276,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/colo.m3u8",
+            "url": "https://tedesco.shadow-ran.online/fsp.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "tedesco",
-            "path": "colo.m3u8",
+            "path": "fsp.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-12",
               "Origin": "https://roxiestreams.su",
@@ -275,13 +298,13 @@
             "display_name": "Canada vs Chile - Stream 1"
           },
           {
-            "label": "colo.m3u8",
-            "url": "https://daffodil.shadow-ran.online/colo.m3u8",
+            "label": "fsp.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "colo.m3u8",
+            "path": "fsp.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-12",
               "Origin": "https://roxiestreams.su",
@@ -295,64 +318,7 @@
               "home": "Canada",
               "away": "Chile"
             },
-            "display_name": "Canada vs Chile - colo.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Chivas vs Queretaro",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Chivas",
-          "away": "Queretaro"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-13",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-13",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "tudn.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-13",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Chivas vs Queretaro",
-            "matchup": {
-              "home": "Chivas",
-              "away": "Queretaro"
-            },
-            "display_name": "Chivas vs Queretaro - Stream 1"
-          },
-          {
-            "label": "tudn.m3u8",
-            "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-13",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "tudn.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-13",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Chivas vs Queretaro",
-            "matchup": {
-              "home": "Chivas",
-              "away": "Queretaro"
-            },
-            "display_name": "Chivas vs Queretaro - tudn.m3u8"
+            "display_name": "Canada vs Chile - fsp.m3u8"
           }
         ]
       },
@@ -581,63 +547,6 @@
               "away": "Gillingham"
             },
             "display_name": "York City vs Gillingham - york.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Sint Maarten vs Belize",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Sint Maarten",
-          "away": "Belize"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-5",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/fsp.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "fsp.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-5",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Sint Maarten vs Belize",
-            "matchup": {
-              "home": "Sint Maarten",
-              "away": "Belize"
-            },
-            "display_name": "Sint Maarten vs Belize - Stream 1"
-          },
-          {
-            "label": "fsp.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fsp.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-5",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Sint Maarten vs Belize",
-            "matchup": {
-              "home": "Sint Maarten",
-              "away": "Belize"
-            },
-            "display_name": "Sint Maarten vs Belize - fsp.m3u8"
           }
         ]
       },
@@ -2539,33 +2448,7 @@
         ]
       }
     ],
-    "multiview": [
-      {
-        "title": "MultiView (NEW)",
-        "sport": "multiview",
-        "matchup": null,
-        "page": "https://roxiestreams.su/multiview",
-        "streams": [
-          {
-            "label": "Direct Link",
-            "url": "https://customer-zsq40t1dp6xd6f3i.cloudflarestream.com/c8a70cc279ad1fff3b2315fc4d5bb39c/manifest/video.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/multiview",
-            "headers": {
-              "Referer": "https://roxiestreams.su/multiview",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "multiview",
-            "event_title": "MultiView (NEW)",
-            "matchup": null,
-            "display_name": "MultiView (NEW)"
-          }
-        ]
-      }
-    ],
+    "multiview": [],
     "f1": [
       {
         "title": "Formula 1 - Azerbaijan Grand Prix",
@@ -2724,73 +2607,7 @@
         "page": "https://roxiestreams.su/ufc",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://customer-zsq40t1dp6xd6f3i.cloudflarestream.com/c8a70cc279ad1fff3b2315fc4d5bb39c/manifest/video.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ufc",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ufc",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ufc",
-            "event_title": "UFC FN: Rosas Jr. vs. Barcelos",
-            "matchup": {
-              "home": "UFC FN: Rosas Jr.",
-              "away": "Barcelos"
-            },
-            "display_name": "UFC FN: Rosas Jr. vs. Barcelos"
-          },
-          {
-            "label": "Stream 1 (Para)",
-            "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ufc",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "abbiecadabrii.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ufc",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ufc",
-            "event_title": "UFC FN: Rosas Jr. vs. Barcelos",
-            "matchup": {
-              "home": "UFC FN: Rosas Jr.",
-              "away": "Barcelos"
-            },
-            "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 1 (Para)"
-          },
-          {
-            "label": "Stream 2 (TNT)",
-            "url": "https://admin.shadow-ran.online/tnt.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ufc",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "tnt.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ufc",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ufc",
-            "event_title": "UFC FN: Rosas Jr. vs. Barcelos",
-            "matchup": {
-              "home": "UFC FN: Rosas Jr.",
-              "away": "Barcelos"
-            },
-            "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 2 (TNT)"
-          },
-          {
-            "label": "Stream 4 (HUB)",
+            "label": "Stream 1 (Hub)",
             "url": "https://admin2.shadow-ran.online/hub.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
@@ -2810,15 +2627,15 @@
               "home": "UFC FN: Rosas Jr.",
               "away": "Barcelos"
             },
-            "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 4 (HUB)"
+            "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 1 (Hub)"
           },
           {
-            "label": "abbiecadabrii.m3u8",
-            "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+            "label": "Stream 2 (Para)",
+            "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
+            "subdomain": "admin2",
             "path": "abbiecadabrii.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
@@ -2833,7 +2650,53 @@
               "home": "UFC FN: Rosas Jr.",
               "away": "Barcelos"
             },
-            "display_name": "UFC FN: Rosas Jr. vs. Barcelos - abbiecadabrii.m3u8"
+            "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 2 (Para)"
+          },
+          {
+            "label": "Stream 3 (TNT)",
+            "url": "https://tedesco.shadow-ran.online/tnt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "tnt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ufc",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC FN: Rosas Jr. vs. Barcelos",
+            "matchup": {
+              "home": "UFC FN: Rosas Jr.",
+              "away": "Barcelos"
+            },
+            "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 3 (TNT)"
+          },
+          {
+            "label": "hub.m3u8",
+            "url": "https://daffodil.shadow-ran.online/hub.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "hub.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ufc",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC FN: Rosas Jr. vs. Barcelos",
+            "matchup": {
+              "home": "UFC FN: Rosas Jr.",
+              "away": "Barcelos"
+            },
+            "display_name": "UFC FN: Rosas Jr. vs. Barcelos - hub.m3u8"
           }
         ]
       }
@@ -3165,6 +3028,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3297,7 +3161,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "FOX ONE MX VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6946,6 +6809,7 @@
         "Davies vs. Collins: Home Stretch",
         "BKFC 94",
         "UFC Fight Night: Rosas Jr. vs. Barcelos",
+        "Cejudo vs. Walton",
         "AEW All Out",
         "Inoue vs. Tenshin II",
         "Dana White's Contender Series",
@@ -7019,6 +6883,10 @@
         {
           "label": "UFC Fight Night: Rosas Jr. vs. Barcelos",
           "url": "https://roxiestreams.su/ufc"
+        },
+        {
+          "label": "Cejudo vs. Walton",
+          "url": "https://roxiestreams.su/ppv-streams-1"
         },
         {
           "label": "AEW All Out",
@@ -7325,7 +7193,9 @@
         "SuperMotocross - Qualifying",
         "NASCAR Craftsman Truck Series - Race",
         "High Limit Racing - Race",
+        "Lucas Oil Dirt Series - Race",
         "SuperMotocross - Race",
+        "WoO Late Models - Race",
         "WoO Sprint Cars - Race",
         "WEC - 6 Hours of Fuji Race",
         "Stream Request (Discord)"
@@ -7396,8 +7266,16 @@
           "url": "https://roxiestreams.su/floracing-1"
         },
         {
+          "label": "Lucas Oil Dirt Series - Race",
+          "url": "https://roxiestreams.su/floracing-3"
+        },
+        {
           "label": "SuperMotocross - Race",
           "url": "https://roxiestreams.su/supercross"
+        },
+        {
+          "label": "WoO Late Models - Race",
+          "url": "https://roxiestreams.su/floracing-4"
         },
         {
           "label": "WoO Sprint Cars - Race",
@@ -7758,10 +7636,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1 (Para)",
-        "Stream 2 (TNT)",
-        "Stream 3 (ALT)",
-        "Stream 4 (HUB)",
+        "Stream 1 (Hub)",
+        "Stream 2 (Para)",
+        "Stream 3 (TNT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7950,12 +7827,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/vix.m3u8",
+          "url": "https://admin2.shadow-ran.online/canal5.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "vix.m3u8",
+          "subdomain": "admin2",
+          "path": "canal5.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-11",
             "Origin": "https://roxiestreams.su",
@@ -7972,13 +7849,13 @@
           "display_name": "Tigres vs Puebla - Stream 1"
         },
         {
-          "label": "vix.m3u8",
-          "url": "https://daffodil.shadow-ran.online/vix.m3u8",
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/tudn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "vix.m3u8",
+          "subdomain": "admin2",
+          "path": "tudn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-11",
             "Origin": "https://roxiestreams.su",
@@ -7992,16 +7869,39 @@
             "home": "Tigres",
             "away": "Puebla"
           },
-          "display_name": "Tigres vs Puebla - vix.m3u8"
+          "display_name": "Tigres vs Puebla - Stream 2"
+        },
+        {
+          "label": "canal5.m3u8",
+          "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "canal5.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-11",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Tigres vs Puebla",
+          "matchup": {
+            "home": "Tigres",
+            "away": "Puebla"
+          },
+          "display_name": "Tigres vs Puebla - canal5.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/colo.m3u8",
+          "url": "https://tedesco.shadow-ran.online/fsp.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "tedesco",
-          "path": "colo.m3u8",
+          "path": "fsp.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-12",
             "Origin": "https://roxiestreams.su",
@@ -8018,13 +7918,13 @@
           "display_name": "Canada vs Chile - Stream 1"
         },
         {
-          "label": "colo.m3u8",
-          "url": "https://daffodil.shadow-ran.online/colo.m3u8",
+          "label": "fsp.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "colo.m3u8",
+          "path": "fsp.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-12",
             "Origin": "https://roxiestreams.su",
@@ -8038,53 +7938,7 @@
             "home": "Canada",
             "away": "Chile"
           },
-          "display_name": "Canada vs Chile - colo.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/tudn.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-13",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "tudn.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-13",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Chivas vs Queretaro",
-          "matchup": {
-            "home": "Chivas",
-            "away": "Queretaro"
-          },
-          "display_name": "Chivas vs Queretaro - Stream 1"
-        },
-        {
-          "label": "tudn.m3u8",
-          "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-13",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "tudn.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-13",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Chivas vs Queretaro",
-          "matchup": {
-            "home": "Chivas",
-            "away": "Queretaro"
-          },
-          "display_name": "Chivas vs Queretaro - tudn.m3u8"
+          "display_name": "Canada vs Chile - fsp.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8269,52 +8123,6 @@
             "away": "Gillingham"
           },
           "display_name": "York City vs Gillingham - york.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/fsp.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "fsp.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-5",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Sint Maarten vs Belize",
-          "matchup": {
-            "home": "Sint Maarten",
-            "away": "Belize"
-          },
-          "display_name": "Sint Maarten vs Belize - Stream 1"
-        },
-        {
-          "label": "fsp.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fsp.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-5",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Sint Maarten vs Belize",
-          "matchup": {
-            "home": "Sint Maarten",
-            "away": "Belize"
-          },
-          "display_name": "Sint Maarten vs Belize - fsp.m3u8"
         },
         {
           "label": "Stream 1",
@@ -9820,25 +9628,7 @@
       "pages": [
         "https://roxiestreams.su/multiview"
       ],
-      "streams": [
-        {
-          "label": "Direct Link",
-          "url": "https://customer-zsq40t1dp6xd6f3i.cloudflarestream.com/c8a70cc279ad1fff3b2315fc4d5bb39c/manifest/video.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/multiview",
-          "headers": {
-            "Referer": "https://roxiestreams.su/multiview",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "multiview",
-          "event_title": "MultiView (NEW)",
-          "matchup": null,
-          "display_name": "MultiView (NEW)"
-        }
-      ]
+      "streams": []
     },
     "f1": {
       "pages": [
@@ -9984,73 +9774,7 @@
       ],
       "streams": [
         {
-          "label": "Direct Link",
-          "url": "https://customer-zsq40t1dp6xd6f3i.cloudflarestream.com/c8a70cc279ad1fff3b2315fc4d5bb39c/manifest/video.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ufc",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ufc",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ufc",
-          "event_title": "UFC FN: Rosas Jr. vs. Barcelos",
-          "matchup": {
-            "home": "UFC FN: Rosas Jr.",
-            "away": "Barcelos"
-          },
-          "display_name": "UFC FN: Rosas Jr. vs. Barcelos"
-        },
-        {
-          "label": "Stream 1 (Para)",
-          "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ufc",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "abbiecadabrii.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ufc",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ufc",
-          "event_title": "UFC FN: Rosas Jr. vs. Barcelos",
-          "matchup": {
-            "home": "UFC FN: Rosas Jr.",
-            "away": "Barcelos"
-          },
-          "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 1 (Para)"
-        },
-        {
-          "label": "Stream 2 (TNT)",
-          "url": "https://admin.shadow-ran.online/tnt.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ufc",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "tnt.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ufc",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ufc",
-          "event_title": "UFC FN: Rosas Jr. vs. Barcelos",
-          "matchup": {
-            "home": "UFC FN: Rosas Jr.",
-            "away": "Barcelos"
-          },
-          "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 2 (TNT)"
-        },
-        {
-          "label": "Stream 4 (HUB)",
+          "label": "Stream 1 (Hub)",
           "url": "https://admin2.shadow-ran.online/hub.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
@@ -10070,15 +9794,15 @@
             "home": "UFC FN: Rosas Jr.",
             "away": "Barcelos"
           },
-          "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 4 (HUB)"
+          "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 1 (Hub)"
         },
         {
-          "label": "abbiecadabrii.m3u8",
-          "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+          "label": "Stream 2 (Para)",
+          "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
+          "subdomain": "admin2",
           "path": "abbiecadabrii.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
@@ -10093,12 +9817,58 @@
             "home": "UFC FN: Rosas Jr.",
             "away": "Barcelos"
           },
-          "display_name": "UFC FN: Rosas Jr. vs. Barcelos - abbiecadabrii.m3u8"
+          "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 2 (Para)"
+        },
+        {
+          "label": "Stream 3 (TNT)",
+          "url": "https://tedesco.shadow-ran.online/tnt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "tnt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ufc",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC FN: Rosas Jr. vs. Barcelos",
+          "matchup": {
+            "home": "UFC FN: Rosas Jr.",
+            "away": "Barcelos"
+          },
+          "display_name": "UFC FN: Rosas Jr. vs. Barcelos - Stream 3 (TNT)"
+        },
+        {
+          "label": "hub.m3u8",
+          "url": "https://daffodil.shadow-ran.online/hub.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "hub.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ufc",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC FN: Rosas Jr. vs. Barcelos",
+          "matchup": {
+            "home": "UFC FN: Rosas Jr.",
+            "away": "Barcelos"
+          },
+          "display_name": "UFC FN: Rosas Jr. vs. Barcelos - hub.m3u8"
         }
       ]
     }
   },
-  "stream_count": 99,
+  "stream_count": 94,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
