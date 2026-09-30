@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T23:48:42+00:00",
+  "scraped_at": "2026-09-30T02:52:12+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -129,11 +129,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/chile.m3u8",
+            "url": "https://admin.shadow-ran.online/chile.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "chile.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-10",
@@ -151,7 +151,7 @@
             "display_name": "USA vs Chile - Stream 1"
           },
           {
-            "label": "Stream 2",
+            "label": "Stream 2 (EN)",
             "url": "https://admin2.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
@@ -171,7 +171,7 @@
               "home": "USA",
               "away": "Chile"
             },
-            "display_name": "USA vs Chile - Stream 2"
+            "display_name": "USA vs Chile - Stream 2 (EN)"
           },
           {
             "label": "chile.m3u8",
@@ -209,12 +209,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/uni.m3u8",
+            "url": "https://admin2.shadow-ran.online/canal5.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "uni.m3u8",
+            "subdomain": "admin2",
+            "path": "canal5.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-11",
               "Origin": "https://roxiestreams.su",
@@ -231,13 +231,13 @@
             "display_name": "Mexico vs Peru - Stream 1"
           },
           {
-            "label": "uni.m3u8",
-            "url": "https://daffodil.shadow-ran.online/uni.m3u8",
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/mexico.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-11",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "uni.m3u8",
+            "subdomain": "admin2",
+            "path": "mexico.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-11",
               "Origin": "https://roxiestreams.su",
@@ -251,7 +251,30 @@
               "home": "Mexico",
               "away": "Peru"
             },
-            "display_name": "Mexico vs Peru - uni.m3u8"
+            "display_name": "Mexico vs Peru - Stream 2"
+          },
+          {
+            "label": "canal5.m3u8",
+            "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-11",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "canal5.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-11",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Mexico vs Peru",
+            "matchup": {
+              "home": "Mexico",
+              "away": "Peru"
+            },
+            "display_name": "Mexico vs Peru - canal5.m3u8"
           }
         ]
       },
@@ -746,12 +769,12 @@
         "page": "https://roxiestreams.su/mlb-streams-1",
         "streams": [
           {
-            "label": "Stream a",
-            "url": "https://admin.shadow-ran.online/mlb.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/mlb.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "admin2",
             "path": "mlb.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -766,15 +789,15 @@
               "home": "Boston Red Sox",
               "away": "New York Yankees"
             },
-            "display_name": "Boston Red Sox vs New York Yankees - Stream a"
+            "display_name": "Boston Red Sox vs New York Yankees - Stream 1"
           },
           {
             "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/mlb.m3u8",
+            "url": "https://admin.shadow-ran.online/mlb.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "mlb.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -985,6 +1008,63 @@
               "away": "Indiana Fever"
             },
             "display_name": "Las Vegas Aces vs Indiana Fever - wnba.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Minnesota Lynx vs New York Liberty",
+        "sport": "nba",
+        "matchup": {
+          "home": "Minnesota Lynx",
+          "away": "New York Liberty"
+        },
+        "page": "https://roxiestreams.su/wnba-streams-2",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://tedesco.shadow-ran.online/wnba2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wnba-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "wnba2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wnba-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Minnesota Lynx vs New York Liberty",
+            "matchup": {
+              "home": "Minnesota Lynx",
+              "away": "New York Liberty"
+            },
+            "display_name": "Minnesota Lynx vs New York Liberty - Stream 1"
+          },
+          {
+            "label": "wnba2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wnba2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wnba-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wnba2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wnba-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Minnesota Lynx vs New York Liberty",
+            "matchup": {
+              "home": "Minnesota Lynx",
+              "away": "New York Liberty"
+            },
+            "display_name": "Minnesota Lynx vs New York Liberty - wnba2.m3u8"
           }
         ]
       }
@@ -1352,26 +1432,6 @@
             "display_name": "WWE NXT - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://admin.shadow-ran.online/wwe.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wwe-streams",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "wwe.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/wwe-streams",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "fighting",
-            "event_title": "WWE NXT",
-            "matchup": null,
-            "display_name": "WWE NXT - Stream 2"
-          },
-          {
             "label": "wwe.m3u8",
             "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
@@ -1578,26 +1638,6 @@
             "event_title": "WWE NXT",
             "matchup": null,
             "display_name": "WWE NXT - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://admin.shadow-ran.online/wwe.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wwe-streams",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "wwe.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/wwe-streams",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE NXT",
-            "matchup": null,
-            "display_name": "WWE NXT - Stream 2"
           },
           {
             "label": "wwe.m3u8",
@@ -1878,7 +1918,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1945,6 +1985,9 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "AZTECA 7 MX VPN",
+        "CLARO MX VPN",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2636,8 +2679,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream a",
+        "Stream 1",
         "Stream 2",
+        "PEACOCK US VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2704,6 +2748,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "PEACOCK US VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3587,7 +3632,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3949,11 +3993,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/chile.m3u8",
+          "url": "https://admin.shadow-ran.online/chile.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "chile.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-10",
@@ -3971,7 +4015,7 @@
           "display_name": "USA vs Chile - Stream 1"
         },
         {
-          "label": "Stream 2",
+          "label": "Stream 2 (EN)",
           "url": "https://admin2.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
@@ -3991,7 +4035,7 @@
             "home": "USA",
             "away": "Chile"
           },
-          "display_name": "USA vs Chile - Stream 2"
+          "display_name": "USA vs Chile - Stream 2 (EN)"
         },
         {
           "label": "chile.m3u8",
@@ -4018,12 +4062,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/uni.m3u8",
+          "url": "https://admin2.shadow-ran.online/canal5.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "uni.m3u8",
+          "subdomain": "admin2",
+          "path": "canal5.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-11",
             "Origin": "https://roxiestreams.su",
@@ -4040,13 +4084,13 @@
           "display_name": "Mexico vs Peru - Stream 1"
         },
         {
-          "label": "uni.m3u8",
-          "url": "https://daffodil.shadow-ran.online/uni.m3u8",
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/mexico.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-11",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "uni.m3u8",
+          "subdomain": "admin2",
+          "path": "mexico.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-11",
             "Origin": "https://roxiestreams.su",
@@ -4060,7 +4104,30 @@
             "home": "Mexico",
             "away": "Peru"
           },
-          "display_name": "Mexico vs Peru - uni.m3u8"
+          "display_name": "Mexico vs Peru - Stream 2"
+        },
+        {
+          "label": "canal5.m3u8",
+          "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-11",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "canal5.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-11",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Mexico vs Peru",
+          "matchup": {
+            "home": "Mexico",
+            "away": "Peru"
+          },
+          "display_name": "Mexico vs Peru - canal5.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4463,12 +4530,12 @@
       ],
       "streams": [
         {
-          "label": "Stream a",
-          "url": "https://admin.shadow-ran.online/mlb.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/mlb.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "admin2",
           "path": "mlb.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -4483,15 +4550,15 @@
             "home": "Boston Red Sox",
             "away": "New York Yankees"
           },
-          "display_name": "Boston Red Sox vs New York Yankees - Stream a"
+          "display_name": "Boston Red Sox vs New York Yankees - Stream 1"
         },
         {
           "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/mlb.m3u8",
+          "url": "https://admin.shadow-ran.online/mlb.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "mlb.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/mlb-streams-1",
@@ -4672,6 +4739,52 @@
             "away": "Indiana Fever"
           },
           "display_name": "Las Vegas Aces vs Indiana Fever - wnba.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://tedesco.shadow-ran.online/wnba2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wnba-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "wnba2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wnba-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Minnesota Lynx vs New York Liberty",
+          "matchup": {
+            "home": "Minnesota Lynx",
+            "away": "New York Liberty"
+          },
+          "display_name": "Minnesota Lynx vs New York Liberty - Stream 1"
+        },
+        {
+          "label": "wnba2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wnba2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wnba-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wnba2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wnba-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Minnesota Lynx vs New York Liberty",
+          "matchup": {
+            "home": "Minnesota Lynx",
+            "away": "New York Liberty"
+          },
+          "display_name": "Minnesota Lynx vs New York Liberty - wnba2.m3u8"
         }
       ]
     },
@@ -5010,26 +5123,6 @@
           "display_name": "WWE NXT - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin.shadow-ran.online/wwe.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wwe-streams",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "wwe.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/wwe-streams",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "fighting",
-          "event_title": "WWE NXT",
-          "matchup": null,
-          "display_name": "WWE NXT - Stream 2"
-        },
-        {
           "label": "wwe.m3u8",
           "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
@@ -5223,26 +5316,6 @@
           "display_name": "WWE NXT - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin.shadow-ran.online/wwe.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wwe-streams",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "wwe.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/wwe-streams",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE NXT",
-          "matchup": null,
-          "display_name": "WWE NXT - Stream 2"
-        },
-        {
           "label": "wwe.m3u8",
           "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
@@ -5265,7 +5338,7 @@
       ]
     }
   },
-  "stream_count": 59,
+  "stream_count": 60,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
