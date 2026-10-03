@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-03T18:02:43+00:00",
+  "scraped_at": "2026-10-03T21:32:39+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -28,7 +28,7 @@
     {
       "name": "UFC 332: Silva vs Wang",
       "page": "https://roxiestreams.su/ufc",
-      "start_time": "October 3, 2026 2:00 PM"
+      "start_time": "October 3, 2026 1:00 PM"
     },
     {
       "name": "MotoGP - Grand Prix of Japan",
@@ -385,12 +385,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/abu.m3u8",
+            "url": "https://admin.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "abu.m3u8",
+            "subdomain": "admin",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-14",
               "Origin": "https://roxiestreams.su",
@@ -407,13 +407,13 @@
             "display_name": "Atlético Mineiro vs Bragantino - Stream 1"
           },
           {
-            "label": "abu.m3u8",
-            "url": "https://daffodil.shadow-ran.online/abu.m3u8",
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "abu.m3u8",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-14",
               "Origin": "https://roxiestreams.su",
@@ -427,7 +427,7 @@
               "home": "Atlético Mineiro",
               "away": "Bragantino"
             },
-            "display_name": "Atlético Mineiro vs Bragantino - abu.m3u8"
+            "display_name": "Atlético Mineiro vs Bragantino - fana.m3u8"
           }
         ]
       },
@@ -1185,11 +1185,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/mlb2.m3u8",
+            "url": "https://admin2.shadow-ran.online/mlb2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "admin2",
             "path": "mlb2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/mlb-streams-2",
@@ -1205,6 +1205,29 @@
               "away": "Los Angeles Dodgers"
             },
             "display_name": "Atlanta Braves vs Los Angeles Dodgers - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/ncaa9.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/mlb-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "ncaa9.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/mlb-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "mlb",
+            "event_title": "Atlanta Braves vs Los Angeles Dodgers",
+            "matchup": {
+              "home": "Atlanta Braves",
+              "away": "Los Angeles Dodgers"
+            },
+            "display_name": "Atlanta Braves vs Los Angeles Dodgers - Stream 2"
           },
           {
             "label": "mlb2.m3u8",
@@ -1779,7 +1802,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin.formaturamaxi.com.br/ncaa6.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/ncaa6.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ncaa-streams-6",
             "headers": {
@@ -2436,6 +2459,29 @@
             "display_name": "Whittaker vs. Wallace - Stream 1"
           },
           {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/ppv.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ppv-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "ppv.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ppv-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "fighting",
+            "event_title": "Whittaker vs. Wallace",
+            "matchup": {
+              "home": "Whittaker",
+              "away": "Wallace"
+            },
+            "display_name": "Whittaker vs. Wallace - Stream 2"
+          },
+          {
             "label": "ppv.m3u8",
             "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
             "type": "m3u8",
@@ -2608,30 +2654,7 @@
         "page": "https://roxiestreams.su/ufc",
         "streams": [
           {
-            "label": "Stream 1 (Hub)",
-            "url": "https://admin2.shadow-ran.online/hub.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ufc",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "hub.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ufc",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ufc",
-            "event_title": "UFC 332: Silva vs Wang",
-            "matchup": {
-              "home": "UFC 332: Silva",
-              "away": "Wang"
-            },
-            "display_name": "UFC 332: Silva vs Wang - Stream 1 (Hub)"
-          },
-          {
-            "label": "Stream 2 (Para)",
+            "label": "Stream 1 (PARA+)",
             "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
@@ -2651,38 +2674,15 @@
               "home": "UFC 332: Silva",
               "away": "Wang"
             },
-            "display_name": "UFC 332: Silva vs Wang - Stream 2 (Para)"
+            "display_name": "UFC 332: Silva vs Wang - Stream 1 (PARA+)"
           },
           {
-            "label": "Stream 3 (TNT)",
-            "url": "https://tedesco.shadow-ran.online/tnt.m3u8",
+            "label": "Stream 2 (CITY)",
+            "url": "https://admin2.shadow-ran.online/hub.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "tnt.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/ufc",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "ufc",
-            "event_title": "UFC 332: Silva vs Wang",
-            "matchup": {
-              "home": "UFC 332: Silva",
-              "away": "Wang"
-            },
-            "display_name": "UFC 332: Silva vs Wang - Stream 3 (TNT)"
-          },
-          {
-            "label": "hub.m3u8",
-            "url": "https://daffodil.shadow-ran.online/hub.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/ufc",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
+            "subdomain": "admin2",
             "path": "hub.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
@@ -2697,7 +2697,53 @@
               "home": "UFC 332: Silva",
               "away": "Wang"
             },
-            "display_name": "UFC 332: Silva vs Wang - hub.m3u8"
+            "display_name": "UFC 332: Silva vs Wang - Stream 2 (CITY)"
+          },
+          {
+            "label": "Stream 3 (CBS)",
+            "url": "https://admin.shadow-ran.online/ncaa10.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "ncaa10.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ufc",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC 332: Silva vs Wang",
+            "matchup": {
+              "home": "UFC 332: Silva",
+              "away": "Wang"
+            },
+            "display_name": "UFC 332: Silva vs Wang - Stream 3 (CBS)"
+          },
+          {
+            "label": "abbiecadabrii.m3u8",
+            "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ufc",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "abbiecadabrii.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ufc",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "ufc",
+            "event_title": "UFC 332: Silva vs Wang",
+            "matchup": {
+              "home": "UFC 332: Silva",
+              "away": "Wang"
+            },
+            "display_name": "UFC 332: Silva vs Wang - abbiecadabrii.m3u8"
           }
         ]
       }
@@ -4360,7 +4406,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "PEACOCK US VPN",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7050,6 +7096,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7428,9 +7475,9 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView (NEW)",
-        "Stream 1 (Hub)",
-        "Stream 2 (Para)",
-        "Stream 3 (TNT)",
+        "Stream 1 (PARA+)",
+        "Stream 2 (CITY)",
+        "Stream 3 (CBS)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7916,12 +7963,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/abu.m3u8",
+          "url": "https://admin.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "abu.m3u8",
+          "subdomain": "admin",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-14",
             "Origin": "https://roxiestreams.su",
@@ -7938,13 +7985,13 @@
           "display_name": "Atlético Mineiro vs Bragantino - Stream 1"
         },
         {
-          "label": "abu.m3u8",
-          "url": "https://daffodil.shadow-ran.online/abu.m3u8",
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "abu.m3u8",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-14",
             "Origin": "https://roxiestreams.su",
@@ -7958,7 +8005,7 @@
             "home": "Atlético Mineiro",
             "away": "Bragantino"
           },
-          "display_name": "Atlético Mineiro vs Bragantino - abu.m3u8"
+          "display_name": "Atlético Mineiro vs Bragantino - fana.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8571,11 +8618,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/mlb2.m3u8",
+          "url": "https://admin2.shadow-ran.online/mlb2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "admin2",
           "path": "mlb2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/mlb-streams-2",
@@ -8591,6 +8638,29 @@
             "away": "Los Angeles Dodgers"
           },
           "display_name": "Atlanta Braves vs Los Angeles Dodgers - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/ncaa9.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/mlb-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "ncaa9.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/mlb-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "mlb",
+          "event_title": "Atlanta Braves vs Los Angeles Dodgers",
+          "matchup": {
+            "home": "Atlanta Braves",
+            "away": "Los Angeles Dodgers"
+          },
+          "display_name": "Atlanta Braves vs Los Angeles Dodgers - Stream 2"
         },
         {
           "label": "mlb2.m3u8",
@@ -9037,7 +9107,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin.formaturamaxi.com.br/ncaa6.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/ncaa6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ncaa-streams-6",
           "headers": {
@@ -9532,6 +9602,29 @@
           "display_name": "Whittaker vs. Wallace - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/ppv.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ppv-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "ppv.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ppv-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "fighting",
+          "event_title": "Whittaker vs. Wallace",
+          "matchup": {
+            "home": "Whittaker",
+            "away": "Wallace"
+          },
+          "display_name": "Whittaker vs. Wallace - Stream 2"
+        },
+        {
           "label": "ppv.m3u8",
           "url": "https://daffodil.shadow-ran.online/ppv.m3u8",
           "type": "m3u8",
@@ -9681,30 +9774,7 @@
       ],
       "streams": [
         {
-          "label": "Stream 1 (Hub)",
-          "url": "https://admin2.shadow-ran.online/hub.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ufc",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "hub.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ufc",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ufc",
-          "event_title": "UFC 332: Silva vs Wang",
-          "matchup": {
-            "home": "UFC 332: Silva",
-            "away": "Wang"
-          },
-          "display_name": "UFC 332: Silva vs Wang - Stream 1 (Hub)"
-        },
-        {
-          "label": "Stream 2 (Para)",
+          "label": "Stream 1 (PARA+)",
           "url": "https://admin2.shadow-ran.online/abbiecadabrii.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
@@ -9724,38 +9794,15 @@
             "home": "UFC 332: Silva",
             "away": "Wang"
           },
-          "display_name": "UFC 332: Silva vs Wang - Stream 2 (Para)"
+          "display_name": "UFC 332: Silva vs Wang - Stream 1 (PARA+)"
         },
         {
-          "label": "Stream 3 (TNT)",
-          "url": "https://tedesco.shadow-ran.online/tnt.m3u8",
+          "label": "Stream 2 (CITY)",
+          "url": "https://admin2.shadow-ran.online/hub.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "tnt.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/ufc",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "ufc",
-          "event_title": "UFC 332: Silva vs Wang",
-          "matchup": {
-            "home": "UFC 332: Silva",
-            "away": "Wang"
-          },
-          "display_name": "UFC 332: Silva vs Wang - Stream 3 (TNT)"
-        },
-        {
-          "label": "hub.m3u8",
-          "url": "https://daffodil.shadow-ran.online/hub.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/ufc",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
+          "subdomain": "admin2",
           "path": "hub.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
@@ -9770,7 +9817,53 @@
             "home": "UFC 332: Silva",
             "away": "Wang"
           },
-          "display_name": "UFC 332: Silva vs Wang - hub.m3u8"
+          "display_name": "UFC 332: Silva vs Wang - Stream 2 (CITY)"
+        },
+        {
+          "label": "Stream 3 (CBS)",
+          "url": "https://admin.shadow-ran.online/ncaa10.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "ncaa10.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ufc",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC 332: Silva vs Wang",
+          "matchup": {
+            "home": "UFC 332: Silva",
+            "away": "Wang"
+          },
+          "display_name": "UFC 332: Silva vs Wang - Stream 3 (CBS)"
+        },
+        {
+          "label": "abbiecadabrii.m3u8",
+          "url": "https://daffodil.shadow-ran.online/abbiecadabrii.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ufc",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "abbiecadabrii.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ufc",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "ufc",
+          "event_title": "UFC 332: Silva vs Wang",
+          "matchup": {
+            "home": "UFC 332: Silva",
+            "away": "Wang"
+          },
+          "display_name": "UFC 332: Silva vs Wang - abbiecadabrii.m3u8"
         }
       ]
     },
@@ -9869,7 +9962,7 @@
       ]
     }
   },
-  "stream_count": 96,
+  "stream_count": 98,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
