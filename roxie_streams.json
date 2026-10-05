@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05T09:17:14+00:00",
+  "scraped_at": "2026-10-05T18:37:15+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -8,37 +8,27 @@
     {
       "name": "UEFA Nations League",
       "page": "https://roxiestreams.su/soccer",
-      "start_time": "October 4, 2026 6:00 AM"
-    },
-    {
-      "name": "NFL (6:30/10AM)",
-      "page": "https://roxiestreams.su/nfl",
-      "start_time": "October 4, 2026 6:30 AM"
-    },
-    {
-      "name": "WNBA Playoffs",
-      "page": "https://roxiestreams.su/nba",
-      "start_time": "October 4, 2026 11:00 AM"
+      "start_time": "October 5, 2026 9:00 AM"
     },
     {
       "name": "MLB Playoffs",
       "page": "https://roxiestreams.su/mlb",
-      "start_time": "October 4, 2026 1:00 PM"
-    },
-    {
-      "name": "NASCAR Cup Series - Race",
-      "page": "https://roxiestreams.su/nascar",
-      "start_time": "October 4, 2026 2:40 PM"
+      "start_time": "October 5, 2026 2:00 PM"
     },
     {
       "name": "NBA (Preseason)",
       "page": "https://roxiestreams.su/nba",
-      "start_time": "October 4, 2026 4:00 PM"
+      "start_time": "October 5, 2026 4:00 PM"
     },
     {
-      "name": "Friendly (Chivas vs America)",
-      "page": "https://roxiestreams.su/soccer-streams-6",
-      "start_time": "October 4, 2026 6:00 PM"
+      "name": "WWE RAW",
+      "page": "https://roxiestreams.su/wwe-streams",
+      "start_time": "October 5, 2026 5:00 PM"
+    },
+    {
+      "name": "NFL (MNF)",
+      "page": "https://roxiestreams.su/nfl-streams-1",
+      "start_time": "October 5, 2026 5:15 PM"
     }
   ],
   "events_by_sport": {
@@ -54,6 +44,29 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://admin.shadow-ran.online/fs2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "fs2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Honduras vs Jamaica",
+            "matchup": {
+              "home": "Honduras",
+              "away": "Jamaica"
+            },
+            "display_name": "Honduras vs Jamaica - Stream 1"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/fs2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
@@ -73,7 +86,7 @@
               "home": "Honduras",
               "away": "Jamaica"
             },
-            "display_name": "Honduras vs Jamaica - Stream 1"
+            "display_name": "Honduras vs Jamaica - Stream 2"
           },
           {
             "label": "fs2.m3u8",
@@ -101,63 +114,6 @@
         ]
       },
       {
-        "title": "Bosnia & Herzegovina vs Poland",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Bosnia & Herzegovina",
-          "away": "Poland"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-6",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/tele.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-6",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "tele.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-6",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Bosnia & Herzegovina vs Poland",
-            "matchup": {
-              "home": "Bosnia & Herzegovina",
-              "away": "Poland"
-            },
-            "display_name": "Bosnia & Herzegovina vs Poland - Stream 1"
-          },
-          {
-            "label": "tele.m3u8",
-            "url": "https://daffodil.shadow-ran.online/tele.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-6",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "tele.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-6",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Bosnia & Herzegovina vs Poland",
-            "matchup": {
-              "home": "Bosnia & Herzegovina",
-              "away": "Poland"
-            },
-            "display_name": "Bosnia & Herzegovina vs Poland - tele.m3u8"
-          }
-        ]
-      },
-      {
         "title": "France vs Belgium",
         "sport": "soccer",
         "matchup": {
@@ -168,12 +124,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fubo.m3u8",
+            "url": "https://admin2.shadow-ran.online/virgin.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fubo.m3u8",
+            "path": "virgin.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -190,13 +146,13 @@
             "display_name": "France vs Belgium - Stream 1"
           },
           {
-            "label": "fubo.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fubo.m3u8",
+            "label": "Stream 2 (ES)",
+            "url": "https://admin2.shadow-ran.online/espn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fubo.m3u8",
+            "subdomain": "admin2",
+            "path": "espn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -210,7 +166,30 @@
               "home": "France",
               "away": "Belgium"
             },
-            "display_name": "France vs Belgium - fubo.m3u8"
+            "display_name": "France vs Belgium - Stream 2 (ES)"
+          },
+          {
+            "label": "virgin.m3u8",
+            "url": "https://daffodil.shadow-ran.online/virgin.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "virgin.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "France vs Belgium",
+            "matchup": {
+              "home": "France",
+              "away": "Belgium"
+            },
+            "display_name": "France vs Belgium - virgin.m3u8"
           }
         ]
       },
@@ -225,12 +204,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/s4c.m3u8",
+            "url": "https://tedesco.shadow-ran.online/fsp.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "s4c.m3u8",
+            "subdomain": "tedesco",
+            "path": "fsp.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -247,13 +226,13 @@
             "display_name": "Bermuda vs Barbados - Stream 1"
           },
           {
-            "label": "s4c.m3u8",
-            "url": "https://daffodil.shadow-ran.online/s4c.m3u8",
+            "label": "fsp.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "s4c.m3u8",
+            "path": "fsp.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -267,7 +246,7 @@
               "home": "Bermuda",
               "away": "Barbados"
             },
-            "display_name": "Bermuda vs Barbados - s4c.m3u8"
+            "display_name": "Bermuda vs Barbados - fsp.m3u8"
           }
         ]
       },
@@ -281,13 +260,13 @@
         "page": "https://roxiestreams.su/soccer-streams-4",
         "streams": [
           {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/portes.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/romania.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "portes.m3u8",
+            "path": "romania.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
@@ -301,7 +280,30 @@
               "home": "Romania",
               "away": "Sweden"
             },
-            "display_name": "Romania vs Sweden - Stream 2"
+            "display_name": "Romania vs Sweden - Stream 1"
+          },
+          {
+            "label": "romania.m3u8",
+            "url": "https://daffodil.shadow-ran.online/romania.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "romania.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-4",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Romania vs Sweden",
+            "matchup": {
+              "home": "Romania",
+              "away": "Sweden"
+            },
+            "display_name": "Romania vs Sweden - romania.m3u8"
           }
         ]
       },
@@ -316,12 +318,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fsp.m3u8",
+            "url": "https://admin2.shadow-ran.online/bbc.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-5",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fsp.m3u8",
+            "path": "bbc.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-5",
               "Origin": "https://roxiestreams.su",
@@ -338,13 +340,13 @@
             "display_name": "Northern Ireland vs Georgia - Stream 1"
           },
           {
-            "label": "fsp.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
+            "label": "bbc.m3u8",
+            "url": "https://daffodil.shadow-ran.online/bbc.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-5",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fsp.m3u8",
+            "path": "bbc.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-5",
               "Origin": "https://roxiestreams.su",
@@ -358,7 +360,64 @@
               "home": "Northern Ireland",
               "away": "Georgia"
             },
-            "display_name": "Northern Ireland vs Georgia - fsp.m3u8"
+            "display_name": "Northern Ireland vs Georgia - bbc.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Bosnia & Herzegovina vs Poland",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Bosnia & Herzegovina",
+          "away": "Poland"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-6",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://tedesco.shadow-ran.online/fubo.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "fubo.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Bosnia & Herzegovina vs Poland",
+            "matchup": {
+              "home": "Bosnia & Herzegovina",
+              "away": "Poland"
+            },
+            "display_name": "Bosnia & Herzegovina vs Poland - Stream 1"
+          },
+          {
+            "label": "fubo.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fubo.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fubo.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Bosnia & Herzegovina vs Poland",
+            "matchup": {
+              "home": "Bosnia & Herzegovina",
+              "away": "Poland"
+            },
+            "display_name": "Bosnia & Herzegovina vs Poland - fubo.m3u8"
           }
         ]
       }
@@ -1236,29 +1295,72 @@
       }
     ],
     "multiview": [],
-    "nascar": [
+    "wwe": [
       {
-        "title": "NASCAR Cup Series - Race",
-        "sport": "nascar",
+        "title": "WWE Smackdown",
+        "sport": "wwe",
         "matchup": null,
-        "page": "https://roxiestreams.su/nascar",
+        "page": "https://roxiestreams.su/wwe-streams",
         "streams": [
           {
-            "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nas.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nascar",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "wwe.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.su/nascar",
+              "Referer": "https://roxiestreams.su/wwe-streams",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "nascar",
-            "event_title": "NASCAR Cup Series - Race",
+            "sport": "wwe",
+            "event_title": "WWE Smackdown",
             "matchup": null,
-            "display_name": "NASCAR Cup Series - Race"
+            "display_name": "WWE Smackdown - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "wwe",
+            "event_title": "WWE Smackdown",
+            "matchup": null,
+            "display_name": "WWE Smackdown - Stream 2"
+          },
+          {
+            "label": "wwe.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/wwe-streams",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wwe.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/wwe-streams",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "wwe",
+            "event_title": "WWE Smackdown",
+            "matchup": null,
+            "display_name": "WWE Smackdown - wwe.m3u8"
           }
         ]
       }
@@ -1417,74 +1519,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.su/soccer-streams-6": {
-      "url": "https://roxiestreams.su/soccer-streams-6",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "PEACOCK US VPN",
-        "FOX ONE MX VPN",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1551,6 +1586,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1683,7 +1719,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1736,6 +1771,72 @@
     },
     "https://roxiestreams.su/soccer-streams-5": {
       "url": "https://roxiestreams.su/soccer-streams-5",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.su/soccer-streams-6": {
+      "url": "https://roxiestreams.su/soccer-streams-6",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -3344,72 +3445,6 @@
           "url": "https://roxiestreams.su/multiview"
         }
       ]
-    },
-    "https://roxiestreams.su/nascar": {
-      "url": "https://roxiestreams.su/nascar",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
     }
   },
   "sports": {
@@ -3417,15 +3452,38 @@
       "pages": [
         "https://roxiestreams.su/soccer",
         "https://roxiestreams.su/soccer-streams-1",
-        "https://roxiestreams.su/soccer-streams-6",
         "https://roxiestreams.su/soccer-streams-2",
         "https://roxiestreams.su/soccer-streams-3",
         "https://roxiestreams.su/soccer-streams-4",
-        "https://roxiestreams.su/soccer-streams-5"
+        "https://roxiestreams.su/soccer-streams-5",
+        "https://roxiestreams.su/soccer-streams-6"
       ],
       "streams": [
         {
           "label": "Stream 1",
+          "url": "https://admin.shadow-ran.online/fs2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "fs2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Honduras vs Jamaica",
+          "matchup": {
+            "home": "Honduras",
+            "away": "Jamaica"
+          },
+          "display_name": "Honduras vs Jamaica - Stream 1"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/fs2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
@@ -3445,7 +3503,7 @@
             "home": "Honduras",
             "away": "Jamaica"
           },
-          "display_name": "Honduras vs Jamaica - Stream 1"
+          "display_name": "Honduras vs Jamaica - Stream 2"
         },
         {
           "label": "fs2.m3u8",
@@ -3472,58 +3530,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/tele.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-6",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "tele.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-6",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Bosnia & Herzegovina vs Poland",
-          "matchup": {
-            "home": "Bosnia & Herzegovina",
-            "away": "Poland"
-          },
-          "display_name": "Bosnia & Herzegovina vs Poland - Stream 1"
-        },
-        {
-          "label": "tele.m3u8",
-          "url": "https://daffodil.shadow-ran.online/tele.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-6",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "tele.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-6",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Bosnia & Herzegovina vs Poland",
-          "matchup": {
-            "home": "Bosnia & Herzegovina",
-            "away": "Poland"
-          },
-          "display_name": "Bosnia & Herzegovina vs Poland - tele.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fubo.m3u8",
+          "url": "https://admin2.shadow-ran.online/virgin.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fubo.m3u8",
+          "path": "virgin.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -3540,13 +3552,13 @@
           "display_name": "France vs Belgium - Stream 1"
         },
         {
-          "label": "fubo.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fubo.m3u8",
+          "label": "Stream 2 (ES)",
+          "url": "https://admin2.shadow-ran.online/espn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fubo.m3u8",
+          "subdomain": "admin2",
+          "path": "espn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -3560,16 +3572,39 @@
             "home": "France",
             "away": "Belgium"
           },
-          "display_name": "France vs Belgium - fubo.m3u8"
+          "display_name": "France vs Belgium - Stream 2 (ES)"
+        },
+        {
+          "label": "virgin.m3u8",
+          "url": "https://daffodil.shadow-ran.online/virgin.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "virgin.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "France vs Belgium",
+          "matchup": {
+            "home": "France",
+            "away": "Belgium"
+          },
+          "display_name": "France vs Belgium - virgin.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/s4c.m3u8",
+          "url": "https://tedesco.shadow-ran.online/fsp.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "s4c.m3u8",
+          "subdomain": "tedesco",
+          "path": "fsp.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -3586,13 +3621,13 @@
           "display_name": "Bermuda vs Barbados - Stream 1"
         },
         {
-          "label": "s4c.m3u8",
-          "url": "https://daffodil.shadow-ran.online/s4c.m3u8",
+          "label": "fsp.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "s4c.m3u8",
+          "path": "fsp.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -3606,16 +3641,16 @@
             "home": "Bermuda",
             "away": "Barbados"
           },
-          "display_name": "Bermuda vs Barbados - s4c.m3u8"
+          "display_name": "Bermuda vs Barbados - fsp.m3u8"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/portes.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/romania.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "portes.m3u8",
+          "path": "romania.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
@@ -3629,16 +3664,39 @@
             "home": "Romania",
             "away": "Sweden"
           },
-          "display_name": "Romania vs Sweden - Stream 2"
+          "display_name": "Romania vs Sweden - Stream 1"
+        },
+        {
+          "label": "romania.m3u8",
+          "url": "https://daffodil.shadow-ran.online/romania.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "romania.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-4",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Romania vs Sweden",
+          "matchup": {
+            "home": "Romania",
+            "away": "Sweden"
+          },
+          "display_name": "Romania vs Sweden - romania.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fsp.m3u8",
+          "url": "https://admin2.shadow-ran.online/bbc.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-5",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fsp.m3u8",
+          "path": "bbc.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-5",
             "Origin": "https://roxiestreams.su",
@@ -3655,13 +3713,13 @@
           "display_name": "Northern Ireland vs Georgia - Stream 1"
         },
         {
-          "label": "fsp.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
+          "label": "bbc.m3u8",
+          "url": "https://daffodil.shadow-ran.online/bbc.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-5",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fsp.m3u8",
+          "path": "bbc.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-5",
             "Origin": "https://roxiestreams.su",
@@ -3675,7 +3733,53 @@
             "home": "Northern Ireland",
             "away": "Georgia"
           },
-          "display_name": "Northern Ireland vs Georgia - fsp.m3u8"
+          "display_name": "Northern Ireland vs Georgia - bbc.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://tedesco.shadow-ran.online/fubo.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "fubo.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-6",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Bosnia & Herzegovina vs Poland",
+          "matchup": {
+            "home": "Bosnia & Herzegovina",
+            "away": "Poland"
+          },
+          "display_name": "Bosnia & Herzegovina vs Poland - Stream 1"
+        },
+        {
+          "label": "fubo.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fubo.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fubo.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-6",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Bosnia & Herzegovina vs Poland",
+          "matchup": {
+            "home": "Bosnia & Herzegovina",
+            "away": "Poland"
+          },
+          "display_name": "Bosnia & Herzegovina vs Poland - fubo.m3u8"
         }
       ]
     },
@@ -4441,32 +4545,75 @@
       ],
       "streams": []
     },
-    "nascar": {
+    "wwe": {
       "pages": [
-        "https://roxiestreams.su/nascar"
+        "https://roxiestreams.su/wwe-streams"
       ],
       "streams": [
         {
-          "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nas.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nascar",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "wwe.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.su/nascar",
+            "Referer": "https://roxiestreams.su/wwe-streams",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
-          "sport": "nascar",
-          "event_title": "NASCAR Cup Series - Race",
+          "sport": "wwe",
+          "event_title": "WWE Smackdown",
           "matchup": null,
-          "display_name": "NASCAR Cup Series - Race"
+          "display_name": "WWE Smackdown - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "wwe",
+          "event_title": "WWE Smackdown",
+          "matchup": null,
+          "display_name": "WWE Smackdown - Stream 2"
+        },
+        {
+          "label": "wwe.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/wwe-streams",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wwe.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/wwe-streams",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "wwe",
+          "event_title": "WWE Smackdown",
+          "matchup": null,
+          "display_name": "WWE Smackdown - wwe.m3u8"
         }
       ]
     }
   },
-  "stream_count": 43,
+  "stream_count": 48,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
