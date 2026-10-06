@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05T18:37:15+00:00",
+  "scraped_at": "2026-10-06T00:27:38+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -124,6 +124,29 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://tedesco.shadow-ran.online/france.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "tedesco",
+            "path": "france.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "France vs Belgium",
+            "matchup": {
+              "home": "France",
+              "away": "Belgium"
+            },
+            "display_name": "France vs Belgium - Stream 1"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/virgin.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
@@ -143,10 +166,10 @@
               "home": "France",
               "away": "Belgium"
             },
-            "display_name": "France vs Belgium - Stream 1"
+            "display_name": "France vs Belgium - Stream 2"
           },
           {
-            "label": "Stream 2 (ES)",
+            "label": "Stream 3 (ES)",
             "url": "https://admin2.shadow-ran.online/espn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
@@ -166,16 +189,16 @@
               "home": "France",
               "away": "Belgium"
             },
-            "display_name": "France vs Belgium - Stream 2 (ES)"
+            "display_name": "France vs Belgium - Stream 3 (ES)"
           },
           {
-            "label": "virgin.m3u8",
-            "url": "https://daffodil.shadow-ran.online/virgin.m3u8",
+            "label": "france.m3u8",
+            "url": "https://daffodil.shadow-ran.online/france.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "virgin.m3u8",
+            "path": "france.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -189,7 +212,7 @@
               "home": "France",
               "away": "Belgium"
             },
-            "display_name": "France vs Belgium - virgin.m3u8"
+            "display_name": "France vs Belgium - france.m3u8"
           }
         ]
       },
@@ -424,104 +447,47 @@
     ],
     "mlb": [
       {
-        "title": "Chicago White Sox vs Cleveland Guardians",
-        "sport": "mlb",
-        "matchup": {
-          "home": "Chicago White Sox",
-          "away": "Cleveland Guardians"
-        },
-        "page": "https://roxiestreams.su/mlb-streams-1",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/mlb.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/mlb-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "mlb.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/mlb-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "mlb",
-            "event_title": "Chicago White Sox vs Cleveland Guardians",
-            "matchup": {
-              "home": "Chicago White Sox",
-              "away": "Cleveland Guardians"
-            },
-            "display_name": "Chicago White Sox vs Cleveland Guardians - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://admin.shadow-ran.online/mlb.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/mlb-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "mlb.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/mlb-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "mlb",
-            "event_title": "Chicago White Sox vs Cleveland Guardians",
-            "matchup": {
-              "home": "Chicago White Sox",
-              "away": "Cleveland Guardians"
-            },
-            "display_name": "Chicago White Sox vs Cleveland Guardians - Stream 2"
-          },
-          {
-            "label": "mlb.m3u8",
-            "url": "https://daffodil.shadow-ran.online/mlb.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/mlb-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "mlb.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/mlb-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "mlb",
-            "event_title": "Chicago White Sox vs Cleveland Guardians",
-            "matchup": {
-              "home": "Chicago White Sox",
-              "away": "Cleveland Guardians"
-            },
-            "display_name": "Chicago White Sox vs Cleveland Guardians - mlb.m3u8"
-          }
-        ]
-      },
-      {
         "title": "New York Yankees vs Tampa Bay Rays",
         "sport": "mlb",
         "matchup": {
           "home": "New York Yankees",
           "away": "Tampa Bay Rays"
         },
-        "page": "https://roxiestreams.su/mlb-streams-2",
+        "page": "https://roxiestreams.su/mlb-streams-1",
         "streams": [
           {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
+            "label": "Stream 1",
+            "url": "https://tedesco.shadow-ran.online/mlbalt.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.su/mlb-streams-2",
+            "source_page": "https://roxiestreams.su/mlb-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "tedesco",
+            "path": "mlbalt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/mlb-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "mlb",
+            "event_title": "New York Yankees vs Tampa Bay Rays",
+            "matchup": {
+              "home": "New York Yankees",
+              "away": "Tampa Bay Rays"
+            },
+            "display_name": "New York Yankees vs Tampa Bay Rays - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://temp.shadow-ran.online/mlb.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/mlb-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "temp",
             "path": "mlb.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.su/mlb-streams-2",
+              "Referer": "https://roxiestreams.su/mlb-streams-1",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
@@ -534,6 +500,29 @@
               "away": "Tampa Bay Rays"
             },
             "display_name": "New York Yankees vs Tampa Bay Rays - Stream 2"
+          },
+          {
+            "label": "mlbalt.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mlbalt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/mlb-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "mlbalt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/mlb-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "mlb",
+            "event_title": "New York Yankees vs Tampa Bay Rays",
+            "matchup": {
+              "home": "New York Yankees",
+              "away": "Tampa Bay Rays"
+            },
+            "display_name": "New York Yankees vs Tampa Bay Rays - mlbalt.m3u8"
           }
         ]
       }
@@ -550,11 +539,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba.m3u8",
+            "url": "https://admin.shadow-ran.online/nba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "nba.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-1",
@@ -654,21 +643,21 @@
         ]
       },
       {
-        "title": "New York Knicks vs Philadelphia 76ers",
+        "title": "Los Angeles Lakers vs Sacramento Kings",
         "sport": "nba",
         "matchup": {
-          "home": "New York Knicks",
-          "away": "Philadelphia 76ers"
+          "home": "Los Angeles Lakers",
+          "away": "Sacramento Kings"
         },
         "page": "https://roxiestreams.su/nba-streams-3",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba3.m3u8",
+            "url": "https://admin.shadow-ran.online/nba3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "nba3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-3",
@@ -678,12 +667,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "New York Knicks vs Philadelphia 76ers",
+            "event_title": "Los Angeles Lakers vs Sacramento Kings",
             "matchup": {
-              "home": "New York Knicks",
-              "away": "Philadelphia 76ers"
+              "home": "Los Angeles Lakers",
+              "away": "Sacramento Kings"
             },
-            "display_name": "New York Knicks vs Philadelphia 76ers - Stream 1"
+            "display_name": "Los Angeles Lakers vs Sacramento Kings - Stream 1"
           },
           {
             "label": "nba3.m3u8",
@@ -701,12 +690,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "New York Knicks vs Philadelphia 76ers",
+            "event_title": "Los Angeles Lakers vs Sacramento Kings",
             "matchup": {
-              "home": "New York Knicks",
-              "away": "Philadelphia 76ers"
+              "home": "Los Angeles Lakers",
+              "away": "Sacramento Kings"
             },
-            "display_name": "New York Knicks vs Philadelphia 76ers - nba3.m3u8"
+            "display_name": "Los Angeles Lakers vs Sacramento Kings - nba3.m3u8"
           }
         ]
       },
@@ -721,11 +710,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba4.m3u8",
+            "url": "https://temp.shadow-ran.online/nba4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "temp",
             "path": "nba4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-4",
@@ -766,63 +755,6 @@
             "display_name": "Minnesota Timberwolves vs Milwaukee Bucks - nba4.m3u8"
           }
         ]
-      },
-      {
-        "title": "Los Angeles Lakers vs Sacramento Kings",
-        "sport": "nba",
-        "matchup": {
-          "home": "Los Angeles Lakers",
-          "away": "Sacramento Kings"
-        },
-        "page": "https://roxiestreams.su/nba-streams-5",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nba5.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nba-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "nba5.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nba-streams-5",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Los Angeles Lakers vs Sacramento Kings",
-            "matchup": {
-              "home": "Los Angeles Lakers",
-              "away": "Sacramento Kings"
-            },
-            "display_name": "Los Angeles Lakers vs Sacramento Kings - Stream 1"
-          },
-          {
-            "label": "nba5.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nba5.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nba-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nba5.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nba-streams-5",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Los Angeles Lakers vs Sacramento Kings",
-            "matchup": {
-              "home": "Los Angeles Lakers",
-              "away": "Sacramento Kings"
-            },
-            "display_name": "Los Angeles Lakers vs Sacramento Kings - nba5.m3u8"
-          }
-        ]
       }
     ],
     "nfl": [
@@ -837,12 +769,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/tsn.m3u8",
+            "url": "https://admin.shadow-ran.online/nfl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "tsn.m3u8",
+            "subdomain": "admin",
+            "path": "nfl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -860,11 +792,11 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/nfl.m3u8",
+            "url": "https://temp.shadow-ran.online/nfl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "temp",
             "path": "nfl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-1",
@@ -882,13 +814,13 @@
             "display_name": "Atlanta Falcons vs New Orleans Saints - Stream 2"
           },
           {
-            "label": "tsn.m3u8",
-            "url": "https://daffodil.shadow-ran.online/tsn.m3u8",
+            "label": "Stream 3 (MANNING)",
+            "url": "https://admin.shadow-ran.online/espn2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "tsn.m3u8",
+            "subdomain": "admin",
+            "path": "espn2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -902,7 +834,30 @@
               "home": "Atlanta Falcons",
               "away": "New Orleans Saints"
             },
-            "display_name": "Atlanta Falcons vs New Orleans Saints - tsn.m3u8"
+            "display_name": "Atlanta Falcons vs New Orleans Saints - Stream 3 (MANNING)"
+          },
+          {
+            "label": "nfl.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nfl.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nfl-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nfl.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nfl-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Atlanta Falcons vs New Orleans Saints",
+            "matchup": {
+              "home": "Atlanta Falcons",
+              "away": "New Orleans Saints"
+            },
+            "display_name": "Atlanta Falcons vs New Orleans Saints - nfl.m3u8"
           }
         ]
       }
@@ -919,11 +874,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nhl.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "nhl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nhl-streams-1",
@@ -976,11 +931,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nhl2.m3u8",
+            "url": "https://temp.shadow-ran.online/nhl2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "temp",
             "path": "nhl2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nhl-streams-2",
@@ -1090,11 +1045,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nhl4.m3u8",
+            "url": "https://temp.shadow-ran.online/nhl4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "temp",
             "path": "nhl4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nhl-streams-4",
@@ -1146,11 +1101,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+            "url": "https://temp.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "temp",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -1166,11 +1121,11 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+            "url": "https://admin.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -1304,11 +1259,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+            "url": "https://temp.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "temp",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -1324,11 +1279,11 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+            "url": "https://admin.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -1586,7 +1541,8 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (ES)",
+        "Stream 2",
+        "Stream 3 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1979,7 +1935,7 @@
         },
         {
           "label": "New York Yankees vs Tampa Bay Rays",
-          "url": "https://roxiestreams.su/mlb-streams-2"
+          "url": "https://roxiestreams.su/mlb-streams-1"
         },
         {
           "label": "Stream Request (Discord)",
@@ -1989,73 +1945,6 @@
     },
     "https://roxiestreams.su/mlb-streams-1": {
       "url": "https://roxiestreams.su/mlb-streams-1",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Stream 2",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.su/mlb-streams-2": {
-      "url": "https://roxiestreams.su/mlb-streams-2",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -2215,7 +2104,7 @@
         },
         {
           "label": "Los Angeles Lakers vs Sacramento Kings",
-          "url": "https://roxiestreams.su/nba-streams-5"
+          "url": "https://roxiestreams.su/nba-streams-3"
         },
         {
           "label": "Stream Request (Discord)",
@@ -2487,72 +2376,6 @@
         }
       ]
     },
-    "https://roxiestreams.su/nba-streams-5": {
-      "url": "https://roxiestreams.su/nba-streams-5",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
     "https://roxiestreams.su/nfl": {
       "url": "https://roxiestreams.su/nfl",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
@@ -2646,6 +2469,7 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
+        "Stream 3 (MANNING)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3530,6 +3354,29 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://tedesco.shadow-ran.online/france.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "tedesco",
+          "path": "france.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "France vs Belgium",
+          "matchup": {
+            "home": "France",
+            "away": "Belgium"
+          },
+          "display_name": "France vs Belgium - Stream 1"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/virgin.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
@@ -3549,10 +3396,10 @@
             "home": "France",
             "away": "Belgium"
           },
-          "display_name": "France vs Belgium - Stream 1"
+          "display_name": "France vs Belgium - Stream 2"
         },
         {
-          "label": "Stream 2 (ES)",
+          "label": "Stream 3 (ES)",
           "url": "https://admin2.shadow-ran.online/espn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
@@ -3572,16 +3419,16 @@
             "home": "France",
             "away": "Belgium"
           },
-          "display_name": "France vs Belgium - Stream 2 (ES)"
+          "display_name": "France vs Belgium - Stream 3 (ES)"
         },
         {
-          "label": "virgin.m3u8",
-          "url": "https://daffodil.shadow-ran.online/virgin.m3u8",
+          "label": "france.m3u8",
+          "url": "https://daffodil.shadow-ran.online/france.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "virgin.m3u8",
+          "path": "france.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -3595,7 +3442,7 @@
             "home": "France",
             "away": "Belgium"
           },
-          "display_name": "France vs Belgium - virgin.m3u8"
+          "display_name": "France vs Belgium - france.m3u8"
         },
         {
           "label": "Stream 1",
@@ -3786,89 +3633,42 @@
     "mlb": {
       "pages": [
         "https://roxiestreams.su/mlb",
-        "https://roxiestreams.su/mlb-streams-1",
-        "https://roxiestreams.su/mlb-streams-2"
+        "https://roxiestreams.su/mlb-streams-1"
       ],
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/mlb.m3u8",
+          "url": "https://tedesco.shadow-ran.online/mlbalt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "mlb.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/mlb-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "mlb",
-          "event_title": "Chicago White Sox vs Cleveland Guardians",
-          "matchup": {
-            "home": "Chicago White Sox",
-            "away": "Cleveland Guardians"
-          },
-          "display_name": "Chicago White Sox vs Cleveland Guardians - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://admin.shadow-ran.online/mlb.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/mlb-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "mlb.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/mlb-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "mlb",
-          "event_title": "Chicago White Sox vs Cleveland Guardians",
-          "matchup": {
-            "home": "Chicago White Sox",
-            "away": "Cleveland Guardians"
-          },
-          "display_name": "Chicago White Sox vs Cleveland Guardians - Stream 2"
-        },
-        {
-          "label": "mlb.m3u8",
-          "url": "https://daffodil.shadow-ran.online/mlb.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/mlb-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "mlb.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/mlb-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "mlb",
-          "event_title": "Chicago White Sox vs Cleveland Guardians",
-          "matchup": {
-            "home": "Chicago White Sox",
-            "away": "Cleveland Guardians"
-          },
-          "display_name": "Chicago White Sox vs Cleveland Guardians - mlb.m3u8"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/mlb-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "tedesco",
+          "path": "mlbalt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/mlb-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "mlb",
+          "event_title": "New York Yankees vs Tampa Bay Rays",
+          "matchup": {
+            "home": "New York Yankees",
+            "away": "Tampa Bay Rays"
+          },
+          "display_name": "New York Yankees vs Tampa Bay Rays - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://temp.shadow-ran.online/mlb.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/mlb-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "temp",
           "path": "mlb.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.su/mlb-streams-2",
+            "Referer": "https://roxiestreams.su/mlb-streams-1",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
@@ -3881,6 +3681,29 @@
             "away": "Tampa Bay Rays"
           },
           "display_name": "New York Yankees vs Tampa Bay Rays - Stream 2"
+        },
+        {
+          "label": "mlbalt.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mlbalt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/mlb-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "mlbalt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/mlb-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "mlb",
+          "event_title": "New York Yankees vs Tampa Bay Rays",
+          "matchup": {
+            "home": "New York Yankees",
+            "away": "Tampa Bay Rays"
+          },
+          "display_name": "New York Yankees vs Tampa Bay Rays - mlbalt.m3u8"
         }
       ]
     },
@@ -3890,17 +3713,16 @@
         "https://roxiestreams.su/nba-streams-1",
         "https://roxiestreams.su/nba-streams-2",
         "https://roxiestreams.su/nba-streams-3",
-        "https://roxiestreams.su/nba-streams-4",
-        "https://roxiestreams.su/nba-streams-5"
+        "https://roxiestreams.su/nba-streams-4"
       ],
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba.m3u8",
+          "url": "https://admin.shadow-ran.online/nba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "nba.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-1",
@@ -3988,11 +3810,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba3.m3u8",
+          "url": "https://admin.shadow-ran.online/nba3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "nba3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-3",
@@ -4002,12 +3824,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "New York Knicks vs Philadelphia 76ers",
+          "event_title": "Los Angeles Lakers vs Sacramento Kings",
           "matchup": {
-            "home": "New York Knicks",
-            "away": "Philadelphia 76ers"
+            "home": "Los Angeles Lakers",
+            "away": "Sacramento Kings"
           },
-          "display_name": "New York Knicks vs Philadelphia 76ers - Stream 1"
+          "display_name": "Los Angeles Lakers vs Sacramento Kings - Stream 1"
         },
         {
           "label": "nba3.m3u8",
@@ -4025,20 +3847,20 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "New York Knicks vs Philadelphia 76ers",
+          "event_title": "Los Angeles Lakers vs Sacramento Kings",
           "matchup": {
-            "home": "New York Knicks",
-            "away": "Philadelphia 76ers"
+            "home": "Los Angeles Lakers",
+            "away": "Sacramento Kings"
           },
-          "display_name": "New York Knicks vs Philadelphia 76ers - nba3.m3u8"
+          "display_name": "Los Angeles Lakers vs Sacramento Kings - nba3.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba4.m3u8",
+          "url": "https://temp.shadow-ran.online/nba4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "temp",
           "path": "nba4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-4",
@@ -4077,52 +3899,6 @@
             "away": "Milwaukee Bucks"
           },
           "display_name": "Minnesota Timberwolves vs Milwaukee Bucks - nba4.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nba5.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nba-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "nba5.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nba-streams-5",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Los Angeles Lakers vs Sacramento Kings",
-          "matchup": {
-            "home": "Los Angeles Lakers",
-            "away": "Sacramento Kings"
-          },
-          "display_name": "Los Angeles Lakers vs Sacramento Kings - Stream 1"
-        },
-        {
-          "label": "nba5.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nba5.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nba-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nba5.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nba-streams-5",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Los Angeles Lakers vs Sacramento Kings",
-          "matchup": {
-            "home": "Los Angeles Lakers",
-            "away": "Sacramento Kings"
-          },
-          "display_name": "Los Angeles Lakers vs Sacramento Kings - nba5.m3u8"
         }
       ]
     },
@@ -4134,12 +3910,12 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/tsn.m3u8",
+          "url": "https://admin.shadow-ran.online/nfl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "tsn.m3u8",
+          "subdomain": "admin",
+          "path": "nfl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -4157,11 +3933,11 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/nfl.m3u8",
+          "url": "https://temp.shadow-ran.online/nfl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "temp",
           "path": "nfl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-1",
@@ -4179,13 +3955,13 @@
           "display_name": "Atlanta Falcons vs New Orleans Saints - Stream 2"
         },
         {
-          "label": "tsn.m3u8",
-          "url": "https://daffodil.shadow-ran.online/tsn.m3u8",
+          "label": "Stream 3 (MANNING)",
+          "url": "https://admin.shadow-ran.online/espn2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "tsn.m3u8",
+          "subdomain": "admin",
+          "path": "espn2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -4199,7 +3975,30 @@
             "home": "Atlanta Falcons",
             "away": "New Orleans Saints"
           },
-          "display_name": "Atlanta Falcons vs New Orleans Saints - tsn.m3u8"
+          "display_name": "Atlanta Falcons vs New Orleans Saints - Stream 3 (MANNING)"
+        },
+        {
+          "label": "nfl.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nfl.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nfl-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nfl.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nfl-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Atlanta Falcons vs New Orleans Saints",
+          "matchup": {
+            "home": "Atlanta Falcons",
+            "away": "New Orleans Saints"
+          },
+          "display_name": "Atlanta Falcons vs New Orleans Saints - nfl.m3u8"
         }
       ]
     },
@@ -4214,11 +4013,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nhl.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "nhl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nhl-streams-1",
@@ -4260,11 +4059,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nhl2.m3u8",
+          "url": "https://temp.shadow-ran.online/nhl2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "temp",
           "path": "nhl2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nhl-streams-2",
@@ -4352,11 +4151,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nhl4.m3u8",
+          "url": "https://temp.shadow-ran.online/nhl4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "temp",
           "path": "nhl4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nhl-streams-4",
@@ -4406,11 +4205,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+          "url": "https://temp.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "temp",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",
@@ -4426,11 +4225,11 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+          "url": "https://admin.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",
@@ -4552,11 +4351,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+          "url": "https://temp.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "temp",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",
@@ -4572,11 +4371,11 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
+          "url": "https://admin.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",
@@ -4613,7 +4412,7 @@
       ]
     }
   },
-  "stream_count": 48,
+  "stream_count": 47,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
