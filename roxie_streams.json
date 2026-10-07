@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T02:31:23+00:00",
+  "scraped_at": "2026-10-07T09:29:30+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -209,29 +209,6 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/canal5.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-10",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "canal5.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-10",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Mexico vs Chile",
-            "matchup": {
-              "home": "Mexico",
-              "away": "Chile"
-            },
-            "display_name": "Mexico vs Chile - Stream 1"
-          },
-          {
-            "label": "Stream 2",
             "url": "https://admin.shadow-ran.online/uni.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
@@ -251,16 +228,16 @@
               "home": "Mexico",
               "away": "Chile"
             },
-            "display_name": "Mexico vs Chile - Stream 2"
+            "display_name": "Mexico vs Chile - Stream 1"
           },
           {
-            "label": "canal5.m3u8",
-            "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+            "label": "uni.m3u8",
+            "url": "https://daffodil.shadow-ran.online/uni.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "canal5.m3u8",
+            "path": "uni.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -274,7 +251,7 @@
               "home": "Mexico",
               "away": "Chile"
             },
-            "display_name": "Mexico vs Chile - canal5.m3u8"
+            "display_name": "Mexico vs Chile - uni.m3u8"
           }
         ]
       },
@@ -2065,7 +2042,6 @@
         "MultiView (NEW)",
         "Stream 1",
         "AZTECA 7 MX VPN",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4507,29 +4483,6 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/canal5.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-10",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "canal5.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-10",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Mexico vs Chile",
-          "matchup": {
-            "home": "Mexico",
-            "away": "Chile"
-          },
-          "display_name": "Mexico vs Chile - Stream 1"
-        },
-        {
-          "label": "Stream 2",
           "url": "https://admin.shadow-ran.online/uni.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
@@ -4549,16 +4502,16 @@
             "home": "Mexico",
             "away": "Chile"
           },
-          "display_name": "Mexico vs Chile - Stream 2"
+          "display_name": "Mexico vs Chile - Stream 1"
         },
         {
-          "label": "canal5.m3u8",
-          "url": "https://daffodil.shadow-ran.online/canal5.m3u8",
+          "label": "uni.m3u8",
+          "url": "https://daffodil.shadow-ran.online/uni.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "canal5.m3u8",
+          "path": "uni.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -4572,7 +4525,7 @@
             "home": "Mexico",
             "away": "Chile"
           },
-          "display_name": "Mexico vs Chile - canal5.m3u8"
+          "display_name": "Mexico vs Chile - uni.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5846,7 +5799,7 @@
       ]
     }
   },
-  "stream_count": 63,
+  "stream_count": 62,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
