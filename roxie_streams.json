@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-10T19:02:46+00:00",
+  "scraped_at": "2026-10-10T22:44:47+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -511,11 +511,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fana.m3u8",
+            "url": "https://admin.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-16",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-16",
@@ -568,12 +568,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/westham.m3u8",
+            "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "westham.m3u8",
+            "path": "aztecadeportes.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-17",
               "Origin": "https://roxiestreams.su",
@@ -591,12 +591,12 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/cbssn.m3u8",
+            "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "cbssn.m3u8",
+            "path": "foxmx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-17",
               "Origin": "https://roxiestreams.su",
@@ -613,36 +613,13 @@
             "display_name": "Juárez vs Tijuana - Stream 2"
           },
           {
-            "label": "Stream 3",
-            "url": "https://admin2.shadow-ran.online/f1.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-17",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "f1.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-17",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Juárez vs Tijuana",
-            "matchup": {
-              "home": "Juárez",
-              "away": "Tijuana"
-            },
-            "display_name": "Juárez vs Tijuana - Stream 3"
-          },
-          {
-            "label": "westham.m3u8",
-            "url": "https://daffodil.shadow-ran.online/westham.m3u8",
+            "label": "aztecadeportes.m3u8",
+            "url": "https://daffodil.shadow-ran.online/aztecadeportes.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-17",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "westham.m3u8",
+            "path": "aztecadeportes.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-17",
               "Origin": "https://roxiestreams.su",
@@ -656,7 +633,7 @@
               "home": "Juárez",
               "away": "Tijuana"
             },
-            "display_name": "Juárez vs Tijuana - westham.m3u8"
+            "display_name": "Juárez vs Tijuana - aztecadeportes.m3u8"
           }
         ]
       },
@@ -714,6 +691,40 @@
               "away": "Atlante"
             },
             "display_name": "Querétaro vs Atlante - foxmx.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Inter Miami vs DC United",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Inter Miami",
+          "away": "DC United"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-19",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/mls.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-19",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "mls.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-19",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Inter Miami vs DC United",
+            "matchup": {
+              "home": "Inter Miami",
+              "away": "DC United"
+            },
+            "display_name": "Inter Miami vs DC United - Stream 1"
           }
         ]
       },
@@ -1496,11 +1507,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nba.m3u8",
+            "url": "https://admin2.shadow-ran.online/nba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "nba.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-1",
@@ -1610,11 +1621,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nba3.m3u8",
+            "url": "https://admin2.shadow-ran.online/nba3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "nba3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-3",
@@ -1920,11 +1931,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/ncaa.m3u8",
+            "url": "https://tedesco.shadow-ran.online/ncaa.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ncaa-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "tedesco",
             "path": "ncaa.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ncaa-streams-1",
@@ -2132,7 +2143,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin.formaturamaxi.com.br/ncaa15.m3u8",
+            "url": "https://temp.formaturamaxi.com.br/ncaa15.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ncaa-streams-15",
             "headers": {
@@ -2168,6 +2179,29 @@
             "source_page": "https://roxiestreams.su/ncaa-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin",
+            "path": "ncaa2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ncaa-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Georgia vs Alabama",
+            "matchup": {
+              "home": "Georgia",
+              "away": "Alabama"
+            },
+            "display_name": "Georgia vs Alabama - Stream 1"
+          },
+          {
+            "label": "Stream 1",
+            "url": "https://temp.shadow-ran.online/ncaa2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ncaa-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "temp",
             "path": "ncaa2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ncaa-streams-2",
@@ -2667,11 +2701,11 @@
         ]
       },
       {
-        "title": "Vancouver Canucks vs New Jersey Devils",
+        "title": "Detroit Red Wings vs Montreal Canadiens",
         "sport": "nhl",
         "matchup": {
-          "home": "Vancouver Canucks",
-          "away": "New Jersey Devils"
+          "home": "Detroit Red Wings",
+          "away": "Montreal Canadiens"
         },
         "page": "https://roxiestreams.su/nhl-streams-2",
         "streams": [
@@ -2691,12 +2725,12 @@
             },
             "drm_keys": null,
             "sport": "nhl",
-            "event_title": "Vancouver Canucks vs New Jersey Devils",
+            "event_title": "Detroit Red Wings vs Montreal Canadiens",
             "matchup": {
-              "home": "Vancouver Canucks",
-              "away": "New Jersey Devils"
+              "home": "Detroit Red Wings",
+              "away": "Montreal Canadiens"
             },
-            "display_name": "Vancouver Canucks vs New Jersey Devils - Stream 1"
+            "display_name": "Detroit Red Wings vs Montreal Canadiens - Stream 1"
           },
           {
             "label": "nhl2.m3u8",
@@ -2714,12 +2748,12 @@
             },
             "drm_keys": null,
             "sport": "nhl",
-            "event_title": "Vancouver Canucks vs New Jersey Devils",
+            "event_title": "Detroit Red Wings vs Montreal Canadiens",
             "matchup": {
-              "home": "Vancouver Canucks",
-              "away": "New Jersey Devils"
+              "home": "Detroit Red Wings",
+              "away": "Montreal Canadiens"
             },
-            "display_name": "Vancouver Canucks vs New Jersey Devils - nhl2.m3u8"
+            "display_name": "Detroit Red Wings vs Montreal Canadiens - nhl2.m3u8"
           }
         ]
       },
@@ -2865,37 +2899,6 @@
               "away": "Buffalo Sabres"
             },
             "display_name": "Utah Mammoth vs Buffalo Sabres"
-          }
-        ]
-      },
-      {
-        "title": "Detroit Red Wings vs Montreal Canadiens",
-        "sport": "nhl",
-        "matchup": {
-          "home": "Detroit Red Wings",
-          "away": "Montreal Canadiens"
-        },
-        "page": "https://roxiestreams.su/nhl-streams-6",
-        "streams": [
-          {
-            "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nhl-streams-6",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nhl-streams-6",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Detroit Red Wings vs Montreal Canadiens",
-            "matchup": {
-              "home": "Detroit Red Wings",
-              "away": "Montreal Canadiens"
-            },
-            "display_name": "Detroit Red Wings vs Montreal Canadiens"
           }
         ]
       },
@@ -3124,26 +3127,6 @@
             "event_title": "WWE: Money In The Bank",
             "matchup": null,
             "display_name": "WWE: Money In The Bank - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wwe-streams",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "wwe.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/wwe-streams",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "fighting",
-            "event_title": "WWE: Money In The Bank",
-            "matchup": null,
-            "display_name": "WWE: Money In The Bank - Stream 2"
           },
           {
             "label": "wwe.m3u8",
@@ -3386,7 +3369,7 @@
             "display_name": "UFC FN: Allen vs. Ducan - Stream 1 (PARA+)"
           },
           {
-            "label": "Stream 2 (CITY)",
+            "label": "Stream 2 (HUB)",
             "url": "https://admin2.shadow-ran.online/hub.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
@@ -3406,16 +3389,16 @@
               "home": "UFC FN: Allen",
               "away": "Ducan"
             },
-            "display_name": "UFC FN: Allen vs. Ducan - Stream 2 (CITY)"
+            "display_name": "UFC FN: Allen vs. Ducan - Stream 2 (HUB)"
           },
           {
-            "label": "Stream 3 (CBS)",
-            "url": "https://admin.shadow-ran.online/ncaa10.m3u8",
+            "label": "Stream 3 (TNT)",
+            "url": "https://admin2.shadow-ran.online/tnt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ufc",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "ncaa10.m3u8",
+            "subdomain": "admin2",
+            "path": "tnt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ufc",
               "Origin": "https://roxiestreams.su",
@@ -3429,7 +3412,7 @@
               "home": "UFC FN: Allen",
               "away": "Ducan"
             },
-            "display_name": "UFC FN: Allen vs. Ducan - Stream 3 (CBS)"
+            "display_name": "UFC FN: Allen vs. Ducan - Stream 3 (TNT)"
           },
           {
             "label": "abbiecadabrii.m3u8",
@@ -3483,26 +3466,6 @@
             "event_title": "WWE: Money In The Bank",
             "matchup": null,
             "display_name": "WWE: Money In The Bank - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wwe-streams",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "wwe.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/wwe-streams",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE: Money In The Bank",
-            "matchup": null,
-            "display_name": "WWE: Money In The Bank - Stream 2"
           },
           {
             "label": "wwe.m3u8",
@@ -4368,7 +4331,6 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
-        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6862,6 +6824,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 1",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7480,7 +7443,7 @@
         },
         {
           "label": "Detroit Red Wings vs Montreal Canadiens",
-          "url": "https://roxiestreams.su/nhl-streams-6"
+          "url": "https://roxiestreams.su/nhl-streams-2"
         },
         {
           "label": "Nashville Predators vs Ottawa Senators",
@@ -8180,72 +8143,6 @@
         }
       ]
     },
-    "https://roxiestreams.su/nhl-streams-6": {
-      "url": "https://roxiestreams.su/nhl-streams-6",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
     "https://roxiestreams.su/nhl-streams-7": {
       "url": "https://roxiestreams.su/nhl-streams-7",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
@@ -8693,7 +8590,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
+        "WWE US VPN",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -9085,8 +8982,8 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1 (PARA+)",
-        "Stream 2 (CITY)",
-        "Stream 3 (CBS)",
+        "Stream 2 (HUB)",
+        "Stream 3 (TNT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -9601,11 +9498,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fana.m3u8",
+          "url": "https://admin.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-16",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-16",
@@ -9647,12 +9544,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/westham.m3u8",
+          "url": "https://admin2.shadow-ran.online/aztecadeportes.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "westham.m3u8",
+          "path": "aztecadeportes.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-17",
             "Origin": "https://roxiestreams.su",
@@ -9670,12 +9567,12 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/cbssn.m3u8",
+          "url": "https://admin2.shadow-ran.online/foxmx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "cbssn.m3u8",
+          "path": "foxmx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-17",
             "Origin": "https://roxiestreams.su",
@@ -9692,36 +9589,13 @@
           "display_name": "Juárez vs Tijuana - Stream 2"
         },
         {
-          "label": "Stream 3",
-          "url": "https://admin2.shadow-ran.online/f1.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-17",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "f1.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-17",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Juárez vs Tijuana",
-          "matchup": {
-            "home": "Juárez",
-            "away": "Tijuana"
-          },
-          "display_name": "Juárez vs Tijuana - Stream 3"
-        },
-        {
-          "label": "westham.m3u8",
-          "url": "https://daffodil.shadow-ran.online/westham.m3u8",
+          "label": "aztecadeportes.m3u8",
+          "url": "https://daffodil.shadow-ran.online/aztecadeportes.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-17",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "westham.m3u8",
+          "path": "aztecadeportes.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-17",
             "Origin": "https://roxiestreams.su",
@@ -9735,7 +9609,7 @@
             "home": "Juárez",
             "away": "Tijuana"
           },
-          "display_name": "Juárez vs Tijuana - westham.m3u8"
+          "display_name": "Juárez vs Tijuana - aztecadeportes.m3u8"
         },
         {
           "label": "Stream 1",
@@ -9782,6 +9656,29 @@
             "away": "Atlante"
           },
           "display_name": "Querétaro vs Atlante - foxmx.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/mls.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-19",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "mls.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-19",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Inter Miami vs DC United",
+          "matchup": {
+            "home": "Inter Miami",
+            "away": "DC United"
+          },
+          "display_name": "Inter Miami vs DC United - Stream 1"
         },
         {
           "label": "Stream 1",
@@ -10428,11 +10325,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nba.m3u8",
+          "url": "https://admin2.shadow-ran.online/nba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "nba.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-1",
@@ -10520,11 +10417,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nba3.m3u8",
+          "url": "https://admin2.shadow-ran.online/nba3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "nba3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-3",
@@ -10795,11 +10692,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/ncaa.m3u8",
+          "url": "https://tedesco.shadow-ran.online/ncaa.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ncaa-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "tedesco",
           "path": "ncaa.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ncaa-streams-1",
@@ -10941,7 +10838,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin.formaturamaxi.com.br/ncaa15.m3u8",
+          "url": "https://temp.formaturamaxi.com.br/ncaa15.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ncaa-streams-15",
           "headers": {
@@ -10966,6 +10863,29 @@
           "source_page": "https://roxiestreams.su/ncaa-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin",
+          "path": "ncaa2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ncaa-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Georgia vs Alabama",
+          "matchup": {
+            "home": "Georgia",
+            "away": "Alabama"
+          },
+          "display_name": "Georgia vs Alabama - Stream 1"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://temp.shadow-ran.online/ncaa2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ncaa-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "temp",
           "path": "ncaa2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ncaa-streams-2",
@@ -11186,7 +11106,6 @@
         "https://roxiestreams.su/nhl-streams-3",
         "https://roxiestreams.su/nhl-streams-4",
         "https://roxiestreams.su/nhl-streams-5",
-        "https://roxiestreams.su/nhl-streams-6",
         "https://roxiestreams.su/nhl-streams-7",
         "https://roxiestreams.su/nhl-streams-8",
         "https://roxiestreams.su/nhl-streams-9"
@@ -11354,12 +11273,12 @@
           },
           "drm_keys": null,
           "sport": "nhl",
-          "event_title": "Vancouver Canucks vs New Jersey Devils",
+          "event_title": "Detroit Red Wings vs Montreal Canadiens",
           "matchup": {
-            "home": "Vancouver Canucks",
-            "away": "New Jersey Devils"
+            "home": "Detroit Red Wings",
+            "away": "Montreal Canadiens"
           },
-          "display_name": "Vancouver Canucks vs New Jersey Devils - Stream 1"
+          "display_name": "Detroit Red Wings vs Montreal Canadiens - Stream 1"
         },
         {
           "label": "nhl2.m3u8",
@@ -11377,12 +11296,12 @@
           },
           "drm_keys": null,
           "sport": "nhl",
-          "event_title": "Vancouver Canucks vs New Jersey Devils",
+          "event_title": "Detroit Red Wings vs Montreal Canadiens",
           "matchup": {
-            "home": "Vancouver Canucks",
-            "away": "New Jersey Devils"
+            "home": "Detroit Red Wings",
+            "away": "Montreal Canadiens"
           },
-          "display_name": "Vancouver Canucks vs New Jersey Devils - nhl2.m3u8"
+          "display_name": "Detroit Red Wings vs Montreal Canadiens - nhl2.m3u8"
         },
         {
           "label": "Stream 1",
@@ -11495,26 +11414,6 @@
             "away": "Buffalo Sabres"
           },
           "display_name": "Utah Mammoth vs Buffalo Sabres"
-        },
-        {
-          "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nhl-streams-6",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nhl-streams-6",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Detroit Red Wings vs Montreal Canadiens",
-          "matchup": {
-            "home": "Detroit Red Wings",
-            "away": "Montreal Canadiens"
-          },
-          "display_name": "Detroit Red Wings vs Montreal Canadiens"
         },
         {
           "label": "Direct Link",
@@ -11691,26 +11590,6 @@
           "event_title": "WWE: Money In The Bank",
           "matchup": null,
           "display_name": "WWE: Money In The Bank - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wwe-streams",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "wwe.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/wwe-streams",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "fighting",
-          "event_title": "WWE: Money In The Bank",
-          "matchup": null,
-          "display_name": "WWE: Money In The Bank - Stream 2"
         },
         {
           "label": "wwe.m3u8",
@@ -11927,7 +11806,7 @@
           "display_name": "UFC FN: Allen vs. Ducan - Stream 1 (PARA+)"
         },
         {
-          "label": "Stream 2 (CITY)",
+          "label": "Stream 2 (HUB)",
           "url": "https://admin2.shadow-ran.online/hub.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
@@ -11947,16 +11826,16 @@
             "home": "UFC FN: Allen",
             "away": "Ducan"
           },
-          "display_name": "UFC FN: Allen vs. Ducan - Stream 2 (CITY)"
+          "display_name": "UFC FN: Allen vs. Ducan - Stream 2 (HUB)"
         },
         {
-          "label": "Stream 3 (CBS)",
-          "url": "https://admin.shadow-ran.online/ncaa10.m3u8",
+          "label": "Stream 3 (TNT)",
+          "url": "https://admin2.shadow-ran.online/tnt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ufc",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "ncaa10.m3u8",
+          "subdomain": "admin2",
+          "path": "tnt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ufc",
             "Origin": "https://roxiestreams.su",
@@ -11970,7 +11849,7 @@
             "home": "UFC FN: Allen",
             "away": "Ducan"
           },
-          "display_name": "UFC FN: Allen vs. Ducan - Stream 3 (CBS)"
+          "display_name": "UFC FN: Allen vs. Ducan - Stream 3 (TNT)"
         },
         {
           "label": "abbiecadabrii.m3u8",
@@ -12021,26 +11900,6 @@
           "event_title": "WWE: Money In The Bank",
           "matchup": null,
           "display_name": "WWE: Money In The Bank - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wwe-streams",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "wwe.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/wwe-streams",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE: Money In The Bank",
-          "matchup": null,
-          "display_name": "WWE: Money In The Bank - Stream 2"
         },
         {
           "label": "wwe.m3u8",
@@ -12112,7 +11971,7 @@
       ]
     }
   },
-  "stream_count": 125,
+  "stream_count": 123,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
