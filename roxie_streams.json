@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-12T09:57:07+00:00",
+  "scraped_at": "2026-10-12T19:34:06+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -66,6 +66,29 @@
             "display_name": "Torino vs Udinese - Stream 1"
           },
           {
+            "label": "Stream 2 (ES)",
+            "url": "https://admin2.shadow-ran.online/espn3mx.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "espn3mx.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Torino vs Udinese",
+            "matchup": {
+              "home": "Torino",
+              "away": "Udinese"
+            },
+            "display_name": "Torino vs Udinese - Stream 2 (ES)"
+          },
+          {
             "label": "golazo.m3u8",
             "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
             "type": "m3u8",
@@ -101,6 +124,29 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/hub.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "hub.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Coventry City vs Newcastle",
+            "matchup": {
+              "home": "Coventry City",
+              "away": "Newcastle"
+            },
+            "display_name": "Coventry City vs Newcastle - Stream 1"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/main.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
@@ -120,10 +166,10 @@
               "home": "Coventry City",
               "away": "Newcastle"
             },
-            "display_name": "Coventry City vs Newcastle - Stream 1"
+            "display_name": "Coventry City vs Newcastle - Stream 2"
           },
           {
-            "label": "Stream 2",
+            "label": "Stream 3",
             "url": "https://tedesco.shadow-ran.online/usa.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
@@ -143,16 +189,16 @@
               "home": "Coventry City",
               "away": "Newcastle"
             },
-            "display_name": "Coventry City vs Newcastle - Stream 2"
+            "display_name": "Coventry City vs Newcastle - Stream 3"
           },
           {
-            "label": "main.m3u8",
-            "url": "https://daffodil.shadow-ran.online/main.m3u8",
+            "label": "hub.m3u8",
+            "url": "https://daffodil.shadow-ran.online/hub.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "main.m3u8",
+            "path": "hub.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -166,7 +212,7 @@
               "home": "Coventry City",
               "away": "Newcastle"
             },
-            "display_name": "Coventry City vs Newcastle - main.m3u8"
+            "display_name": "Coventry City vs Newcastle - hub.m3u8"
           }
         ]
       },
@@ -238,12 +284,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/dep.m3u8",
+            "url": "https://admin.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "dep.m3u8",
+            "subdomain": "admin",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
@@ -258,63 +304,29 @@
               "away": "Athletico-PR"
             },
             "display_name": "Chapecoense vs Athletico-PR - Stream 1"
-          }
-        ]
-      },
-      {
-        "title": "Grêmio vs Internacional",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Grêmio",
-          "away": "Internacional"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-5",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/fana.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-5",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "fana.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-5",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Grêmio vs Internacional",
-            "matchup": {
-              "home": "Grêmio",
-              "away": "Internacional"
-            },
-            "display_name": "Grêmio vs Internacional - Stream 1"
           },
           {
             "label": "fana.m3u8",
             "url": "https://daffodil.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
             "path": "fana.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Grêmio vs Internacional",
+            "event_title": "Chapecoense vs Athletico-PR",
             "matchup": {
-              "home": "Grêmio",
-              "away": "Internacional"
+              "home": "Chapecoense",
+              "away": "Athletico-PR"
             },
-            "display_name": "Grêmio vs Internacional - fana.m3u8"
+            "display_name": "Chapecoense vs Athletico-PR - fana.m3u8"
           }
         ]
       }
@@ -1388,6 +1400,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1455,6 +1468,7 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
+        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3270,6 +3284,29 @@
           "display_name": "Torino vs Udinese - Stream 1"
         },
         {
+          "label": "Stream 2 (ES)",
+          "url": "https://admin2.shadow-ran.online/espn3mx.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "espn3mx.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Torino vs Udinese",
+          "matchup": {
+            "home": "Torino",
+            "away": "Udinese"
+          },
+          "display_name": "Torino vs Udinese - Stream 2 (ES)"
+        },
+        {
           "label": "golazo.m3u8",
           "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
           "type": "m3u8",
@@ -3294,6 +3331,29 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/hub.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "hub.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Coventry City vs Newcastle",
+          "matchup": {
+            "home": "Coventry City",
+            "away": "Newcastle"
+          },
+          "display_name": "Coventry City vs Newcastle - Stream 1"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/main.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
@@ -3313,10 +3373,10 @@
             "home": "Coventry City",
             "away": "Newcastle"
           },
-          "display_name": "Coventry City vs Newcastle - Stream 1"
+          "display_name": "Coventry City vs Newcastle - Stream 2"
         },
         {
-          "label": "Stream 2",
+          "label": "Stream 3",
           "url": "https://tedesco.shadow-ran.online/usa.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
@@ -3336,16 +3396,16 @@
             "home": "Coventry City",
             "away": "Newcastle"
           },
-          "display_name": "Coventry City vs Newcastle - Stream 2"
+          "display_name": "Coventry City vs Newcastle - Stream 3"
         },
         {
-          "label": "main.m3u8",
-          "url": "https://daffodil.shadow-ran.online/main.m3u8",
+          "label": "hub.m3u8",
+          "url": "https://daffodil.shadow-ran.online/hub.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "main.m3u8",
+          "path": "hub.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -3359,7 +3419,7 @@
             "home": "Coventry City",
             "away": "Newcastle"
           },
-          "display_name": "Coventry City vs Newcastle - main.m3u8"
+          "display_name": "Coventry City vs Newcastle - hub.m3u8"
         },
         {
           "label": "Stream 1",
@@ -3409,12 +3469,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/dep.m3u8",
+          "url": "https://admin.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "dep.m3u8",
+          "subdomain": "admin",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
@@ -3431,50 +3491,27 @@
           "display_name": "Chapecoense vs Athletico-PR - Stream 1"
         },
         {
-          "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/fana.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-5",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "fana.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-5",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Grêmio vs Internacional",
-          "matchup": {
-            "home": "Grêmio",
-            "away": "Internacional"
-          },
-          "display_name": "Grêmio vs Internacional - Stream 1"
-        },
-        {
           "label": "fana.m3u8",
           "url": "https://daffodil.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
           "path": "fana.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Grêmio vs Internacional",
+          "event_title": "Chapecoense vs Athletico-PR",
           "matchup": {
-            "home": "Grêmio",
-            "away": "Internacional"
+            "home": "Chapecoense",
+            "away": "Athletico-PR"
           },
-          "display_name": "Grêmio vs Internacional - fana.m3u8"
+          "display_name": "Chapecoense vs Athletico-PR - fana.m3u8"
         }
       ]
     },
@@ -4308,7 +4345,7 @@
       ]
     }
   },
-  "stream_count": 44,
+  "stream_count": 45,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
