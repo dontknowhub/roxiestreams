@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14T19:49:05+00:00",
+  "scraped_at": "2026-10-14T22:48:24+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -366,12 +366,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/espn3mx.m3u8",
+            "url": "https://admin2.shadow-ran.online/beines.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "espn3mx.m3u8",
+            "path": "beines.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-14",
               "Origin": "https://roxiestreams.su",
@@ -388,13 +388,13 @@
             "display_name": "Fluminense vs Palmeiras - Stream 1"
           },
           {
-            "label": "espn3mx.m3u8",
-            "url": "https://daffodil.shadow-ran.online/espn3mx.m3u8",
+            "label": "Stream 2 (EN)",
+            "url": "https://tedesco.shadow-ran.online/bein.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-14",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "espn3mx.m3u8",
+            "subdomain": "tedesco",
+            "path": "bein.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-14",
               "Origin": "https://roxiestreams.su",
@@ -408,7 +408,30 @@
               "home": "Fluminense",
               "away": "Palmeiras"
             },
-            "display_name": "Fluminense vs Palmeiras - espn3mx.m3u8"
+            "display_name": "Fluminense vs Palmeiras - Stream 2 (EN)"
+          },
+          {
+            "label": "beines.m3u8",
+            "url": "https://daffodil.shadow-ran.online/beines.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-14",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "beines.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-14",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Fluminense vs Palmeiras",
+            "matchup": {
+              "home": "Fluminense",
+              "away": "Palmeiras"
+            },
+            "display_name": "Fluminense vs Palmeiras - beines.m3u8"
           }
         ]
       },
@@ -500,6 +523,63 @@
               "away": "Minnesota Rapids"
             },
             "display_name": "Colorado Rapids vs Minnesota Rapids - fana4.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Sarmiento vs River Plate",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Sarmiento",
+          "away": "River Plate"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-17",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin.shadow-ran.online/fana.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-17",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "fana.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-17",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Sarmiento vs River Plate",
+            "matchup": {
+              "home": "Sarmiento",
+              "away": "River Plate"
+            },
+            "display_name": "Sarmiento vs River Plate - Stream 1"
+          },
+          {
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-17",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-17",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Sarmiento vs River Plate",
+            "matchup": {
+              "home": "Sarmiento",
+              "away": "River Plate"
+            },
+            "display_name": "Sarmiento vs River Plate - fana.m3u8"
           }
         ]
       },
@@ -1773,26 +1853,6 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/aew.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/aew",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "aew.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/aew",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "aew",
-            "event_title": "AEW",
-            "matchup": null,
-            "display_name": "AEW - Stream 1"
-          },
-          {
-            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/aew.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/aew",
@@ -1809,7 +1869,7 @@
             "sport": "aew",
             "event_title": "AEW",
             "matchup": null,
-            "display_name": "AEW - Stream 2"
+            "display_name": "AEW - Stream 1"
           },
           {
             "label": "aew.m3u8",
@@ -1869,6 +1929,7 @@
         "Shakhtar Donetsk vs Athens",
         "Slovan Bratislava vs Stuttgart",
         "Lincoln City vs West Ham",
+        "Sarmiento vs River Plate",
         "Atlético Mineiro vs Torque",
         "Inter Miami vs New York City",
         "Toronto FC vs Orlando City",
@@ -1976,6 +2037,10 @@
         {
           "label": "Lincoln City vs West Ham",
           "url": "https://roxiestreams.su/soccer-streams-12"
+        },
+        {
+          "label": "Sarmiento vs River Plate",
+          "url": "https://roxiestreams.su/soccer-streams-17"
         },
         {
           "label": "Atlético Mineiro vs Torque",
@@ -2351,6 +2416,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2469,6 +2535,72 @@
     },
     "https://roxiestreams.su/soccer-streams-16": {
       "url": "https://roxiestreams.su/soccer-streams-16",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.su/soccer-streams-17": {
+      "url": "https://roxiestreams.su/soccer-streams-17",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -4559,7 +4691,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4687,6 +4818,7 @@
         "https://roxiestreams.su/soccer-streams-14",
         "https://roxiestreams.su/soccer-streams-15",
         "https://roxiestreams.su/soccer-streams-16",
+        "https://roxiestreams.su/soccer-streams-17",
         "https://roxiestreams.su/soccer-streams-2",
         "https://roxiestreams.su/soccer-streams-3",
         "https://roxiestreams.su/soccer-streams-4",
@@ -4969,12 +5101,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/espn3mx.m3u8",
+          "url": "https://admin2.shadow-ran.online/beines.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "espn3mx.m3u8",
+          "path": "beines.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-14",
             "Origin": "https://roxiestreams.su",
@@ -4991,13 +5123,13 @@
           "display_name": "Fluminense vs Palmeiras - Stream 1"
         },
         {
-          "label": "espn3mx.m3u8",
-          "url": "https://daffodil.shadow-ran.online/espn3mx.m3u8",
+          "label": "Stream 2 (EN)",
+          "url": "https://tedesco.shadow-ran.online/bein.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-14",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "espn3mx.m3u8",
+          "subdomain": "tedesco",
+          "path": "bein.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-14",
             "Origin": "https://roxiestreams.su",
@@ -5011,7 +5143,30 @@
             "home": "Fluminense",
             "away": "Palmeiras"
           },
-          "display_name": "Fluminense vs Palmeiras - espn3mx.m3u8"
+          "display_name": "Fluminense vs Palmeiras - Stream 2 (EN)"
+        },
+        {
+          "label": "beines.m3u8",
+          "url": "https://daffodil.shadow-ran.online/beines.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-14",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "beines.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-14",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Fluminense vs Palmeiras",
+          "matchup": {
+            "home": "Fluminense",
+            "away": "Palmeiras"
+          },
+          "display_name": "Fluminense vs Palmeiras - beines.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5081,6 +5236,52 @@
             "away": "Minnesota Rapids"
           },
           "display_name": "Colorado Rapids vs Minnesota Rapids - fana4.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin.shadow-ran.online/fana.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-17",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "fana.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-17",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Sarmiento vs River Plate",
+          "matchup": {
+            "home": "Sarmiento",
+            "away": "River Plate"
+          },
+          "display_name": "Sarmiento vs River Plate - Stream 1"
+        },
+        {
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-17",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-17",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Sarmiento vs River Plate",
+          "matchup": {
+            "home": "Sarmiento",
+            "away": "River Plate"
+          },
+          "display_name": "Sarmiento vs River Plate - fana.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6192,26 +6393,6 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/aew.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/aew",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "aew.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/aew",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "aew",
-          "event_title": "AEW",
-          "matchup": null,
-          "display_name": "AEW - Stream 1"
-        },
-        {
-          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/aew.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/aew",
@@ -6228,7 +6409,7 @@
           "sport": "aew",
           "event_title": "AEW",
           "matchup": null,
-          "display_name": "AEW - Stream 2"
+          "display_name": "AEW - Stream 1"
         },
         {
           "label": "aew.m3u8",
@@ -6259,7 +6440,7 @@
       "streams": []
     }
   },
-  "stream_count": 66,
+  "stream_count": 68,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
