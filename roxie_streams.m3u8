@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-10-18T19:49:21+00:00
+# RoxieStreams Playlist - generated 2026-10-18T22:00:52+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="Juventus vs Lazio - Stream 1" group-title="SOCCER - Juventus vs Lazio",Juventus vs Lazio - Stream 1
@@ -39,6 +39,15 @@ https://daffodil.shadow-ran.online/golazo.m3u8
 https://admin2.shadow-ran.online/madrid.m3u8
 
 #EXTINF:-1 tvg-name="Real Madrid vs Sevilla - Stream 2 (ES)" group-title="SOCCER - Real Madrid vs Sevilla",Real Madrid vs Sevilla - Stream 2 (ES)
+#EXTGRP:SOCCER - Real Madrid vs Sevilla
+#EXTDESC:Real Madrid vs Sevilla
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-11&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-11","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/depalt.m3u8
+
+#EXTINF:-1 tvg-name="Real Madrid vs Sevilla - Stream 2 (ES ALT)" group-title="SOCCER - Real Madrid vs Sevilla",Real Madrid vs Sevilla - Stream 2 (ES ALT)
 #EXTGRP:SOCCER - Real Madrid vs Sevilla
 #EXTDESC:Real Madrid vs Sevilla
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-11
@@ -135,33 +144,24 @@ https://daffodil.shadow-ran.online/fana2pt.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-14&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-14","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/tsn.m3u8
+https://admin.shadow-ran.online/fana3.m3u8
 
-#EXTINF:-1 tvg-name="Bahia vs Flamengo - tsn.m3u8" group-title="SOCCER - Bahia vs Flamengo",Bahia vs Flamengo - tsn.m3u8
+#EXTINF:-1 tvg-name="Bahia vs Flamengo - Stream 2 (EN)" group-title="SOCCER - Bahia vs Flamengo",Bahia vs Flamengo - Stream 2 (EN)
 #EXTGRP:SOCCER - Bahia vs Flamengo
 #EXTDESC:Bahia vs Flamengo
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-14&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-14","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/tsn.m3u8
+https://admin.shadow-ran.online/fana3en.m3u8
 
-#EXTINF:-1 tvg-name="Remo vs Brangantino - Stream 1" group-title="SOCCER - Remo vs Brangantino",Remo vs Brangantino - Stream 1
-#EXTGRP:SOCCER - Remo vs Brangantino
-#EXTDESC:Remo vs Brangantino
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-15
+#EXTINF:-1 tvg-name="Bahia vs Flamengo - fana3.m3u8" group-title="SOCCER - Bahia vs Flamengo",Bahia vs Flamengo - fana3.m3u8
+#EXTGRP:SOCCER - Bahia vs Flamengo
+#EXTDESC:Bahia vs Flamengo
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-15&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-15","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin.shadow-ran.online/fana3.m3u8
-
-#EXTINF:-1 tvg-name="Remo vs Brangantino - fana3.m3u8" group-title="SOCCER - Remo vs Brangantino",Remo vs Brangantino - fana3.m3u8
-#EXTGRP:SOCCER - Remo vs Brangantino
-#EXTDESC:Remo vs Brangantino
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-15&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-15","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-14&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-14","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/fana3.m3u8
 
 #EXTINF:-1 tvg-name="Belgrano vs River Plate - Stream 1" group-title="SOCCER - Belgrano vs River Plate",Belgrano vs River Plate - Stream 1
@@ -495,7 +495,7 @@ https://daffodil.shadow-ran.online/nfl.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-10&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-10","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/nfl10.m3u8
+https://tedesco.shadow-ran.online/nfl7.m3u8
 
 #EXTINF:-1 tvg-name="Los Angeles Chargers vs Kansas City Chiefs - Stream 2" group-title="NFL - Los Angeles Chargers vs Kansas City Chiefs",Los Angeles Chargers vs Kansas City Chiefs - Stream 2
 #EXTGRP:NFL - Los Angeles Chargers vs Kansas City Chiefs
@@ -504,16 +504,25 @@ https://admin2.shadow-ran.online/nfl10.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-10&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-10","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/nfl10.m3u8
+https://admin2.shadow-ran.online/nfl2.m3u8
 
-#EXTINF:-1 tvg-name="Los Angeles Chargers vs Kansas City Chiefs - nfl10.m3u8" group-title="NFL - Los Angeles Chargers vs Kansas City Chiefs",Los Angeles Chargers vs Kansas City Chiefs - nfl10.m3u8
+#EXTINF:-1 tvg-name="Los Angeles Chargers vs Kansas City Chiefs - Stream 3" group-title="NFL - Los Angeles Chargers vs Kansas City Chiefs",Los Angeles Chargers vs Kansas City Chiefs - Stream 3
 #EXTGRP:NFL - Los Angeles Chargers vs Kansas City Chiefs
 #EXTDESC:Los Angeles Chargers vs Kansas City Chiefs
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-10&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-10","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/nfl10.m3u8
+https://admin.shadow-ran.online/nfl8.m3u8
+
+#EXTINF:-1 tvg-name="Los Angeles Chargers vs Kansas City Chiefs - nfl7.m3u8" group-title="NFL - Los Angeles Chargers vs Kansas City Chiefs",Los Angeles Chargers vs Kansas City Chiefs - nfl7.m3u8
+#EXTGRP:NFL - Los Angeles Chargers vs Kansas City Chiefs
+#EXTDESC:Los Angeles Chargers vs Kansas City Chiefs
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-10&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-10","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://daffodil.shadow-ran.online/nfl7.m3u8
 
 #EXTINF:-1 tvg-name="Buffalo Bills vs Las Vegas Raiders - Stream 1" group-title="NFL - Buffalo Bills vs Las Vegas Raiders",Buffalo Bills vs Las Vegas Raiders - Stream 1
 #EXTGRP:NFL - Buffalo Bills vs Las Vegas Raiders
@@ -524,14 +533,14 @@ https://daffodil.shadow-ran.online/nfl10.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-11","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/cbs.m3u8
 
-#EXTINF:-1 tvg-name="Buffalo Bills vs Las Vegas Raiders - Stream 2" group-title="NFL - Buffalo Bills vs Las Vegas Raiders",Buffalo Bills vs Las Vegas Raiders - Stream 2
+#EXTINF:-1 tvg-name="Buffalo Bills vs Las Vegas Raiders - Stream 3" group-title="NFL - Buffalo Bills vs Las Vegas Raiders",Buffalo Bills vs Las Vegas Raiders - Stream 3
 #EXTGRP:NFL - Buffalo Bills vs Las Vegas Raiders
 #EXTDESC:Buffalo Bills vs Las Vegas Raiders
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-11&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-11","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/nfl11.m3u8
+https://admin2.shadow-ran.online/nfl5.m3u8
 
 #EXTINF:-1 tvg-name="Buffalo Bills vs Las Vegas Raiders - cbs.m3u8" group-title="NFL - Buffalo Bills vs Las Vegas Raiders",Buffalo Bills vs Las Vegas Raiders - cbs.m3u8
 #EXTGRP:NFL - Buffalo Bills vs Las Vegas Raiders
@@ -559,15 +568,6 @@ https://temp.shadow-ran.online/nfl4.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-12&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-12","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/seahawks.m3u8
-
-#EXTINF:-1 tvg-name="Chicago Bears vs Atlanta Falcons - Stream 1" group-title="NFL - Chicago Bears vs Atlanta Falcons",Chicago Bears vs Atlanta Falcons - Stream 1
-#EXTGRP:NFL - Chicago Bears vs Atlanta Falcons
-#EXTDESC:Chicago Bears vs Atlanta Falcons
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/nfl2.m3u8
 
 #EXTINF:-1 tvg-name="Chicago Bears vs Atlanta Falcons - Stream 2" group-title="NFL - Chicago Bears vs Atlanta Falcons",Chicago Bears vs Atlanta Falcons - Stream 2
 #EXTGRP:NFL - Chicago Bears vs Atlanta Falcons
@@ -623,15 +623,6 @@ https://admin2.shadow-ran.online/nfl4.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-4","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/nfl4.m3u8
 
-#EXTINF:-1 tvg-name="New York Jets vs New England Patriots - Stream 2" group-title="NFL - New York Jets vs New England Patriots",New York Jets vs New England Patriots - Stream 2
-#EXTGRP:NFL - New York Jets vs New England Patriots
-#EXTDESC:New York Jets vs New England Patriots
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-5&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-5","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/nfl5.m3u8
-
 #EXTINF:-1 tvg-name="New Orleans Saints vs New York Giants - Stream 1" group-title="NFL - New Orleans Saints vs New York Giants",New Orleans Saints vs New York Giants - Stream 1
 #EXTGRP:NFL - New Orleans Saints vs New York Giants
 #EXTDESC:New Orleans Saints vs New York Giants
@@ -649,33 +640,6 @@ https://admin.shadow-ran.online/nfl6.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-6&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-6","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/nfl6.m3u8
-
-#EXTINF:-1 tvg-name="Carolina Panthers vs Philadelphia Eagles - Stream 1" group-title="NFL - Carolina Panthers vs Philadelphia Eagles",Carolina Panthers vs Philadelphia Eagles - Stream 1
-#EXTGRP:NFL - Carolina Panthers vs Philadelphia Eagles
-#EXTDESC:Carolina Panthers vs Philadelphia Eagles
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-7","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/nfl7.m3u8
-
-#EXTINF:-1 tvg-name="Carolina Panthers vs Philadelphia Eagles - nfl7.m3u8" group-title="NFL - Carolina Panthers vs Philadelphia Eagles",Carolina Panthers vs Philadelphia Eagles - nfl7.m3u8
-#EXTGRP:NFL - Carolina Panthers vs Philadelphia Eagles
-#EXTDESC:Carolina Panthers vs Philadelphia Eagles
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-7","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/nfl7.m3u8
-
-#EXTINF:-1 tvg-name="Pittsburgh Steelers vs Tampa Bay Buccaneers - Stream 1" group-title="NFL - Pittsburgh Steelers vs Tampa Bay Buccaneers",Pittsburgh Steelers vs Tampa Bay Buccaneers - Stream 1
-#EXTGRP:NFL - Pittsburgh Steelers vs Tampa Bay Buccaneers
-#EXTDESC:Pittsburgh Steelers vs Tampa Bay Buccaneers
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-8&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-8","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin.shadow-ran.online/nfl8.m3u8
 
 #EXTINF:-1 tvg-name="Pittsburgh Steelers vs Tampa Bay Buccaneers - Stream 2" group-title="NFL - Pittsburgh Steelers vs Tampa Bay Buccaneers",Pittsburgh Steelers vs Tampa Bay Buccaneers - Stream 2
 #EXTGRP:NFL - Pittsburgh Steelers vs Tampa Bay Buccaneers
