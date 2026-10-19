@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-19T17:04:13+00:00",
+  "scraped_at": "2026-10-19T21:36:47+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -106,6 +106,52 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/espnes.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "espnes.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Getafe vs Rayo Vallecano",
+            "matchup": {
+              "home": "Getafe",
+              "away": "Rayo Vallecano"
+            },
+            "display_name": "Getafe vs Rayo Vallecano - Stream 1"
+          },
+          {
+            "label": "Stream 2 (EN)",
+            "url": "https://admin2.shadow-ran.online/espnen.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "espnen.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Getafe vs Rayo Vallecano",
+            "matchup": {
+              "home": "Getafe",
+              "away": "Rayo Vallecano"
+            },
+            "display_name": "Getafe vs Rayo Vallecano - Stream 2 (EN)"
+          },
+          {
+            "label": "Stream 3 (ES ALT)",
             "url": "https://admin2.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-5",
@@ -125,16 +171,16 @@
               "home": "Getafe",
               "away": "Rayo Vallecano"
             },
-            "display_name": "Getafe vs Rayo Vallecano - Stream 1"
+            "display_name": "Getafe vs Rayo Vallecano - Stream 3 (ES ALT)"
           },
           {
-            "label": "dep.m3u8",
-            "url": "https://daffodil.shadow-ran.online/dep.m3u8",
+            "label": "espnes.m3u8",
+            "url": "https://daffodil.shadow-ran.online/espnes.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-5",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "dep.m3u8",
+            "path": "espnes.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-5",
               "Origin": "https://roxiestreams.su",
@@ -148,7 +194,7 @@
               "home": "Getafe",
               "away": "Rayo Vallecano"
             },
-            "display_name": "Getafe vs Rayo Vallecano - dep.m3u8"
+            "display_name": "Getafe vs Rayo Vallecano - espnes.m3u8"
           }
         ]
       },
@@ -163,6 +209,29 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/usa.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "usa.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Tottenham vs Coventry",
+            "matchup": {
+              "home": "Tottenham",
+              "away": "Coventry"
+            },
+            "display_name": "Tottenham vs Coventry - Stream 1"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/main.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
@@ -182,10 +251,10 @@
               "home": "Tottenham",
               "away": "Coventry"
             },
-            "display_name": "Tottenham vs Coventry - Stream 1"
+            "display_name": "Tottenham vs Coventry - Stream 2"
           },
           {
-            "label": "Stream 2",
+            "label": "Stream 3",
             "url": "https://tedesco.shadow-ran.online/prem.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
@@ -205,16 +274,16 @@
               "home": "Tottenham",
               "away": "Coventry"
             },
-            "display_name": "Tottenham vs Coventry - Stream 2"
+            "display_name": "Tottenham vs Coventry - Stream 3"
           },
           {
-            "label": "main.m3u8",
-            "url": "https://daffodil.shadow-ran.online/main.m3u8",
+            "label": "usa.m3u8",
+            "url": "https://daffodil.shadow-ran.online/usa.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "main.m3u8",
+            "path": "usa.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -228,7 +297,7 @@
               "home": "Tottenham",
               "away": "Coventry"
             },
-            "display_name": "Tottenham vs Coventry - main.m3u8"
+            "display_name": "Tottenham vs Coventry - usa.m3u8"
           }
         ]
       },
@@ -357,12 +426,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/cbssn.m3u8",
+            "url": "https://admin.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "cbssn.m3u8",
+            "subdomain": "admin",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-7",
               "Origin": "https://roxiestreams.su",
@@ -379,13 +448,13 @@
             "display_name": "Corinthians vs Vitoria - Stream 1"
           },
           {
-            "label": "cbssn.m3u8",
-            "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "cbssn.m3u8",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-7",
               "Origin": "https://roxiestreams.su",
@@ -399,7 +468,7 @@
               "home": "Corinthians",
               "away": "Vitoria"
             },
-            "display_name": "Corinthians vs Vitoria - cbssn.m3u8"
+            "display_name": "Corinthians vs Vitoria - fana.m3u8"
           }
         ]
       }
@@ -741,11 +810,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nhl.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "nhl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nhl-streams-1",
@@ -912,11 +981,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nhl4.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nhl4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "nhl4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nhl-streams-4",
@@ -1467,6 +1536,8 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
+        "Stream 3 (ES ALT)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1534,6 +1605,7 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
+        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3224,6 +3296,52 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/espnes.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "espnes.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Getafe vs Rayo Vallecano",
+          "matchup": {
+            "home": "Getafe",
+            "away": "Rayo Vallecano"
+          },
+          "display_name": "Getafe vs Rayo Vallecano - Stream 1"
+        },
+        {
+          "label": "Stream 2 (EN)",
+          "url": "https://admin2.shadow-ran.online/espnen.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "espnen.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Getafe vs Rayo Vallecano",
+          "matchup": {
+            "home": "Getafe",
+            "away": "Rayo Vallecano"
+          },
+          "display_name": "Getafe vs Rayo Vallecano - Stream 2 (EN)"
+        },
+        {
+          "label": "Stream 3 (ES ALT)",
           "url": "https://admin2.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-5",
@@ -3243,16 +3361,16 @@
             "home": "Getafe",
             "away": "Rayo Vallecano"
           },
-          "display_name": "Getafe vs Rayo Vallecano - Stream 1"
+          "display_name": "Getafe vs Rayo Vallecano - Stream 3 (ES ALT)"
         },
         {
-          "label": "dep.m3u8",
-          "url": "https://daffodil.shadow-ran.online/dep.m3u8",
+          "label": "espnes.m3u8",
+          "url": "https://daffodil.shadow-ran.online/espnes.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-5",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "dep.m3u8",
+          "path": "espnes.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-5",
             "Origin": "https://roxiestreams.su",
@@ -3266,10 +3384,33 @@
             "home": "Getafe",
             "away": "Rayo Vallecano"
           },
-          "display_name": "Getafe vs Rayo Vallecano - dep.m3u8"
+          "display_name": "Getafe vs Rayo Vallecano - espnes.m3u8"
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/usa.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "usa.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-6",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Tottenham vs Coventry",
+          "matchup": {
+            "home": "Tottenham",
+            "away": "Coventry"
+          },
+          "display_name": "Tottenham vs Coventry - Stream 1"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/main.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
@@ -3289,10 +3430,10 @@
             "home": "Tottenham",
             "away": "Coventry"
           },
-          "display_name": "Tottenham vs Coventry - Stream 1"
+          "display_name": "Tottenham vs Coventry - Stream 2"
         },
         {
-          "label": "Stream 2",
+          "label": "Stream 3",
           "url": "https://tedesco.shadow-ran.online/prem.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
@@ -3312,16 +3453,16 @@
             "home": "Tottenham",
             "away": "Coventry"
           },
-          "display_name": "Tottenham vs Coventry - Stream 2"
+          "display_name": "Tottenham vs Coventry - Stream 3"
         },
         {
-          "label": "main.m3u8",
-          "url": "https://daffodil.shadow-ran.online/main.m3u8",
+          "label": "usa.m3u8",
+          "url": "https://daffodil.shadow-ran.online/usa.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "main.m3u8",
+          "path": "usa.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -3335,7 +3476,7 @@
             "home": "Tottenham",
             "away": "Coventry"
           },
-          "display_name": "Tottenham vs Coventry - main.m3u8"
+          "display_name": "Tottenham vs Coventry - usa.m3u8"
         },
         {
           "label": "Stream 1",
@@ -3431,12 +3572,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/cbssn.m3u8",
+          "url": "https://admin.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "cbssn.m3u8",
+          "subdomain": "admin",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-7",
             "Origin": "https://roxiestreams.su",
@@ -3453,13 +3594,13 @@
           "display_name": "Corinthians vs Vitoria - Stream 1"
         },
         {
-          "label": "cbssn.m3u8",
-          "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "cbssn.m3u8",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-7",
             "Origin": "https://roxiestreams.su",
@@ -3473,7 +3614,7 @@
             "home": "Corinthians",
             "away": "Vitoria"
           },
-          "display_name": "Corinthians vs Vitoria - cbssn.m3u8"
+          "display_name": "Corinthians vs Vitoria - fana.m3u8"
         }
       ]
     },
@@ -3783,11 +3924,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nhl.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "nhl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nhl-streams-1",
@@ -3921,11 +4062,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nhl4.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nhl4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "nhl4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nhl-streams-4",
@@ -4249,7 +4390,7 @@
       ]
     }
   },
-  "stream_count": 45,
+  "stream_count": 48,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
