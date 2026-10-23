@@ -1,5 +1,5 @@
 #EXTM3U
-# RoxieStreams Playlist - generated 2026-10-22T23:45:02+00:00
+# RoxieStreams Playlist - generated 2026-10-23T02:25:55+00:00
 # Source: https://roxiestreams.su
 
 #EXTINF:-1 tvg-name="Crvena Zvezda vs Kobenhavn - Stream 1" group-title="SOCCER - Crvena Zvezda vs Kobenhavn",Crvena Zvezda vs Kobenhavn - Stream 1
@@ -65,7 +65,16 @@ https://daffodil.shadow-ran.online/benfica.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-12","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/sportdigital.m3u8
 
-#EXTINF:-1 tvg-name="Flamengo vs Estudiantes - Stream 2 (ES)" group-title="SOCCER - Flamengo vs Estudiantes",Flamengo vs Estudiantes - Stream 2 (ES)
+#EXTINF:-1 tvg-name="Flamengo vs Estudiantes - Stream 2 (PT)" group-title="SOCCER - Flamengo vs Estudiantes",Flamengo vs Estudiantes - Stream 2 (PT)
+#EXTGRP:SOCCER - Flamengo vs Estudiantes
+#EXTDESC:Flamengo vs Estudiantes
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fsoccer-streams-12&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/soccer-streams-12","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin2.shadow-ran.online/espnbr.m3u8
+
+#EXTINF:-1 tvg-name="Flamengo vs Estudiantes - Stream 3 (ES)" group-title="SOCCER - Flamengo vs Estudiantes",Flamengo vs Estudiantes - Stream 3 (ES)
 #EXTGRP:SOCCER - Flamengo vs Estudiantes
 #EXTDESC:Flamengo vs Estudiantes
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/soccer-streams-12
@@ -243,7 +252,7 @@ https://daffodil.shadow-ran.online/mlb.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/nba.m3u8
+https://admin.shadow-ran.online/nba.m3u8
 
 #EXTINF:-1 tvg-name="Cleveland Cavaliers vs Philadelphia 76ers - Stream 2" group-title="NBA - Cleveland Cavaliers vs Philadelphia 76ers",Cleveland Cavaliers vs Philadelphia 76ers - Stream 2
 #EXTGRP:NBA - Cleveland Cavaliers vs Philadelphia 76ers
@@ -252,7 +261,7 @@ https://admin2.shadow-ran.online/nba.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin.shadow-ran.online/nba.m3u8
+https://admin2.shadow-ran.online/nba.m3u8
 
 #EXTINF:-1 tvg-name="Cleveland Cavaliers vs Philadelphia 76ers - nba.m3u8" group-title="NBA - Cleveland Cavaliers vs Philadelphia 76ers",Cleveland Cavaliers vs Philadelphia 76ers - nba.m3u8
 #EXTGRP:NBA - Cleveland Cavaliers vs Philadelphia 76ers
@@ -263,34 +272,7 @@ https://admin.shadow-ran.online/nba.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://daffodil.shadow-ran.online/nba.m3u8
 
-#EXTINF:-1 tvg-name="Denver Nuggets vs Oklahoma City Thunder - Stream 1" group-title="NBA - Denver Nuggets vs Oklahoma City Thunder",Denver Nuggets vs Oklahoma City Thunder - Stream 1
-#EXTGRP:NBA - Denver Nuggets vs Oklahoma City Thunder
-#EXTDESC:Denver Nuggets vs Oklahoma City Thunder
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://tedesco.shadow-ran.online/nba2.m3u8
-
-#EXTINF:-1 tvg-name="Denver Nuggets vs Oklahoma City Thunder - nba2.m3u8" group-title="NBA - Denver Nuggets vs Oklahoma City Thunder",Denver Nuggets vs Oklahoma City Thunder - nba2.m3u8
-#EXTGRP:NBA - Denver Nuggets vs Oklahoma City Thunder
-#EXTDESC:Denver Nuggets vs Oklahoma City Thunder
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/nba-streams-2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnba-streams-2&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/nba-streams-2","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/nba2.m3u8
-
 #EXTINF:-1 tvg-name="New England Patriots vs Chicago Bears - Stream 1" group-title="NFL - New England Patriots vs Chicago Bears",New England Patriots vs Chicago Bears - Stream 1
-#EXTGRP:NFL - New England Patriots vs Chicago Bears
-#EXTDESC:New England Patriots vs Chicago Bears
-#EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
-#EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://admin2.shadow-ran.online/primenfl.m3u8
-
-#EXTINF:-1 tvg-name="New England Patriots vs Chicago Bears - Stream 2" group-title="NFL - New England Patriots vs Chicago Bears",New England Patriots vs Chicago Bears - Stream 2
 #EXTGRP:NFL - New England Patriots vs Chicago Bears
 #EXTDESC:New England Patriots vs Chicago Bears
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-1
@@ -299,7 +281,7 @@ https://admin2.shadow-ran.online/primenfl.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.shadow-ran.online/nfl.m3u8
 
-#EXTINF:-1 tvg-name="New England Patriots vs Chicago Bears - Stream 3" group-title="NFL - New England Patriots vs Chicago Bears",New England Patriots vs Chicago Bears - Stream 3
+#EXTINF:-1 tvg-name="New England Patriots vs Chicago Bears - Stream 2" group-title="NFL - New England Patriots vs Chicago Bears",New England Patriots vs Chicago Bears - Stream 2
 #EXTGRP:NFL - New England Patriots vs Chicago Bears
 #EXTDESC:New England Patriots vs Chicago Bears
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-1
@@ -308,14 +290,14 @@ https://admin2.shadow-ran.online/nfl.m3u8
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin.shadow-ran.online/nfl.m3u8
 
-#EXTINF:-1 tvg-name="New England Patriots vs Chicago Bears - primenfl.m3u8" group-title="NFL - New England Patriots vs Chicago Bears",New England Patriots vs Chicago Bears - primenfl.m3u8
+#EXTINF:-1 tvg-name="New England Patriots vs Chicago Bears - nfl.m3u8" group-title="NFL - New England Patriots vs Chicago Bears",New England Patriots vs Chicago Bears - nfl.m3u8
 #EXTGRP:NFL - New England Patriots vs Chicago Bears
 #EXTDESC:New England Patriots vs Chicago Bears
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/nfl-streams-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnfl-streams-1&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nfl-streams-1","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://daffodil.shadow-ran.online/primenfl.m3u8
+https://daffodil.shadow-ran.online/nfl.m3u8
 
 #EXTINF:-1 tvg-name="James Madison vs App State - Stream 1" group-title="NFL - James Madison vs App State",James Madison vs App State - Stream 1
 #EXTGRP:NFL - James Madison vs App State
@@ -478,6 +460,15 @@ https://admin2.formaturamaxi.com.br/nhl5.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnhl-streams-6&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
 #EXTHTTP:{"Referer":"https://roxiestreams.su/nhl-streams-6","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://admin2.formaturamaxi.com.br/nhl6.m3u8
+
+#EXTINF:-1 tvg-name="Vegas Golden Knights vs St. Louis Blues" group-title="NHL - Vegas Golden Knights vs St. Louis Blues",Vegas Golden Knights vs St. Louis Blues
+#EXTGRP:NHL - Vegas Golden Knights vs St. Louis Blues
+#EXTDESC:Vegas Golden Knights vs St. Louis Blues
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/nhl-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Froxiestreams.su%2Fnhl-streams-7&User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36
+#EXTHTTP:{"Referer":"https://roxiestreams.su/nhl-streams-7","Origin":"https://roxiestreams.su","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://admin.formaturamaxi.com.br/nhl7.m3u8
 
 #EXTINF:-1 tvg-name="Winnipeg Jets vs Dallas Stars" group-title="NHL - Winnipeg Jets vs Dallas Stars",Winnipeg Jets vs Dallas Stars
 #EXTGRP:NHL - Winnipeg Jets vs Dallas Stars

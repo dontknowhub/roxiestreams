@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22T23:45:02+00:00",
+  "scraped_at": "2026-10-23T02:25:55+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -222,7 +222,30 @@
             "display_name": "Flamengo vs Estudiantes - Stream 1"
           },
           {
-            "label": "Stream 2 (ES)",
+            "label": "Stream 2 (PT)",
+            "url": "https://admin2.shadow-ran.online/espnbr.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-12",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "espnbr.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-12",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Flamengo vs Estudiantes",
+            "matchup": {
+              "home": "Flamengo",
+              "away": "Estudiantes"
+            },
+            "display_name": "Flamengo vs Estudiantes - Stream 2 (PT)"
+          },
+          {
+            "label": "Stream 3 (ES)",
             "url": "https://tedesco.shadow-ran.online/beines.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-12",
@@ -242,7 +265,7 @@
               "home": "Flamengo",
               "away": "Estudiantes"
             },
-            "display_name": "Flamengo vs Estudiantes - Stream 2 (ES)"
+            "display_name": "Flamengo vs Estudiantes - Stream 3 (ES)"
           },
           {
             "label": "sportdigital.m3u8",
@@ -752,11 +775,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba.m3u8",
+            "url": "https://admin.shadow-ran.online/nba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "nba.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-1",
@@ -775,11 +798,11 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://admin.shadow-ran.online/nba.m3u8",
+            "url": "https://admin2.shadow-ran.online/nba.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "admin2",
             "path": "nba.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-1",
@@ -820,63 +843,6 @@
             "display_name": "Cleveland Cavaliers vs Philadelphia 76ers - nba.m3u8"
           }
         ]
-      },
-      {
-        "title": "Denver Nuggets vs Oklahoma City Thunder",
-        "sport": "nba",
-        "matchup": {
-          "home": "Denver Nuggets",
-          "away": "Oklahoma City Thunder"
-        },
-        "page": "https://roxiestreams.su/nba-streams-2",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nba2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nba-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "nba2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nba-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Denver Nuggets vs Oklahoma City Thunder",
-            "matchup": {
-              "home": "Denver Nuggets",
-              "away": "Oklahoma City Thunder"
-            },
-            "display_name": "Denver Nuggets vs Oklahoma City Thunder - Stream 1"
-          },
-          {
-            "label": "nba2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nba2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nba-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nba2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nba-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Denver Nuggets vs Oklahoma City Thunder",
-            "matchup": {
-              "home": "Denver Nuggets",
-              "away": "Oklahoma City Thunder"
-            },
-            "display_name": "Denver Nuggets vs Oklahoma City Thunder - nba2.m3u8"
-          }
-        ]
       }
     ],
     "nfl": [
@@ -891,29 +857,6 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/primenfl.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nfl-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "primenfl.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nfl-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "New England Patriots vs Chicago Bears",
-            "matchup": {
-              "home": "New England Patriots",
-              "away": "Chicago Bears"
-            },
-            "display_name": "New England Patriots vs Chicago Bears - Stream 1"
-          },
-          {
-            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/nfl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-1",
@@ -933,10 +876,10 @@
               "home": "New England Patriots",
               "away": "Chicago Bears"
             },
-            "display_name": "New England Patriots vs Chicago Bears - Stream 2"
+            "display_name": "New England Patriots vs Chicago Bears - Stream 1"
           },
           {
-            "label": "Stream 3",
+            "label": "Stream 2",
             "url": "https://admin.shadow-ran.online/nfl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-1",
@@ -956,16 +899,16 @@
               "home": "New England Patriots",
               "away": "Chicago Bears"
             },
-            "display_name": "New England Patriots vs Chicago Bears - Stream 3"
+            "display_name": "New England Patriots vs Chicago Bears - Stream 2"
           },
           {
-            "label": "primenfl.m3u8",
-            "url": "https://daffodil.shadow-ran.online/primenfl.m3u8",
+            "label": "nfl.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nfl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "primenfl.m3u8",
+            "path": "nfl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -979,7 +922,7 @@
               "home": "New England Patriots",
               "away": "Chicago Bears"
             },
-            "display_name": "New England Patriots vs Chicago Bears - primenfl.m3u8"
+            "display_name": "New England Patriots vs Chicago Bears - nfl.m3u8"
           }
         ]
       },
@@ -1505,6 +1448,37 @@
               "away": "New York Islanders"
             },
             "display_name": "Los Angeles Kings vs New York Islanders"
+          }
+        ]
+      },
+      {
+        "title": "Vegas Golden Knights vs St. Louis Blues",
+        "sport": "nhl",
+        "matchup": {
+          "home": "Vegas Golden Knights",
+          "away": "St. Louis Blues"
+        },
+        "page": "https://roxiestreams.su/nhl-streams-7",
+        "streams": [
+          {
+            "label": "Direct Link",
+            "url": "https://admin.formaturamaxi.com.br/nhl7.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nhl-streams-7",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nhl-streams-7",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Vegas Golden Knights vs St. Louis Blues",
+            "matchup": {
+              "home": "Vegas Golden Knights",
+              "away": "St. Louis Blues"
+            },
+            "display_name": "Vegas Golden Knights vs St. Louis Blues"
           }
         ]
       },
@@ -2095,7 +2069,8 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (ES)",
+        "Stream 2 (PT)",
+        "Stream 3 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3062,6 +3037,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3221,7 +3197,6 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
-        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4968,7 +4943,30 @@
           "display_name": "Flamengo vs Estudiantes - Stream 1"
         },
         {
-          "label": "Stream 2 (ES)",
+          "label": "Stream 2 (PT)",
+          "url": "https://admin2.shadow-ran.online/espnbr.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-12",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "espnbr.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-12",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Flamengo vs Estudiantes",
+          "matchup": {
+            "home": "Flamengo",
+            "away": "Estudiantes"
+          },
+          "display_name": "Flamengo vs Estudiantes - Stream 2 (PT)"
+        },
+        {
+          "label": "Stream 3 (ES)",
           "url": "https://tedesco.shadow-ran.online/beines.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-12",
@@ -4988,7 +4986,7 @@
             "home": "Flamengo",
             "away": "Estudiantes"
           },
-          "display_name": "Flamengo vs Estudiantes - Stream 2 (ES)"
+          "display_name": "Flamengo vs Estudiantes - Stream 3 (ES)"
         },
         {
           "label": "sportdigital.m3u8",
@@ -5423,11 +5421,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba.m3u8",
+          "url": "https://admin.shadow-ran.online/nba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "nba.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-1",
@@ -5446,11 +5444,11 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://admin.shadow-ran.online/nba.m3u8",
+          "url": "https://admin2.shadow-ran.online/nba.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "admin2",
           "path": "nba.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-1",
@@ -5489,52 +5487,6 @@
             "away": "Philadelphia 76ers"
           },
           "display_name": "Cleveland Cavaliers vs Philadelphia 76ers - nba.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nba2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nba-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "nba2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nba-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Denver Nuggets vs Oklahoma City Thunder",
-          "matchup": {
-            "home": "Denver Nuggets",
-            "away": "Oklahoma City Thunder"
-          },
-          "display_name": "Denver Nuggets vs Oklahoma City Thunder - Stream 1"
-        },
-        {
-          "label": "nba2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nba2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nba-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nba2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nba-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Denver Nuggets vs Oklahoma City Thunder",
-          "matchup": {
-            "home": "Denver Nuggets",
-            "away": "Oklahoma City Thunder"
-          },
-          "display_name": "Denver Nuggets vs Oklahoma City Thunder - nba2.m3u8"
         }
       ]
     },
@@ -5549,29 +5501,6 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/primenfl.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nfl-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "primenfl.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nfl-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "New England Patriots vs Chicago Bears",
-          "matchup": {
-            "home": "New England Patriots",
-            "away": "Chicago Bears"
-          },
-          "display_name": "New England Patriots vs Chicago Bears - Stream 1"
-        },
-        {
-          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/nfl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-1",
@@ -5591,10 +5520,10 @@
             "home": "New England Patriots",
             "away": "Chicago Bears"
           },
-          "display_name": "New England Patriots vs Chicago Bears - Stream 2"
+          "display_name": "New England Patriots vs Chicago Bears - Stream 1"
         },
         {
-          "label": "Stream 3",
+          "label": "Stream 2",
           "url": "https://admin.shadow-ran.online/nfl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-1",
@@ -5614,16 +5543,16 @@
             "home": "New England Patriots",
             "away": "Chicago Bears"
           },
-          "display_name": "New England Patriots vs Chicago Bears - Stream 3"
+          "display_name": "New England Patriots vs Chicago Bears - Stream 2"
         },
         {
-          "label": "primenfl.m3u8",
-          "url": "https://daffodil.shadow-ran.online/primenfl.m3u8",
+          "label": "nfl.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nfl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "primenfl.m3u8",
+          "path": "nfl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -5637,7 +5566,7 @@
             "home": "New England Patriots",
             "away": "Chicago Bears"
           },
-          "display_name": "New England Patriots vs Chicago Bears - primenfl.m3u8"
+          "display_name": "New England Patriots vs Chicago Bears - nfl.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6061,6 +5990,26 @@
         },
         {
           "label": "Direct Link",
+          "url": "https://admin.formaturamaxi.com.br/nhl7.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nhl-streams-7",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nhl-streams-7",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Vegas Golden Knights vs St. Louis Blues",
+          "matchup": {
+            "home": "Vegas Golden Knights",
+            "away": "St. Louis Blues"
+          },
+          "display_name": "Vegas Golden Knights vs St. Louis Blues"
+        },
+        {
+          "label": "Direct Link",
           "url": "https://admin2.formaturamaxi.com.br/nhl8.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-8",
@@ -6256,7 +6205,7 @@
       "streams": []
     }
   },
-  "stream_count": 61,
+  "stream_count": 60,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
