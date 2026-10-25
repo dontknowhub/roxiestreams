@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-24T23:27:28+00:00",
+  "scraped_at": "2026-10-25T01:23:24+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -1067,12 +1067,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/tudn.m3u8",
+            "url": "https://admin2.shadow-ran.online/canal5mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-23",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "tudn.m3u8",
+            "path": "canal5mx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-23",
               "Origin": "https://roxiestreams.su",
@@ -1089,13 +1089,13 @@
             "display_name": "Pumas vs Tigres - Stream 1"
           },
           {
-            "label": "tudn.m3u8",
-            "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
+            "label": "canal5mx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/canal5mx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-23",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "tudn.m3u8",
+            "path": "canal5mx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-23",
               "Origin": "https://roxiestreams.su",
@@ -1109,7 +1109,7 @@
               "home": "Pumas",
               "away": "Tigres"
             },
-            "display_name": "Pumas vs Tigres - tudn.m3u8"
+            "display_name": "Pumas vs Tigres - canal5mx.m3u8"
           }
         ]
       },
@@ -1124,12 +1124,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/south.m3u8",
+            "url": "https://admin.shadow-ran.online/fana7.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-24",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "south.m3u8",
+            "subdomain": "admin",
+            "path": "fana7.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-24",
               "Origin": "https://roxiestreams.su",
@@ -1146,13 +1146,13 @@
             "display_name": "Santos vs Bahia - Stream 1"
           },
           {
-            "label": "south.m3u8",
-            "url": "https://daffodil.shadow-ran.online/south.m3u8",
+            "label": "Stream 2 (EN)",
+            "url": "https://admin.shadow-ran.online/fana7en.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-24",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "south.m3u8",
+            "subdomain": "admin",
+            "path": "fana7en.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-24",
               "Origin": "https://roxiestreams.su",
@@ -1166,7 +1166,53 @@
               "home": "Santos",
               "away": "Bahia"
             },
-            "display_name": "Santos vs Bahia - south.m3u8"
+            "display_name": "Santos vs Bahia - Stream 2 (EN)"
+          },
+          {
+            "label": "Stream 3 (ES)",
+            "url": "https://admin.shadow-ran.online/fana7es.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-24",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin",
+            "path": "fana7es.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-24",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Santos vs Bahia",
+            "matchup": {
+              "home": "Santos",
+              "away": "Bahia"
+            },
+            "display_name": "Santos vs Bahia - Stream 3 (ES)"
+          },
+          {
+            "label": "fana7.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana7.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-24",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana7.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-24",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Santos vs Bahia",
+            "matchup": {
+              "home": "Santos",
+              "away": "Bahia"
+            },
+            "display_name": "Santos vs Bahia - fana7.m3u8"
           }
         ]
       },
@@ -1525,12 +1571,12 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
+            "url": "https://admin2.shadow-ran.online/mlbalt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/mlb-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "mlb.m3u8",
+            "subdomain": "admin2",
+            "path": "mlbalt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/mlb-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -1926,11 +1972,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nba6.m3u8",
+            "url": "https://admin2.shadow-ran.online/nba6.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-6",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "nba6.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-6",
@@ -2534,6 +2580,26 @@
         },
         "page": "https://roxiestreams.su/ncaa-streams-4",
         "streams": [
+          {
+            "label": "Direct Link",
+            "url": "https://admin2.formaturamaxi.com.br/ncaa4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ncaa-streams-4",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ncaa-streams-4",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Ole Miss vs Texas",
+            "matchup": {
+              "home": "Ole Miss",
+              "away": "Texas"
+            },
+            "display_name": "Ole Miss vs Texas"
+          },
           {
             "label": "Direct Link",
             "url": "https://admin.formaturamaxi.com.br/ncaa4.m3u8",
@@ -3761,8 +3827,8 @@
         "Chapecoense vs Fluminense",
         "León vs Toluca",
         "Philadelphia Union vs New England",
-        "Monterrey vs Chivas",
         "Santos vs Bahia",
+        "Monterrey vs Chivas",
         "Colorado Rapids vs Vancouver Whitecaps",
         "Pumas vs Tigres",
         "Stream Request (Discord)"
@@ -3933,12 +3999,12 @@
           "url": "https://roxiestreams.su/soccer-streams-13"
         },
         {
-          "label": "Monterrey vs Chivas",
-          "url": "https://roxiestreams.su/soccer-streams-23"
-        },
-        {
           "label": "Santos vs Bahia",
           "url": "https://roxiestreams.su/soccer-streams-24"
+        },
+        {
+          "label": "Monterrey vs Chivas",
+          "url": "https://roxiestreams.su/soccer-streams-23"
         },
         {
           "label": "Colorado Rapids vs Vancouver Whitecaps",
@@ -5033,6 +5099,9 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (EN)",
+        "Stream 3 (ES)",
+        "Stream 4 (RU)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7265,6 +7334,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -8699,6 +8769,7 @@
         "Formula 1 - Qualifying",
         "MotoGP - Coverage",
         "WoO Sprint Cars - Race",
+        "WoO Late Models - Race",
         "MotoGP - Australian Grand Prix",
         "Stream Request (Discord)"
       ],
@@ -8769,6 +8840,10 @@
         },
         {
           "label": "WoO Sprint Cars - Race",
+          "url": "https://roxiestreams.su/floracing-2"
+        },
+        {
+          "label": "WoO Late Models - Race",
           "url": "https://roxiestreams.su/floracing-1"
         },
         {
@@ -9974,12 +10049,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/tudn.m3u8",
+          "url": "https://admin2.shadow-ran.online/canal5mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-23",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "tudn.m3u8",
+          "path": "canal5mx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-23",
             "Origin": "https://roxiestreams.su",
@@ -9996,13 +10071,13 @@
           "display_name": "Pumas vs Tigres - Stream 1"
         },
         {
-          "label": "tudn.m3u8",
-          "url": "https://daffodil.shadow-ran.online/tudn.m3u8",
+          "label": "canal5mx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/canal5mx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-23",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "tudn.m3u8",
+          "path": "canal5mx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-23",
             "Origin": "https://roxiestreams.su",
@@ -10016,16 +10091,16 @@
             "home": "Pumas",
             "away": "Tigres"
           },
-          "display_name": "Pumas vs Tigres - tudn.m3u8"
+          "display_name": "Pumas vs Tigres - canal5mx.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/south.m3u8",
+          "url": "https://admin.shadow-ran.online/fana7.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-24",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "south.m3u8",
+          "subdomain": "admin",
+          "path": "fana7.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-24",
             "Origin": "https://roxiestreams.su",
@@ -10042,13 +10117,13 @@
           "display_name": "Santos vs Bahia - Stream 1"
         },
         {
-          "label": "south.m3u8",
-          "url": "https://daffodil.shadow-ran.online/south.m3u8",
+          "label": "Stream 2 (EN)",
+          "url": "https://admin.shadow-ran.online/fana7en.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-24",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "south.m3u8",
+          "subdomain": "admin",
+          "path": "fana7en.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-24",
             "Origin": "https://roxiestreams.su",
@@ -10062,7 +10137,53 @@
             "home": "Santos",
             "away": "Bahia"
           },
-          "display_name": "Santos vs Bahia - south.m3u8"
+          "display_name": "Santos vs Bahia - Stream 2 (EN)"
+        },
+        {
+          "label": "Stream 3 (ES)",
+          "url": "https://admin.shadow-ran.online/fana7es.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-24",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin",
+          "path": "fana7es.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-24",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Santos vs Bahia",
+          "matchup": {
+            "home": "Santos",
+            "away": "Bahia"
+          },
+          "display_name": "Santos vs Bahia - Stream 3 (ES)"
+        },
+        {
+          "label": "fana7.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana7.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-24",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana7.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-24",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Santos vs Bahia",
+          "matchup": {
+            "home": "Santos",
+            "away": "Bahia"
+          },
+          "display_name": "Santos vs Bahia - fana7.m3u8"
         },
         {
           "label": "Stream 1",
@@ -10350,12 +10471,12 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/mlb.m3u8",
+          "url": "https://admin2.shadow-ran.online/mlbalt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/mlb-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "mlb.m3u8",
+          "subdomain": "admin2",
+          "path": "mlbalt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/mlb-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -10688,11 +10809,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nba6.m3u8",
+          "url": "https://admin2.shadow-ran.online/nba6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-6",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "nba6.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-6",
@@ -11172,6 +11293,26 @@
             "away": "Oklahoma State"
           },
           "display_name": "Colorado vs Oklahoma State - ncaa3.m3u8"
+        },
+        {
+          "label": "Direct Link",
+          "url": "https://admin2.formaturamaxi.com.br/ncaa4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ncaa-streams-4",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ncaa-streams-4",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Ole Miss vs Texas",
+          "matchup": {
+            "home": "Ole Miss",
+            "away": "Texas"
+          },
+          "display_name": "Ole Miss vs Texas"
         },
         {
           "label": "Direct Link",
@@ -12157,7 +12298,7 @@
       ]
     }
   },
-  "stream_count": 129,
+  "stream_count": 132,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
