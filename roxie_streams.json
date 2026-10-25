@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-25T15:12:39+00:00",
+  "scraped_at": "2026-10-25T18:29:07+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -229,6 +229,29 @@
               "away": "Bayern Munchen"
             },
             "display_name": "Freiburg vs Bayern Munchen - Stream 1"
+          },
+          {
+            "label": "Stream 2 (ES)",
+            "url": "https://admin2.shadow-ran.online/peacock4.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-10",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "peacock4.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-10",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Freiburg vs Bayern Munchen",
+            "matchup": {
+              "home": "Freiburg",
+              "away": "Bayern Munchen"
+            },
+            "display_name": "Freiburg vs Bayern Munchen - Stream 2 (ES)"
           },
           {
             "label": "one.m3u8",
@@ -2300,13 +2323,13 @@
         "page": "https://roxiestreams.su/nfl-streams-2",
         "streams": [
           {
-            "label": "nfl2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nfl2.m3u8",
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/nfl2alt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nfl2.m3u8",
+            "subdomain": "admin2",
+            "path": "nfl2alt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -2320,7 +2343,30 @@
               "home": "San Francisco 49ers",
               "away": "Atlanta Falcons"
             },
-            "display_name": "San Francisco 49ers vs Atlanta Falcons - nfl2.m3u8"
+            "display_name": "San Francisco 49ers vs Atlanta Falcons - Stream 1"
+          },
+          {
+            "label": "nfl2alt.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nfl2alt.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nfl-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nfl2alt.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nfl-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "San Francisco 49ers vs Atlanta Falcons",
+            "matchup": {
+              "home": "San Francisco 49ers",
+              "away": "Atlanta Falcons"
+            },
+            "display_name": "San Francisco 49ers vs Atlanta Falcons - nfl2alt.m3u8"
           }
         ]
       },
@@ -2335,11 +2381,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nfl3.m3u8",
+            "url": "https://admin.shadow-ran.online/nfl3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "nfl3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-3",
@@ -2392,11 +2438,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nfl4.m3u8",
+            "url": "https://admin.shadow-ran.online/nfl4.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "nfl4.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-4",
@@ -2448,12 +2494,12 @@
         "page": "https://roxiestreams.su/nfl-streams-5",
         "streams": [
           {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/nfl5.m3u8",
+            "label": "Stream 1",
+            "url": "https://tedesco.shadow-ran.online/nfl5.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-5",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "nfl5.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-5",
@@ -2468,16 +2514,16 @@
               "home": "Miami Dolphins",
               "away": "New York Jets"
             },
-            "display_name": "Miami Dolphins vs New York Jets - Stream 2"
+            "display_name": "Miami Dolphins vs New York Jets - Stream 1"
           },
           {
-            "label": "cbs.m3u8",
-            "url": "https://daffodil.shadow-ran.online/cbs.m3u8",
+            "label": "nfl5.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nfl5.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-5",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "cbs.m3u8",
+            "path": "nfl5.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-5",
               "Origin": "https://roxiestreams.su",
@@ -2491,7 +2537,41 @@
               "home": "Miami Dolphins",
               "away": "New York Jets"
             },
-            "display_name": "Miami Dolphins vs New York Jets - cbs.m3u8"
+            "display_name": "Miami Dolphins vs New York Jets - nfl5.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Tampa Bay Buccaneers vs Carolina Panthers",
+        "sport": "nfl",
+        "matchup": {
+          "home": "Tampa Bay Buccaneers",
+          "away": "Carolina Panthers"
+        },
+        "page": "https://roxiestreams.su/nfl-streams-6",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/nfl6.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nfl-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "nfl6.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nfl-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Tampa Bay Buccaneers vs Carolina Panthers",
+            "matchup": {
+              "home": "Tampa Bay Buccaneers",
+              "away": "Carolina Panthers"
+            },
+            "display_name": "Tampa Bay Buccaneers vs Carolina Panthers - Stream 1"
           }
         ]
       },
@@ -2504,29 +2584,6 @@
         },
         "page": "https://roxiestreams.su/nfl-streams-7",
         "streams": [
-          {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/nflalt.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nfl-streams-7",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "nflalt.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nfl-streams-7",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "Cincinnati Bengals vs Baltimore Ravens",
-            "matchup": {
-              "home": "Cincinnati Bengals",
-              "away": "Baltimore Ravens"
-            },
-            "display_name": "Cincinnati Bengals vs Baltimore Ravens - Stream 2"
-          },
           {
             "label": "nfl7.m3u8",
             "url": "https://daffodil.shadow-ran.online/nfl7.m3u8",
@@ -2562,13 +2619,36 @@
         "page": "https://roxiestreams.su/nfl-streams-8",
         "streams": [
           {
-            "label": "Stream 2",
+            "label": "Stream 1",
             "url": "https://admin2.shadow-ran.online/nfl8.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-8",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
             "path": "nfl8.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nfl-streams-8",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "New York Giants vs Houston Texans",
+            "matchup": {
+              "home": "New York Giants",
+              "away": "Houston Texans"
+            },
+            "display_name": "New York Giants vs Houston Texans - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/nfl11.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nfl-streams-8",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "nfl11.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-8",
               "Origin": "https://roxiestreams.su",
@@ -3583,6 +3663,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5573,6 +5654,7 @@
         "https://discord.gg/NCkz2YNKSE",
         "https://roxiestreams.biz/",
         "Pittsburgh Steelers vs New Orleans Saints",
+        "NFL RedZone",
         "San Francisco 49ers vs Atlanta Falcons",
         "Cleveland Browns vs Tennessee Titans",
         "Indianapolis Colts vs Minnesota Vikings",
@@ -5637,6 +5719,10 @@
         {
           "label": "Pittsburgh Steelers vs New Orleans Saints",
           "url": "https://roxiestreams.su/nfl-streams-1"
+        },
+        {
+          "label": "NFL RedZone",
+          "url": "https://roxiestreams.su/redzone"
         },
         {
           "label": "San Francisco 49ers vs Atlanta Falcons",
@@ -5970,6 +6056,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6168,7 +6255,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6301,7 +6387,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7673,6 +7758,29 @@
             "away": "Bayern Munchen"
           },
           "display_name": "Freiburg vs Bayern Munchen - Stream 1"
+        },
+        {
+          "label": "Stream 2 (ES)",
+          "url": "https://admin2.shadow-ran.online/peacock4.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-10",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "peacock4.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-10",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Freiburg vs Bayern Munchen",
+          "matchup": {
+            "home": "Freiburg",
+            "away": "Bayern Munchen"
+          },
+          "display_name": "Freiburg vs Bayern Munchen - Stream 2 (ES)"
         },
         {
           "label": "one.m3u8",
@@ -9438,13 +9546,13 @@
           "display_name": "Kansas City Chiefs vs Seattle Seahawks - nfl6.m3u8"
         },
         {
-          "label": "nfl2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nfl2.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/nfl2alt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nfl2.m3u8",
+          "subdomain": "admin2",
+          "path": "nfl2alt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -9458,15 +9566,38 @@
             "home": "San Francisco 49ers",
             "away": "Atlanta Falcons"
           },
-          "display_name": "San Francisco 49ers vs Atlanta Falcons - nfl2.m3u8"
+          "display_name": "San Francisco 49ers vs Atlanta Falcons - Stream 1"
+        },
+        {
+          "label": "nfl2alt.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nfl2alt.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nfl-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nfl2alt.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nfl-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "San Francisco 49ers vs Atlanta Falcons",
+          "matchup": {
+            "home": "San Francisco 49ers",
+            "away": "Atlanta Falcons"
+          },
+          "display_name": "San Francisco 49ers vs Atlanta Falcons - nfl2alt.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nfl3.m3u8",
+          "url": "https://admin.shadow-ran.online/nfl3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "nfl3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-3",
@@ -9508,11 +9639,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nfl4.m3u8",
+          "url": "https://admin.shadow-ran.online/nfl4.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "nfl4.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-4",
@@ -9553,12 +9684,12 @@
           "display_name": "Indianapolis Colts vs Minnesota Vikings - nfl4.m3u8"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/nfl5.m3u8",
+          "label": "Stream 1",
+          "url": "https://tedesco.shadow-ran.online/nfl5.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-5",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "nfl5.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-5",
@@ -9573,16 +9704,16 @@
             "home": "Miami Dolphins",
             "away": "New York Jets"
           },
-          "display_name": "Miami Dolphins vs New York Jets - Stream 2"
+          "display_name": "Miami Dolphins vs New York Jets - Stream 1"
         },
         {
-          "label": "cbs.m3u8",
-          "url": "https://daffodil.shadow-ran.online/cbs.m3u8",
+          "label": "nfl5.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nfl5.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-5",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "cbs.m3u8",
+          "path": "nfl5.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-5",
             "Origin": "https://roxiestreams.su",
@@ -9596,30 +9727,30 @@
             "home": "Miami Dolphins",
             "away": "New York Jets"
           },
-          "display_name": "Miami Dolphins vs New York Jets - cbs.m3u8"
+          "display_name": "Miami Dolphins vs New York Jets - nfl5.m3u8"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/nflalt.m3u8",
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/nfl6.m3u8",
           "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nfl-streams-7",
+          "source_page": "https://roxiestreams.su/nfl-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "nflalt.m3u8",
+          "path": "nfl6.m3u8",
           "headers": {
-            "Referer": "https://roxiestreams.su/nfl-streams-7",
+            "Referer": "https://roxiestreams.su/nfl-streams-6",
             "Origin": "https://roxiestreams.su",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
             "Accept": "*/*"
           },
           "drm_keys": null,
           "sport": "nfl",
-          "event_title": "Cincinnati Bengals vs Baltimore Ravens",
+          "event_title": "Tampa Bay Buccaneers vs Carolina Panthers",
           "matchup": {
-            "home": "Cincinnati Bengals",
-            "away": "Baltimore Ravens"
+            "home": "Tampa Bay Buccaneers",
+            "away": "Carolina Panthers"
           },
-          "display_name": "Cincinnati Bengals vs Baltimore Ravens - Stream 2"
+          "display_name": "Tampa Bay Buccaneers vs Carolina Panthers - Stream 1"
         },
         {
           "label": "nfl7.m3u8",
@@ -9645,13 +9776,36 @@
           "display_name": "Cincinnati Bengals vs Baltimore Ravens - nfl7.m3u8"
         },
         {
-          "label": "Stream 2",
+          "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/nfl8.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-8",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
           "path": "nfl8.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nfl-streams-8",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "New York Giants vs Houston Texans",
+          "matchup": {
+            "home": "New York Giants",
+            "away": "Houston Texans"
+          },
+          "display_name": "New York Giants vs Houston Texans - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/nfl11.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nfl-streams-8",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "nfl11.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-8",
             "Origin": "https://roxiestreams.su",
@@ -10224,7 +10378,7 @@
       ]
     }
   },
-  "stream_count": 115,
+  "stream_count": 118,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
