@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-27T08:05:21+00:00",
+  "scraped_at": "2026-10-27T14:44:09+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -39,12 +39,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
+            "url": "https://tedesco.shadow-ran.online/now.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "sportdigital.m3u8",
+            "subdomain": "tedesco",
+            "path": "now.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -61,13 +61,13 @@
             "display_name": "Sassuolo vs Lazio - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/bein4.m3u8",
+            "label": "now.m3u8",
+            "url": "https://daffodil.shadow-ran.online/now.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "bein4.m3u8",
+            "subdomain": "daffodil",
+            "path": "now.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -81,179 +81,7 @@
               "home": "Sassuolo",
               "away": "Lazio"
             },
-            "display_name": "Sassuolo vs Lazio - Stream 2"
-          },
-          {
-            "label": "sportdigital.m3u8",
-            "url": "https://daffodil.shadow-ran.online/sportdigital.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "sportdigital.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Sassuolo vs Lazio",
-            "matchup": {
-              "home": "Sassuolo",
-              "away": "Lazio"
-            },
-            "display_name": "Sassuolo vs Lazio - sportdigital.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Roma vs Cagliari",
-        "sport": "soccer",
-        "matchup": {
-          "home": "Roma",
-          "away": "Cagliari"
-        },
-        "page": "https://roxiestreams.su/soccer-streams-2",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/balon.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "balon.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Roma vs Cagliari",
-            "matchup": {
-              "home": "Roma",
-              "away": "Cagliari"
-            },
-            "display_name": "Roma vs Cagliari - Stream 1"
-          },
-          {
-            "label": "Stream 2 (ALT)",
-            "url": "https://admin2.shadow-ran.online/ballonalt.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "ballonalt.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Roma vs Cagliari",
-            "matchup": {
-              "home": "Roma",
-              "away": "Cagliari"
-            },
-            "display_name": "Roma vs Cagliari - Stream 2 (ALT)"
-          },
-          {
-            "label": "Stream 3 (FR)",
-            "url": "https://admin2.shadow-ran.online/equipe.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "equipe.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Roma vs Cagliari",
-            "matchup": {
-              "home": "Roma",
-              "away": "Cagliari"
-            },
-            "display_name": "Roma vs Cagliari - Stream 3 (FR)"
-          },
-          {
-            "label": "Stream 4 (ES)",
-            "url": "https://admin2.shadow-ran.online/dazn.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "dazn.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Roma vs Cagliari",
-            "matchup": {
-              "home": "Roma",
-              "away": "Cagliari"
-            },
-            "display_name": "Roma vs Cagliari - Stream 4 (ES)"
-          },
-          {
-            "label": "Stream 5 (RAW)",
-            "url": "https://tedesco.shadow-ran.online/set.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "set.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Roma vs Cagliari",
-            "matchup": {
-              "home": "Roma",
-              "away": "Cagliari"
-            },
-            "display_name": "Roma vs Cagliari - Stream 5 (RAW)"
-          },
-          {
-            "label": "balon.m3u8",
-            "url": "https://daffodil.shadow-ran.online/balon.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "balon.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Roma vs Cagliari",
-            "matchup": {
-              "home": "Roma",
-              "away": "Cagliari"
-            },
-            "display_name": "Roma vs Cagliari - balon.m3u8"
+            "display_name": "Sassuolo vs Lazio - now.m3u8"
           }
         ]
       },
@@ -268,12 +96,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/beines.m3u8",
+            "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "beines.m3u8",
+            "subdomain": "tedesco",
+            "path": "golazo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -290,36 +118,13 @@
             "display_name": "Bradford City vs Peterborough United - Stream 1"
           },
           {
-            "label": "Stream 2 (EN)",
-            "url": "https://admin2.shadow-ran.online/bein.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-3",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "bein.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-3",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Bradford City vs Peterborough United",
-            "matchup": {
-              "home": "Bradford City",
-              "away": "Peterborough United"
-            },
-            "display_name": "Bradford City vs Peterborough United - Stream 2 (EN)"
-          },
-          {
-            "label": "beines.m3u8",
-            "url": "https://daffodil.shadow-ran.online/beines.m3u8",
+            "label": "golazo.m3u8",
+            "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "beines.m3u8",
+            "path": "golazo.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -333,7 +138,7 @@
               "home": "Bradford City",
               "away": "Peterborough United"
             },
-            "display_name": "Bradford City vs Peterborough United - beines.m3u8"
+            "display_name": "Bradford City vs Peterborough United - golazo.m3u8"
           }
         ]
       },
@@ -348,12 +153,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/dep.m3u8",
+            "url": "https://tedesco.shadow-ran.online/cbssn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "dep.m3u8",
+            "subdomain": "tedesco",
+            "path": "cbssn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
@@ -370,13 +175,13 @@
             "display_name": "Torino vs Como - Stream 1"
           },
           {
-            "label": "dep.m3u8",
-            "url": "https://daffodil.shadow-ran.online/dep.m3u8",
+            "label": "cbssn.m3u8",
+            "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-4",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "dep.m3u8",
+            "path": "cbssn.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-4",
               "Origin": "https://roxiestreams.su",
@@ -390,7 +195,7 @@
               "home": "Torino",
               "away": "Como"
             },
-            "display_name": "Torino vs Como - dep.m3u8"
+            "display_name": "Torino vs Como - cbssn.m3u8"
           }
         ]
       },
@@ -425,6 +230,29 @@
               "away": "Fleetwood"
             },
             "display_name": "Arsenal vs Fleetwood - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/foot.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "foot.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Arsenal vs Fleetwood",
+            "matchup": {
+              "home": "Arsenal",
+              "away": "Fleetwood"
+            },
+            "display_name": "Arsenal vs Fleetwood - Stream 2"
           },
           {
             "label": "main.m3u8",
@@ -1663,7 +1491,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1730,10 +1557,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (ALT)",
-        "Stream 3 (FR)",
-        "Stream 4 (ES)",
-        "Stream 5 (RAW)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1800,7 +1623,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1933,6 +1755,7 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4022,12 +3845,12 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
+          "url": "https://tedesco.shadow-ran.online/now.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "sportdigital.m3u8",
+          "subdomain": "tedesco",
+          "path": "now.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -4044,13 +3867,13 @@
           "display_name": "Sassuolo vs Lazio - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/bein4.m3u8",
+          "label": "now.m3u8",
+          "url": "https://daffodil.shadow-ran.online/now.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "bein4.m3u8",
+          "subdomain": "daffodil",
+          "path": "now.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -4064,177 +3887,16 @@
             "home": "Sassuolo",
             "away": "Lazio"
           },
-          "display_name": "Sassuolo vs Lazio - Stream 2"
-        },
-        {
-          "label": "sportdigital.m3u8",
-          "url": "https://daffodil.shadow-ran.online/sportdigital.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "sportdigital.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Sassuolo vs Lazio",
-          "matchup": {
-            "home": "Sassuolo",
-            "away": "Lazio"
-          },
-          "display_name": "Sassuolo vs Lazio - sportdigital.m3u8"
+          "display_name": "Sassuolo vs Lazio - now.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/balon.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "balon.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Roma vs Cagliari",
-          "matchup": {
-            "home": "Roma",
-            "away": "Cagliari"
-          },
-          "display_name": "Roma vs Cagliari - Stream 1"
-        },
-        {
-          "label": "Stream 2 (ALT)",
-          "url": "https://admin2.shadow-ran.online/ballonalt.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "ballonalt.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Roma vs Cagliari",
-          "matchup": {
-            "home": "Roma",
-            "away": "Cagliari"
-          },
-          "display_name": "Roma vs Cagliari - Stream 2 (ALT)"
-        },
-        {
-          "label": "Stream 3 (FR)",
-          "url": "https://admin2.shadow-ran.online/equipe.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "equipe.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Roma vs Cagliari",
-          "matchup": {
-            "home": "Roma",
-            "away": "Cagliari"
-          },
-          "display_name": "Roma vs Cagliari - Stream 3 (FR)"
-        },
-        {
-          "label": "Stream 4 (ES)",
-          "url": "https://admin2.shadow-ran.online/dazn.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "dazn.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Roma vs Cagliari",
-          "matchup": {
-            "home": "Roma",
-            "away": "Cagliari"
-          },
-          "display_name": "Roma vs Cagliari - Stream 4 (ES)"
-        },
-        {
-          "label": "Stream 5 (RAW)",
-          "url": "https://tedesco.shadow-ran.online/set.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "set.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Roma vs Cagliari",
-          "matchup": {
-            "home": "Roma",
-            "away": "Cagliari"
-          },
-          "display_name": "Roma vs Cagliari - Stream 5 (RAW)"
-        },
-        {
-          "label": "balon.m3u8",
-          "url": "https://daffodil.shadow-ran.online/balon.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "balon.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Roma vs Cagliari",
-          "matchup": {
-            "home": "Roma",
-            "away": "Cagliari"
-          },
-          "display_name": "Roma vs Cagliari - balon.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/beines.m3u8",
+          "url": "https://tedesco.shadow-ran.online/golazo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "beines.m3u8",
+          "subdomain": "tedesco",
+          "path": "golazo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -4251,36 +3913,13 @@
           "display_name": "Bradford City vs Peterborough United - Stream 1"
         },
         {
-          "label": "Stream 2 (EN)",
-          "url": "https://admin2.shadow-ran.online/bein.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-3",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "bein.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-3",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Bradford City vs Peterborough United",
-          "matchup": {
-            "home": "Bradford City",
-            "away": "Peterborough United"
-          },
-          "display_name": "Bradford City vs Peterborough United - Stream 2 (EN)"
-        },
-        {
-          "label": "beines.m3u8",
-          "url": "https://daffodil.shadow-ran.online/beines.m3u8",
+          "label": "golazo.m3u8",
+          "url": "https://daffodil.shadow-ran.online/golazo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "beines.m3u8",
+          "path": "golazo.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -4294,16 +3933,16 @@
             "home": "Bradford City",
             "away": "Peterborough United"
           },
-          "display_name": "Bradford City vs Peterborough United - beines.m3u8"
+          "display_name": "Bradford City vs Peterborough United - golazo.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/dep.m3u8",
+          "url": "https://tedesco.shadow-ran.online/cbssn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "dep.m3u8",
+          "subdomain": "tedesco",
+          "path": "cbssn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
@@ -4320,13 +3959,13 @@
           "display_name": "Torino vs Como - Stream 1"
         },
         {
-          "label": "dep.m3u8",
-          "url": "https://daffodil.shadow-ran.online/dep.m3u8",
+          "label": "cbssn.m3u8",
+          "url": "https://daffodil.shadow-ran.online/cbssn.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-4",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "dep.m3u8",
+          "path": "cbssn.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-4",
             "Origin": "https://roxiestreams.su",
@@ -4340,7 +3979,7 @@
             "home": "Torino",
             "away": "Como"
           },
-          "display_name": "Torino vs Como - dep.m3u8"
+          "display_name": "Torino vs Como - cbssn.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4364,6 +4003,29 @@
             "away": "Fleetwood"
           },
           "display_name": "Arsenal vs Fleetwood - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/foot.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "foot.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Arsenal vs Fleetwood",
+          "matchup": {
+            "home": "Arsenal",
+            "away": "Fleetwood"
+          },
+          "display_name": "Arsenal vs Fleetwood - Stream 2"
         },
         {
           "label": "main.m3u8",
@@ -5321,7 +4983,7 @@
       ]
     }
   },
-  "stream_count": 55,
+  "stream_count": 48,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
