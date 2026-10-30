@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-29T23:26:02+00:00",
+  "scraped_at": "2026-10-30T02:44:36+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -457,12 +457,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/fana3.m3u8",
+            "url": "https://admin.shadow-ran.online/fana3pt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin",
-            "path": "fana3.m3u8",
+            "path": "fana3pt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -479,13 +479,13 @@
             "display_name": "Grêmio vs Athletico-PR - Stream 1"
           },
           {
-            "label": "fana3.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+            "label": "fana3pt.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana3pt.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana3.m3u8",
+            "path": "fana3pt.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -499,7 +499,7 @@
               "home": "Grêmio",
               "away": "Athletico-PR"
             },
-            "display_name": "Grêmio vs Athletico-PR - fana3.m3u8"
+            "display_name": "Grêmio vs Athletico-PR - fana3pt.m3u8"
           }
         ]
       },
@@ -677,29 +677,6 @@
             "display_name": "Cleveland Cavaliers vs Atlanta Hawks - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/heat.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nba-streams-1",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "heat.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nba-streams-1",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Cleveland Cavaliers vs Atlanta Hawks",
-            "matchup": {
-              "home": "Cleveland Cavaliers",
-              "away": "Atlanta Hawks"
-            },
-            "display_name": "Cleveland Cavaliers vs Atlanta Hawks - Stream 2"
-          },
-          {
             "label": "nba.m3u8",
             "url": "https://daffodil.shadow-ran.online/nba.m3u8",
             "type": "m3u8",
@@ -815,11 +792,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba2.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nba2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "nba2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-2",
@@ -1234,37 +1211,6 @@
           "home": "Vancouver Canucks",
           "away": "San Jose Sharks"
         },
-        "page": "https://roxiestreams.su/nhl-streams-11",
-        "streams": [
-          {
-            "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nhl-streams-11",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nhl-streams-11",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Vancouver Canucks vs San Jose Sharks",
-            "matchup": {
-              "home": "Vancouver Canucks",
-              "away": "San Jose Sharks"
-            },
-            "display_name": "Vancouver Canucks vs San Jose Sharks"
-          }
-        ]
-      },
-      {
-        "title": "Utah Mammoth vs Pittsburgh Penguins",
-        "sport": "nhl",
-        "matchup": {
-          "home": "Utah Mammoth",
-          "away": "Pittsburgh Penguins"
-        },
         "page": "https://roxiestreams.su/nhl-streams-2",
         "streams": [
           {
@@ -1283,12 +1229,12 @@
             },
             "drm_keys": null,
             "sport": "nhl",
-            "event_title": "Utah Mammoth vs Pittsburgh Penguins",
+            "event_title": "Vancouver Canucks vs San Jose Sharks",
             "matchup": {
-              "home": "Utah Mammoth",
-              "away": "Pittsburgh Penguins"
+              "home": "Vancouver Canucks",
+              "away": "San Jose Sharks"
             },
-            "display_name": "Utah Mammoth vs Pittsburgh Penguins - Stream 1"
+            "display_name": "Vancouver Canucks vs San Jose Sharks - Stream 1"
           },
           {
             "label": "nhl2.m3u8",
@@ -1306,12 +1252,12 @@
             },
             "drm_keys": null,
             "sport": "nhl",
-            "event_title": "Utah Mammoth vs Pittsburgh Penguins",
+            "event_title": "Vancouver Canucks vs San Jose Sharks",
             "matchup": {
-              "home": "Utah Mammoth",
-              "away": "Pittsburgh Penguins"
+              "home": "Vancouver Canucks",
+              "away": "San Jose Sharks"
             },
-            "display_name": "Utah Mammoth vs Pittsburgh Penguins - nhl2.m3u8"
+            "display_name": "Vancouver Canucks vs San Jose Sharks - nhl2.m3u8"
           }
         ]
       },
@@ -1326,11 +1272,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nhl3.m3u8",
+            "url": "https://admin2.shadow-ran.online/nhl3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "nhl3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nhl-streams-3",
@@ -1488,6 +1434,37 @@
               "away": "Nashville Predators"
             },
             "display_name": "Washington Capitals vs Nashville Predators"
+          }
+        ]
+      },
+      {
+        "title": "Montreal Canadiens vs Dallas Stars",
+        "sport": "nhl",
+        "matchup": {
+          "home": "Montreal Canadiens",
+          "away": "Dallas Stars"
+        },
+        "page": "https://roxiestreams.su/nhl-streams-7",
+        "streams": [
+          {
+            "label": "Direct Link",
+            "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nhl-streams-7",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nhl-streams-7",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Montreal Canadiens vs Dallas Stars",
+            "matchup": {
+              "home": "Montreal Canadiens",
+              "away": "Dallas Stars"
+            },
+            "display_name": "Montreal Canadiens vs Dallas Stars"
           }
         ]
       },
@@ -2608,7 +2585,6 @@
         "Stream Request (Discord)",
         "MultiView (NEW)",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3268,7 +3244,7 @@
         },
         {
           "label": "Vancouver Canucks vs San Jose Sharks",
-          "url": "https://roxiestreams.su/nhl-streams-11"
+          "url": "https://roxiestreams.su/nhl-streams-2"
         },
         {
           "label": "Stream Request (Discord)",
@@ -3344,72 +3320,6 @@
     },
     "https://roxiestreams.su/nhl-streams-10": {
       "url": "https://roxiestreams.su/nhl-streams-10",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView (NEW)",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView (NEW)",
-          "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.su/nhl-streams-11": {
-      "url": "https://roxiestreams.su/nhl-streams-11",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -4840,12 +4750,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/fana3.m3u8",
+          "url": "https://admin.shadow-ran.online/fana3pt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin",
-          "path": "fana3.m3u8",
+          "path": "fana3pt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -4862,13 +4772,13 @@
           "display_name": "Grêmio vs Athletico-PR - Stream 1"
         },
         {
-          "label": "fana3.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+          "label": "fana3pt.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana3pt.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana3.m3u8",
+          "path": "fana3pt.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -4882,7 +4792,7 @@
             "home": "Grêmio",
             "away": "Athletico-PR"
           },
-          "display_name": "Grêmio vs Athletico-PR - fana3.m3u8"
+          "display_name": "Grêmio vs Athletico-PR - fana3pt.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5042,29 +4952,6 @@
           "display_name": "Cleveland Cavaliers vs Atlanta Hawks - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/heat.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nba-streams-1",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "heat.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nba-streams-1",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Cleveland Cavaliers vs Atlanta Hawks",
-          "matchup": {
-            "home": "Cleveland Cavaliers",
-            "away": "Atlanta Hawks"
-          },
-          "display_name": "Cleveland Cavaliers vs Atlanta Hawks - Stream 2"
-        },
-        {
           "label": "nba.m3u8",
           "url": "https://daffodil.shadow-ran.online/nba.m3u8",
           "type": "m3u8",
@@ -5158,11 +5045,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba2.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nba2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "nba2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-2",
@@ -5449,7 +5336,6 @@
         "https://roxiestreams.su/nhl",
         "https://roxiestreams.su/nhl-streams-1",
         "https://roxiestreams.su/nhl-streams-10",
-        "https://roxiestreams.su/nhl-streams-11",
         "https://roxiestreams.su/nhl-streams-2",
         "https://roxiestreams.su/nhl-streams-3",
         "https://roxiestreams.su/nhl-streams-4",
@@ -5527,26 +5413,6 @@
           "display_name": "Ottawa Senators vs Los Angeles Kings"
         },
         {
-          "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nhl-streams-11",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nhl-streams-11",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Vancouver Canucks vs San Jose Sharks",
-          "matchup": {
-            "home": "Vancouver Canucks",
-            "away": "San Jose Sharks"
-          },
-          "display_name": "Vancouver Canucks vs San Jose Sharks"
-        },
-        {
           "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/nhl2.m3u8",
           "type": "m3u8",
@@ -5562,12 +5428,12 @@
           },
           "drm_keys": null,
           "sport": "nhl",
-          "event_title": "Utah Mammoth vs Pittsburgh Penguins",
+          "event_title": "Vancouver Canucks vs San Jose Sharks",
           "matchup": {
-            "home": "Utah Mammoth",
-            "away": "Pittsburgh Penguins"
+            "home": "Vancouver Canucks",
+            "away": "San Jose Sharks"
           },
-          "display_name": "Utah Mammoth vs Pittsburgh Penguins - Stream 1"
+          "display_name": "Vancouver Canucks vs San Jose Sharks - Stream 1"
         },
         {
           "label": "nhl2.m3u8",
@@ -5585,20 +5451,20 @@
           },
           "drm_keys": null,
           "sport": "nhl",
-          "event_title": "Utah Mammoth vs Pittsburgh Penguins",
+          "event_title": "Vancouver Canucks vs San Jose Sharks",
           "matchup": {
-            "home": "Utah Mammoth",
-            "away": "Pittsburgh Penguins"
+            "home": "Vancouver Canucks",
+            "away": "San Jose Sharks"
           },
-          "display_name": "Utah Mammoth vs Pittsburgh Penguins - nhl2.m3u8"
+          "display_name": "Vancouver Canucks vs San Jose Sharks - nhl2.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nhl3.m3u8",
+          "url": "https://admin2.shadow-ran.online/nhl3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "nhl3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nhl-streams-3",
@@ -5723,6 +5589,26 @@
             "away": "Nashville Predators"
           },
           "display_name": "Washington Capitals vs Nashville Predators"
+        },
+        {
+          "label": "Direct Link",
+          "url": "https://admin2.formaturamaxi.com.br/nhl7.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nhl-streams-7",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nhl-streams-7",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Montreal Canadiens vs Dallas Stars",
+          "matchup": {
+            "home": "Montreal Canadiens",
+            "away": "Dallas Stars"
+          },
+          "display_name": "Montreal Canadiens vs Dallas Stars"
         },
         {
           "label": "Direct Link",
@@ -5957,7 +5843,7 @@
       "streams": []
     }
   },
-  "stream_count": 63,
+  "stream_count": 62,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
