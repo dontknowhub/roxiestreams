@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-01T10:40:16+00:00",
+  "scraped_at": "2026-11-01T16:56:44+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -186,6 +186,29 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/peacock.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-7",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "peacock.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-7",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Liverpool vs Arsenal",
+            "matchup": {
+              "home": "Liverpool",
+              "away": "Arsenal"
+            },
+            "display_name": "Liverpool vs Arsenal - Stream 1"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/main.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
@@ -205,10 +228,10 @@
               "home": "Liverpool",
               "away": "Arsenal"
             },
-            "display_name": "Liverpool vs Arsenal - Stream 1"
+            "display_name": "Liverpool vs Arsenal - Stream 2"
           },
           {
-            "label": "Stream 2",
+            "label": "Stream 3",
             "url": "https://admin2.shadow-ran.online/fubo.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
@@ -228,16 +251,16 @@
               "home": "Liverpool",
               "away": "Arsenal"
             },
-            "display_name": "Liverpool vs Arsenal - Stream 2"
+            "display_name": "Liverpool vs Arsenal - Stream 3"
           },
           {
-            "label": "main.m3u8",
-            "url": "https://daffodil.shadow-ran.online/main.m3u8",
+            "label": "peacock.m3u8",
+            "url": "https://daffodil.shadow-ran.online/peacock.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-7",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "main.m3u8",
+            "path": "peacock.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-7",
               "Origin": "https://roxiestreams.su",
@@ -251,7 +274,7 @@
               "home": "Liverpool",
               "away": "Arsenal"
             },
-            "display_name": "Liverpool vs Arsenal - main.m3u8"
+            "display_name": "Liverpool vs Arsenal - peacock.m3u8"
           }
         ]
       },
@@ -484,11 +507,11 @@
         ]
       },
       {
-        "title": "Cruz Azul vs León",
+        "title": "Santos Laguna vs Necaxa",
         "sport": "soccer",
         "matchup": {
-          "home": "Cruz Azul",
-          "away": "León"
+          "home": "Santos Laguna",
+          "away": "Necaxa"
         },
         "page": "https://roxiestreams.su/soccer-streams-13",
         "streams": [
@@ -508,12 +531,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Cruz Azul vs León",
+            "event_title": "Santos Laguna vs Necaxa",
             "matchup": {
-              "home": "Cruz Azul",
-              "away": "León"
+              "home": "Santos Laguna",
+              "away": "Necaxa"
             },
-            "display_name": "Cruz Azul vs León - Stream 1"
+            "display_name": "Santos Laguna vs Necaxa - Stream 1"
           },
           {
             "label": "gill.m3u8",
@@ -531,12 +554,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Cruz Azul vs León",
+            "event_title": "Santos Laguna vs Necaxa",
             "matchup": {
-              "home": "Cruz Azul",
-              "away": "León"
+              "home": "Santos Laguna",
+              "away": "Necaxa"
             },
-            "display_name": "Cruz Azul vs León - gill.m3u8"
+            "display_name": "Santos Laguna vs Necaxa - gill.m3u8"
           }
         ]
       },
@@ -571,15 +594,38 @@
               "away": "Inter Miami"
             },
             "display_name": "New England vs Inter Miami - Stream 2"
+          },
+          {
+            "label": "main.m3u8",
+            "url": "https://daffodil.shadow-ran.online/main.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-14",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "main.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-14",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "New England vs Inter Miami",
+            "matchup": {
+              "home": "New England",
+              "away": "Inter Miami"
+            },
+            "display_name": "New England vs Inter Miami - main.m3u8"
           }
         ]
       },
       {
-        "title": "Portland Timbers vs Houston Dynamo",
+        "title": "Cruz Azul vs León",
         "sport": "soccer",
         "matchup": {
-          "home": "Portland Timbers",
-          "away": "Houston Dynamo"
+          "home": "Cruz Azul",
+          "away": "León"
         },
         "page": "https://roxiestreams.su/soccer-streams-15",
         "streams": [
@@ -599,35 +645,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Portland Timbers vs Houston Dynamo",
+            "event_title": "Cruz Azul vs León",
             "matchup": {
-              "home": "Portland Timbers",
-              "away": "Houston Dynamo"
+              "home": "Cruz Azul",
+              "away": "León"
             },
-            "display_name": "Portland Timbers vs Houston Dynamo - Stream 1"
-          },
-          {
-            "label": "Stream 2 (ES)",
-            "url": "https://admin2.shadow-ran.online/peacock.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-15",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "peacock.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-15",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Portland Timbers vs Houston Dynamo",
-            "matchup": {
-              "home": "Portland Timbers",
-              "away": "Houston Dynamo"
-            },
-            "display_name": "Portland Timbers vs Houston Dynamo - Stream 2 (ES)"
+            "display_name": "Cruz Azul vs León - Stream 1"
           },
           {
             "label": "Stream 3",
@@ -645,12 +668,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Portland Timbers vs Houston Dynamo",
+            "event_title": "Cruz Azul vs León",
             "matchup": {
-              "home": "Portland Timbers",
-              "away": "Houston Dynamo"
+              "home": "Cruz Azul",
+              "away": "León"
             },
-            "display_name": "Portland Timbers vs Houston Dynamo - Stream 3"
+            "display_name": "Cruz Azul vs León - Stream 3"
           },
           {
             "label": "ncaa12.m3u8",
@@ -668,12 +691,12 @@
             },
             "drm_keys": null,
             "sport": "soccer",
-            "event_title": "Portland Timbers vs Houston Dynamo",
+            "event_title": "Cruz Azul vs León",
             "matchup": {
-              "home": "Portland Timbers",
-              "away": "Houston Dynamo"
+              "home": "Cruz Azul",
+              "away": "León"
             },
-            "display_name": "Portland Timbers vs Houston Dynamo - ncaa12.m3u8"
+            "display_name": "Cruz Azul vs León - ncaa12.m3u8"
           }
         ]
       },
@@ -2538,10 +2561,10 @@
         "Union Berlin vs Köln",
         "Racing Santander vs Real Madrid",
         "Lyon vs Angers SCO",
-        "Liverpool vs Arsenal",
         "Frankfurt vs Hamburger SV",
         "Lecce vs Genoa",
         "Elche vs Valencia",
+        "Liverpool vs Arsenal",
         "Boca Juniors vs River Plate",
         "Palmeiras vs Vasco Da Gama",
         "Juventus vs Napoli",
@@ -2632,10 +2655,6 @@
           "url": "https://roxiestreams.su/soccer-streams-5"
         },
         {
-          "label": "Liverpool vs Arsenal",
-          "url": "https://roxiestreams.su/soccer-streams-7"
-        },
-        {
           "label": "Frankfurt vs Hamburger SV",
           "url": "https://roxiestreams.su/soccer-streams-6"
         },
@@ -2646,6 +2665,10 @@
         {
           "label": "Elche vs Valencia",
           "url": "https://roxiestreams.su/soccer-streams-2"
+        },
+        {
+          "label": "Liverpool vs Arsenal",
+          "url": "https://roxiestreams.su/soccer-streams-7"
         },
         {
           "label": "Boca Juniors vs River Plate",
@@ -2681,11 +2704,11 @@
         },
         {
           "label": "Cruz Azul vs León",
-          "url": "https://roxiestreams.su/soccer-streams-13"
+          "url": "https://roxiestreams.su/soccer-streams-15"
         },
         {
           "label": "Portland Timbers vs Houston Dynamo",
-          "url": "https://roxiestreams.su/soccer-streams-15"
+          "url": "https://roxiestreams.su/soccer-streams-16"
         },
         {
           "label": "Stream Request (Discord)",
@@ -2843,6 +2866,7 @@
         "MultiView (NEW)",
         "Stream 1",
         "Stream 2",
+        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3308,6 +3332,72 @@
         "Stream 1",
         "Stream 2 (ES)",
         "Stream 3",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView (NEW)",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.su/soccer-streams-16": {
+      "url": "https://roxiestreams.su/soccer-streams-16",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView (NEW)",
+        "Stream 1",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -6078,6 +6168,7 @@
         "https://roxiestreams.su/soccer-streams-13",
         "https://roxiestreams.su/soccer-streams-14",
         "https://roxiestreams.su/soccer-streams-15",
+        "https://roxiestreams.su/soccer-streams-16",
         "https://roxiestreams.su/soccer-streams-3",
         "https://roxiestreams.su/soccer-streams-4",
         "https://roxiestreams.su/soccer-streams-5",
@@ -6202,6 +6293,29 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/peacock.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-7",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "peacock.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-7",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Liverpool vs Arsenal",
+          "matchup": {
+            "home": "Liverpool",
+            "away": "Arsenal"
+          },
+          "display_name": "Liverpool vs Arsenal - Stream 1"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/main.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
@@ -6221,10 +6335,10 @@
             "home": "Liverpool",
             "away": "Arsenal"
           },
-          "display_name": "Liverpool vs Arsenal - Stream 1"
+          "display_name": "Liverpool vs Arsenal - Stream 2"
         },
         {
-          "label": "Stream 2",
+          "label": "Stream 3",
           "url": "https://admin2.shadow-ran.online/fubo.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
@@ -6244,16 +6358,16 @@
             "home": "Liverpool",
             "away": "Arsenal"
           },
-          "display_name": "Liverpool vs Arsenal - Stream 2"
+          "display_name": "Liverpool vs Arsenal - Stream 3"
         },
         {
-          "label": "main.m3u8",
-          "url": "https://daffodil.shadow-ran.online/main.m3u8",
+          "label": "peacock.m3u8",
+          "url": "https://daffodil.shadow-ran.online/peacock.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-7",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "main.m3u8",
+          "path": "peacock.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-7",
             "Origin": "https://roxiestreams.su",
@@ -6267,7 +6381,7 @@
             "home": "Liverpool",
             "away": "Arsenal"
           },
-          "display_name": "Liverpool vs Arsenal - main.m3u8"
+          "display_name": "Liverpool vs Arsenal - peacock.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6469,12 +6583,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Cruz Azul vs León",
+          "event_title": "Santos Laguna vs Necaxa",
           "matchup": {
-            "home": "Cruz Azul",
-            "away": "León"
+            "home": "Santos Laguna",
+            "away": "Necaxa"
           },
-          "display_name": "Cruz Azul vs León - Stream 1"
+          "display_name": "Santos Laguna vs Necaxa - Stream 1"
         },
         {
           "label": "gill.m3u8",
@@ -6492,12 +6606,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Cruz Azul vs León",
+          "event_title": "Santos Laguna vs Necaxa",
           "matchup": {
-            "home": "Cruz Azul",
-            "away": "León"
+            "home": "Santos Laguna",
+            "away": "Necaxa"
           },
-          "display_name": "Cruz Azul vs León - gill.m3u8"
+          "display_name": "Santos Laguna vs Necaxa - gill.m3u8"
         },
         {
           "label": "Stream 2",
@@ -6523,6 +6637,29 @@
           "display_name": "New England vs Inter Miami - Stream 2"
         },
         {
+          "label": "main.m3u8",
+          "url": "https://daffodil.shadow-ran.online/main.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-14",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "main.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-14",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "New England vs Inter Miami",
+          "matchup": {
+            "home": "New England",
+            "away": "Inter Miami"
+          },
+          "display_name": "New England vs Inter Miami - main.m3u8"
+        },
+        {
           "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/ncaa12.m3u8",
           "type": "m3u8",
@@ -6538,35 +6675,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Portland Timbers vs Houston Dynamo",
+          "event_title": "Cruz Azul vs León",
           "matchup": {
-            "home": "Portland Timbers",
-            "away": "Houston Dynamo"
+            "home": "Cruz Azul",
+            "away": "León"
           },
-          "display_name": "Portland Timbers vs Houston Dynamo - Stream 1"
-        },
-        {
-          "label": "Stream 2 (ES)",
-          "url": "https://admin2.shadow-ran.online/peacock.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-15",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "peacock.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-15",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Portland Timbers vs Houston Dynamo",
-          "matchup": {
-            "home": "Portland Timbers",
-            "away": "Houston Dynamo"
-          },
-          "display_name": "Portland Timbers vs Houston Dynamo - Stream 2 (ES)"
+          "display_name": "Cruz Azul vs León - Stream 1"
         },
         {
           "label": "Stream 3",
@@ -6584,12 +6698,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Portland Timbers vs Houston Dynamo",
+          "event_title": "Cruz Azul vs León",
           "matchup": {
-            "home": "Portland Timbers",
-            "away": "Houston Dynamo"
+            "home": "Cruz Azul",
+            "away": "León"
           },
-          "display_name": "Portland Timbers vs Houston Dynamo - Stream 3"
+          "display_name": "Cruz Azul vs León - Stream 3"
         },
         {
           "label": "ncaa12.m3u8",
@@ -6607,12 +6721,12 @@
           },
           "drm_keys": null,
           "sport": "soccer",
-          "event_title": "Portland Timbers vs Houston Dynamo",
+          "event_title": "Cruz Azul vs León",
           "matchup": {
-            "home": "Portland Timbers",
-            "away": "Houston Dynamo"
+            "home": "Cruz Azul",
+            "away": "León"
           },
-          "display_name": "Portland Timbers vs Houston Dynamo - ncaa12.m3u8"
+          "display_name": "Cruz Azul vs León - ncaa12.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8196,7 +8310,7 @@
       ]
     }
   },
-  "stream_count": 89,
+  "stream_count": 90,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
