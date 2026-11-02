@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-02T16:39:54+00:00",
+  "scraped_at": "2026-11-02T23:43:37+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -113,6 +113,29 @@
             "display_name": "Newcastle United vs Everton - Stream 1"
           },
           {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/usa.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-4",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "usa.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-4",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Newcastle United vs Everton",
+            "matchup": {
+              "home": "Newcastle United",
+              "away": "Everton"
+            },
+            "display_name": "Newcastle United vs Everton - Stream 2"
+          },
+          {
             "label": "main.m3u8",
             "url": "https://daffodil.shadow-ran.online/main.m3u8",
             "type": "m3u8",
@@ -148,12 +171,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/dep.m3u8",
+            "url": "https://tedesco.shadow-ran.online/xtraes.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "dep.m3u8",
+            "subdomain": "tedesco",
+            "path": "xtraes.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -170,13 +193,13 @@
             "display_name": "Lorient vs Brest - Stream 1"
           },
           {
-            "label": "dep.m3u8",
-            "url": "https://daffodil.shadow-ran.online/dep.m3u8",
+            "label": "xtraes.m3u8",
+            "url": "https://daffodil.shadow-ran.online/xtraes.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "dep.m3u8",
+            "path": "xtraes.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -190,7 +213,7 @@
               "home": "Lorient",
               "away": "Brest"
             },
-            "display_name": "Lorient vs Brest - dep.m3u8"
+            "display_name": "Lorient vs Brest - xtraes.m3u8"
           }
         ]
       },
@@ -205,12 +228,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/foot.m3u8",
+            "url": "https://tedesco.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "foot.m3u8",
+            "subdomain": "tedesco",
+            "path": "dep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -227,13 +250,13 @@
             "display_name": "Deportivo La Coruña vs Osasuna - Stream 1"
           },
           {
-            "label": "foot.m3u8",
-            "url": "https://daffodil.shadow-ran.online/foot.m3u8",
+            "label": "dep.m3u8",
+            "url": "https://daffodil.shadow-ran.online/dep.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-3",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "foot.m3u8",
+            "path": "dep.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-3",
               "Origin": "https://roxiestreams.su",
@@ -247,7 +270,7 @@
               "home": "Deportivo La Coruña",
               "away": "Osasuna"
             },
-            "display_name": "Deportivo La Coruña vs Osasuna - foot.m3u8"
+            "display_name": "Deportivo La Coruña vs Osasuna - dep.m3u8"
           }
         ]
       },
@@ -282,6 +305,29 @@
               "away": "Alverca"
             },
             "display_name": "Benfica vs Alverca - Stream 1"
+          },
+          {
+            "label": "Stream 2 (EN)",
+            "url": "https://admin2.shadow-ran.online/bein.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "bein.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Benfica vs Alverca",
+            "matchup": {
+              "home": "Benfica",
+              "away": "Alverca"
+            },
+            "display_name": "Benfica vs Alverca - Stream 2 (EN)"
           },
           {
             "label": "beines.m3u8",
@@ -319,12 +365,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/one.m3u8",
+            "url": "https://admin.shadow-ran.online/fana.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "one.m3u8",
+            "subdomain": "admin",
+            "path": "fana.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -341,13 +387,13 @@
             "display_name": "RB Bragantino vs Santos - Stream 1"
           },
           {
-            "label": "one.m3u8",
-            "url": "https://daffodil.shadow-ran.online/one.m3u8",
+            "label": "Stream 2 (RU)",
+            "url": "https://admin2.shadow-ran.online/match3ru.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-6",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "one.m3u8",
+            "subdomain": "admin2",
+            "path": "match3ru.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-6",
               "Origin": "https://roxiestreams.su",
@@ -361,7 +407,30 @@
               "home": "RB Bragantino",
               "away": "Santos"
             },
-            "display_name": "RB Bragantino vs Santos - one.m3u8"
+            "display_name": "RB Bragantino vs Santos - Stream 2 (RU)"
+          },
+          {
+            "label": "fana.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-6",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-6",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "RB Bragantino vs Santos",
+            "matchup": {
+              "home": "RB Bragantino",
+              "away": "Santos"
+            },
+            "display_name": "RB Bragantino vs Santos - fana.m3u8"
           }
         ]
       }
@@ -1669,11 +1738,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -1689,11 +1758,11 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://admin.shadow-ran.online/wwe.m3u8",
+            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "admin2",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -1799,11 +1868,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+            "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -1819,11 +1888,11 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://admin.shadow-ran.online/wwe.m3u8",
+            "url": "https://admin2.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/wwe-streams",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "admin2",
             "path": "wwe.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/wwe-streams",
@@ -2045,6 +2114,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2243,6 +2313,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2309,6 +2380,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (RU)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4542,6 +4614,29 @@
           "display_name": "Newcastle United vs Everton - Stream 1"
         },
         {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/usa.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-4",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "usa.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-4",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Newcastle United vs Everton",
+          "matchup": {
+            "home": "Newcastle United",
+            "away": "Everton"
+          },
+          "display_name": "Newcastle United vs Everton - Stream 2"
+        },
+        {
           "label": "main.m3u8",
           "url": "https://daffodil.shadow-ran.online/main.m3u8",
           "type": "m3u8",
@@ -4566,12 +4661,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/dep.m3u8",
+          "url": "https://tedesco.shadow-ran.online/xtraes.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "dep.m3u8",
+          "subdomain": "tedesco",
+          "path": "xtraes.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -4588,13 +4683,13 @@
           "display_name": "Lorient vs Brest - Stream 1"
         },
         {
-          "label": "dep.m3u8",
-          "url": "https://daffodil.shadow-ran.online/dep.m3u8",
+          "label": "xtraes.m3u8",
+          "url": "https://daffodil.shadow-ran.online/xtraes.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "dep.m3u8",
+          "path": "xtraes.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -4608,16 +4703,16 @@
             "home": "Lorient",
             "away": "Brest"
           },
-          "display_name": "Lorient vs Brest - dep.m3u8"
+          "display_name": "Lorient vs Brest - xtraes.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/foot.m3u8",
+          "url": "https://tedesco.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "foot.m3u8",
+          "subdomain": "tedesco",
+          "path": "dep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -4634,13 +4729,13 @@
           "display_name": "Deportivo La Coruña vs Osasuna - Stream 1"
         },
         {
-          "label": "foot.m3u8",
-          "url": "https://daffodil.shadow-ran.online/foot.m3u8",
+          "label": "dep.m3u8",
+          "url": "https://daffodil.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-3",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "foot.m3u8",
+          "path": "dep.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-3",
             "Origin": "https://roxiestreams.su",
@@ -4654,7 +4749,7 @@
             "home": "Deportivo La Coruña",
             "away": "Osasuna"
           },
-          "display_name": "Deportivo La Coruña vs Osasuna - foot.m3u8"
+          "display_name": "Deportivo La Coruña vs Osasuna - dep.m3u8"
         },
         {
           "label": "Stream 1",
@@ -4678,6 +4773,29 @@
             "away": "Alverca"
           },
           "display_name": "Benfica vs Alverca - Stream 1"
+        },
+        {
+          "label": "Stream 2 (EN)",
+          "url": "https://admin2.shadow-ran.online/bein.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "bein.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Benfica vs Alverca",
+          "matchup": {
+            "home": "Benfica",
+            "away": "Alverca"
+          },
+          "display_name": "Benfica vs Alverca - Stream 2 (EN)"
         },
         {
           "label": "beines.m3u8",
@@ -4704,12 +4822,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/one.m3u8",
+          "url": "https://admin.shadow-ran.online/fana.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "one.m3u8",
+          "subdomain": "admin",
+          "path": "fana.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -4726,13 +4844,13 @@
           "display_name": "RB Bragantino vs Santos - Stream 1"
         },
         {
-          "label": "one.m3u8",
-          "url": "https://daffodil.shadow-ran.online/one.m3u8",
+          "label": "Stream 2 (RU)",
+          "url": "https://admin2.shadow-ran.online/match3ru.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-6",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "one.m3u8",
+          "subdomain": "admin2",
+          "path": "match3ru.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-6",
             "Origin": "https://roxiestreams.su",
@@ -4746,7 +4864,30 @@
             "home": "RB Bragantino",
             "away": "Santos"
           },
-          "display_name": "RB Bragantino vs Santos - one.m3u8"
+          "display_name": "RB Bragantino vs Santos - Stream 2 (RU)"
+        },
+        {
+          "label": "fana.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-6",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-6",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "RB Bragantino vs Santos",
+          "matchup": {
+            "home": "RB Bragantino",
+            "away": "Santos"
+          },
+          "display_name": "RB Bragantino vs Santos - fana.m3u8"
         }
       ]
     },
@@ -5862,11 +6003,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",
@@ -5882,11 +6023,11 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://admin.shadow-ran.online/wwe.m3u8",
+          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "admin2",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",
@@ -5988,11 +6129,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
+          "url": "https://tedesco.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",
@@ -6008,11 +6149,11 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://admin.shadow-ran.online/wwe.m3u8",
+          "url": "https://admin2.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/wwe-streams",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "admin2",
           "path": "wwe.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/wwe-streams",
@@ -6049,7 +6190,7 @@
       ]
     }
   },
-  "stream_count": 66,
+  "stream_count": 69,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
