@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-05T01:20:12+00:00",
+  "scraped_at": "2026-11-05T08:00:59+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -859,11 +859,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://temp2.shadow-ran.online/nba13.m3u8",
+            "url": "https://temp.shadow-ran.online/nba13.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-13",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp2",
+            "subdomain": "temp",
             "path": "nba13.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-13",
@@ -916,7 +916,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://temp2.formaturamaxi.com.br/nba14.m3u8",
+            "url": "https://temp.formaturamaxi.com.br/nba14.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-14",
             "headers": {
@@ -1568,11 +1568,11 @@
     ],
     "nhl": [
       {
-        "title": "Ottawa Senators vs Buffalo Sabres",
+        "title": "Calgary Flames vs Seattle Kraken",
         "sport": "nhl",
         "matchup": {
-          "home": "Ottawa Senators",
-          "away": "Buffalo Sabres"
+          "home": "Calgary Flames",
+          "away": "Seattle Kraken"
         },
         "page": "https://roxiestreams.su/nhl-streams-1",
         "streams": [
@@ -1592,12 +1592,12 @@
             },
             "drm_keys": null,
             "sport": "nhl",
-            "event_title": "Ottawa Senators vs Buffalo Sabres",
+            "event_title": "Calgary Flames vs Seattle Kraken",
             "matchup": {
-              "home": "Ottawa Senators",
-              "away": "Buffalo Sabres"
+              "home": "Calgary Flames",
+              "away": "Seattle Kraken"
             },
-            "display_name": "Ottawa Senators vs Buffalo Sabres - Stream 1"
+            "display_name": "Calgary Flames vs Seattle Kraken - Stream 1"
           },
           {
             "label": "nhl.m3u8",
@@ -1615,12 +1615,12 @@
             },
             "drm_keys": null,
             "sport": "nhl",
-            "event_title": "Ottawa Senators vs Buffalo Sabres",
+            "event_title": "Calgary Flames vs Seattle Kraken",
             "matchup": {
-              "home": "Ottawa Senators",
-              "away": "Buffalo Sabres"
+              "home": "Calgary Flames",
+              "away": "Seattle Kraken"
             },
-            "display_name": "Ottawa Senators vs Buffalo Sabres - nhl.m3u8"
+            "display_name": "Calgary Flames vs Seattle Kraken - nhl.m3u8"
           }
         ]
       },
@@ -1735,63 +1735,6 @@
               "away": "Los Angeles Kings"
             },
             "display_name": "San Jose Sharks vs Los Angeles Kings - nhl3.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Calgary Flames vs Seattle Kraken",
-        "sport": "nhl",
-        "matchup": {
-          "home": "Calgary Flames",
-          "away": "Seattle Kraken"
-        },
-        "page": "https://roxiestreams.su/nhl-streams-4",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nhl4.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nhl-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "nhl4.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nhl-streams-4",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Calgary Flames vs Seattle Kraken",
-            "matchup": {
-              "home": "Calgary Flames",
-              "away": "Seattle Kraken"
-            },
-            "display_name": "Calgary Flames vs Seattle Kraken - Stream 1"
-          },
-          {
-            "label": "nhl4.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nhl4.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nhl-streams-4",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nhl4.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nhl-streams-4",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Calgary Flames vs Seattle Kraken",
-            "matchup": {
-              "home": "Calgary Flames",
-              "away": "Seattle Kraken"
-            },
-            "display_name": "Calgary Flames vs Seattle Kraken - nhl4.m3u8"
           }
         ]
       }
@@ -4890,7 +4833,7 @@
         },
         {
           "label": "Calgary Flames vs Seattle Kraken",
-          "url": "https://roxiestreams.su/nhl-streams-4"
+          "url": "https://roxiestreams.su/nhl-streams-1"
         },
         {
           "label": "Stream Request (Discord)",
@@ -5032,72 +4975,6 @@
     },
     "https://roxiestreams.su/nhl-streams-3": {
       "url": "https://roxiestreams.su/nhl-streams-3",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        },
-        {
-          "label": "MultiView",
-          "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/NCkz2YNKSE"
-        }
-      ]
-    },
-    "https://roxiestreams.su/nhl-streams-4": {
-      "url": "https://roxiestreams.su/nhl-streams-4",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -6294,11 +6171,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://temp2.shadow-ran.online/nba13.m3u8",
+          "url": "https://temp.shadow-ran.online/nba13.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-13",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp2",
+          "subdomain": "temp",
           "path": "nba13.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-13",
@@ -6340,7 +6217,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://temp2.formaturamaxi.com.br/nba14.m3u8",
+          "url": "https://temp.formaturamaxi.com.br/nba14.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-14",
           "headers": {
@@ -6881,8 +6758,7 @@
         "https://roxiestreams.su/nhl",
         "https://roxiestreams.su/nhl-streams-1",
         "https://roxiestreams.su/nhl-streams-2",
-        "https://roxiestreams.su/nhl-streams-3",
-        "https://roxiestreams.su/nhl-streams-4"
+        "https://roxiestreams.su/nhl-streams-3"
       ],
       "streams": [
         {
@@ -6901,12 +6777,12 @@
           },
           "drm_keys": null,
           "sport": "nhl",
-          "event_title": "Ottawa Senators vs Buffalo Sabres",
+          "event_title": "Calgary Flames vs Seattle Kraken",
           "matchup": {
-            "home": "Ottawa Senators",
-            "away": "Buffalo Sabres"
+            "home": "Calgary Flames",
+            "away": "Seattle Kraken"
           },
-          "display_name": "Ottawa Senators vs Buffalo Sabres - Stream 1"
+          "display_name": "Calgary Flames vs Seattle Kraken - Stream 1"
         },
         {
           "label": "nhl.m3u8",
@@ -6924,12 +6800,12 @@
           },
           "drm_keys": null,
           "sport": "nhl",
-          "event_title": "Ottawa Senators vs Buffalo Sabres",
+          "event_title": "Calgary Flames vs Seattle Kraken",
           "matchup": {
-            "home": "Ottawa Senators",
-            "away": "Buffalo Sabres"
+            "home": "Calgary Flames",
+            "away": "Seattle Kraken"
           },
-          "display_name": "Ottawa Senators vs Buffalo Sabres - nhl.m3u8"
+          "display_name": "Calgary Flames vs Seattle Kraken - nhl.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7022,52 +6898,6 @@
             "away": "Los Angeles Kings"
           },
           "display_name": "San Jose Sharks vs Los Angeles Kings - nhl3.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nhl4.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nhl-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "nhl4.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nhl-streams-4",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Calgary Flames vs Seattle Kraken",
-          "matchup": {
-            "home": "Calgary Flames",
-            "away": "Seattle Kraken"
-          },
-          "display_name": "Calgary Flames vs Seattle Kraken - Stream 1"
-        },
-        {
-          "label": "nhl4.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nhl4.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nhl-streams-4",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nhl4.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nhl-streams-4",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Calgary Flames vs Seattle Kraken",
-          "matchup": {
-            "home": "Calgary Flames",
-            "away": "Seattle Kraken"
-          },
-          "display_name": "Calgary Flames vs Seattle Kraken - nhl4.m3u8"
         }
       ]
     },
@@ -7327,7 +7157,7 @@
       ]
     }
   },
-  "stream_count": 73,
+  "stream_count": 71,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
