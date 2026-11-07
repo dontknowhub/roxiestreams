@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-07T08:58:55+00:00",
+  "scraped_at": "2026-11-07T15:26:17+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -3074,6 +3074,26 @@
         "streams": [
           {
             "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/main.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/f1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "main.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/f1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "f1",
+            "event_title": "Formula 1",
+            "matchup": null,
+            "display_name": "Formula 1 - Stream 1"
+          },
+          {
+            "label": "Stream 2",
             "url": "https://admin2.shadow-ran.online/f1.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/f1",
@@ -3090,16 +3110,16 @@
             "sport": "f1",
             "event_title": "Formula 1",
             "matchup": null,
-            "display_name": "Formula 1 - Stream 1"
+            "display_name": "Formula 1 - Stream 2"
           },
           {
-            "label": "f1.m3u8",
-            "url": "https://daffodil.shadow-ran.online/f1.m3u8",
+            "label": "main.m3u8",
+            "url": "https://daffodil.shadow-ran.online/main.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/f1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "f1.m3u8",
+            "path": "main.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/f1",
               "Origin": "https://roxiestreams.su",
@@ -3110,7 +3130,7 @@
             "sport": "f1",
             "event_title": "Formula 1",
             "matchup": null,
-            "display_name": "Formula 1 - f1.m3u8"
+            "display_name": "Formula 1 - main.m3u8"
           }
         ]
       }
@@ -8443,6 +8463,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -11031,6 +11052,26 @@
       "streams": [
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/main.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/f1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "main.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/f1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "f1",
+          "event_title": "Formula 1",
+          "matchup": null,
+          "display_name": "Formula 1 - Stream 1"
+        },
+        {
+          "label": "Stream 2",
           "url": "https://admin2.shadow-ran.online/f1.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/f1",
@@ -11047,16 +11088,16 @@
           "sport": "f1",
           "event_title": "Formula 1",
           "matchup": null,
-          "display_name": "Formula 1 - Stream 1"
+          "display_name": "Formula 1 - Stream 2"
         },
         {
-          "label": "f1.m3u8",
-          "url": "https://daffodil.shadow-ran.online/f1.m3u8",
+          "label": "main.m3u8",
+          "url": "https://daffodil.shadow-ran.online/main.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/f1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "f1.m3u8",
+          "path": "main.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/f1",
             "Origin": "https://roxiestreams.su",
@@ -11067,7 +11108,7 @@
           "sport": "f1",
           "event_title": "Formula 1",
           "matchup": null,
-          "display_name": "Formula 1 - f1.m3u8"
+          "display_name": "Formula 1 - main.m3u8"
         }
       ]
     },
@@ -11238,7 +11279,7 @@
       ]
     }
   },
-  "stream_count": 114,
+  "stream_count": 115,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
