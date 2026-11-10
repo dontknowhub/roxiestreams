@@ -1,19 +1,14 @@
 {
-  "scraped_at": "2026-11-10T15:54:49+00:00",
+  "scraped_at": "2026-11-10T21:32:42+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
     {
-      "name": "WWE RAW",
+      "name": "WWE NXT",
       "page": "https://roxiestreams.su/wwe-streams",
-      "start_time": "November 9, 2026 5:00 PM"
-    },
-    {
-      "name": "NFL (MNF)",
-      "page": "https://roxiestreams.su/nfl",
-      "start_time": "November 9, 2026 5:15 PM"
+      "start_time": "November 10, 2026 5:00 PM"
     }
   ],
   "events_by_sport": {
@@ -29,12 +24,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/tnt.m3u8",
+            "url": "https://admin2.shadow-ran.online/gill.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "tnt.m3u8",
+            "path": "gill.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -51,13 +46,13 @@
             "display_name": "Northampton Town vs Gillingham - Stream 1"
           },
           {
-            "label": "tnt.m3u8",
-            "url": "https://daffodil.shadow-ran.online/tnt.m3u8",
+            "label": "gill.m3u8",
+            "url": "https://daffodil.shadow-ran.online/gill.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "tnt.m3u8",
+            "path": "gill.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-1",
               "Origin": "https://roxiestreams.su",
@@ -71,7 +66,64 @@
               "home": "Northampton Town",
               "away": "Gillingham"
             },
-            "display_name": "Northampton Town vs Gillingham - tnt.m3u8"
+            "display_name": "Northampton Town vs Gillingham - gill.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Leicester City vs Walsall",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Leicester City",
+          "away": "Walsall"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-2",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/wall.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "wall.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Leicester City vs Walsall",
+            "matchup": {
+              "home": "Leicester City",
+              "away": "Walsall"
+            },
+            "display_name": "Leicester City vs Walsall - Stream 1"
+          },
+          {
+            "label": "wall.m3u8",
+            "url": "https://daffodil.shadow-ran.online/wall.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "wall.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Leicester City vs Walsall",
+            "matchup": {
+              "home": "Leicester City",
+              "away": "Walsall"
+            },
+            "display_name": "Leicester City vs Walsall - wall.m3u8"
           }
         ]
       }
@@ -2703,12 +2755,12 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/tnt.m3u8",
+          "url": "https://admin2.shadow-ran.online/gill.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "tnt.m3u8",
+          "path": "gill.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -2725,13 +2777,13 @@
           "display_name": "Northampton Town vs Gillingham - Stream 1"
         },
         {
-          "label": "tnt.m3u8",
-          "url": "https://daffodil.shadow-ran.online/tnt.m3u8",
+          "label": "gill.m3u8",
+          "url": "https://daffodil.shadow-ran.online/gill.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-1",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "tnt.m3u8",
+          "path": "gill.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-1",
             "Origin": "https://roxiestreams.su",
@@ -2745,7 +2797,53 @@
             "home": "Northampton Town",
             "away": "Gillingham"
           },
-          "display_name": "Northampton Town vs Gillingham - tnt.m3u8"
+          "display_name": "Northampton Town vs Gillingham - gill.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/wall.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "wall.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Leicester City vs Walsall",
+          "matchup": {
+            "home": "Leicester City",
+            "away": "Walsall"
+          },
+          "display_name": "Leicester City vs Walsall - Stream 1"
+        },
+        {
+          "label": "wall.m3u8",
+          "url": "https://daffodil.shadow-ran.online/wall.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "wall.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Leicester City vs Walsall",
+          "matchup": {
+            "home": "Leicester City",
+            "away": "Walsall"
+          },
+          "display_name": "Leicester City vs Walsall - wall.m3u8"
         }
       ]
     },
@@ -3503,7 +3601,7 @@
       ]
     }
   },
-  "stream_count": 33,
+  "stream_count": 35,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
