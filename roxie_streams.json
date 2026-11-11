@@ -1,10 +1,15 @@
 {
-  "scraped_at": "2026-11-10T21:32:42+00:00",
+  "scraped_at": "2026-11-11T01:34:49+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
   ],
   "events": [
+    {
+      "name": "NCAA (CFB)",
+      "page": "https://roxiestreams.su/nfl",
+      "start_time": "November 10, 2026 4:00 PM"
+    },
     {
       "name": "WWE NXT",
       "page": "https://roxiestreams.su/wwe-streams",
@@ -188,21 +193,21 @@
         ]
       },
       {
-        "title": "Boston Celtics vs Philadelphia 76ers",
+        "title": "Oklahoma City Thunder vs Portland Trail Blazers",
         "sport": "nba",
         "matchup": {
-          "home": "Boston Celtics",
-          "away": "Philadelphia 76ers"
+          "home": "Oklahoma City Thunder",
+          "away": "Portland Trail Blazers"
         },
         "page": "https://roxiestreams.su/nba-streams-2",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nba2.m3u8",
+            "url": "https://admin2.shadow-ran.online/nba2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
+            "subdomain": "admin2",
             "path": "nba2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-2",
@@ -212,12 +217,35 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Boston Celtics vs Philadelphia 76ers",
+            "event_title": "Oklahoma City Thunder vs Portland Trail Blazers",
             "matchup": {
-              "home": "Boston Celtics",
-              "away": "Philadelphia 76ers"
+              "home": "Oklahoma City Thunder",
+              "away": "Portland Trail Blazers"
             },
-            "display_name": "Boston Celtics vs Philadelphia 76ers - Stream 1"
+            "display_name": "Oklahoma City Thunder vs Portland Trail Blazers - Stream 1"
+          },
+          {
+            "label": "Stream 2",
+            "url": "https://admin2.shadow-ran.online/nbc.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nba-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "nbc.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nba-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nba",
+            "event_title": "Oklahoma City Thunder vs Portland Trail Blazers",
+            "matchup": {
+              "home": "Oklahoma City Thunder",
+              "away": "Portland Trail Blazers"
+            },
+            "display_name": "Oklahoma City Thunder vs Portland Trail Blazers - Stream 2"
           },
           {
             "label": "nba2.m3u8",
@@ -235,12 +263,12 @@
             },
             "drm_keys": null,
             "sport": "nba",
-            "event_title": "Boston Celtics vs Philadelphia 76ers",
+            "event_title": "Oklahoma City Thunder vs Portland Trail Blazers",
             "matchup": {
-              "home": "Boston Celtics",
-              "away": "Philadelphia 76ers"
+              "home": "Oklahoma City Thunder",
+              "away": "Portland Trail Blazers"
             },
-            "display_name": "Boston Celtics vs Philadelphia 76ers - nba2.m3u8"
+            "display_name": "Oklahoma City Thunder vs Portland Trail Blazers - nba2.m3u8"
           }
         ]
       },
@@ -414,66 +442,181 @@
             "display_name": "Orlando Magic vs Sacramento Kings - nba5.m3u8"
           }
         ]
-      },
+      }
+    ],
+    "nfl": [
       {
-        "title": "Oklahoma City Thunder vs Portland Trail Blazers",
-        "sport": "nba",
+        "title": "Western Michigan vs Akron",
+        "sport": "nfl",
         "matchup": {
-          "home": "Oklahoma City Thunder",
-          "away": "Portland Trail Blazers"
+          "home": "Western Michigan",
+          "away": "Akron"
         },
-        "page": "https://roxiestreams.su/nba-streams-6",
+        "page": "https://roxiestreams.su/ncaa-streams-1",
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba6.m3u8",
+            "url": "https://admin2.shadow-ran.online/ncaa.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nba-streams-6",
+            "source_page": "https://roxiestreams.su/ncaa-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "nba6.m3u8",
+            "path": "ncaa.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.su/nba-streams-6",
+              "Referer": "https://roxiestreams.su/ncaa-streams-1",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Oklahoma City Thunder vs Portland Trail Blazers",
+            "sport": "nfl",
+            "event_title": "Western Michigan vs Akron",
             "matchup": {
-              "home": "Oklahoma City Thunder",
-              "away": "Portland Trail Blazers"
+              "home": "Western Michigan",
+              "away": "Akron"
             },
-            "display_name": "Oklahoma City Thunder vs Portland Trail Blazers - Stream 1"
+            "display_name": "Western Michigan vs Akron - Stream 1"
           },
           {
-            "label": "nba6.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nba6.m3u8",
+            "label": "ncaa.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ncaa.m3u8",
             "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nba-streams-6",
+            "source_page": "https://roxiestreams.su/ncaa-streams-1",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "nba6.m3u8",
+            "path": "ncaa.m3u8",
             "headers": {
-              "Referer": "https://roxiestreams.su/nba-streams-6",
+              "Referer": "https://roxiestreams.su/ncaa-streams-1",
               "Origin": "https://roxiestreams.su",
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
               "Accept": "*/*"
             },
             "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Oklahoma City Thunder vs Portland Trail Blazers",
+            "sport": "nfl",
+            "event_title": "Western Michigan vs Akron",
             "matchup": {
-              "home": "Oklahoma City Thunder",
-              "away": "Portland Trail Blazers"
+              "home": "Western Michigan",
+              "away": "Akron"
             },
-            "display_name": "Oklahoma City Thunder vs Portland Trail Blazers - nba6.m3u8"
+            "display_name": "Western Michigan vs Akron - ncaa.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Kent State vs Bowling Green",
+        "sport": "nfl",
+        "matchup": {
+          "home": "Kent State",
+          "away": "Bowling Green"
+        },
+        "page": "https://roxiestreams.su/ncaa-streams-2",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/ncaa2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ncaa-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "ncaa2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ncaa-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Kent State vs Bowling Green",
+            "matchup": {
+              "home": "Kent State",
+              "away": "Bowling Green"
+            },
+            "display_name": "Kent State vs Bowling Green - Stream 1"
+          },
+          {
+            "label": "ncaa2.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ncaa2.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ncaa-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ncaa2.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ncaa-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Kent State vs Bowling Green",
+            "matchup": {
+              "home": "Kent State",
+              "away": "Bowling Green"
+            },
+            "display_name": "Kent State vs Bowling Green - ncaa2.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Ohio vs Miami (OH)",
+        "sport": "nfl",
+        "matchup": {
+          "home": "Ohio",
+          "away": "Miami (OH)"
+        },
+        "page": "https://roxiestreams.su/ncaa-streams-3",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/ncaa3.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ncaa-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "ncaa3.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ncaa-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Ohio vs Miami (OH)",
+            "matchup": {
+              "home": "Ohio",
+              "away": "Miami (OH)"
+            },
+            "display_name": "Ohio vs Miami (OH) - Stream 1"
+          },
+          {
+            "label": "ncaa3.m3u8",
+            "url": "https://daffodil.shadow-ran.online/ncaa3.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/ncaa-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "ncaa3.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/ncaa-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nfl",
+            "event_title": "Ohio vs Miami (OH)",
+            "matchup": {
+              "home": "Ohio",
+              "away": "Miami (OH)"
+            },
+            "display_name": "Ohio vs Miami (OH) - ncaa3.m3u8"
           }
         ]
       }
     ],
-    "nfl": [],
     "nhl": [
       {
         "title": "Colorado Avalanche vs Toronto Maple Leafs",
@@ -486,11 +629,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nhl.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "nhl.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nhl-streams-1",
@@ -600,11 +743,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nhl3.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nhl3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "nhl3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nhl-streams-3",
@@ -714,7 +857,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
+            "url": "https://tedesco.formaturamaxi.com.br/nhl5.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-5",
             "headers": {
@@ -825,26 +968,6 @@
             "display_name": "WWE NXT - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/wwealt.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wwe-streams",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "wwealt.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/wwe-streams",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "fighting",
-            "event_title": "WWE NXT",
-            "matchup": null,
-            "display_name": "WWE NXT - Stream 2"
-          },
-          {
             "label": "wwe.m3u8",
             "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
             "type": "m3u8",
@@ -953,26 +1076,6 @@
             "event_title": "WWE NXT",
             "matchup": null,
             "display_name": "WWE NXT - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/wwealt.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/wwe-streams",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "wwealt.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/wwe-streams",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "wwe",
-            "event_title": "WWE NXT",
-            "matchup": null,
-            "display_name": "WWE NXT - Stream 2"
           },
           {
             "label": "wwe.m3u8",
@@ -1362,7 +1465,7 @@
         },
         {
           "label": "Oklahoma City Thunder vs Portland Trail Blazers",
-          "url": "https://roxiestreams.su/nba-streams-6"
+          "url": "https://roxiestreams.su/nba-streams-2"
         },
         {
           "label": "Stream Request (Discord)",
@@ -1452,6 +1555,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -1700,8 +1804,85 @@
         }
       ]
     },
-    "https://roxiestreams.su/nba-streams-6": {
-      "url": "https://roxiestreams.su/nba-streams-6",
+    "https://roxiestreams.su/nfl": {
+      "url": "https://roxiestreams.su/nfl",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [
+        "Upcoming NFL Events",
+        "College Football Games"
+      ],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView",
+        "Western Michigan vs Akron",
+        "Kent State vs Bowling Green",
+        "Ohio vs Miami (OH)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Western Michigan vs Akron",
+          "url": "https://roxiestreams.su/ncaa-streams-1"
+        },
+        {
+          "label": "Kent State vs Bowling Green",
+          "url": "https://roxiestreams.su/ncaa-streams-2"
+        },
+        {
+          "label": "Ohio vs Miami (OH)",
+          "url": "https://roxiestreams.su/ncaa-streams-3"
+        }
+      ]
+    },
+    "https://roxiestreams.su/ncaa-streams-1": {
+      "url": "https://roxiestreams.su/ncaa-streams-1",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -1766,12 +1947,10 @@
         }
       ]
     },
-    "https://roxiestreams.su/nfl": {
-      "url": "https://roxiestreams.su/nfl",
+    "https://roxiestreams.su/ncaa-streams-2": {
+      "url": "https://roxiestreams.su/ncaa-streams-2",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [
-        "Upcoming NFL Events"
-      ],
+      "headings": [],
       "controls": [
         "RoxieStreams",
         "Soccer",
@@ -1782,7 +1961,10 @@
         "Fighting",
         "Motorsports",
         "Stream Request (Discord)",
-        "MultiView"
+        "MultiView",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
       ],
       "links": [
         {
@@ -1824,6 +2006,76 @@
         {
           "label": "MultiView",
           "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        }
+      ]
+    },
+    "https://roxiestreams.su/ncaa-streams-3": {
+      "url": "https://roxiestreams.su/ncaa-streams-3",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
+        },
+        {
+          "label": "MultiView",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/NCkz2YNKSE"
         }
       ]
     },
@@ -2477,7 +2729,6 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2860,8 +3111,7 @@
         "https://roxiestreams.su/nba-streams-2",
         "https://roxiestreams.su/nba-streams-3",
         "https://roxiestreams.su/nba-streams-4",
-        "https://roxiestreams.su/nba-streams-5",
-        "https://roxiestreams.su/nba-streams-6"
+        "https://roxiestreams.su/nba-streams-5"
       ],
       "streams": [
         {
@@ -2912,11 +3162,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nba2.m3u8",
+          "url": "https://admin2.shadow-ran.online/nba2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
+          "subdomain": "admin2",
           "path": "nba2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-2",
@@ -2926,12 +3176,35 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Boston Celtics vs Philadelphia 76ers",
+          "event_title": "Oklahoma City Thunder vs Portland Trail Blazers",
           "matchup": {
-            "home": "Boston Celtics",
-            "away": "Philadelphia 76ers"
+            "home": "Oklahoma City Thunder",
+            "away": "Portland Trail Blazers"
           },
-          "display_name": "Boston Celtics vs Philadelphia 76ers - Stream 1"
+          "display_name": "Oklahoma City Thunder vs Portland Trail Blazers - Stream 1"
+        },
+        {
+          "label": "Stream 2",
+          "url": "https://admin2.shadow-ran.online/nbc.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nba-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "nbc.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nba-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nba",
+          "event_title": "Oklahoma City Thunder vs Portland Trail Blazers",
+          "matchup": {
+            "home": "Oklahoma City Thunder",
+            "away": "Portland Trail Blazers"
+          },
+          "display_name": "Oklahoma City Thunder vs Portland Trail Blazers - Stream 2"
         },
         {
           "label": "nba2.m3u8",
@@ -2949,12 +3222,12 @@
           },
           "drm_keys": null,
           "sport": "nba",
-          "event_title": "Boston Celtics vs Philadelphia 76ers",
+          "event_title": "Oklahoma City Thunder vs Portland Trail Blazers",
           "matchup": {
-            "home": "Boston Celtics",
-            "away": "Philadelphia 76ers"
+            "home": "Oklahoma City Thunder",
+            "away": "Portland Trail Blazers"
           },
-          "display_name": "Boston Celtics vs Philadelphia 76ers - nba2.m3u8"
+          "display_name": "Oklahoma City Thunder vs Portland Trail Blazers - nba2.m3u8"
         },
         {
           "label": "Stream 1",
@@ -3093,60 +3366,156 @@
             "away": "Sacramento Kings"
           },
           "display_name": "Orlando Magic vs Sacramento Kings - nba5.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba6.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nba-streams-6",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "nba6.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nba-streams-6",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Oklahoma City Thunder vs Portland Trail Blazers",
-          "matchup": {
-            "home": "Oklahoma City Thunder",
-            "away": "Portland Trail Blazers"
-          },
-          "display_name": "Oklahoma City Thunder vs Portland Trail Blazers - Stream 1"
-        },
-        {
-          "label": "nba6.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nba6.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nba-streams-6",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nba6.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nba-streams-6",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Oklahoma City Thunder vs Portland Trail Blazers",
-          "matchup": {
-            "home": "Oklahoma City Thunder",
-            "away": "Portland Trail Blazers"
-          },
-          "display_name": "Oklahoma City Thunder vs Portland Trail Blazers - nba6.m3u8"
         }
       ]
     },
     "nfl": {
       "pages": [
-        "https://roxiestreams.su/nfl"
+        "https://roxiestreams.su/nfl",
+        "https://roxiestreams.su/ncaa-streams-1",
+        "https://roxiestreams.su/ncaa-streams-2",
+        "https://roxiestreams.su/ncaa-streams-3"
       ],
-      "streams": []
+      "streams": [
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/ncaa.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ncaa-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "ncaa.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ncaa-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Western Michigan vs Akron",
+          "matchup": {
+            "home": "Western Michigan",
+            "away": "Akron"
+          },
+          "display_name": "Western Michigan vs Akron - Stream 1"
+        },
+        {
+          "label": "ncaa.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ncaa.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ncaa-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ncaa.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ncaa-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Western Michigan vs Akron",
+          "matchup": {
+            "home": "Western Michigan",
+            "away": "Akron"
+          },
+          "display_name": "Western Michigan vs Akron - ncaa.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/ncaa2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ncaa-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "ncaa2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ncaa-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Kent State vs Bowling Green",
+          "matchup": {
+            "home": "Kent State",
+            "away": "Bowling Green"
+          },
+          "display_name": "Kent State vs Bowling Green - Stream 1"
+        },
+        {
+          "label": "ncaa2.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ncaa2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ncaa-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ncaa2.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ncaa-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Kent State vs Bowling Green",
+          "matchup": {
+            "home": "Kent State",
+            "away": "Bowling Green"
+          },
+          "display_name": "Kent State vs Bowling Green - ncaa2.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/ncaa3.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ncaa-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "ncaa3.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ncaa-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Ohio vs Miami (OH)",
+          "matchup": {
+            "home": "Ohio",
+            "away": "Miami (OH)"
+          },
+          "display_name": "Ohio vs Miami (OH) - Stream 1"
+        },
+        {
+          "label": "ncaa3.m3u8",
+          "url": "https://daffodil.shadow-ran.online/ncaa3.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/ncaa-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "ncaa3.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/ncaa-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nfl",
+          "event_title": "Ohio vs Miami (OH)",
+          "matchup": {
+            "home": "Ohio",
+            "away": "Miami (OH)"
+          },
+          "display_name": "Ohio vs Miami (OH) - ncaa3.m3u8"
+        }
+      ]
     },
     "nhl": {
       "pages": [
@@ -3162,11 +3531,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nhl.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nhl.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "nhl.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nhl-streams-1",
@@ -3254,11 +3623,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nhl3.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nhl3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "nhl3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nhl-streams-3",
@@ -3346,7 +3715,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
+          "url": "https://tedesco.formaturamaxi.com.br/nhl5.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-5",
           "headers": {
@@ -3431,26 +3800,6 @@
           "event_title": "WWE NXT",
           "matchup": null,
           "display_name": "WWE NXT - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/wwealt.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wwe-streams",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "wwealt.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/wwe-streams",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "fighting",
-          "event_title": "WWE NXT",
-          "matchup": null,
-          "display_name": "WWE NXT - Stream 2"
         },
         {
           "label": "wwe.m3u8",
@@ -3559,26 +3908,6 @@
           "display_name": "WWE NXT - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/wwealt.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/wwe-streams",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "wwealt.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/wwe-streams",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "wwe",
-          "event_title": "WWE NXT",
-          "matchup": null,
-          "display_name": "WWE NXT - Stream 2"
-        },
-        {
           "label": "wwe.m3u8",
           "url": "https://daffodil.shadow-ran.online/wwe.m3u8",
           "type": "m3u8",
@@ -3601,7 +3930,7 @@
       ]
     }
   },
-  "stream_count": 35,
+  "stream_count": 38,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
