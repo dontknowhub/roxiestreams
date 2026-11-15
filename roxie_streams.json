@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-15T19:54:24+00:00",
+  "scraped_at": "2026-11-15T23:38:17+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -199,12 +199,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/fs2.m3u8",
+            "url": "https://admin2.shadow-ran.online/concacaf.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "fs2.m3u8",
+            "path": "concacaf.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -221,13 +221,13 @@
             "display_name": "Panama vs Curaçao - Stream 1"
           },
           {
-            "label": "fs2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fs2.m3u8",
+            "label": "Stream 2 (ES)",
+            "url": "https://admin2.shadow-ran.online/tudnus.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "fs2.m3u8",
+            "subdomain": "admin2",
+            "path": "tudnus.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -241,7 +241,30 @@
               "home": "Panama",
               "away": "Curaçao"
             },
-            "display_name": "Panama vs Curaçao - fs2.m3u8"
+            "display_name": "Panama vs Curaçao - Stream 2 (ES)"
+          },
+          {
+            "label": "concacaf.m3u8",
+            "url": "https://daffodil.shadow-ran.online/concacaf.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "concacaf.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Panama vs Curaçao",
+            "matchup": {
+              "home": "Panama",
+              "away": "Curaçao"
+            },
+            "display_name": "Panama vs Curaçao - concacaf.m3u8"
           }
         ]
       },
@@ -420,63 +443,6 @@
         ]
       },
       {
-        "title": "Los Angeles Lakers vs Phoenix Suns",
-        "sport": "nba",
-        "matchup": {
-          "home": "Los Angeles Lakers",
-          "away": "Phoenix Suns"
-        },
-        "page": "https://roxiestreams.su/nba-streams-2",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nba-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "nba2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nba-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Los Angeles Lakers vs Phoenix Suns",
-            "matchup": {
-              "home": "Los Angeles Lakers",
-              "away": "Phoenix Suns"
-            },
-            "display_name": "Los Angeles Lakers vs Phoenix Suns - Stream 1"
-          },
-          {
-            "label": "nba2.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nba2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nba-streams-2",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nba2.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nba-streams-2",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nba",
-            "event_title": "Los Angeles Lakers vs Phoenix Suns",
-            "matchup": {
-              "home": "Los Angeles Lakers",
-              "away": "Phoenix Suns"
-            },
-            "display_name": "Los Angeles Lakers vs Phoenix Suns - nba2.m3u8"
-          }
-        ]
-      },
-      {
         "title": "Charlotte Hornets vs Los Angeles Clippers",
         "sport": "nba",
         "matchup": {
@@ -487,11 +453,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nba3.m3u8",
+            "url": "https://admin.shadow-ran.online/nba3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nba-streams-3",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "admin",
             "path": "nba3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nba-streams-3",
@@ -1071,12 +1037,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nflalt.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nfl10.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-10",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "nflalt.m3u8",
+            "subdomain": "tedesco",
+            "path": "nfl10.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -1094,12 +1060,12 @@
           },
           {
             "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/packers.m3u8",
+            "url": "https://temp.shadow-ran.online/rams.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-10",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "packers.m3u8",
+            "subdomain": "temp",
+            "path": "rams.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -1116,13 +1082,13 @@
             "display_name": "Los Angeles Rams vs Arizona Cardinals - Stream 2"
           },
           {
-            "label": "nflalt.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nflalt.m3u8",
+            "label": "nfl10.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nfl10.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "nflalt.m3u8",
+            "path": "nfl10.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -1136,87 +1102,7 @@
               "home": "Los Angeles Rams",
               "away": "Arizona Cardinals"
             },
-            "display_name": "Los Angeles Rams vs Arizona Cardinals - nflalt.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "San Francisco 49ers vs Dallas Cowboys",
-        "sport": "nfl",
-        "matchup": {
-          "home": "San Francisco 49ers",
-          "away": "Dallas Cowboys"
-        },
-        "page": "https://roxiestreams.su/nfl-streams-11",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/nfl4.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nfl-streams-11",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
-            "path": "nfl4.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nfl-streams-11",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "San Francisco 49ers vs Dallas Cowboys",
-            "matchup": {
-              "home": "San Francisco 49ers",
-              "away": "Dallas Cowboys"
-            },
-            "display_name": "San Francisco 49ers vs Dallas Cowboys - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/nfl11.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nfl-streams-11",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "nfl11.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nfl-streams-11",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "San Francisco 49ers vs Dallas Cowboys",
-            "matchup": {
-              "home": "San Francisco 49ers",
-              "away": "Dallas Cowboys"
-            },
-            "display_name": "San Francisco 49ers vs Dallas Cowboys - Stream 2"
-          },
-          {
-            "label": "nfl4.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nfl4.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nfl-streams-11",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nfl4.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nfl-streams-11",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "San Francisco 49ers vs Dallas Cowboys",
-            "matchup": {
-              "home": "San Francisco 49ers",
-              "away": "Dallas Cowboys"
-            },
-            "display_name": "San Francisco 49ers vs Dallas Cowboys - nfl4.m3u8"
+            "display_name": "Los Angeles Rams vs Arizona Cardinals - nfl10.m3u8"
           }
         ]
       },
@@ -1231,12 +1117,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nfl12.m3u8",
+            "url": "https://admin2.shadow-ran.online/darts.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "nfl12.m3u8",
+            "path": "darts.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-12",
               "Origin": "https://roxiestreams.su",
@@ -1253,36 +1139,13 @@
             "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - Stream 1"
           },
           {
-            "label": "Stream 2",
-            "url": "https://tedesco.shadow-ran.online/seahawks.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nfl-streams-12",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "seahawks.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nfl-streams-12",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "Pittsburgh Steelers vs Cincinnati Bengals",
-            "matchup": {
-              "home": "Pittsburgh Steelers",
-              "away": "Cincinnati Bengals"
-            },
-            "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - Stream 2"
-          },
-          {
-            "label": "nfl12.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nfl12.m3u8",
+            "label": "darts.m3u8",
+            "url": "https://daffodil.shadow-ran.online/darts.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nfl-streams-12",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "nfl12.m3u8",
+            "path": "darts.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nfl-streams-12",
               "Origin": "https://roxiestreams.su",
@@ -1296,7 +1159,7 @@
               "home": "Pittsburgh Steelers",
               "away": "Cincinnati Bengals"
             },
-            "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - nfl12.m3u8"
+            "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - darts.m3u8"
           }
         ]
       },
@@ -1664,86 +1527,6 @@
             "display_name": "Buffalo Bills vs New York Jets - nfl8.m3u8"
           }
         ]
-      },
-      {
-        "title": "Seattle Seahawks vs Las Vegas Raiders",
-        "sport": "nfl",
-        "matchup": {
-          "home": "Seattle Seahawks",
-          "away": "Las Vegas Raiders"
-        },
-        "page": "https://roxiestreams.su/nfl-streams-9",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://temp.shadow-ran.online/nfl9.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nfl-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "temp",
-            "path": "nfl9.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nfl-streams-9",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "Seattle Seahawks vs Las Vegas Raiders",
-            "matchup": {
-              "home": "Seattle Seahawks",
-              "away": "Las Vegas Raiders"
-            },
-            "display_name": "Seattle Seahawks vs Las Vegas Raiders - Stream 1"
-          },
-          {
-            "label": "Stream 2",
-            "url": "https://admin2.shadow-ran.online/nfl9.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nfl-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "nfl9.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nfl-streams-9",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "Seattle Seahawks vs Las Vegas Raiders",
-            "matchup": {
-              "home": "Seattle Seahawks",
-              "away": "Las Vegas Raiders"
-            },
-            "display_name": "Seattle Seahawks vs Las Vegas Raiders - Stream 2"
-          },
-          {
-            "label": "nfl9.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nfl9.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nfl-streams-9",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nfl9.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nfl-streams-9",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nfl",
-            "event_title": "Seattle Seahawks vs Las Vegas Raiders",
-            "matchup": {
-              "home": "Seattle Seahawks",
-              "away": "Las Vegas Raiders"
-            },
-            "display_name": "Seattle Seahawks vs Las Vegas Raiders - nfl9.m3u8"
-          }
-        ]
       }
     ],
     "nhl": [
@@ -1805,6 +1588,63 @@
         ]
       },
       {
+        "title": "Calgary Flames vs Anaheim Ducks",
+        "sport": "nhl",
+        "matchup": {
+          "home": "Calgary Flames",
+          "away": "Anaheim Ducks"
+        },
+        "page": "https://roxiestreams.su/nba-streams-1",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/nba.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nba-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "nba.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nba-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Calgary Flames vs Anaheim Ducks",
+            "matchup": {
+              "home": "Calgary Flames",
+              "away": "Anaheim Ducks"
+            },
+            "display_name": "Calgary Flames vs Anaheim Ducks - Stream 1"
+          },
+          {
+            "label": "nba.m3u8",
+            "url": "https://daffodil.shadow-ran.online/nba.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nba-streams-1",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "nba.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nba-streams-1",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Calgary Flames vs Anaheim Ducks",
+            "matchup": {
+              "home": "Calgary Flames",
+              "away": "Anaheim Ducks"
+            },
+            "display_name": "Calgary Flames vs Anaheim Ducks - nba.m3u8"
+          }
+        ]
+      },
+      {
         "title": "Florida Panthers vs Dallas Stars",
         "sport": "nhl",
         "matchup": {
@@ -1858,63 +1698,6 @@
               "away": "Dallas Stars"
             },
             "display_name": "Florida Panthers vs Dallas Stars - nhl2.m3u8"
-          }
-        ]
-      },
-      {
-        "title": "Calgary Flames vs Anaheim Ducks",
-        "sport": "nhl",
-        "matchup": {
-          "home": "Calgary Flames",
-          "away": "Anaheim Ducks"
-        },
-        "page": "https://roxiestreams.su/nhl-streams-3",
-        "streams": [
-          {
-            "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/nhl3.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nhl-streams-3",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "nhl3.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nhl-streams-3",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Calgary Flames vs Anaheim Ducks",
-            "matchup": {
-              "home": "Calgary Flames",
-              "away": "Anaheim Ducks"
-            },
-            "display_name": "Calgary Flames vs Anaheim Ducks - Stream 1"
-          },
-          {
-            "label": "nhl3.m3u8",
-            "url": "https://daffodil.shadow-ran.online/nhl3.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nhl-streams-3",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "nhl3.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nhl-streams-3",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Calgary Flames vs Anaheim Ducks",
-            "matchup": {
-              "home": "Calgary Flames",
-              "away": "Anaheim Ducks"
-            },
-            "display_name": "Calgary Flames vs Anaheim Ducks - nhl3.m3u8"
           }
         ]
       },
@@ -2487,6 +2270,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (ES)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3792,6 +3576,7 @@
         "MultiView",
         "Stream 1",
         "Stream 2",
+        "Stream 3",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3858,7 +3643,6 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4516,7 +4300,7 @@
         },
         {
           "label": "Calgary Flames vs Anaheim Ducks",
-          "url": "https://roxiestreams.su/nhl-streams-3"
+          "url": "https://roxiestreams.su/nba-streams-1"
         },
         {
           "label": "Vancouver Canucks vs Vegas Golden Knights",
@@ -4600,72 +4384,6 @@
     },
     "https://roxiestreams.su/nhl-streams-2": {
       "url": "https://roxiestreams.su/nhl-streams-2",
-      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
-      "headings": [],
-      "controls": [
-        "RoxieStreams",
-        "Soccer",
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL",
-        "Fighting",
-        "Motorsports",
-        "Stream Request (Discord)",
-        "MultiView",
-        "Stream 1",
-        "Switch to Chatango",
-        "Stream Request (Discord)"
-      ],
-      "links": [
-        {
-          "label": "RoxieStreams",
-          "url": "https://roxiestreams.su/"
-        },
-        {
-          "label": "Soccer",
-          "url": "https://roxiestreams.su/soccer"
-        },
-        {
-          "label": "MLB",
-          "url": "https://roxiestreams.su/mlb"
-        },
-        {
-          "label": "NBA",
-          "url": "https://roxiestreams.su/nba"
-        },
-        {
-          "label": "NFL",
-          "url": "https://roxiestreams.su/nfl"
-        },
-        {
-          "label": "NHL",
-          "url": "https://roxiestreams.su/nhl"
-        },
-        {
-          "label": "Fighting",
-          "url": "https://roxiestreams.su/fighting"
-        },
-        {
-          "label": "Motorsports",
-          "url": "https://roxiestreams.su/motorsports"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/DT9g7K3ZSM"
-        },
-        {
-          "label": "MultiView",
-          "url": "https://roxiestreams.su/multiview"
-        },
-        {
-          "label": "Stream Request (Discord)",
-          "url": "https://discord.gg/DT9g7K3ZSM"
-        }
-      ]
-    },
-    "https://roxiestreams.su/nhl-streams-3": {
-      "url": "https://roxiestreams.su/nhl-streams-3",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -5435,12 +5153,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/fs2.m3u8",
+          "url": "https://admin2.shadow-ran.online/concacaf.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "fs2.m3u8",
+          "path": "concacaf.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -5457,13 +5175,13 @@
           "display_name": "Panama vs Curaçao - Stream 1"
         },
         {
-          "label": "fs2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fs2.m3u8",
+          "label": "Stream 2 (ES)",
+          "url": "https://admin2.shadow-ran.online/tudnus.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "fs2.m3u8",
+          "subdomain": "admin2",
+          "path": "tudnus.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -5477,7 +5195,30 @@
             "home": "Panama",
             "away": "Curaçao"
           },
-          "display_name": "Panama vs Curaçao - fs2.m3u8"
+          "display_name": "Panama vs Curaçao - Stream 2 (ES)"
+        },
+        {
+          "label": "concacaf.m3u8",
+          "url": "https://daffodil.shadow-ran.online/concacaf.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "concacaf.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Panama vs Curaçao",
+          "matchup": {
+            "home": "Panama",
+            "away": "Curaçao"
+          },
+          "display_name": "Panama vs Curaçao - concacaf.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5641,57 +5382,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nba-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "nba2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nba-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Los Angeles Lakers vs Phoenix Suns",
-          "matchup": {
-            "home": "Los Angeles Lakers",
-            "away": "Phoenix Suns"
-          },
-          "display_name": "Los Angeles Lakers vs Phoenix Suns - Stream 1"
-        },
-        {
-          "label": "nba2.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nba2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nba-streams-2",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nba2.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nba-streams-2",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nba",
-          "event_title": "Los Angeles Lakers vs Phoenix Suns",
-          "matchup": {
-            "home": "Los Angeles Lakers",
-            "away": "Phoenix Suns"
-          },
-          "display_name": "Los Angeles Lakers vs Phoenix Suns - nba2.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nba3.m3u8",
+          "url": "https://admin.shadow-ran.online/nba3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nba-streams-3",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "admin",
           "path": "nba3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nba-streams-3",
@@ -6190,12 +5885,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nflalt.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nfl10.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-10",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "nflalt.m3u8",
+          "subdomain": "tedesco",
+          "path": "nfl10.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -6213,12 +5908,12 @@
         },
         {
           "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/packers.m3u8",
+          "url": "https://temp.shadow-ran.online/rams.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-10",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "packers.m3u8",
+          "subdomain": "temp",
+          "path": "rams.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -6235,13 +5930,13 @@
           "display_name": "Los Angeles Rams vs Arizona Cardinals - Stream 2"
         },
         {
-          "label": "nflalt.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nflalt.m3u8",
+          "label": "nfl10.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nfl10.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "nflalt.m3u8",
+          "path": "nfl10.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -6255,85 +5950,16 @@
             "home": "Los Angeles Rams",
             "away": "Arizona Cardinals"
           },
-          "display_name": "Los Angeles Rams vs Arizona Cardinals - nflalt.m3u8"
+          "display_name": "Los Angeles Rams vs Arizona Cardinals - nfl10.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/nfl4.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nfl-streams-11",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
-          "path": "nfl4.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nfl-streams-11",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "San Francisco 49ers vs Dallas Cowboys",
-          "matchup": {
-            "home": "San Francisco 49ers",
-            "away": "Dallas Cowboys"
-          },
-          "display_name": "San Francisco 49ers vs Dallas Cowboys - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/nfl11.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nfl-streams-11",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "nfl11.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nfl-streams-11",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "San Francisco 49ers vs Dallas Cowboys",
-          "matchup": {
-            "home": "San Francisco 49ers",
-            "away": "Dallas Cowboys"
-          },
-          "display_name": "San Francisco 49ers vs Dallas Cowboys - Stream 2"
-        },
-        {
-          "label": "nfl4.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nfl4.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nfl-streams-11",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nfl4.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nfl-streams-11",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "San Francisco 49ers vs Dallas Cowboys",
-          "matchup": {
-            "home": "San Francisco 49ers",
-            "away": "Dallas Cowboys"
-          },
-          "display_name": "San Francisco 49ers vs Dallas Cowboys - nfl4.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nfl12.m3u8",
+          "url": "https://admin2.shadow-ran.online/darts.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "nfl12.m3u8",
+          "path": "darts.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-12",
             "Origin": "https://roxiestreams.su",
@@ -6350,36 +5976,13 @@
           "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - Stream 1"
         },
         {
-          "label": "Stream 2",
-          "url": "https://tedesco.shadow-ran.online/seahawks.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nfl-streams-12",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "seahawks.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nfl-streams-12",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "Pittsburgh Steelers vs Cincinnati Bengals",
-          "matchup": {
-            "home": "Pittsburgh Steelers",
-            "away": "Cincinnati Bengals"
-          },
-          "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - Stream 2"
-        },
-        {
-          "label": "nfl12.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nfl12.m3u8",
+          "label": "darts.m3u8",
+          "url": "https://daffodil.shadow-ran.online/darts.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nfl-streams-12",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "nfl12.m3u8",
+          "path": "darts.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nfl-streams-12",
             "Origin": "https://roxiestreams.su",
@@ -6393,7 +5996,7 @@
             "home": "Pittsburgh Steelers",
             "away": "Cincinnati Bengals"
           },
-          "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - nfl12.m3u8"
+          "display_name": "Pittsburgh Steelers vs Cincinnati Bengals - darts.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6693,75 +6296,6 @@
             "away": "New York Jets"
           },
           "display_name": "Buffalo Bills vs New York Jets - nfl8.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://temp.shadow-ran.online/nfl9.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nfl-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "temp",
-          "path": "nfl9.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nfl-streams-9",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "Seattle Seahawks vs Las Vegas Raiders",
-          "matchup": {
-            "home": "Seattle Seahawks",
-            "away": "Las Vegas Raiders"
-          },
-          "display_name": "Seattle Seahawks vs Las Vegas Raiders - Stream 1"
-        },
-        {
-          "label": "Stream 2",
-          "url": "https://admin2.shadow-ran.online/nfl9.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nfl-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "nfl9.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nfl-streams-9",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "Seattle Seahawks vs Las Vegas Raiders",
-          "matchup": {
-            "home": "Seattle Seahawks",
-            "away": "Las Vegas Raiders"
-          },
-          "display_name": "Seattle Seahawks vs Las Vegas Raiders - Stream 2"
-        },
-        {
-          "label": "nfl9.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nfl9.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nfl-streams-9",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nfl9.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nfl-streams-9",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nfl",
-          "event_title": "Seattle Seahawks vs Las Vegas Raiders",
-          "matchup": {
-            "home": "Seattle Seahawks",
-            "away": "Las Vegas Raiders"
-          },
-          "display_name": "Seattle Seahawks vs Las Vegas Raiders - nfl9.m3u8"
         }
       ]
     },
@@ -6769,8 +6303,8 @@
       "pages": [
         "https://roxiestreams.su/nhl",
         "https://roxiestreams.su/nhl-streams-1",
+        "https://roxiestreams.su/nba-streams-1",
         "https://roxiestreams.su/nhl-streams-2",
-        "https://roxiestreams.su/nhl-streams-3",
         "https://roxiestreams.su/nhl-streams-4",
         "https://roxiestreams.su/nhl-streams-5"
       ],
@@ -6823,6 +6357,52 @@
         },
         {
           "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/nba.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nba-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "nba.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nba-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Calgary Flames vs Anaheim Ducks",
+          "matchup": {
+            "home": "Calgary Flames",
+            "away": "Anaheim Ducks"
+          },
+          "display_name": "Calgary Flames vs Anaheim Ducks - Stream 1"
+        },
+        {
+          "label": "nba.m3u8",
+          "url": "https://daffodil.shadow-ran.online/nba.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nba-streams-1",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "nba.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nba-streams-1",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Calgary Flames vs Anaheim Ducks",
+          "matchup": {
+            "home": "Calgary Flames",
+            "away": "Anaheim Ducks"
+          },
+          "display_name": "Calgary Flames vs Anaheim Ducks - nba.m3u8"
+        },
+        {
+          "label": "Stream 1",
           "url": "https://admin2.shadow-ran.online/nhl2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-2",
@@ -6866,52 +6446,6 @@
             "away": "Dallas Stars"
           },
           "display_name": "Florida Panthers vs Dallas Stars - nhl2.m3u8"
-        },
-        {
-          "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/nhl3.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nhl-streams-3",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "nhl3.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nhl-streams-3",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Calgary Flames vs Anaheim Ducks",
-          "matchup": {
-            "home": "Calgary Flames",
-            "away": "Anaheim Ducks"
-          },
-          "display_name": "Calgary Flames vs Anaheim Ducks - Stream 1"
-        },
-        {
-          "label": "nhl3.m3u8",
-          "url": "https://daffodil.shadow-ran.online/nhl3.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nhl-streams-3",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "nhl3.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nhl-streams-3",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Calgary Flames vs Anaheim Ducks",
-          "matchup": {
-            "home": "Calgary Flames",
-            "away": "Anaheim Ducks"
-          },
-          "display_name": "Calgary Flames vs Anaheim Ducks - nhl3.m3u8"
         },
         {
           "label": "Stream 1",
@@ -7182,7 +6716,7 @@
       ]
     }
   },
-  "stream_count": 79,
+  "stream_count": 71,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
