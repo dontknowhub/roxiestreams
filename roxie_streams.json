@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-20T17:03:29+00:00",
+  "scraped_at": "2026-11-20T23:12:41+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -200,7 +200,30 @@
         "page": "https://roxiestreams.su/soccer-streams-2",
         "streams": [
           {
-            "label": "Stream 1",
+            "label": "Stream 1 (DE)",
+            "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-2",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "sportdigital.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-2",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Al-Ahli vs Al Nassr",
+            "matchup": {
+              "home": "Al-Ahli",
+              "away": "Al Nassr"
+            },
+            "display_name": "Al-Ahli vs Al Nassr - Stream 1 (DE)"
+          },
+          {
+            "label": "Stream 2 (EN)",
             "url": "https://tedesco.shadow-ran.online/fsp.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
@@ -220,16 +243,16 @@
               "home": "Al-Ahli",
               "away": "Al Nassr"
             },
-            "display_name": "Al-Ahli vs Al Nassr - Stream 1"
+            "display_name": "Al-Ahli vs Al Nassr - Stream 2 (EN)"
           },
           {
-            "label": "fsp.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
+            "label": "sportdigital.m3u8",
+            "url": "https://daffodil.shadow-ran.online/sportdigital.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-2",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fsp.m3u8",
+            "path": "sportdigital.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-2",
               "Origin": "https://roxiestreams.su",
@@ -243,7 +266,7 @@
               "home": "Al-Ahli",
               "away": "Al Nassr"
             },
-            "display_name": "Al-Ahli vs Al Nassr - fsp.m3u8"
+            "display_name": "Al-Ahli vs Al Nassr - sportdigital.m3u8"
           }
         ]
       },
@@ -278,6 +301,52 @@
               "away": "Köln"
             },
             "display_name": "Bayern München vs Köln - Stream 1"
+          },
+          {
+            "label": "Stream 2 (ES)",
+            "url": "https://admin2.shadow-ran.online/peacock.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "peacock.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Bayern München vs Köln",
+            "matchup": {
+              "home": "Bayern München",
+              "away": "Köln"
+            },
+            "display_name": "Bayern München vs Köln - Stream 2 (ES)"
+          },
+          {
+            "label": "Stream 3 (DE)",
+            "url": "https://admin2.shadow-ran.online/sky.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-3",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "sky.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-3",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Bayern München vs Köln",
+            "matchup": {
+              "home": "Bayern München",
+              "away": "Köln"
+            },
+            "display_name": "Bayern München vs Köln - Stream 3 (DE)"
           },
           {
             "label": "wwe.m3u8",
@@ -480,6 +549,29 @@
               "away": "Atlas"
             },
             "display_name": "Juárez vs Atlas - Stream 1"
+          },
+          {
+            "label": "fsp.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-9",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fsp.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-9",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Juárez vs Atlas",
+            "matchup": {
+              "home": "Juárez",
+              "away": "Atlas"
+            },
+            "display_name": "Juárez vs Atlas - fsp.m3u8"
           }
         ]
       }
@@ -1012,11 +1104,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/ncaa.m3u8",
+            "url": "https://tedesco.shadow-ran.online/ncaa.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/ncaa-streams-1",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
+            "subdomain": "tedesco",
             "path": "ncaa.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/ncaa-streams-1",
@@ -2357,7 +2449,8 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView",
-        "Stream 1",
+        "Stream 1 (DE)",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2424,6 +2517,8 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (ES)",
+        "Stream 3 (DE)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -5556,7 +5651,30 @@
           "display_name": "Tijuana vs Atlante - fs2.m3u8"
         },
         {
-          "label": "Stream 1",
+          "label": "Stream 1 (DE)",
+          "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-2",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "sportdigital.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-2",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Al-Ahli vs Al Nassr",
+          "matchup": {
+            "home": "Al-Ahli",
+            "away": "Al Nassr"
+          },
+          "display_name": "Al-Ahli vs Al Nassr - Stream 1 (DE)"
+        },
+        {
+          "label": "Stream 2 (EN)",
           "url": "https://tedesco.shadow-ran.online/fsp.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
@@ -5576,16 +5694,16 @@
             "home": "Al-Ahli",
             "away": "Al Nassr"
           },
-          "display_name": "Al-Ahli vs Al Nassr - Stream 1"
+          "display_name": "Al-Ahli vs Al Nassr - Stream 2 (EN)"
         },
         {
-          "label": "fsp.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
+          "label": "sportdigital.m3u8",
+          "url": "https://daffodil.shadow-ran.online/sportdigital.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-2",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fsp.m3u8",
+          "path": "sportdigital.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-2",
             "Origin": "https://roxiestreams.su",
@@ -5599,7 +5717,7 @@
             "home": "Al-Ahli",
             "away": "Al Nassr"
           },
-          "display_name": "Al-Ahli vs Al Nassr - fsp.m3u8"
+          "display_name": "Al-Ahli vs Al Nassr - sportdigital.m3u8"
         },
         {
           "label": "Stream 1",
@@ -5623,6 +5741,52 @@
             "away": "Köln"
           },
           "display_name": "Bayern München vs Köln - Stream 1"
+        },
+        {
+          "label": "Stream 2 (ES)",
+          "url": "https://admin2.shadow-ran.online/peacock.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "peacock.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Bayern München vs Köln",
+          "matchup": {
+            "home": "Bayern München",
+            "away": "Köln"
+          },
+          "display_name": "Bayern München vs Köln - Stream 2 (ES)"
+        },
+        {
+          "label": "Stream 3 (DE)",
+          "url": "https://admin2.shadow-ran.online/sky.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-3",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "sky.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-3",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Bayern München vs Köln",
+          "matchup": {
+            "home": "Bayern München",
+            "away": "Köln"
+          },
+          "display_name": "Bayern München vs Köln - Stream 3 (DE)"
         },
         {
           "label": "wwe.m3u8",
@@ -5781,6 +5945,29 @@
             "away": "Atlas"
           },
           "display_name": "Juárez vs Atlas - Stream 1"
+        },
+        {
+          "label": "fsp.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fsp.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-9",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fsp.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-9",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Juárez vs Atlas",
+          "matchup": {
+            "home": "Juárez",
+            "away": "Atlas"
+          },
+          "display_name": "Juárez vs Atlas - fsp.m3u8"
         }
       ]
     },
@@ -6232,11 +6419,11 @@
       "streams": [
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/ncaa.m3u8",
+          "url": "https://tedesco.shadow-ran.online/ncaa.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/ncaa-streams-1",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
+          "subdomain": "tedesco",
           "path": "ncaa.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/ncaa-streams-1",
@@ -7055,7 +7242,7 @@
       ]
     }
   },
-  "stream_count": 70,
+  "stream_count": 74,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
