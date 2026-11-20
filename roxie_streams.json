@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-20T00:57:45+00:00",
+  "scraped_at": "2026-11-20T08:00:51+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -1071,6 +1071,26 @@
           {
             "label": "Direct Link",
             "url": "https://admin2.formaturamaxi.com.br/nhl5.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/nhl-streams-5",
+            "headers": {
+              "Referer": "https://roxiestreams.su/nhl-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "nhl",
+            "event_title": "Montreal Canadiens vs Carolina Hurricanes",
+            "matchup": {
+              "home": "Montreal Canadiens",
+              "away": "Carolina Hurricanes"
+            },
+            "display_name": "Montreal Canadiens vs Carolina Hurricanes"
+          },
+          {
+            "label": "Direct Link",
+            "url": "https://admin2.formaturamaxi.com.br/tsn2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-5",
             "headers": {
@@ -2964,6 +2984,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4612,6 +4633,26 @@
         },
         {
           "label": "Direct Link",
+          "url": "https://admin2.formaturamaxi.com.br/tsn2.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/nhl-streams-5",
+          "headers": {
+            "Referer": "https://roxiestreams.su/nhl-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "nhl",
+          "event_title": "Montreal Canadiens vs Carolina Hurricanes",
+          "matchup": {
+            "home": "Montreal Canadiens",
+            "away": "Carolina Hurricanes"
+          },
+          "display_name": "Montreal Canadiens vs Carolina Hurricanes"
+        },
+        {
+          "label": "Direct Link",
           "url": "https://tedesco.formaturamaxi.com.br/nhl6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-6",
@@ -4847,7 +4888,7 @@
       ]
     }
   },
-  "stream_count": 48,
+  "stream_count": 49,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
