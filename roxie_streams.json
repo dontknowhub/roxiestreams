@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-21T19:52:12+00:00",
+  "scraped_at": "2026-11-21T23:59:01+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -149,6 +149,29 @@
               "away": "Celta De Vigo"
             },
             "display_name": "Real Madrid vs Celta De Vigo - Stream 1"
+          },
+          {
+            "label": "Stream 2 (EN)",
+            "url": "https://admin2.shadow-ran.online/rma.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-5",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "rma.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-5",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Real Madrid vs Celta De Vigo",
+            "matchup": {
+              "home": "Real Madrid",
+              "away": "Celta De Vigo"
+            },
+            "display_name": "Real Madrid vs Celta De Vigo - Stream 2 (EN)"
           },
           {
             "label": "dep.m3u8",
@@ -390,7 +413,30 @@
         "page": "https://roxiestreams.su/soccer-streams-13",
         "streams": [
           {
-            "label": "Stream 1 (ES)",
+            "label": "Stream 1 (DE)",
+            "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-13",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "sportdigital.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-13",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Atlético Mineiro vs Boca Juniors",
+            "matchup": {
+              "home": "Atlético Mineiro",
+              "away": "Boca Juniors"
+            },
+            "display_name": "Atlético Mineiro vs Boca Juniors - Stream 1 (DE)"
+          },
+          {
+            "label": "Stream 2 (ES)",
             "url": "https://admin2.shadow-ran.online/beines.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
@@ -410,10 +456,33 @@
               "home": "Atlético Mineiro",
               "away": "Boca Juniors"
             },
-            "display_name": "Atlético Mineiro vs Boca Juniors - Stream 1 (ES)"
+            "display_name": "Atlético Mineiro vs Boca Juniors - Stream 2 (ES)"
           },
           {
-            "label": "Stream 2 (EN)",
+            "label": "Stream 3 (DSports)",
+            "url": "https://admin2.shadow-ran.online/dsports.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-13",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "dsports.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-13",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Atlético Mineiro vs Boca Juniors",
+            "matchup": {
+              "home": "Atlético Mineiro",
+              "away": "Boca Juniors"
+            },
+            "display_name": "Atlético Mineiro vs Boca Juniors - Stream 3 (DSports)"
+          },
+          {
+            "label": "Stream 4 (EN)",
             "url": "https://tedesco.shadow-ran.online/bein.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
@@ -433,16 +502,16 @@
               "home": "Atlético Mineiro",
               "away": "Boca Juniors"
             },
-            "display_name": "Atlético Mineiro vs Boca Juniors - Stream 2 (EN)"
+            "display_name": "Atlético Mineiro vs Boca Juniors - Stream 4 (EN)"
           },
           {
-            "label": "beines.m3u8",
-            "url": "https://daffodil.shadow-ran.online/beines.m3u8",
+            "label": "sportdigital.m3u8",
+            "url": "https://daffodil.shadow-ran.online/sportdigital.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-13",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "beines.m3u8",
+            "path": "sportdigital.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-13",
               "Origin": "https://roxiestreams.su",
@@ -456,7 +525,7 @@
               "home": "Atlético Mineiro",
               "away": "Boca Juniors"
             },
-            "display_name": "Atlético Mineiro vs Boca Juniors - beines.m3u8"
+            "display_name": "Atlético Mineiro vs Boca Juniors - sportdigital.m3u8"
           }
         ]
       },
@@ -651,29 +720,6 @@
               "away": "Flamengo"
             },
             "display_name": "Palmeiras vs Flamengo - Stream 3 (ES)"
-          },
-          {
-            "label": "Stream 4 (DE)",
-            "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-17",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "sportdigital.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-17",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Palmeiras vs Flamengo",
-            "matchup": {
-              "home": "Palmeiras",
-              "away": "Flamengo"
-            },
-            "display_name": "Palmeiras vs Flamengo - Stream 4 (DE)"
           },
           {
             "label": "Stream 5 (RU)",
@@ -913,12 +959,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/foxone3mx.m3u8",
+            "url": "https://admin2.shadow-ran.online/tudnus.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-23",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "foxone3mx.m3u8",
+            "path": "tudnus.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-23",
               "Origin": "https://roxiestreams.su",
@@ -935,13 +981,13 @@
             "display_name": "Pumas vs Monterrey - Stream 1"
           },
           {
-            "label": "foxone3mx.m3u8",
-            "url": "https://daffodil.shadow-ran.online/foxone3mx.m3u8",
+            "label": "tudnus.m3u8",
+            "url": "https://daffodil.shadow-ran.online/tudnus.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-23",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "foxone3mx.m3u8",
+            "path": "tudnus.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-23",
               "Origin": "https://roxiestreams.su",
@@ -955,7 +1001,7 @@
               "home": "Pumas",
               "away": "Monterrey"
             },
-            "display_name": "Pumas vs Monterrey - foxone3mx.m3u8"
+            "display_name": "Pumas vs Monterrey - tudnus.m3u8"
           }
         ]
       },
@@ -970,12 +1016,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/olympiakos.m3u8",
+            "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-24",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "olympiakos.m3u8",
+            "path": "espnmx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-24",
               "Origin": "https://roxiestreams.su",
@@ -992,13 +1038,13 @@
             "display_name": "Santos Laguna vs León - Stream 1"
           },
           {
-            "label": "olympiakos.m3u8",
-            "url": "https://daffodil.shadow-ran.online/olympiakos.m3u8",
+            "label": "espnmx.m3u8",
+            "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-24",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "olympiakos.m3u8",
+            "path": "espnmx.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-24",
               "Origin": "https://roxiestreams.su",
@@ -1012,7 +1058,7 @@
               "home": "Santos Laguna",
               "away": "León"
             },
-            "display_name": "Santos Laguna vs León - olympiakos.m3u8"
+            "display_name": "Santos Laguna vs León - espnmx.m3u8"
           }
         ]
       },
@@ -1027,12 +1073,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/tudnmx.m3u8",
+            "url": "https://admin2.shadow-ran.online/mls.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-25",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "admin2",
-            "path": "tudnmx.m3u8",
+            "path": "mls.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-25",
               "Origin": "https://roxiestreams.su",
@@ -1049,13 +1095,13 @@
             "display_name": "Inter Miami vs Columbus Crew - Stream 1"
           },
           {
-            "label": "tudnmx.m3u8",
-            "url": "https://daffodil.shadow-ran.online/tudnmx.m3u8",
+            "label": "Stream 2",
+            "url": "https://tedesco.shadow-ran.online/mls.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-25",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "tudnmx.m3u8",
+            "subdomain": "tedesco",
+            "path": "mls.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-25",
               "Origin": "https://roxiestreams.su",
@@ -1069,7 +1115,30 @@
               "home": "Inter Miami",
               "away": "Columbus Crew"
             },
-            "display_name": "Inter Miami vs Columbus Crew - tudnmx.m3u8"
+            "display_name": "Inter Miami vs Columbus Crew - Stream 2"
+          },
+          {
+            "label": "mls.m3u8",
+            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-25",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "mls.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-25",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Inter Miami vs Columbus Crew",
+            "matchup": {
+              "home": "Inter Miami",
+              "away": "Columbus Crew"
+            },
+            "display_name": "Inter Miami vs Columbus Crew - mls.m3u8"
           }
         ]
       },
@@ -1084,12 +1153,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://tedesco.shadow-ran.online/mls.m3u8",
+            "url": "https://admin.shadow-ran.online/fana3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-26",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "tedesco",
-            "path": "mls.m3u8",
+            "subdomain": "admin",
+            "path": "fana3.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-26",
               "Origin": "https://roxiestreams.su",
@@ -1106,13 +1175,13 @@
             "display_name": "Chapecoense vs Cruzeiro - Stream 1"
           },
           {
-            "label": "mls.m3u8",
-            "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+            "label": "Stream 2 (EN)",
+            "url": "https://admin.shadow-ran.online/fana3en.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-26",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "daffodil",
-            "path": "mls.m3u8",
+            "subdomain": "admin",
+            "path": "fana3en.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-26",
               "Origin": "https://roxiestreams.su",
@@ -1126,7 +1195,30 @@
               "home": "Chapecoense",
               "away": "Cruzeiro"
             },
-            "display_name": "Chapecoense vs Cruzeiro - mls.m3u8"
+            "display_name": "Chapecoense vs Cruzeiro - Stream 2 (EN)"
+          },
+          {
+            "label": "fana3.m3u8",
+            "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-26",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "fana3.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-26",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Chapecoense vs Cruzeiro",
+            "matchup": {
+              "home": "Chapecoense",
+              "away": "Cruzeiro"
+            },
+            "display_name": "Chapecoense vs Cruzeiro - fana3.m3u8"
           }
         ]
       },
@@ -2463,7 +2555,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin.formaturamaxi.com.br/nhl10.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/nhl10.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-10",
             "headers": {
@@ -2494,7 +2586,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://admin.formaturamaxi.com.br/nhl11.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/nhl11.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-11",
             "headers": {
@@ -2587,11 +2679,11 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin2.shadow-ran.online/nhl2.m3u8",
+            "url": "https://tedesco.shadow-ran.online/nhl2.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-2",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
+            "subdomain": "tedesco",
             "path": "nhl2.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/nhl-streams-2",
@@ -2644,7 +2736,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://tedesco.formaturamaxi.com.br/nhl3.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/nhl3.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-3",
             "headers": {
@@ -2749,26 +2841,6 @@
               "away": "Boston Bruins"
             },
             "display_name": "Washington Capitals vs Boston Bruins"
-          },
-          {
-            "label": "Direct Link",
-            "url": "https://admin2.formaturamaxi.com.br/tsn2.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/nhl-streams-5",
-            "headers": {
-              "Referer": "https://roxiestreams.su/nhl-streams-5",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "nhl",
-            "event_title": "Washington Capitals vs Boston Bruins",
-            "matchup": {
-              "home": "Washington Capitals",
-              "away": "Boston Bruins"
-            },
-            "display_name": "Washington Capitals vs Boston Bruins"
           }
         ]
       },
@@ -2783,7 +2855,7 @@
         "streams": [
           {
             "label": "Direct Link",
-            "url": "https://tedesco.formaturamaxi.com.br/nhl6.m3u8",
+            "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/nhl-streams-6",
             "headers": {
@@ -3489,6 +3561,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -3818,8 +3891,10 @@
         "Motorsports",
         "Stream Request (Discord)",
         "MultiView",
-        "Stream 1 (ES)",
-        "Stream 2 (EN)",
+        "Stream 1 (DE)",
+        "Stream 2 (ES)",
+        "Stream 3 (DSports)",
+        "Stream 4 (EN)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4485,6 +4560,7 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -4551,6 +4627,8 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
+        "Stream 2 (EN)",
+        "Stream 3 (RU)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -7635,7 +7713,6 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
-        "Stream 2",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -8425,6 +8502,29 @@
           "display_name": "Real Madrid vs Celta De Vigo - Stream 1"
         },
         {
+          "label": "Stream 2 (EN)",
+          "url": "https://admin2.shadow-ran.online/rma.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-5",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "rma.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-5",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Real Madrid vs Celta De Vigo",
+          "matchup": {
+            "home": "Real Madrid",
+            "away": "Celta De Vigo"
+          },
+          "display_name": "Real Madrid vs Celta De Vigo - Stream 2 (EN)"
+        },
+        {
           "label": "dep.m3u8",
           "url": "https://daffodil.shadow-ran.online/dep.m3u8",
           "type": "m3u8",
@@ -8609,7 +8709,30 @@
           "display_name": "Tottenham vs Ipswich - ncaa16.m3u8"
         },
         {
-          "label": "Stream 1 (ES)",
+          "label": "Stream 1 (DE)",
+          "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-13",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "sportdigital.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-13",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Atlético Mineiro vs Boca Juniors",
+          "matchup": {
+            "home": "Atlético Mineiro",
+            "away": "Boca Juniors"
+          },
+          "display_name": "Atlético Mineiro vs Boca Juniors - Stream 1 (DE)"
+        },
+        {
+          "label": "Stream 2 (ES)",
           "url": "https://admin2.shadow-ran.online/beines.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
@@ -8629,10 +8752,33 @@
             "home": "Atlético Mineiro",
             "away": "Boca Juniors"
           },
-          "display_name": "Atlético Mineiro vs Boca Juniors - Stream 1 (ES)"
+          "display_name": "Atlético Mineiro vs Boca Juniors - Stream 2 (ES)"
         },
         {
-          "label": "Stream 2 (EN)",
+          "label": "Stream 3 (DSports)",
+          "url": "https://admin2.shadow-ran.online/dsports.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-13",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "dsports.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-13",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Atlético Mineiro vs Boca Juniors",
+          "matchup": {
+            "home": "Atlético Mineiro",
+            "away": "Boca Juniors"
+          },
+          "display_name": "Atlético Mineiro vs Boca Juniors - Stream 3 (DSports)"
+        },
+        {
+          "label": "Stream 4 (EN)",
           "url": "https://tedesco.shadow-ran.online/bein.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
@@ -8652,16 +8798,16 @@
             "home": "Atlético Mineiro",
             "away": "Boca Juniors"
           },
-          "display_name": "Atlético Mineiro vs Boca Juniors - Stream 2 (EN)"
+          "display_name": "Atlético Mineiro vs Boca Juniors - Stream 4 (EN)"
         },
         {
-          "label": "beines.m3u8",
-          "url": "https://daffodil.shadow-ran.online/beines.m3u8",
+          "label": "sportdigital.m3u8",
+          "url": "https://daffodil.shadow-ran.online/sportdigital.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-13",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "beines.m3u8",
+          "path": "sportdigital.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-13",
             "Origin": "https://roxiestreams.su",
@@ -8675,7 +8821,7 @@
             "home": "Atlético Mineiro",
             "away": "Boca Juniors"
           },
-          "display_name": "Atlético Mineiro vs Boca Juniors - beines.m3u8"
+          "display_name": "Atlético Mineiro vs Boca Juniors - sportdigital.m3u8"
         },
         {
           "label": "Stream 1",
@@ -8837,29 +8983,6 @@
             "away": "Flamengo"
           },
           "display_name": "Palmeiras vs Flamengo - Stream 3 (ES)"
-        },
-        {
-          "label": "Stream 4 (DE)",
-          "url": "https://admin2.shadow-ran.online/sportdigital.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-17",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "sportdigital.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-17",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Palmeiras vs Flamengo",
-          "matchup": {
-            "home": "Palmeiras",
-            "away": "Flamengo"
-          },
-          "display_name": "Palmeiras vs Flamengo - Stream 4 (DE)"
         },
         {
           "label": "Stream 5 (RU)",
@@ -9044,12 +9167,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/foxone3mx.m3u8",
+          "url": "https://admin2.shadow-ran.online/tudnus.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-23",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "foxone3mx.m3u8",
+          "path": "tudnus.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-23",
             "Origin": "https://roxiestreams.su",
@@ -9066,13 +9189,13 @@
           "display_name": "Pumas vs Monterrey - Stream 1"
         },
         {
-          "label": "foxone3mx.m3u8",
-          "url": "https://daffodil.shadow-ran.online/foxone3mx.m3u8",
+          "label": "tudnus.m3u8",
+          "url": "https://daffodil.shadow-ran.online/tudnus.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-23",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "foxone3mx.m3u8",
+          "path": "tudnus.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-23",
             "Origin": "https://roxiestreams.su",
@@ -9086,16 +9209,16 @@
             "home": "Pumas",
             "away": "Monterrey"
           },
-          "display_name": "Pumas vs Monterrey - foxone3mx.m3u8"
+          "display_name": "Pumas vs Monterrey - tudnus.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/olympiakos.m3u8",
+          "url": "https://admin2.shadow-ran.online/espnmx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-24",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "olympiakos.m3u8",
+          "path": "espnmx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-24",
             "Origin": "https://roxiestreams.su",
@@ -9112,13 +9235,13 @@
           "display_name": "Santos Laguna vs León - Stream 1"
         },
         {
-          "label": "olympiakos.m3u8",
-          "url": "https://daffodil.shadow-ran.online/olympiakos.m3u8",
+          "label": "espnmx.m3u8",
+          "url": "https://daffodil.shadow-ran.online/espnmx.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-24",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "olympiakos.m3u8",
+          "path": "espnmx.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-24",
             "Origin": "https://roxiestreams.su",
@@ -9132,16 +9255,16 @@
             "home": "Santos Laguna",
             "away": "León"
           },
-          "display_name": "Santos Laguna vs León - olympiakos.m3u8"
+          "display_name": "Santos Laguna vs León - espnmx.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/tudnmx.m3u8",
+          "url": "https://admin2.shadow-ran.online/mls.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-25",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "admin2",
-          "path": "tudnmx.m3u8",
+          "path": "mls.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-25",
             "Origin": "https://roxiestreams.su",
@@ -9158,13 +9281,13 @@
           "display_name": "Inter Miami vs Columbus Crew - Stream 1"
         },
         {
-          "label": "tudnmx.m3u8",
-          "url": "https://daffodil.shadow-ran.online/tudnmx.m3u8",
+          "label": "Stream 2",
+          "url": "https://tedesco.shadow-ran.online/mls.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-25",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "tudnmx.m3u8",
+          "subdomain": "tedesco",
+          "path": "mls.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-25",
             "Origin": "https://roxiestreams.su",
@@ -9178,16 +9301,39 @@
             "home": "Inter Miami",
             "away": "Columbus Crew"
           },
-          "display_name": "Inter Miami vs Columbus Crew - tudnmx.m3u8"
+          "display_name": "Inter Miami vs Columbus Crew - Stream 2"
+        },
+        {
+          "label": "mls.m3u8",
+          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-25",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "mls.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-25",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Inter Miami vs Columbus Crew",
+          "matchup": {
+            "home": "Inter Miami",
+            "away": "Columbus Crew"
+          },
+          "display_name": "Inter Miami vs Columbus Crew - mls.m3u8"
         },
         {
           "label": "Stream 1",
-          "url": "https://tedesco.shadow-ran.online/mls.m3u8",
+          "url": "https://admin.shadow-ran.online/fana3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-26",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "tedesco",
-          "path": "mls.m3u8",
+          "subdomain": "admin",
+          "path": "fana3.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-26",
             "Origin": "https://roxiestreams.su",
@@ -9204,13 +9350,13 @@
           "display_name": "Chapecoense vs Cruzeiro - Stream 1"
         },
         {
-          "label": "mls.m3u8",
-          "url": "https://daffodil.shadow-ran.online/mls.m3u8",
+          "label": "Stream 2 (EN)",
+          "url": "https://admin.shadow-ran.online/fana3en.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-26",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "daffodil",
-          "path": "mls.m3u8",
+          "subdomain": "admin",
+          "path": "fana3en.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-26",
             "Origin": "https://roxiestreams.su",
@@ -9224,7 +9370,30 @@
             "home": "Chapecoense",
             "away": "Cruzeiro"
           },
-          "display_name": "Chapecoense vs Cruzeiro - mls.m3u8"
+          "display_name": "Chapecoense vs Cruzeiro - Stream 2 (EN)"
+        },
+        {
+          "label": "fana3.m3u8",
+          "url": "https://daffodil.shadow-ran.online/fana3.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-26",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "fana3.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-26",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Chapecoense vs Cruzeiro",
+          "matchup": {
+            "home": "Chapecoense",
+            "away": "Cruzeiro"
+          },
+          "display_name": "Chapecoense vs Cruzeiro - fana3.m3u8"
         },
         {
           "label": "Stream 1",
@@ -10285,7 +10454,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin.formaturamaxi.com.br/nhl10.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/nhl10.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-10",
           "headers": {
@@ -10305,7 +10474,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin.formaturamaxi.com.br/nhl11.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/nhl11.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-11",
           "headers": {
@@ -10365,11 +10534,11 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin2.shadow-ran.online/nhl2.m3u8",
+          "url": "https://tedesco.shadow-ran.online/nhl2.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-2",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
+          "subdomain": "tedesco",
           "path": "nhl2.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/nhl-streams-2",
@@ -10411,7 +10580,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://tedesco.formaturamaxi.com.br/nhl3.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/nhl3.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-3",
           "headers": {
@@ -10497,27 +10666,7 @@
         },
         {
           "label": "Direct Link",
-          "url": "https://admin2.formaturamaxi.com.br/tsn2.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/nhl-streams-5",
-          "headers": {
-            "Referer": "https://roxiestreams.su/nhl-streams-5",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "nhl",
-          "event_title": "Washington Capitals vs Boston Bruins",
-          "matchup": {
-            "home": "Washington Capitals",
-            "away": "Boston Bruins"
-          },
-          "display_name": "Washington Capitals vs Boston Bruins"
-        },
-        {
-          "label": "Direct Link",
-          "url": "https://tedesco.formaturamaxi.com.br/nhl6.m3u8",
+          "url": "https://admin2.formaturamaxi.com.br/nhl6.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/nhl-streams-6",
           "headers": {
@@ -10858,7 +11007,7 @@
       ]
     }
   },
-  "stream_count": 109,
+  "stream_count": 112,
   "notes": [
     "Playlist header tags are player hints. Browser CORS requires a server-side proxy."
   ]
