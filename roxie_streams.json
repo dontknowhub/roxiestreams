@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-26T11:11:23+00:00",
+  "scraped_at": "2026-11-26T20:19:19+00:00",
   "base_url": "https://roxiestreams.su",
   "domains": [
     "shadow-ran.online"
@@ -8,12 +8,12 @@
     {
       "name": "UEFA Europa League",
       "page": "https://roxiestreams.su/soccer",
-      "start_time": "Nov 25, 2026 9:45 AM"
+      "start_time": "Nov 26, 2026 9:45 AM"
     },
     {
       "name": "NFL Thanksgiving Day",
       "page": "https://roxiestreams.su/nfl",
-      "start_time": "Nov 25, 2026 10:00 AM"
+      "start_time": "Nov 26, 2026 10:00 AM"
     }
   ],
   "events_by_sport": {
@@ -86,12 +86,12 @@
         "streams": [
           {
             "label": "Stream 1",
-            "url": "https://admin.shadow-ran.online/fana.m3u8",
+            "url": "https://admin2.shadow-ran.online/lyon.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "fana.m3u8",
+            "subdomain": "admin2",
+            "path": "lyon.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -108,59 +108,13 @@
             "display_name": "Lyon vs Lillestrøm - Stream 1"
           },
           {
-            "label": "Stream 2 (ES)",
-            "url": "https://admin.shadow-ran.online/l1max.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-10",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin",
-            "path": "l1max.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-10",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Lyon vs Lillestrøm",
-            "matchup": {
-              "home": "Lyon",
-              "away": "Lillestrøm"
-            },
-            "display_name": "Lyon vs Lillestrøm - Stream 2 (ES)"
-          },
-          {
-            "label": "Stream 3 (RU)",
-            "url": "https://admin2.shadow-ran.online/match3ru.m3u8",
-            "type": "m3u8",
-            "source_page": "https://roxiestreams.su/soccer-streams-10",
-            "cdn_domain": "shadow-ran.online",
-            "subdomain": "admin2",
-            "path": "match3ru.m3u8",
-            "headers": {
-              "Referer": "https://roxiestreams.su/soccer-streams-10",
-              "Origin": "https://roxiestreams.su",
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-              "Accept": "*/*"
-            },
-            "drm_keys": null,
-            "sport": "soccer",
-            "event_title": "Lyon vs Lillestrøm",
-            "matchup": {
-              "home": "Lyon",
-              "away": "Lillestrøm"
-            },
-            "display_name": "Lyon vs Lillestrøm - Stream 3 (RU)"
-          },
-          {
-            "label": "fana.m3u8",
-            "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+            "label": "lyon.m3u8",
+            "url": "https://daffodil.shadow-ran.online/lyon.m3u8",
             "type": "m3u8",
             "source_page": "https://roxiestreams.su/soccer-streams-10",
             "cdn_domain": "shadow-ran.online",
             "subdomain": "daffodil",
-            "path": "fana.m3u8",
+            "path": "lyon.m3u8",
             "headers": {
               "Referer": "https://roxiestreams.su/soccer-streams-10",
               "Origin": "https://roxiestreams.su",
@@ -174,7 +128,7 @@
               "home": "Lyon",
               "away": "Lillestrøm"
             },
-            "display_name": "Lyon vs Lillestrøm - fana.m3u8"
+            "display_name": "Lyon vs Lillestrøm - lyon.m3u8"
           }
         ]
       },
@@ -403,6 +357,63 @@
               "away": "Cruz Azul"
             },
             "display_name": "León vs Cruz Azul - bayern.m3u8"
+          }
+        ]
+      },
+      {
+        "title": "Beşiktaş vs Hapoel Be'er",
+        "sport": "soccer",
+        "matchup": {
+          "home": "Beşiktaş",
+          "away": "Hapoel Be'er"
+        },
+        "page": "https://roxiestreams.su/soccer-streams-16",
+        "streams": [
+          {
+            "label": "Stream 1",
+            "url": "https://admin2.shadow-ran.online/besiktas.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-16",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "admin2",
+            "path": "besiktas.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-16",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Beşiktaş vs Hapoel Be'er",
+            "matchup": {
+              "home": "Beşiktaş",
+              "away": "Hapoel Be'er"
+            },
+            "display_name": "Beşiktaş vs Hapoel Be'er - Stream 1"
+          },
+          {
+            "label": "besiktas.m3u8",
+            "url": "https://daffodil.shadow-ran.online/besiktas.m3u8",
+            "type": "m3u8",
+            "source_page": "https://roxiestreams.su/soccer-streams-16",
+            "cdn_domain": "shadow-ran.online",
+            "subdomain": "daffodil",
+            "path": "besiktas.m3u8",
+            "headers": {
+              "Referer": "https://roxiestreams.su/soccer-streams-16",
+              "Origin": "https://roxiestreams.su",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            },
+            "drm_keys": null,
+            "sport": "soccer",
+            "event_title": "Beşiktaş vs Hapoel Be'er",
+            "matchup": {
+              "home": "Beşiktaş",
+              "away": "Hapoel Be'er"
+            },
+            "display_name": "Beşiktaş vs Hapoel Be'er - besiktas.m3u8"
           }
         ]
       },
@@ -2223,6 +2234,7 @@
         "Brighton vs CSU Craiova",
         "Benfica vs Viktoria Plzeň",
         "Hearts vs Monaco",
+        "Beşiktaş vs Hapoel Be'er",
         "Marseille vs Levski Sofia",
         "Milan vs Olympiakos",
         "Doncaster Rovers vs Huddersfield Town",
@@ -2296,6 +2308,10 @@
         {
           "label": "Hearts vs Monaco",
           "url": "https://roxiestreams.su/soccer-streams-5"
+        },
+        {
+          "label": "Beşiktaş vs Hapoel Be'er",
+          "url": "https://roxiestreams.su/soccer-streams-16"
         },
         {
           "label": "Marseille vs Levski Sofia",
@@ -2429,8 +2445,6 @@
         "Stream Request (Discord)",
         "MultiView",
         "Stream 1",
-        "Stream 2 (ES)",
-        "Stream 3 (RU)",
         "Switch to Chatango",
         "Stream Request (Discord)"
       ],
@@ -2681,6 +2695,72 @@
     },
     "https://roxiestreams.su/soccer-streams-15": {
       "url": "https://roxiestreams.su/soccer-streams-15",
+      "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
+      "headings": [],
+      "controls": [
+        "RoxieStreams",
+        "Soccer",
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL",
+        "Fighting",
+        "Motorsports",
+        "Stream Request (Discord)",
+        "MultiView",
+        "Stream 1",
+        "Switch to Chatango",
+        "Stream Request (Discord)"
+      ],
+      "links": [
+        {
+          "label": "RoxieStreams",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "label": "Soccer",
+          "url": "https://roxiestreams.su/soccer"
+        },
+        {
+          "label": "MLB",
+          "url": "https://roxiestreams.su/mlb"
+        },
+        {
+          "label": "NBA",
+          "url": "https://roxiestreams.su/nba"
+        },
+        {
+          "label": "NFL",
+          "url": "https://roxiestreams.su/nfl"
+        },
+        {
+          "label": "NHL",
+          "url": "https://roxiestreams.su/nhl"
+        },
+        {
+          "label": "Fighting",
+          "url": "https://roxiestreams.su/fighting"
+        },
+        {
+          "label": "Motorsports",
+          "url": "https://roxiestreams.su/motorsports"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/DT9g7K3ZSM"
+        },
+        {
+          "label": "MultiView",
+          "url": "https://roxiestreams.su/multiview"
+        },
+        {
+          "label": "Stream Request (Discord)",
+          "url": "https://discord.gg/DT9g7K3ZSM"
+        }
+      ]
+    },
+    "https://roxiestreams.su/soccer-streams-16": {
+      "url": "https://roxiestreams.su/soccer-streams-16",
       "title": "Roxiestreams - Watch Live Sports, F1, UFC, NFL, TV",
       "headings": [],
       "controls": [
@@ -5893,6 +5973,7 @@
         "https://roxiestreams.su/soccer-streams-13",
         "https://roxiestreams.su/soccer-streams-14",
         "https://roxiestreams.su/soccer-streams-15",
+        "https://roxiestreams.su/soccer-streams-16",
         "https://roxiestreams.su/soccer-streams-2",
         "https://roxiestreams.su/soccer-streams-3",
         "https://roxiestreams.su/soccer-streams-4",
@@ -5951,12 +6032,12 @@
         },
         {
           "label": "Stream 1",
-          "url": "https://admin.shadow-ran.online/fana.m3u8",
+          "url": "https://admin2.shadow-ran.online/lyon.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "fana.m3u8",
+          "subdomain": "admin2",
+          "path": "lyon.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -5973,59 +6054,13 @@
           "display_name": "Lyon vs Lillestrøm - Stream 1"
         },
         {
-          "label": "Stream 2 (ES)",
-          "url": "https://admin.shadow-ran.online/l1max.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-10",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin",
-          "path": "l1max.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-10",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Lyon vs Lillestrøm",
-          "matchup": {
-            "home": "Lyon",
-            "away": "Lillestrøm"
-          },
-          "display_name": "Lyon vs Lillestrøm - Stream 2 (ES)"
-        },
-        {
-          "label": "Stream 3 (RU)",
-          "url": "https://admin2.shadow-ran.online/match3ru.m3u8",
-          "type": "m3u8",
-          "source_page": "https://roxiestreams.su/soccer-streams-10",
-          "cdn_domain": "shadow-ran.online",
-          "subdomain": "admin2",
-          "path": "match3ru.m3u8",
-          "headers": {
-            "Referer": "https://roxiestreams.su/soccer-streams-10",
-            "Origin": "https://roxiestreams.su",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-            "Accept": "*/*"
-          },
-          "drm_keys": null,
-          "sport": "soccer",
-          "event_title": "Lyon vs Lillestrøm",
-          "matchup": {
-            "home": "Lyon",
-            "away": "Lillestrøm"
-          },
-          "display_name": "Lyon vs Lillestrøm - Stream 3 (RU)"
-        },
-        {
-          "label": "fana.m3u8",
-          "url": "https://daffodil.shadow-ran.online/fana.m3u8",
+          "label": "lyon.m3u8",
+          "url": "https://daffodil.shadow-ran.online/lyon.m3u8",
           "type": "m3u8",
           "source_page": "https://roxiestreams.su/soccer-streams-10",
           "cdn_domain": "shadow-ran.online",
           "subdomain": "daffodil",
-          "path": "fana.m3u8",
+          "path": "lyon.m3u8",
           "headers": {
             "Referer": "https://roxiestreams.su/soccer-streams-10",
             "Origin": "https://roxiestreams.su",
@@ -6039,7 +6074,7 @@
             "home": "Lyon",
             "away": "Lillestrøm"
           },
-          "display_name": "Lyon vs Lillestrøm - fana.m3u8"
+          "display_name": "Lyon vs Lillestrøm - lyon.m3u8"
         },
         {
           "label": "Stream 1",
@@ -6224,6 +6259,52 @@
             "away": "Cruz Azul"
           },
           "display_name": "León vs Cruz Azul - bayern.m3u8"
+        },
+        {
+          "label": "Stream 1",
+          "url": "https://admin2.shadow-ran.online/besiktas.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-16",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "admin2",
+          "path": "besiktas.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-16",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Beşiktaş vs Hapoel Be'er",
+          "matchup": {
+            "home": "Beşiktaş",
+            "away": "Hapoel Be'er"
+          },
+          "display_name": "Beşiktaş vs Hapoel Be'er - Stream 1"
+        },
+        {
+          "label": "besiktas.m3u8",
+          "url": "https://daffodil.shadow-ran.online/besiktas.m3u8",
+          "type": "m3u8",
+          "source_page": "https://roxiestreams.su/soccer-streams-16",
+          "cdn_domain": "shadow-ran.online",
+          "subdomain": "daffodil",
+          "path": "besiktas.m3u8",
+          "headers": {
+            "Referer": "https://roxiestreams.su/soccer-streams-16",
+            "Origin": "https://roxiestreams.su",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "*/*"
+          },
+          "drm_keys": null,
+          "sport": "soccer",
+          "event_title": "Beşiktaş vs Hapoel Be'er",
+          "matchup": {
+            "home": "Beşiktaş",
+            "away": "Hapoel Be'er"
+          },
+          "display_name": "Beşiktaş vs Hapoel Be'er - besiktas.m3u8"
         },
         {
           "label": "Stream 1",
